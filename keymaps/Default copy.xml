@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="FileStructurePopup" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+</keymap>

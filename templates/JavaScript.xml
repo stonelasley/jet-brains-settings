@@ -1,0 +1,34 @@
+<templateSet group="JavaScript">
+  <template name="module" value="'use strict';&#10;&#10;var $NAME$ = function() {};&#10;&#10;exercise.prototype.$END$ = function() {&#10;};&#10;&#10;&#10;module.exports = new $NAME$();" description="ES5 Module" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (var $INDEX$ = 0; $INDEX$ &lt; $ARRAY$.length; $INDEX$++) {&#10;  var $VAR$ = $ARRAY$[$INDEX$];&#10;  $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="jsSuggestIndexName()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="forEach" value="forEach(function($VAR$) {&#10;    $END$&#10;});" description="array.forEach" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="meta" value=" let $name$ = escape(jsonObj[Object.keys(jsonObj)[$index$]]);&#10; if ($name$) {&#10;     entity.metafields.push({&#10;         &quot;key&quot;: &quot;$name$&quot;,&#10;         &quot;value&quot;: $name$,&#10;         &quot;value_type&quot;: &quot;string&quot;,&#10;         &quot;namespace&quot;: &quot;global&quot;&#10;     });&#10; }" description="Temp Meta template" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

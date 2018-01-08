@@ -1,0 +1,87 @@
+<templateSet group="TypeScript">
+  <template name="clog" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="get" value="private _$NAME$: $TYPE$;&#10;public get $NAME$(): $TYPE$ {&#10;&#9;return this._$NAME$;&#10;}$END$" description="getter" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="set" value="public set $NAME$(value: $TYPE$) {&#10;    this._$NAME$ = value;&#10;}" description="setter" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="prop" value="private _$VAR$: $TYPE$;&#10;public get $VAR$(): $TYPE$ {&#10;    return this._$VAR$;&#10;}&#10;&#10;public set $VAR$(value: $TYPE$) {&#10;    this._$VAR$ = value;&#10;}$END$" description="getter setter pair" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="forEach" value="forEach(($VAR$) =&gt; {&#10;    $END$&#10;});" description="array.forEach" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="export" value="export {$class$} from '$END$';" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="import" value="import {$class$} from '$END$';" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="vthen" value="then(($VAR$) =&gt; {$END$})" description="then with full arrow syntax" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lintdisable" value="/* tslint:disable */" description="tslint disable comment" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lintenable" value="/* tslint:enable */" description="tslint enable comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="then" value="then($VAR$ =&gt; $END$)" description="then with shorter arrow syntax" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="vsub" value="subscribe(($VAR$) =&gt; {$END$});" description="verbose subscribe call" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="sub" value="subscribe($VAR$ =&gt; $END$);" description="subscribe with shorter arrow syntax" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="index" value="import { $TYPE$ } from './$FILENAME$';&#10;&#10;export { &#10;    $TYPE$&#10;}&#10;&#10;export const $END$ = [&#10;    $TYPE$&#10;];" description="exports file" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

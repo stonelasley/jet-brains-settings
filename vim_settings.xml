@@ -1,0 +1,1518 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="P:/Projects/Edible/freshmobile/src/test/providers/index.ts" timestamp="1500057111574">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/app/app.module.ts" timestamp="1507333806271">
+        <mark key="'" line="7" column="63" />
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" timestamp="1506544607663">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="23" />
+        <mark key="^" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/models/index.ts" timestamp="1508356634961">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.spec.ts" timestamp="1515439322381">
+        <mark key="'" line="1" column="19" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" timestamp="1515439675434">
+        <mark key="'" line="94" column="10" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/country-select.component.ts" timestamp="1515438928188">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/app/app.scss" timestamp="1502491045735">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/interfaces/expense-category.interface.ts" timestamp="1508357934331">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/jpn.json" timestamp="1515188187812">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/.bithoundrc" timestamp="1514410992814">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/validators/index.ts" timestamp="1513728349949">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/services/retailer.service.ts" timestamp="1513727805714">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/controllers/index.ts" timestamp="1508286512026">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/queries/blog_articles.sql" timestamp="1506114715351">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/index.ts" timestamp="1513798101055">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1506640673065">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1508288341692">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="20" column="60" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="20" column="60" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.module.ts" timestamp="1513641204531">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
+      <file name="P:/Projects/Personal/api/environments/.env" timestamp="1514416519348">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/interfaces/index.ts" timestamp="1508285870221">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1508355850511">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="76" />
+        <mark key="." line="23" column="76" />
+        <mark key="^" line="23" column="76" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/pipes/filter.pipe.ts" timestamp="1513798689655">
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="6" />
+        <mark key="." line="91" column="6" />
+        <mark key="^" line="91" column="6" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/request.service.spec.ts" timestamp="1513800831112">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/node_modules/redirects.js" timestamp="1505862516406">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/placeholder/placeholder.directive.ts" timestamp="1515189530873">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/redirects.service.js" timestamp="1506543616284">
+        <mark key="'" line="21" column="30" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="46" column="58" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/components/clickerForm/clickerForm.html" timestamp="1507333050326">
+        <mark key="[" line="4" column="113" />
+        <mark key="]" line="4" column="113" />
+        <mark key="^" line="4" column="113" />
+        <mark key="." line="4" column="113" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/redirect.service.js" timestamp="1505922685011">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/auth/auth.component.ts" timestamp="1513819002303">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/config/models/index.ts" timestamp="1514498440405">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/country.service.ts" timestamp="1515093091228">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="87" />
+        <mark key="." line="11" column="87" />
+        <mark key="^" line="11" column="87" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/nav.ts" timestamp="1504893445846">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/index.html" timestamp="1513638332428">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/auth/auth.module.ts" timestamp="1513818953123">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="15" column="30" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/app/app.spec.ts" timestamp="1507333615273">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/services/translateService.mock.ts" timestamp="1507333511013">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/product-registration/.angular-cli.json" timestamp="1504897332964">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/registration/registration.component.html" timestamp="1513801888035">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="142" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/pages/device-list/device-list.ts" timestamp="1505418897279">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/toast-controller.ts" timestamp="1501692260282">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/pages/settings/settings.scss" timestamp="1503004233616">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1515087663754">
+        <mark key="'" line="95" column="49" />
+        <mark key="[" line="131" column="49" />
+        <mark key="]" line="131" column="49" />
+        <mark key="." line="131" column="49" />
+        <mark key="^" line="131" column="49" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515439514352">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="143" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/test.ts" timestamp="1503952314825">
+        <mark key="[" line="57" column="67" />
+        <mark key="]" line="57" column="65" />
+        <mark key="." line="57" column="65" />
+        <mark key="^" line="57" column="65" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config.yml" timestamp="1513277327500">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/registration/registration.component.spec.ts" timestamp="1513803210770">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/.env.js" timestamp="1508181473037">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/services/index.ts" timestamp="1508286246848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/middleware/index.ts" timestamp="1508350668279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/fr-ca.json" timestamp="1515188179317">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+      </file>
+      <file name="P:/Projects/Blendtec/product-registration/package.json" timestamp="1504898841204">
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="54" />
+        <mark key="." line="72" column="54" />
+        <mark key="^" line="72" column="54" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/services/ble.service.ts" timestamp="1503951695739">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="73" />
+        <mark key="^" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/ko.json" timestamp="1515188191961">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/form.ts" timestamp="1501692082902">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/pick/pages/sales-order-list/sales-order-list.ts" timestamp="1513816390096">
+        <mark key="'" line="71" column="26" />
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="70" />
+        <mark key="^" line="3" column="70" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh.json" timestamp="1515188201442">
+        <mark key="[" line="28" column="31" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/expense.providers.ts" timestamp="1508286683814">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/interceptors/error.interceptor.ts" timestamp="1514398973009">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/it.json" timestamp="1515188183597">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/retailer.service.ts" timestamp="1513794578817">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/models/purchase.interface.ts" timestamp="1513733425969">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/app.component.ts" timestamp="1515432017456">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="31" column="24" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/receiving/components/index.ts" timestamp="1500057184335">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="2" />
+      </file>
+      <file name="P:/Projects/Blendtec/recipe-client/.gitignore" timestamp="1501283339783">
+        <mark key="[" line="64" column="7" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/controllers/report.controller.ts" timestamp="1508283095680">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/dto/index.ts" timestamp="1508288798672">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" timestamp="1515431880441">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales-live/components/index.ts" timestamp="1500057089468">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/assets/i18n/en.json" timestamp="1507332157751">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/country.service.spec.ts" timestamp="1514501166440">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="43" column="9" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/providers/logger.service.ts" timestamp="1500059511035">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/.gitignore" timestamp="1503002964347">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/index.ts" timestamp="1515092099941">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/registration.service.ts" timestamp="1515023967814">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="29" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/state.interface.ts" timestamp="1513796465430">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/index.js" timestamp="1508524432305">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/components/timer/timer.component.ts" timestamp="1502475303212">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/comments.csv" timestamp="1506968477470">
+        <mark key="[" line="1" column="286" />
+        <mark key="]" line="1" column="285" />
+        <mark key="." line="1" column="285" />
+        <mark key="^" line="1" column="285" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/auth/middleware/index.ts" timestamp="1508350521803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/index.ts" timestamp="1501691935888">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/delivery/pages/sales-order-list/sales-order-list.ts" timestamp="1513816407240">
+        <mark key="'" line="17" column="28" />
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/account/schema/user.schema.ts" timestamp="1508532288722">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/package.json" timestamp="1504894436713">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515187875064">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/state.service.ts" timestamp="1514498548124">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/models/address.interface.ts" timestamp="1513733405170">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/package.json" timestamp="1502480238194">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/de.json" timestamp="1515188165487">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/registration.command.ts" timestamp="1513800197245">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="3" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/components/timer/timer.template.html" timestamp="1503006095070">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/item-sliding.ts" timestamp="1501692438169">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/services/index.ts" timestamp="1503005700881">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="P:/Projects/Blendtec/recipe-client/.travis.yml" timestamp="1501611508920">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="17" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/native/index.ts" timestamp="1501692315717">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales/pages/customer-list/customer-list.ts" timestamp="1500060056682">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/registration.service.spec.ts" timestamp="1513802850853">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" timestamp="1514930219855">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="28" column="72" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/registration/registration.component.ts" timestamp="1513802352330">
+        <mark key="'" line="119" column="2" />
+        <mark key="[" line="119" column="41" />
+        <mark key="]" line="119" column="41" />
+        <mark key="^" line="119" column="17" />
+        <mark key="." line="119" column="41" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh-tw.json" timestamp="1515188207501">
+        <mark key="[" line="28" column="31" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/receiving/providers/index.ts" timestamp="1500057272958">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/meta.service.js" timestamp="1506467401403">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="38" column="6" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/nav-controller.ts" timestamp="1504893790797">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="52" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/wp-comment.service.js" timestamp="1506972948225">
+        <mark key="'" line="76" column="37" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="81" column="63" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/services/translate.mock.ts" timestamp="1507333734974">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/request.service.ts" timestamp="1513800796450">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+      </file>
+      <file name="P:/Projects/Blendtec/recipe-client/README.md" timestamp="1501284462346">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="P:/Projects/Blendtec/recipe-client/dist/index.html" timestamp="1501610897372">
+        <mark key="[" line="0" column="386" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/recipe-client/package.json" timestamp="1501613934168">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="11" column="65" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/spa.json" timestamp="1515188196767">
+        <mark key="[" line="28" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1515087981459">
+        <mark key="[" line="120" column="16" />
+        <mark key="]" line="121" column="48" />
+        <mark key="." line="121" column="48" />
+        <mark key="^" line="121" column="48" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/.env" timestamp="1508182233453">
+        <mark key="[" line="0" column="194" />
+        <mark key="]" line="0" column="194" />
+        <mark key="^" line="0" column="198" />
+        <mark key="." line="0" column="194" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/models/OrgDocument.ts" timestamp="1508356600538">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
+      <file name="P:/Projects/Blendtec/untitled/main.js" timestamp="1505766347188">
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="88" column="33" />
+        <mark key="^" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/loading-controller.ts" timestamp="1501692135142">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/native/status-bar.ts" timestamp="1501692350878">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/country.interface.ts" timestamp="1513793991408">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales-live/pages/sales-order-line-allocations-modal/sales-order-line-allocations-modal.ts" timestamp="1500057947686">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="8" />
+        <mark key="." line="45" column="8" />
+        <mark key="^" line="35" column="4" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/recipe.service.js" timestamp="1506972084640">
+        <mark key="'" line="227" column="30" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="41" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/pages/clickerList/clickerList.scss" timestamp="1502491408115">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.spec.ts" timestamp="1515102339785">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.ts" timestamp="1515439256767">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="P:/Projects/Blendtec/product-registration/README.md" timestamp="1504898017866">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/asdf.ts" timestamp="1514402761523">
+        <mark key="'" line="0" column="684" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/util.service.js" timestamp="1506533030454">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/environments/.env-default" timestamp="1508282941109">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/inventory/pages/count-sheet-list/count-sheet-list.ts" timestamp="1513816475262">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="70" />
+        <mark key="." line="2" column="70" />
+        <mark key="^" line="2" column="70" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/config/models/app-config.interface.ts" timestamp="1515187686300">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/utility.service.js" timestamp="1506534520586">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/config/app-config.module.ts" timestamp="1515187672489">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1515436399334">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="72" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="4" column="84" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1501692037221">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/components/index.ts" timestamp="1502474616077">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/components/pop-menu.component.ts" timestamp="1500059568980">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/retailer.service.spec.ts" timestamp="1514501157798">
+        <mark key="'" line="43" column="92" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="38" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales-live/pages/sales-order-line-allocations-tab/sales-order-line-allocations-tab.ts" timestamp="1500057775997">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="23" column="12" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/constants.js" timestamp="1506532945395">
+        <mark key="'" line="7" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/services/index.ts" timestamp="1503951018077">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="12" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/environments/.env" timestamp="1508348241310">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="193" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/config/index.ts" timestamp="1514498493387">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/interceptors/index.ts" timestamp="1514398651147">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/index.ts" timestamp="1508358016359">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1515440396638">
+        <mark key="'" line="5" column="72" />
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/account/interfaces/user.interface.ts" timestamp="1508357124503">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/discus-comment.service.js" timestamp="1506969442130">
+        <mark key="'" line="93" column="24" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="10" />
+        <mark key="^" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/components/components.module.ts" timestamp="1507332079960">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/pages/page2/page2.html" timestamp="1502404665621">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/controllers/expense.controller.ts" timestamp="1508283069469">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/schema/index.ts" timestamp="1508285691453">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/README.md" timestamp="1508281343374">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/app.component.html" timestamp="1514483908409">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/pages/settings/settings.html" timestamp="1503009156441">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/README.md" timestamp="1514479549618">
+        <mark key="'" line="0" column="281" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/state.service.ts" timestamp="1513799629267">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1356" column="0" />
+        <mark key="]" line="1356" column="0" />
+        <mark key="^" line="1355" column="33" />
+        <mark key="." line="1356" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/exceptions/unauthorized.exception.ts" timestamp="1508349282516">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.ts" timestamp="1515016769760">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" timestamp="1515440368465">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="2" />
+        <mark key="^" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/models/registration.interface.ts" timestamp="1513733484707">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/services/index.ts" timestamp="1513726715598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/.gitignore" timestamp="1508182322590">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.html" timestamp="1515183109993">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="P:/Projects/Personal/api/src/app/modules/common/common.module.ts" timestamp="1514493312465">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.gitconfig" timestamp="1513272529084">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/state.service.spec.ts" timestamp="1514501279879">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/api/src/app/app.module.ts" timestamp="1514415751114">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/account/controllers/organization.controller.ts" timestamp="1508355834274">
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="65" />
+        <mark key="." line="52" column="65" />
+        <mark key="^" line="52" column="65" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/pipes/index.ts" timestamp="1513798707318">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.spec.ts" timestamp="1514930267125">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" timestamp="1515100899942">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="113" />
+        <mark key="." line="15" column="113" />
+        <mark key="^" line="15" column="113" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/events.ts" timestamp="1501692389689">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/services/cycle.service.ts" timestamp="1503943914182">
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="29" />
+        <mark key="." line="75" column="29" />
+        <mark key="^" line="75" column="29" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/auth/strategies/jwt.strategy.ts" timestamp="1508352905772">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="19" column="23" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/middleware/org-scope.middleware.ts" timestamp="1508351704376">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1515439389212">
+        <mark key="'" line="61" column="124" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/models/registration.ommand.ts" timestamp="1513734093119">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/registration.service.spec.ts" timestamp="1515018084819">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/providers/event-aggregator.ts" timestamp="1513818333525">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="P:/Projects/Personal/api/src/app/modules/account/account.providers.ts" timestamp="1514417018911">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/providers/local-db.service.ts" timestamp="1500059404218">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales/pages/item-list/item-list.ts" timestamp="1513815656315">
+        <mark key="'" line="56" column="36" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="56" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/product-registration/.travis.yml" timestamp="1504898092034">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="25" column="73" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/index.ts" timestamp="1513801330233">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/common/models/org-document.model.ts" timestamp="1508357748307">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="P:/Projects/Personal/ionic-mocks/src/angular/action-sheet.spec.ts" timestamp="1501691976903">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="P:/Projects/Personal/clicker/src/test.ts" timestamp="1507334029970">
+        <mark key="'" line="69" column="22" />
+        <mark key="[" line="63" column="58" />
+        <mark key="]" line="63" column="58" />
+        <mark key="^" line="63" column="58" />
+        <mark key="." line="63" column="58" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/database/database.providers.ts" timestamp="1508182652618">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/expense.module.ts" timestamp="1508351152916">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/country.service.ts" timestamp="1513800321982">
+        <mark key="'" line="248" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="253" column="3" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/registration.service.ts" timestamp="1513802132547">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/comment.service.js" timestamp="1506967824308">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="93" column="26" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/services/expense-category.service.ts" timestamp="1508357992521">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="46" />
+        <mark key="." line="26" column="46" />
+        <mark key="^" line="23" column="36" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/tslint.json" timestamp="1514480847904">
+        <mark key="'" line="54" column="13" />
+        <mark key="[" line="138" column="35" />
+        <mark key="]" line="138" column="33" />
+        <mark key="^" line="138" column="33" />
+        <mark key="." line="138" column="33" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/retailer.service.ts" timestamp="1514499215283">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="P:/Projects/Personal/uinta-api/package.json" timestamp="1508531829188">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/models/api-registration.model.ts" timestamp="1513733754247">
+        <mark key="'" line="33" column="22" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1515187803544">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/app.component.ts" timestamp="1513818825796">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/components/max.directive.ts" timestamp="1500059177985">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
+      <file name="P:/Projects/Edible/blender-interface/src/pages/pages.module.ts" timestamp="1503006734410">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/core/components/min.directive.ts" timestamp="1500059210688">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/app.module.ts" timestamp="1513801608117">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="40" column="39" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/app.module.ts" timestamp="1513817225063">
+        <mark key="'" line="66" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="80" />
+        <mark key="." line="0" column="80" />
+        <mark key="^" line="0" column="58" />
+      </file>
+      <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/retailer.interface.ts" timestamp="1513794554564">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
+      <file name="P:/Projects/Personal/api/src/app/modules/account/account.module.ts" timestamp="1514417128818">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blender-interface/src/services/pairing.service.ts" timestamp="1504033794914">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="44" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="12" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" />
+      <jump line="23" column="35" filename="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" />
+      <jump line="41" column="8" filename="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" />
+      <jump line="19" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
+      <jump line="16" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
+      <jump line="30" column="2" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.spec.ts" />
+      <jump line="32" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" />
+      <jump line="89" column="50" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="85" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="105" column="5" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="77" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
+      <jump line="33" column="18" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
+      <jump line="5" column="62" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
+      <jump line="27" column="39" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
+      <jump line="28" column="0" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
+      <jump line="95" column="49" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
+      <jump line="8" column="53" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
+      <jump line="180" column="5" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="26" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
+      <jump line="77" column="44" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="6" column="13" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.spec.ts" />
+      <jump line="118" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="60" column="124" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
+      <jump line="12" column="15" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.spec.ts" />
+      <jump line="109" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
+      <jump line="66" column="17" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="1" column="2" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="32" column="59" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="50" column="14" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="109" column="8" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="21" column="34" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="8" column="37" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="45" column="50" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="34" column="95" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="38" column="101" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="42" column="36" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="72" column="30" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="51" column="45" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="6" column="21" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="7" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="9" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="10" column="24" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="11" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="12" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="13" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="14" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="15" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="16" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="17" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="190" column="14" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="0" column="38" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="193" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="82" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="71" column="16" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="110" column="70" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="120" column="20" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="4" column="11" filename="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" />
+      <jump line="147" column="77" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="9" column="0" filename="P:/Projects/Blendtec/registration/src/app/directives/placeholder/placeholder.directive.ts" />
+      <jump line="127" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="28" column="0" filename="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" />
+      <jump line="61" column="19" filename="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" />
+      <jump line="58" column="2" filename="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" />
+      <jump line="84" column="56" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="95" column="66" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="101" column="70" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="107" column="71" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="116" column="24" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="128" column="24" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="135" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="160" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="165" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="164" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="115" column="31" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="129" column="68" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="136" column="20" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="145" column="20" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="146" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="150" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="151" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="163" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="167" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="168" column="23" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="181" column="28" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="185" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="186" column="20" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="93" column="16" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="98" column="10" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="208" column="35" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="238" column="112" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="14" column="0" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="15" column="0" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="2" column="19" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.spec.ts" />
+      <jump line="1" column="2" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="5" column="72" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="4" column="4" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="51" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="52" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>All Blenders Except The Designer 725</text>
+      </register>
+      <register name="-" type="4">
+        <text>All Blenders Except The Designer 725</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogcmVnaXN0cmF0aW9uLmdldCgnc2VyaWFsLnN1ZmZpeCcpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIHJlZ2lzdHJhdGlvbi5nZXQoJ3NlcmlhbC5zdWZmaXgnKS50b3VjaGVkfSIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAiSEVBRElORyI6IHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJTRVJJQUxfV0hFUkUiOiAiV2hlcmUgaXMgbXkgU2VyaWFsIE51bWJlciIsCiAgICAiQUxMX0VYQ0VQVF83MjUiOiAiQWxsIEJsZW5kZXJzIEV4Y2VwdCB0aGUgRGVzaWduZXIgNzI1Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzaG93U2VyaWFsTnVtSW5mbyA9ICdpbmFjdGl2ZSc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2hvd1NlcmlhbE51bUluZm8gPSAnYWN0aXZlJzsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzaG93U2VyaWFsSW5mbygpOiB2b2lkIHsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>&quot;</last-search>
+      <last-offset />
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>SerialModal</last-replace>
+      <last-substitute>CountrySelect</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>two</entry>
+        <entry>city</entry>
+        <entry>address.email</entry>
+        <entry>adress</entry>
+        <entry>stateProvince</entry>
+        <entry>zip</entry>
+        <entry>country</entry>
+        <entry>email</entry>
+        <entry>address.phone</entry>
+        <entry>formm</entry>
+        <entry>prefix</entry>
+        <entry>serial.suffix</entry>
+        <entry>form</entry>
+        <entry>date</entry>
+        <entry>new\ Date()</entry>
+        <entry>small</entry>
+        <entry>CountrySelect</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>show</entry>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/''/'serial.prefix'/g</entry>
+        <entry>s/''/'serial.suffix'/g</entry>
+        <entry>s/''/'purchase.date'/g</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>%s/hidden-label//g</entry>
+        <entry>s/city/stateProvince/g</entry>
+        <entry>%s/address.email/serial.prefix/g</entry>
+        <entry>%s/adress/address/g</entry>
+        <entry>s/stateProvince/zip/g</entry>
+        <entry>s/zip/country/g</entry>
+        <entry>s/country/email/g</entry>
+        <entry>s/email/phone/g</entry>
+        <entry>s/address.phone/serial.prefix/g</entry>
+        <entry>s/prefix/suffix/g</entry>
+        <entry>s/serial.suffix/purchase.date/g</entry>
+        <entry>s/date/place/g</entry>
+        <entry>%s/new\ Date()/now/gc</entry>
+        <entry>%s/CountrySelect/SerialModal/g</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

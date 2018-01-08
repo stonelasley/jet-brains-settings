@@ -1,0 +1,37 @@
+<templateSet group="TypesScribe - Jasmine">
+  <template name="describe" value="describe('$WHAT$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine Describe Block (Typescript)" toReformat="true" toShortenFQNames="true">
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('$SHOULD$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine 'it' block" toReformat="false" toShortenFQNames="true">
+    <variable name="SHOULD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="beforeEach" value="beforeEach(() =&gt; {&#10;    $END$&#10;});" description="Jasmine 'beforeEach' block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="spyObj" value="_$name$ = jasmine.createSpyObj('$name$', ['$END$']);" description="jasmine create spy object" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="spyObjRet" value="(&lt;jasmine.Spy&gt;(_$NAME$)).and.returnValue($END$);" description="jasmine spy object return" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="test" value="&#10;describe('$TYPE$', () =&gt; {&#10;    let _classUnderTest: $TYPE$;&#10;    &#10;    beforeEach(() =&gt; {&#10;        _classUnderTest = new $TYPE$();&#10;    });&#10;    &#10;    $END$&#10;);" description="describe test" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
