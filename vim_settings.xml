@@ -28,12 +28,12 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.spec.ts" timestamp="1515439322381">
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.spec.ts" timestamp="1515445142824">
         <mark key="'" line="1" column="19" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="10" column="17" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="34" column="4" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" timestamp="1515439675434">
         <mark key="'" line="94" column="10" />
@@ -60,11 +60,10 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/jpn.json" timestamp="1515188187812">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/jpn.json" timestamp="1515442891824">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/registration/.bithoundrc" timestamp="1514410992814">
         <mark key="[" line="3" column="19" />
@@ -211,17 +210,22 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/index.html" timestamp="1513638332428">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="P:/Projects/Blendtec/registration/src/index.html" timestamp="1515444672152">
+        <mark key="[" line="8" column="102" />
+        <mark key="]" line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="9" column="66" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/auth/auth.module.ts" timestamp="1513818953123">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="30" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" timestamp="1514929983778">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="P:/Projects/Personal/clicker/src/app/app.spec.ts" timestamp="1507333615273">
         <mark key="[" line="2" column="75" />
@@ -272,11 +276,12 @@
         <mark key="." line="131" column="49" />
         <mark key="^" line="131" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515439514352">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="143" />
-        <mark key="^" line="170" column="33" />
-        <mark key="." line="170" column="0" />
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515444603276">
+        <mark key="'" line="159" column="47" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="53" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="172" column="19" />
       </file>
       <file name="P:/Projects/Blendtec/blender-interface/src/test.ts" timestamp="1503952314825">
         <mark key="[" line="57" column="67" />
@@ -315,11 +320,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/fr-ca.json" timestamp="1515188179317">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="24" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/fr-ca.json" timestamp="1515442567864">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="P:/Projects/Blendtec/product-registration/package.json" timestamp="1504898841204">
         <mark key="[" line="72" column="33" />
@@ -333,11 +338,11 @@
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="73" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/ko.json" timestamp="1515188191961">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="24" column="57" />
-        <mark key="^" line="24" column="57" />
-        <mark key="." line="24" column="57" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/ko.json" timestamp="1515442980507">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="29" column="57" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="29" column="57" />
       </file>
       <file name="P:/Projects/Personal/ionic-mocks/src/angular/form.ts" timestamp="1501692082902">
         <mark key="[" line="15" column="1" />
@@ -352,8 +357,11 @@
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="70" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh.json" timestamp="1515188201442">
-        <mark key="[" line="28" column="31" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh.json" timestamp="1515443857652">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/expense.providers.ts" timestamp="1508286683814">
         <mark key="'" line="7" column="8" />
@@ -368,11 +376,11 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/it.json" timestamp="1515188183597">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/it.json" timestamp="1515443446455">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="P:/Projects/Blendtec/TEMP/registration/src/app/services/retailer.service.ts" timestamp="1513794578817">
         <mark key="'" line="21" column="25" />
@@ -417,11 +425,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" timestamp="1515431880441">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="P:/Projects/Blendtec/registration/src/app/app.component.spec.ts" timestamp="1515445005914">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="28" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/sales-live/components/index.ts" timestamp="1500057089468">
         <mark key="[" line="4" column="1" />
@@ -460,6 +469,12 @@
         <mark key="]" line="2" column="38" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1515444192298">
+        <mark key="[" line="54" column="2" />
+        <mark key="]" line="54" column="2" />
+        <mark key="^" line="54" column="4" />
+        <mark key="." line="54" column="2" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/services/registration.service.ts" timestamp="1515023967814">
         <mark key="[" line="5" column="0" />
@@ -523,9 +538,6 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515187875064">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/services/state.service.ts" timestamp="1514498548124">
         <mark key="'" line="9" column="1" />
         <mark key="[" line="4" column="48" />
@@ -545,11 +557,11 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/de.json" timestamp="1515188165487">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="33" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="31" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/de.json" timestamp="1515442405290">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="P:/Projects/Blendtec/TEMP/registration/src/app/models/registration.command.ts" timestamp="1513800197245">
         <mark key="'" line="32" column="9" />
@@ -615,8 +627,11 @@
         <mark key="^" line="119" column="17" />
         <mark key="." line="119" column="41" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh-tw.json" timestamp="1515188207501">
-        <mark key="[" line="28" column="31" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/zh-tw.json" timestamp="1515443689883">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/receiving/providers/index.ts" timestamp="1500057272958">
         <mark key="[" line="4" column="1" />
@@ -673,8 +688,10 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/spa.json" timestamp="1515188196767">
-        <mark key="[" line="28" column="31" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/spa.json" timestamp="1515443525765">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1515087981459">
         <mark key="[" line="120" column="16" />
@@ -775,6 +792,13 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" timestamp="1515444910754">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="63" column="66" />
+        <mark key="]" line="63" column="87" />
+        <mark key="." line="63" column="87" />
+        <mark key="^" line="63" column="87" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/inventory/pages/count-sheet-list/count-sheet-list.ts" timestamp="1513816475262">
         <mark key="'" line="2" column="0" />
@@ -878,12 +902,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1515440396638">
-        <mark key="'" line="5" column="72" />
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1515444449412">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="P:/Projects/Personal/uinta-api/src/app/modules/account/interfaces/user.interface.ts" timestamp="1508357124503">
         <mark key="[" line="20" column="18" />
@@ -967,12 +991,12 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" timestamp="1515440368465">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="2" />
-        <mark key="^" line="51" column="2" />
-        <mark key="." line="51" column="2" />
+      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" timestamp="1515444431741">
+        <mark key="'" line="11" column="95" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/models/registration.interface.ts" timestamp="1513733484707">
         <mark key="[" line="12" column="2" />
@@ -993,6 +1017,11 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.spec.ts" timestamp="1515019559587">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.html" timestamp="1515183109993">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="21" />
@@ -1010,12 +1039,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
-      </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/services/state.service.spec.ts" timestamp="1514501279879">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="P:/Projects/Personal/api/src/app/app.module.ts" timestamp="1514415751114">
         <mark key="[" line="7" column="4" />
@@ -1283,15 +1306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="12" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" />
-      <jump line="23" column="35" filename="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" />
-      <jump line="41" column="8" filename="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" />
-      <jump line="19" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
-      <jump line="16" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
-      <jump line="30" column="2" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.spec.ts" />
-      <jump line="32" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" />
-      <jump line="89" column="50" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="85" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
       <jump line="105" column="5" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
       <jump line="77" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
@@ -1332,10 +1346,7 @@
       <jump line="13" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="14" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="15" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="16" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="17" column="6" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="190" column="14" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="0" column="38" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="193" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="82" column="19" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="71" column="16" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
@@ -1383,69 +1394,74 @@
       <jump line="4" column="4" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
       <jump line="51" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
       <jump line="52" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="9" column="93" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="7" column="54" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="2" column="34" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="11" column="30" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="11" column="95" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
+      <jump line="13" column="6" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
+      <jump line="178" column="27" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="16" column="82" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="17" column="82" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="61" column="12" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="159" column="47" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>All Blenders Except The Designer 725</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>All Blenders Except The Designer 725</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>half</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogcmVnaXN0cmF0aW9uLmdldCgnc2VyaWFsLnN1ZmZpeCcpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIHJlZ2lzdHJhdGlvbi5nZXQoJ3NlcmlhbC5zdWZmaXgnKS50b3VjaGVkfSIK</text>
+        <text encoding="base64">ICAgICAgIGNvbXBvbmVudC5oaWRlKCk7CiAgICAgICBleHBlY3QoY29tcG9uZW50LnNob3dpbmcpLnRvQmUoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiSEVBRElORyI6IHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJTRVJJQUxfV0hFUkUiOiAiV2hlcmUgaXMgbXkgU2VyaWFsIE51bWJlciIsCiAgICAiQUxMX0VYQ0VQVF83MjUiOiAiQWxsIEJsZW5kZXJzIEV4Y2VwdCB0aGUgRGVzaWduZXIgNzI1Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzaG93U2VyaWFsTnVtSW5mbyA9ICdpbmFjdGl2ZSc7Cg==</text>
+        <text encoding="base64">ICA8YXBwLXNlcmlhbC1tb2RhbD48L2FwcC1zZXJpYWwtbW9kYWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcHAtc2VyaWFsLW1vZGFsPjwvYXBwLXNlcmlhbC1tb2RhbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hvd1NlcmlhbE51bUluZm8gPSAnYWN0aXZlJzsK</text>
+        <text encoding="base64">PGkgY2xhc3M9Imljb24gaWNvbl9xdWVzdGlvbl90b29sdGlwIj48L2k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzaG93U2VyaWFsSW5mbygpOiB2b2lkIHsK</text>
+        <text encoding="base64">PGRpdiAoY2xpY2spPSJzaG93KCkiPlNIT1cgU0VSSUFMPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>half</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>SerialModal</last-replace>
-      <last-substitute>CountrySelect</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>half</last-pattern>
+      <last-replace>third</last-replace>
+      <last-substitute>half</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>two</entry>
-        <entry>city</entry>
-        <entry>address.email</entry>
-        <entry>adress</entry>
-        <entry>stateProvince</entry>
-        <entry>zip</entry>
-        <entry>country</entry>
         <entry>email</entry>
         <entry>address.phone</entry>
         <entry>formm</entry>
@@ -1459,13 +1475,18 @@
         <entry encoding="base64">Pg==</entry>
         <entry>show</entry>
         <entry>&quot;</entry>
+        <entry>$</entry>
+        <entry>3</entry>
+        <entry>A</entry>
+        <entry>BU</entry>
+        <entry>O</entry>
+        <entry>serial</entry>
+        <entry>half</entry>
       </history-search>
       <history-cmd>
-        <entry>s/''/'serial.prefix'/g</entry>
         <entry>s/''/'serial.suffix'/g</entry>
         <entry>s/''/'purchase.date'/g</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>%s/hidden-label//g</entry>
         <entry>s/city/stateProvince/g</entry>
         <entry>%s/address.email/serial.prefix/g</entry>
@@ -1480,6 +1501,8 @@
         <entry>s/date/place/g</entry>
         <entry>%s/new\ Date()/now/gc</entry>
         <entry>%s/CountrySelect/SerialModal/g</entry>
+        <entry>q</entry>
+        <entry>%s/half/third/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

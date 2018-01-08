@@ -1,4 +1,4 @@
-<templateSet group="html/xml">
+<templateSet group="Shopify">
   <template name="shopify-form-text" value="&lt;div class=&quot;field field--show-floating-label&quot;&gt;&#10;  &lt;div class=&quot;field__input-wrapper&quot;&gt;&#10;    &lt;label class=&quot;field__label field__label--visible&quot;&gt;{{'LABEL.$NAME$' | translate}}&lt;/label&gt;&#10;    &lt;input class=&quot;field__input&quot; type=&quot;text&quot; formControlName=&quot;$CONTROLNAME$&quot;&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Shopify Form Text Input" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONTROLNAME" expression="" defaultValue="" alwaysStopAt="true" />

@@ -1,0 +1,7 @@
+<templateSet group="Ngx-Translate">
+  <template name="ngx-pipe" value="{{'$END$' | translate}}" description="Ngx translate Pipe" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
