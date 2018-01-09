@@ -6,7 +6,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="shopify-form-inline" value="          &lt;div class=&quot;grid&quot;&gt;&#10;            &lt;div class=&quot;grid__item small--one-half medium--one-half large--one-half&quot;&gt;&#10;x&#10;            &lt;/div&gt;&#10;            &lt;div class=&quot;grid__item small--one-half medium--one-half large--one-half&quot;&gt;&#10;              &lt;label class=&quot;hidden-label&quot;&gt;{{'LABEL.LAST_NAME' | translate}}&lt;/label&gt;&#10;              &lt;input class=&quot;input-full&quot; placeholder=&quot;{{'LABEL.LAST_NAME' | translate}}&quot; type=&quot;text&quot;&#10;                     formControlName=&quot;lastName&quot;&gt;&#10;            &lt;/div&gt;&#10;          &lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="shopify-form-inline" value="          &lt;div class=&quot;grid&quot;&gt;&#10;            &lt;div class=&quot;grid__item small--one-half medium--one-half large--one-half&quot;&gt;&#10;x&#10;            &lt;/div&gt;&#10;            &lt;div class=&quot;grid__item small--one-half medium--one-half large--one-half&quot;&gt;&#10;              &lt;label class=&quot;hidden-label&quot;&gt;{{'LABEL.LAST_NAME' | translate}}&lt;/label&gt;&#10;              &lt;input class=&quot;input-full&quot; placeholder=&quot;{{'LABEL.LAST_NAME' | translate}}&quot; type=&quot;text&quot;&#10;                     formControlName=&quot;lastName&quot;&gt;&#10;            &lt;/div&gt;&#10;          &lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
