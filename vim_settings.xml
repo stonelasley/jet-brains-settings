@@ -545,6 +545,9 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
+      <file name="/Dummy.txt" timestamp="1515529755951">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/models/address.interface.ts" timestamp="1513733405170">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="1" />
@@ -682,6 +685,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/sales-live/providers/allocation.service.ts" timestamp="1515529838246" />
       <file name="P:/Projects/Blendtec/recipe-client/package.json" timestamp="1501613934168">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -998,6 +1002,13 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="21" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" timestamp="1515530319679">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/models/registration.interface.ts" timestamp="1513733484707">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="1" />
@@ -1306,9 +1317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="105" column="5" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="77" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
       <jump line="33" column="18" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
       <jump line="5" column="62" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
       <jump line="27" column="39" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
@@ -1406,55 +1414,58 @@
       <jump line="17" column="82" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="61" column="12" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
       <jump line="159" column="47" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="25" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
+      <jump line="22" column="8" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>half</text>
+        <text>string</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIGNvbXBvbmVudC5oaWRlKCk7CiAgICAgICBleHBlY3QoY29tcG9uZW50LnNob3dpbmcpLnRvQmUoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdGhpcy5fYXBpLmRlbGV0ZTx2b2lkPih1cmwpLnRvUHJvbWlzZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YXBwLXNlcmlhbC1tb2RhbD48L2FwcC1zZXJpYWwtbW9kYWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcHAtc2VyaWFsLW1vZGFsPjwvYXBwLXNlcmlhbC1tb2RhbD4K</text>
+        <text encoding="base64">ICA8YXBwLXNlcmlhbC1tb2RhbD48L2FwcC1zZXJpYWwtbW9kYWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcHAtc2VyaWFsLW1vZGFsPjwvYXBwLXNlcmlhbC1tb2RhbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGkgY2xhc3M9Imljb24gaWNvbl9xdWVzdGlvbl90b29sdGlwIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiAoY2xpY2spPSJzaG93KCkiPlNIT1cgU0VSSUFMPC9kaXY+Cg==</text>
+        <text encoding="base64">PGkgY2xhc3M9Imljb24gaWNvbl9xdWVzdGlvbl90b29sdGlwIj48L2k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>half</last-search>
+      <last-search>string</last-search>
       <last-offset />
-      <last-pattern>half</last-pattern>
+      <last-pattern>string</last-pattern>
       <last-replace>third</last-replace>
       <last-substitute>half</last-substitute>
       <last-dir>1</last-dir>
@@ -1462,8 +1473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>address.phone</entry>
         <entry>formm</entry>
         <entry>prefix</entry>
         <entry>serial.suffix</entry>
@@ -1482,6 +1491,8 @@
         <entry>O</entry>
         <entry>serial</entry>
         <entry>half</entry>
+        <entry>void</entry>
+        <entry>string</entry>
       </history-search>
       <history-cmd>
         <entry>s/''/'serial.suffix'/g</entry>
