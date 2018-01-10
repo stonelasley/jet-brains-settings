@@ -893,12 +893,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1515436399334">
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1515604364371">
         <mark key="'" line="4" column="11" />
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="72" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="4" column="84" />
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="6" column="79" />
+        <mark key="." line="6" column="79" />
+        <mark key="^" line="6" column="79" />
       </file>
       <file name="P:/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1501692037221">
         <mark key="[" line="30" column="1" />
