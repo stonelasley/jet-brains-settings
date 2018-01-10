@@ -60,11 +60,6 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/jpn.json" timestamp="1515442891824">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/registration/.bithoundrc" timestamp="1514410992814">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -140,6 +135,13 @@
         <mark key="." line="23" column="76" />
         <mark key="^" line="23" column="76" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/delivery/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1515543457731">
+        <mark key="'" line="8" column="59" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="P:/Projects/Blendtec/TEMP/registration/src/app/pipes/filter.pipe.ts" timestamp="1513798689655">
         <mark key="[" line="91" column="6" />
         <mark key="]" line="91" column="6" />
@@ -157,6 +159,13 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1515543177680">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/directives/placeholder/placeholder.directive.ts" timestamp="1515189530873">
         <mark key="'" line="9" column="0" />
@@ -222,10 +231,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="P:/Projects/Edible/freshmobile/src/pick/providers/sales-order.service.ts" timestamp="1514929983778">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="49" />
-        <mark key="." line="23" column="0" />
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-line-edit/sales-order-line-edit.ts" timestamp="1515543433163">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="P:/Projects/Personal/clicker/src/app/app.spec.ts" timestamp="1507333615273">
         <mark key="[" line="2" column="75" />
@@ -268,6 +278,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="9" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-list/sales-order-list.ts" timestamp="1515542988067">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1515087663754">
         <mark key="'" line="95" column="49" />
@@ -363,6 +379,12 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="8" column="50" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1515543387552">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
       <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/expense.providers.ts" timestamp="1508286683814">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="2" column="50" />
@@ -375,6 +397,12 @@
         <mark key="]" line="19" column="30" />
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/pick/pages/sales-order-list/sales-order-list.ts" timestamp="1515542768921">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/assets/i18n/it.json" timestamp="1515443446455">
         <mark key="[" line="18" column="41" />
@@ -418,6 +446,12 @@
         <mark key="]" line="1" column="48" />
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-list/sales-order-list.ts" timestamp="1515542734162">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="P:/Projects/Personal/uinta-api/src/app/modules/expense/dto/index.ts" timestamp="1508288798672">
         <mark key="[" line="0" column="15" />
@@ -476,6 +510,13 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="2" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" timestamp="1515543050850">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/services/registration.service.ts" timestamp="1515023967814">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -512,6 +553,19 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-lines-tab/sales-order-lines-tab.ts" timestamp="1515543331373">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/customer-list/customer-list.ts" timestamp="1515542852114">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="P:/Projects/Personal/ionic-mocks/src/index.ts" timestamp="1501691935888">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -545,7 +599,7 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515529755951">
+      <file name="/Dummy.txt" timestamp="1515543449227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/models/address.interface.ts" timestamp="1513733405170">
@@ -685,17 +739,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="P:/Projects/Edible/freshmobile/src/sales-live/providers/allocation.service.ts" timestamp="1515529838246" />
       <file name="P:/Projects/Blendtec/recipe-client/package.json" timestamp="1501613934168">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="11" column="65" />
-      </file>
-      <file name="P:/Projects/Blendtec/registration/src/assets/i18n/spa.json" timestamp="1515443525765">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1515087981459">
         <mark key="[" line="120" column="16" />
@@ -752,6 +800,13 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" timestamp="1515543020109">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="P:/Projects/Edible/blender-interface/src/pages/clickerList/clickerList.scss" timestamp="1502491408115">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="19" />
@@ -764,6 +819,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" timestamp="1515542874594">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.ts" timestamp="1515439256767">
         <mark key="[" line="9" column="2" />
@@ -894,6 +956,13 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1515543103325">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/interceptors/index.ts" timestamp="1514398651147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -905,6 +974,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/item-list/item-list.ts" timestamp="1515543359823">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1515444449412">
         <mark key="'" line="12" column="6" />
@@ -1002,6 +1077,12 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="21" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-edit-tabs.ts" timestamp="1515542567930">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
       <file name="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" timestamp="1515530319679">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="22" column="48" />
@@ -1028,10 +1109,12 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.spec.ts" timestamp="1515019559587">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-total-tab/sales-order-total-tab.ts" timestamp="1515543159368">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.html" timestamp="1515183109993">
         <mark key="[" line="1" column="11" />
@@ -1063,6 +1146,12 @@
         <mark key="." line="52" column="65" />
         <mark key="^" line="52" column="65" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/lot-list/lot-list.ts" timestamp="1515543366641">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="P:/Projects/Blendtec/TEMP/registration/src/app/pipes/index.ts" timestamp="1513798707318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -1088,6 +1177,18 @@
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-allocations-tab/sales-order-line-allocations-tab.ts" timestamp="1515542590984">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+      </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1515543324734">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="P:/Projects/Blendtec/blender-interface/src/services/cycle.service.ts" timestamp="1503943914182">
         <mark key="[" line="75" column="31" />
@@ -1309,6 +1410,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-lines-tab/sales-order-lines-tab.ts" timestamp="1515543396540">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="P:/Projects/Blendtec/blender-interface/src/services/pairing.service.ts" timestamp="1504033794914">
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="44" />
@@ -1317,17 +1424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="18" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" />
-      <jump line="5" column="62" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
-      <jump line="27" column="39" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
-      <jump line="28" column="0" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
-      <jump line="95" column="49" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
-      <jump line="8" column="53" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
-      <jump line="180" column="5" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="26" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.ts" />
-      <jump line="77" column="44" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="6" column="13" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.spec.ts" />
       <jump line="118" column="0" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
       <jump line="60" column="124" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
       <jump line="12" column="15" filename="P:/Projects/Blendtec/registration/src/app/validators/has-states.validator.spec.ts" />
@@ -1417,16 +1513,27 @@
       <jump line="25" column="4" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
       <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
       <jump line="22" column="8" filename="P:/Projects/Edible/freshmobile/src/pick/providers/pick-entry.service.ts" />
+      <jump line="41" column="38" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" />
+      <jump line="19" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/customer-list/customer-list.ts" />
+      <jump line="1" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/customer-list/customer-list.ts" />
+      <jump line="16" column="7" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" />
+      <jump line="12" column="13" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/delivery/pages/sales-order-tabs/sales-order-tabs.ts" />
+      <jump line="8" column="59" filename="P:/Projects/Edible/freshmobile/src/app/modules/delivery/pages/sales-order-tabs/sales-order-tabs.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-total-tab/sales-order-total-tab.ts" />
+      <jump line="35" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>lines-tab</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>lines-tab</text>
       </register>
       <register name="/" type="4">
-        <text>string</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIGNvbXBvbmVudC5oaWRlKCk7CiAgICAgICBleHBlY3QoY29tcG9uZW50LnNob3dpbmcpLnRvQmUoZmFsc2UpOwo=</text>
@@ -1459,13 +1566,13 @@
         <text encoding="base64">PGkgY2xhc3M9Imljb24gaWNvbl9xdWVzdGlvbl90b29sdGlwIj48L2k+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>string</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>string</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace>third</last-replace>
       <last-substitute>half</last-substitute>
       <last-dir>1</last-dir>
@@ -1473,8 +1580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formm</entry>
-        <entry>prefix</entry>
         <entry>serial.suffix</entry>
         <entry>form</entry>
         <entry>date</entry>
@@ -1493,6 +1598,8 @@
         <entry>half</entry>
         <entry>void</entry>
         <entry>string</entry>
+        <entry>sales</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry>s/''/'serial.suffix'/g</entry>
@@ -1512,9 +1619,9 @@
         <entry>s/date/place/g</entry>
         <entry>%s/new\ Date()/now/gc</entry>
         <entry>%s/CountrySelect/SerialModal/g</entry>
-        <entry>q</entry>
         <entry>%s/half/third/gc</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
