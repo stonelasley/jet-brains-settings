@@ -1,0 +1,8 @@
+<templateSet group="Angular">
+  <template name="a-formgroup" value="&lt;div formGroupName=&quot;$GROUPNAME$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="Angular Form Group Div" toReformat="true" toShortenFQNames="true">
+    <variable name="GROUPNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

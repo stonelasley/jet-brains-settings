@@ -11,4 +11,41 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="shopify-text-input" value="&lt;label class=&quot;hidden-label&quot;&gt;{{'LABEL.$TRANSLATION$' | translate}}&lt;/label&gt;&#10;&lt;input class=&quot;input-full&quot; placeholder=&quot;{{'LABEL.$TRANSLATION$' | translate}}&quot; type=&quot;text&quot;&#10;                   [ngClass]=&quot;{error: registration.get('$FORM$.$FIELD$').hasError('required') &amp;&amp; registration.get('$FORM$.$FIELD$').touched}&quot;&#10;                   formControlName=&quot;$FIELD$&quot;&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="TRANSLATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FORM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="shopify-grid" value="&lt;div class=&quot;grid&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="Shopify Grid" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="shopify-griditem" value="&lt;div class=&quot;grid__item small--one-$SIZE$ medium--one-$SIZE$ large--one-$SIZE$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="Shopify Grid Item" toReformat="true" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="shopify-error-message" value="&lt;li *ngIf=&quot;$FORMNAME$.get('$FORMGROUPNAME$.$FIELD$').hasError('required') &amp;&amp; $FORMNAME$.get('$FORMGROUPNAME$.$FIELD$').touched&quot;&gt;&#10;    {{'VALIDATION.$TRANSLATION$' | translate}}&#10;&lt;/li&gt;" description="Shopify Summary Error" toReformat="false" toShortenFQNames="true">
+    <variable name="FORMNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FORMGROUPNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TRANSLATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="shopify-show-error" value="$FORM$.get('$FORMGROUP$.$PROPERTY$').hasError('required') &amp;&amp; $FORM$.get('$FORMGROUP$.$PROPERTY$').touched ||" description="Required Touched" toReformat="false" toShortenFQNames="true">
+    <variable name="FORMGROUP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FORM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
