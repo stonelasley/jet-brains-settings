@@ -316,8 +316,8 @@
         <mark key="." line="131" column="49" />
         <mark key="^" line="131" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515628092026">
-        <mark key="'" line="159" column="47" />
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515693020351">
+        <mark key="'" line="119" column="24" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="53" />
         <mark key="." line="172" column="0" />
@@ -834,12 +834,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515691599537">
-        <mark key="'" line="311" column="11" />
-        <mark key="[" line="285" column="28" />
-        <mark key="]" line="286" column="11" />
-        <mark key="." line="286" column="11" />
-        <mark key="^" line="286" column="11" />
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515694297126">
+        <mark key="'" line="380" column="23" />
+        <mark key="[" line="389" column="51" />
+        <mark key="]" line="389" column="30" />
+        <mark key="." line="389" column="30" />
+        <mark key="^" line="389" column="30" />
       </file>
       <file name="P:/Projects/Blendtec/untitled/main.js" timestamp="1505766347188">
         <mark key="[" line="88" column="27" />
@@ -1575,15 +1575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="10" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="208" column="35" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="238" column="112" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
-      <jump line="14" column="0" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
-      <jump line="15" column="0" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
-      <jump line="2" column="19" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.spec.ts" />
-      <jump line="1" column="2" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
-      <jump line="5" column="72" filename="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" />
-      <jump line="4" column="4" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
       <jump line="51" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
       <jump line="52" column="0" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
       <jump line="9" column="93" filename="P:/Projects/Blendtec/registration/src/assets/i18n/en.json" />
@@ -1675,55 +1666,64 @@
       <jump line="298" column="129" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="302" column="73" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="310" column="11" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="329" column="15" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="119" column="24" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" />
+      <jump line="339" column="49" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="342" column="76" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="346" column="15" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="349" column="52" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="362" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="369" column="67" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="380" column="23" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWxsLS1vbmUtdGhpcmQg</text>
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name="/" type="4">
-        <text>small</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aDM+e3snSEVBRElORy5TSElQUElORycgfCB0cmFuc2xhdGV9fTwvaDM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZF9faXRlbSBtZWRpdW0tLW9uZS10aGlyZCBsYXJnZS0tb25lLXRoaXJkIj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZ3JpZF9faXRlbSBtZWRpdW0tLW9uZS10aGlyZCBsYXJnZS0tb25lLXRoaXJkIj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuV0VCU0lURV9UT09MUycgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIiBwbGFjZWhvbGRlcj0ie3snTEFCRUwuV0VCU0lURV9UT09MUycgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ3dlYnNpdGUudG9vbHMnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCd3ZWJzaXRlLnRvb2xzJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0idG9vbHMiPgogICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNob3BpZnktdGV4dC1pdGVtPjwvc2hvcGlmeS10ZXh0LWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIHNtYWxsLS1vbmUtIG1lZGl1bS0tb25lLSBsYXJnZS0tb25lLSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLkJVU0lORVNTX1RBWCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLkJVU0lORVNTX1RBWCcgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiByZWdpc3RyYXRpb24uZ2V0KCcuJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnLicpLnRvdWNoZWR9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcGlmeS10ZXh0LWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLkJVU0lORVNTX0xJQ0VOU0UnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIiBwbGFjZWhvbGRlcj0ie3snTEFCRUwuQlVTSU5FU1NfTElDRU5TRScgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogcmVnaXN0cmF0aW9uLmdldCgnYnVzaW5lc3MubGljZW5zZScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIHJlZ2lzdHJhdGlvbi5nZXQoJ2J1c2luZXNzLmxpY2Vuc2UnKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9ImxpY2Vuc2UiPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BpZnkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZ3JpZCI+CiAgICAgICAgPGRpdiBmb3JtR3JvdXBOYW1lPSJzaGlwcGluZ0FkZHJlc3MiPgoKICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5TSElQUElOR19OQU1FJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlNISVBQSU5HX05BTUUnIHwgdHJhbnNsYXRlfX0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ2JpbGxpbmdBZGRyZXNzLm5hbWUnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCdiaWxsaW5nQWRkcmVzcy5uYW1lJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJuYW1lIj4KCiAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuU0hJUFBJTkdfQUREUkVTUycgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0LWZ1bGwiIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5TSElQUElOR19BRERSRVNTJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiByZWdpc3RyYXRpb24uZ2V0KCdiaWxsaW5nQWRkcmVzcy5hZGRyZXNzJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnYmlsbGluZ0FkZHJlc3MuYWRkcmVzcycpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iYWRkcmVzcyI+CgogICAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZCI+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIG1lZGl1bS0tb25lLWhhbGYgbGFyZ2UtLW9uZS1oYWxmIj4KCiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLlNISVBQSU5HX0NJVFknIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlNISVBQSU5HX0NJVFknIHwgdHJhbnNsYXRlfX0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiByZWdpc3RyYXRpb24uZ2V0KCdiaWxsaW5nQWRkcmVzcy5jaXR5JykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnYmlsbGluZ0FkZHJlc3MuY2l0eScpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9ImNpdHkiPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbWVkaXVtLS1vbmUtaGFsZiBsYXJnZS0tb25lLWhhbGYiPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5TSElQUElOR19TVEFURScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiByZWdpc3RyYXRpb24uZ2V0KCdiaWxsaW5nQWRkcmVzcy5zdGF0ZVByb3ZpbmNlJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnYmlsbGluZ0FkZHJlc3Muc3RhdGVQcm92aW5jZScpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJzdGF0ZVByb3ZpbmNlIj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+e3snT1BUSU9OLlNISVBQSU5HX1NUQVRFJyB8IHRyYW5zbGF0ZX19PC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uCiAgICAgICAgICAgICAgICAgICpuZ0Zvcj0ibGV0IHN0YXRlIG9mIHN0YXRlcyQgfCBhc3luYyB8IGZpbHRlckJ5OiBbJ2NvdW50cnknXTogdGhpcy5yZWdpc3RyYXRpb24uZ2V0KCdiaWxsaW5nQWRkcmVzcy5jb3VudHJ5JykudmFsdWUiCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09InN0YXRlcyQ/Lmxlbmd0aCA+IDAiIFtuZ1ZhbHVlXT0ic3RhdGUubmFtZSI+CiAgICAgICAgICAgICAgICAgIHt7c3RhdGUubmFtZX19CiAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICA8L3NlbGVjdD4KCiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWQiPgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZF9faXRlbSBtZWRpdW0tLW9uZS1oYWxmIGxhcmdlLS1vbmUtaGFsZiI+CgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5TSElQUElOR19aSVAnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlNISVBQSU5HX1pJUCcgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ3NoaXBwaW5nQWRkcmVzcy56aXAnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCdzaGlwcGluZ0FkZHJlc3MuemlwJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iemlwIj4KCiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZF9faXRlbSBtZWRpdW0tLW9uZS1oYWxmIGxhcmdlLS1vbmUtaGFsZiI+CgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5TSElQUElORy5DT1VOVFJZJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ3NoaXBwaW5nQWRkcmVzcy5jb3VudHJ5JykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnc2hpcHBpbmdBZGRyZXNzLmNvdW50cnknKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iY291bnRyeSI+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPnt7J09QVElPTi5TSElQUElORy5DT1VOVFJZJyB8IHRyYW5zbGF0ZX19PC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uICpuZ0Zvcj0ibGV0IGNvdW50cnkgb2YgY291bnRyaWVzJCB8IGFzeW5jIiBbbmdWYWx1ZV09ImNvdW50cnkuY29kZSI+CiAgICAgICAgICAgICAgICAgIHt7Y291bnRyeS5uYW1lfX0KICAgICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgIDwvc2VsZWN0PgoKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>small</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>small</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>billingAddress</last-replace>
       <last-substitute>shippingAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1731,10 +1731,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>reg</entry>
-        <entry>)</entry>
-        <entry>NAME</entry>
         <entry>name</entry>
         <entry>DB</entry>
         <entry>dba</entry>
@@ -1750,7 +1746,11 @@
         <entry>SHIP</entry>
         <entry>bui</entry>
         <entry>billing</entry>
+        <entry>date</entry>
+        <entry>pur</entry>
         <entry>small</entry>
+        <entry>third</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>s/prefix/suffix/g</entry>
