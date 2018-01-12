@@ -318,12 +318,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1515087663754">
-        <mark key="'" line="95" column="49" />
-        <mark key="[" line="131" column="49" />
-        <mark key="]" line="131" column="49" />
-        <mark key="." line="131" column="49" />
-        <mark key="^" line="131" column="49" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1515791606009">
+        <mark key="'" line="97" column="49" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1515700290016">
         <mark key="'" line="171" column="59" />
@@ -1762,10 +1762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text encoding="base64">bmVlZGxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">bmVlZGxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>f</text>
@@ -1774,7 +1774,7 @@
         <text encoding="base64">ICAgIHt7cmVnaXN0cmF0aW9uLmdldCgnc2hpcHBpbmdBZGRyZXNzJykudG91Y2hlZH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IG5lZWRsZSA9IGFyZ3ZbJ24nXSAhPT0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1783,10 +1783,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
