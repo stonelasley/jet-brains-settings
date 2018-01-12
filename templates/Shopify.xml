@@ -66,4 +66,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="social-translation" value="&quot;$CHANNEL$_URL&quot;: &quot;$CHANNELTRANS$&quot;,&#10;&quot;$CHANNEL$_COUNT&quot;: &quot;Count&quot;," toReformat="false" toShortenFQNames="true">
+    <variable name="CHANNEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CHANNELTRANS" expression="capitalize(String)" defaultValue="capitalize(CHANNEL)" alwaysStopAt="false" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>

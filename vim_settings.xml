@@ -735,12 +735,12 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" timestamp="1515710178660">
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" timestamp="1515715585145">
         <mark key="'" line="163" column="9" />
-        <mark key="[" line="86" column="19" />
-        <mark key="]" line="86" column="37" />
-        <mark key="^" line="86" column="37" />
-        <mark key="." line="86" column="37" />
+        <mark key="[" line="175" column="3" />
+        <mark key="]" line="175" column="11" />
+        <mark key="^" line="175" column="11" />
+        <mark key="." line="175" column="11" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" timestamp="1514930219855">
         <mark key="'" line="31" column="4" />
@@ -841,11 +841,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515710544706">
-        <mark key="'" line="30" column="113" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515718141758">
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="125" column="49" />
+        <mark key="]" line="125" column="58" />
+        <mark key="." line="125" column="58" />
+        <mark key="^" line="125" column="58" />
       </file>
       <file name="P:/Projects/Blendtec/untitled/main.js" timestamp="1505766347188">
         <mark key="[" line="88" column="27" />
@@ -1014,6 +1015,13 @@
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
+      </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" timestamp="1515718131985">
+        <mark key="'" line="109" column="26" />
+        <mark key="[" line="113" column="26" />
+        <mark key="]" line="113" column="37" />
+        <mark key="." line="113" column="37" />
+        <mark key="^" line="113" column="37" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/core/components/pop-menu.component.ts" timestamp="1500059568980">
         <mark key="[" line="28" column="16" />
@@ -1582,23 +1590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="21" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="134" column="10" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="174" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="180" column="20" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="183" column="18" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="191" column="27" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="68" column="38" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="7" column="40" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="15" column="0" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="195" column="0" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
-      <jump line="36" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="41" column="10" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="8" column="6" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="9" column="6" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="54" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="10" column="32" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="67" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="32" column="8" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="11" column="38" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
@@ -1682,75 +1673,80 @@
       <jump line="29" column="52" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="30" column="37" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="31" column="113" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="36" column="10" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="14" column="22" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="6" column="36" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="19" column="10" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="20" column="4" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="21" column="8" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="46" column="4" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="64" column="39" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="700" column="58" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="697" column="27" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="691" column="34" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="8" column="36" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="91" column="4" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="93" column="17" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="94" column="4" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="95" column="4" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
+      <jump line="109" column="26" filename="P:/Projects/Blendtec/dealer-application/src/assets/i18n/en.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxsaSAqbmdJZj0icmVnaXN0cmF0aW9uLmdldCgnY29udGFjdC5maXJzdE5hbWUnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCdjb250YWN0LmZpcnN0TmFtZScpLnRvdWNoZWQiPgogICAgICAgICAgICB7eydWQUxJREFUSU9OLlJFUVVJUkVEX0NPTlRBQ1RfRklSU1ROQU1FJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICA8L2xpPg==</text>
+        <text>REGISTRATION</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>REGISTRATION</text>
       </register>
       <register name="/" type="4">
-        <text>stion</text>
+        <text>L</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnd2Vic2l0ZS52aXNpdHMnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCd3ZWJzaXRlLnZpc2l0cycpLnRvdWNoZWQgfHwK</text>
+        <text encoding="base64">ICAgICJSRVFVSVJFRF9CSUxMSU5HX0xJQ0VOU0UiOiAiQnVzaW5lc3MgTGljZW5zZSBudW1iZXIgaXMgcmVxdWlyZWQiLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxsaSAqbmdJZj0icmVnaXN0cmF0aW9uLmdldCgnY29udGFjdC5maXJzdE5hbWUnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCdjb250YWN0LmZpcnN0TmFtZScpLnRvdWNoZWQiPgogICAgICAgICAgICB7eydWQUxJREFUSU9OLlJFUVVJUkVEX0NPTlRBQ1RfRklSU1ROQU1FJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICA8L2xpPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiRVJST1IiOiB7CiAgICAiU1VCTUlTU0lPTl9GQUlMRUQiOiAiUmVnaXN0cmF0aW9uIGZhaWxlZCBwbGVhc2UgdHJ5IGFnYWluIGxhdGVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAvLyByZWdpc3RyYXRpb24uZ2V0KCdjb250YWN0LmZpcnN0TmFtZScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIHJlZ2lzdHJhdGlvbi5nZXQoJ2NvbnRhY3QuZmlyc3ROYW1lJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ3dlYnNpdGUudG9vbHMnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCd3ZWJzaXRlLnRvb2xzJykudG91Y2hlZH0iCg==</text>
+        <text encoding="base64">ICAgICJSRVFVSVJFRF9QVVJDSEFTRV9EQVRFIjogIlB1cmNoYXNlIERhdGUgaXMgcmVxdWlyZWQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IHJlZ2lzdHJhdGlvbi5nZXQoJ2J1c2luZXNzLnRheEV4ZW1wdE51bScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIHJlZ2lzdHJhdGlvbi5nZXQoJ2J1c2luZXNzLnRheEV4ZW1wdE51bScpLnRvdWNoZWR9Igo=</text>
+        <text encoding="base64">ICAgICJSRVFVSVJFRF9TVUZGSVgiOiAiU2VyaWFsIHN1ZmZpeCBpcyByZXF1aXJlZCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnYnVzaW5lc3MuJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnYnVzaW5lc3MuJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">ICAgICJSRVFVSVJFRF9QUkVGSVgiOiAiU2VyaWFsIHByZWZpeCBpcyByZXF1aXJlZCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">ICAgICJSRVFVSVJFRF9FTUFJTCI6ICJWYWxpZCBFbWFpbCBpcyByZXF1aXJlZCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">ICAgICJSRUdJU1RFUiI6ICJSZWdpc3RlciBQcm9kdWN0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">ICAgICJMT0NBVElPTiI6ICJTZWxlY3QgTG9jYXRpb24iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0cmF0aW9uLmdldCgnJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgcmVnaXN0cmF0aW9uLmdldCgnJykudG91Y2hlZCB8fAo=</text>
+        <text encoding="base64">ICAgICJGVUxGSUxMTUVOVF8iOiAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shipping/billing/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>stion</last-search>
+      <last-search>L</last-search>
       <last-offset />
-      <last-pattern>stion</last-pattern>
+      <last-pattern>L</last-pattern>
       <last-replace>billing</last-replace>
       <last-substitute>shipping</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry>^</entry>
-        <entry>%s/\^//g</entry>
-        <entry>phone</entry>
-        <entry>compa</entry>
-        <entry>ind</entry>
-        <entry>contact</entry>
-        <entry>company</entry>
-        <entry>comp</entry>
-        <entry>.</entry>
-        <entry>ship</entry>
         <entry>shipping</entry>
-        <entry>ss</entry>
         <entry>'</entry>
         <entry>b</entry>
         <entry>bus</entry>
@@ -1758,6 +1754,18 @@
         <entry>date</entry>
         <entry>vis</entry>
         <entry>stion</entry>
+        <entry>ss</entry>
+        <entry>S</entry>
+        <entry>N</entry>
+        <entry>D</entry>
+        <entry>U</entry>
+        <entry>input</entry>
+        <entry>type</entry>
+        <entry>last</entry>
+        <entry>T</entry>
+        <entry>P</entry>
+        <entry>CON</entry>
+        <entry>L</entry>
       </history-search>
       <history-cmd>
         <entry>%s/CountrySelect/SerialModal/g</entry>
