@@ -635,6 +635,13 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/app.component.html" timestamp="1515781470507">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+      </file>
       <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-lines-tab/sales-order-lines-tab.ts" timestamp="1515543331373">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="19" />
@@ -773,11 +780,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" timestamp="1515781056806">
-        <mark key="[" line="185" column="13" />
-        <mark key="]" line="185" column="23" />
-        <mark key="." line="185" column="23" />
-        <mark key="^" line="185" column="23" />
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" timestamp="1515781444479">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="P:/Projects/Edible/freshmobile/src/pick/providers/lot.service.ts" timestamp="1514930219855">
         <mark key="'" line="31" column="4" />
@@ -872,12 +880,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515781177317">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="85" column="14" />
-        <mark key="]" line="85" column="14" />
-        <mark key="." line="85" column="14" />
-        <mark key="^" line="85" column="14" />
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1515781504203">
+        <mark key="'" line="4" column="45" />
+        <mark key="[" line="706" column="30" />
+        <mark key="]" line="706" column="33" />
+        <mark key="." line="706" column="33" />
+        <mark key="^" line="706" column="33" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/app/models/address.interface.ts" timestamp="1515718231171">
         <mark key="[" line="7" column="0" />
@@ -1293,12 +1301,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" timestamp="1515781231148">
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" timestamp="1515781348708">
         <mark key="'" line="13" column="10" />
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="27" />
-        <mark key="." line="71" column="27" />
-        <mark key="^" line="71" column="27" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/app/services/registration.service.ts" timestamp="1515720555540">
         <mark key="[" line="11" column="23" />
@@ -1645,10 +1653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="79" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="166" column="42" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="184" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
-      <jump line="193" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="195" column="52" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="197" column="73" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="212" column="7" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
@@ -1745,16 +1749,20 @@
       <jump line="94" column="30" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
       <jump line="8" column="0" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" />
       <jump line="13" column="10" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" />
+      <jump line="111" column="63" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
+      <jump line="26" column="19" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
+      <jump line="1" column="9" filename="P:/Projects/Blendtec/dealer-application/src/app/app.component.html" />
+      <jump line="4" column="45" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ApplicbationService</text>
+        <text>registration</text>
       </register>
       <register name="-" type="4">
-        <text>ApplicbationService</text>
+        <text>registration</text>
       </register>
       <register name="/" type="4">
-        <text>Application</text>
+        <text>registration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHt7cmVnaXN0cmF0aW9uLmdldCgnc2hpcHBpbmdBZGRyZXNzJykudG91Y2hlZH19Cg==</text>
@@ -1787,22 +1795,20 @@
         <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/registration/application/g</text>
+        <text>%s/registration/form/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Application</last-search>
+      <last-search>registration</last-search>
       <last-offset />
-      <last-pattern>Application</last-pattern>
-      <last-replace>application</last-replace>
+      <last-pattern>registration</last-pattern>
+      <last-replace>form</last-replace>
       <last-substitute>registration</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>N</entry>
-        <entry>D</entry>
         <entry>U</entry>
         <entry>input</entry>
         <entry>type</entry>
@@ -1818,12 +1824,13 @@
         <entry>BILL</entry>
         <entry>(</entry>
         <entry>Registration</entry>
-        <entry>registration</entry>
         <entry>registrationError</entry>
         <entry>Application</entry>
+        <entry>registration.get</entry>
+        <entry>reg</entry>
+        <entry>registration</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/registration/dealer-application/g</entry>
         <entry>s/contact//gc</entry>
         <entry>%s/contact//gc</entry>
         <entry>s/first/last/g</entry>
@@ -1833,7 +1840,6 @@
         <entry>%s/STATE/SHIPPING_STATE/gc</entry>
         <entry>%s/COUNTRY/SHIPPING.COUNTRY/g</entry>
         <entry>%s/shippingAddress/billingAddress/gc</entry>
-        <entry>%s/registration/form/g</entry>
         <entry>%s/registration/form/gc</entry>
         <entry>q</entry>
         <entry>%s/^//g</entry>
@@ -1843,6 +1849,8 @@
         <entry>w</entry>
         <entry>%s/Registration/Application/g</entry>
         <entry>%s/registration/application/g</entry>
+        <entry>%s/registration.get/form.get/g</entry>
+        <entry>%s/registration/form/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
