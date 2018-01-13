@@ -43,8 +43,43 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="then" value="then(($VAR$) =&gt; $END$)" description="" toReformat="true" toShortenFQNames="true">
+  <template name="vthen" value="then(($VAR$) =&gt; {$END$})" description="then with full arrow syntax" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lintdisable" value="/* tslint:disable */" description="tslint disable comment" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="lintenable" value="/* tslint:enable */" description="tslint enable comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="then" value="then($VAR$ =&gt; $END$)" description="then with shorter arrow syntax" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="vsub" value="subscribe(($VAR$) =&gt; {$END$});" description="verbose subscribe call" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="sub" value="subscribe($VAR$ =&gt; $END$);" description="subscribe with shorter arrow syntax" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="index" value="import { $TYPE$ } from './$FILENAME$';&#10;&#10;export { &#10;    $TYPE$&#10;}&#10;&#10;export const $END$ = [&#10;    $TYPE$&#10;];" description="exports file" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
