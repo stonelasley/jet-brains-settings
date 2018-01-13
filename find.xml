@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,25 +16,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>ex</mask>
-      <mask>e</mask>
-      <mask>ind</mask>
-      <mask>inde</mask>
-      <mask>index</mask>
-      <mask>index.</mask>
-      <mask>index.t</mask>
-      <mask>index.ts</mask>
-      <mask>inde.ts</mask>
-      <mask>ind.ts</mask>
-      <mask>in.ts</mask>
-      <mask>i.ts</mask>
-      <mask>.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
+      <mask>*.s</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>

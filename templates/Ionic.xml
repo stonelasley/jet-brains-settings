@@ -1,0 +1,8 @@
+<templateSet group="Ionic">
+  <template name="ionmodule" value="import { NgModule } from '@angular/core';&#10;import { IonicPageModule } from 'ionic-angular';&#10;import { $CLASSNAME$ } from './$END$';&#10;&#10;@NgModule({&#10;  declarations: [&#10;    $CLASSNAME$,&#10;  ],&#10;  imports: [&#10;    IonicPageModule.forChild($CLASSNAME$),&#10;  ],&#10;})&#10;export class $CLASSNAME$Module {}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
