@@ -651,6 +651,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.module.ts" timestamp="1515896614812" />
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="37" column="0" />
@@ -875,7 +876,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514681376978">
+      <file name="/Dummy.txt" timestamp="1515896619333">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1216,11 +1217,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1515896442263">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="68" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1515896516798">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="39" column="14" />
-        <mark key="." line="45" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/index.ts" timestamp="1491323624077">
         <mark key="[" line="1" column="56" />
@@ -2216,7 +2217,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gdGhpcy5ldmVudHMucHVibGlzaChQdWJsaXNoRXZlbnRzLkZ1bGxTeW5jKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2231,31 +2232,31 @@
         <text encoding="base64">CQlwbGF0Zm9ybS5yZWFkeSgpCgkJCS50aGVuKCgpID0+IHRoaXMubGlzdGVuVG9Mb2dpbkV2ZW50cyhldmVudHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gdGhpcy5ldmVudHMucHVibGlzaChQdWJsaXNoRXZlbnRzLkZ1bGxTeW5jKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlldmVudHMuc3Vic2NyaWJlKFB1Ymxpc2hFdmVudHMuVXNlckxvZ291dCwgdGlzLm9uTG9nb3V0LmJpbmQodGhpcykpOwo=</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gdGhpcy5ldmVudHMucHVibGlzaChQdWJsaXNoRXZlbnRzLkZ1bGxTeW5jKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlldmVudHMuc3Vic2NyaWJlKFB1Ymxpc2hFdmVudHMuVXNlckxvZ291dCwgdGlzLm9uTG9nb3V0LmJpbmQodGhpcykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdGhpcy5fZGIuc2V0dXBEYih0cnVlKTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgb25Mb2dvdXQoKTogUHJvbWlzZTx2b2lkPiB7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdGhpcy5fZGIuc2V0dXBEYih0cnVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgb25Mb2dvdXQoKTogUHJvbWlzZTx2b2lkPiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlldmVudHMuc3Vic2NyaWJlKFB1Ymxpc2hFdmVudHMuVXNlckxvZ291dCwgdGhpcy5vbkxvZ291dC5iaW5kKHRoaXMpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlldmVudHMuc3Vic2NyaWJlKFB1Ymxpc2hFdmVudHMuVXNlckxvZ291dCwgdGhpcy5vbkxvZ291dC5iaW5kKHRoaXMpKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
