@@ -178,6 +178,13 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" timestamp="1515887872676">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="3" column="30" />
+      </file>
       <file name="E:/Projects/Personal/ionic-mocks/.gitignore" timestamp="1491331138653">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="42" column="2" />
@@ -243,6 +250,12 @@
         <mark key="]" line="2" column="49" />
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1515887478835">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
@@ -2047,9 +2060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="E:/Projects/Freshbyte/freshmobile/src/sales/models/sales-order.ts" />
-      <jump line="41" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
-      <jump line="7" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/components/main-menu.directive.ts" />
       <jump line="95" column="12" filename="E:/Projects/Freshbyte/fb-pricing/package.json" />
       <jump line="16" column="31" filename="E:/Projects/Freshbyte/freshmobile/tsconfig.json" />
       <jump line="2" column="25" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
@@ -2147,66 +2157,68 @@
       <jump line="59" column="29" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
       <jump line="6" column="12" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
       <jump line="20" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales/sales.module.ts" />
+      <jump line="62" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="29" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
+      <jump line="5" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cE1vZHVsZSB9ICAgICAgICAgICAgICAgICAgIGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzLCBQbGF0Zm9ybSB9IGZyb20gJ2lvbmljLWFuZ3VsYXInOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQkJCSA=</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XCBcIFwgXCA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlleHBlY3QobWVudUl0ZW0udGl0bGUpLnRvQmUoJ2ZvbycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cE1vZHVsZSB9ICAgICAgICAgICAgICAgICAgIGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzLCBQbGF0Zm9ybSB9IGZyb20gJ2lvbmljLWFuZ3VsYXInOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cE1vZHVsZSB9ICAgICAgICAgICAgICAgICAgIGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9odHRwIjogIjUuMC4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyB0aGlzLmRlc3Ryb3lEZWZhdWx0TG9hZGluZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRlc2NyaWJlKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgQWxsb2NhdGlvblNlcnZpY2UgfSBmcm9tICcuL21vZHVsZXMvc2FsZXMtbGl2ZS9wcm92aWRlcnMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29tcG9uZW50Lm1lbnVJdGVtcyA9IFtdOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4uL2NvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnTUVOVScsIGNvbXBvbmVudC5tZW51SXRlbXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9naW4sIEF1dGhTZXJ2aWNlIH0gZnJvbSAnLi4vYXV0aCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4vbW9kdWxlcy9jb3JlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9jYWxEYiwgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/\ \ \ \ /\t/g</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XCBcIFwgXCA=</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
-      <last-replace>onAuthentication</last-replace>
-      <last-substitute>onLogin</last-substitute>
+      <last-pattern encoding="base64">XCBcIFwgXCA=</last-pattern>
+      <last-replace>\t</last-replace>
+      <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
         <entry>then</entry>
         <entry>C</entry>
         <entry>Click</entry>
@@ -2226,6 +2238,7 @@
         <entry>\</entry>
         <entry>(</entry>
         <entry>http</entry>
+        <entry encoding="base64">XCBcIFwgXCA=</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -2242,12 +2255,12 @@
         <entry>%s/this._logger/this._loggerSrvc/g</entry>
         <entry>we</entry>
         <entry>s/,\ /,\r/g</entry>
-        <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
         <entry>q</entry>
         <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>%s/\ \ \ \ /\t/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
