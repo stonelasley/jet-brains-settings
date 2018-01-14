@@ -833,6 +833,13 @@
         <mark key="^" line="13" column="99" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" timestamp="1515893238539">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-gs-one-handler.service.spec.ts" timestamp="1491931356429">
         <mark key="'" line="4" column="51" />
         <mark key="[" line="3" column="51" />
@@ -2074,7 +2081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="31" filename="E:/Projects/Freshbyte/freshmobile/tsconfig.json" />
       <jump line="2" column="25" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
       <jump line="141" column="0" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
       <jump line="20" column="16" filename="E:/Projects/Freshbyte/freshmobile/src/sales/providers/sales-order.service.ts" />
@@ -2174,66 +2180,66 @@
       <jump line="5" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
       <jump line="18" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.component.ts" />
       <jump line="25" column="28" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="9" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subscribe</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>subscribe</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>men</text>
+        <text>PICK_COMPONENTS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlleHBlY3QobWVudUl0ZW0udGl0bGUpLnRvQmUoJ2ZvbycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzLCBQbGF0Zm9ybSB9IGZyb20gJ2lvbmljLWFuZ3VsYXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gICAgICAgICAgICAgICAgIGZyb20gJy4uL2NvbW1vbi9jb21tb24ubW9kdWxlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUElDS19DT01QT05FTlRTIH0gICAgICAgICAgICAgIGZyb20gJy4vY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzLCBQbGF0Zm9ybSB9IGZyb20gJ2lvbmljLWFuZ3VsYXInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyB0aGlzLmRlc3Ryb3lEZWZhdWx0TG9hZGluZygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxsb2NhdGlvblNlcnZpY2UgfSBmcm9tICcuL21vZHVsZXMvc2FsZXMtbGl2ZS9wcm92aWRlcnMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4uL2NvcmUnOwo=</text>
+        <text encoding="base64">CQkvLyB0aGlzLmRlc3Ryb3lEZWZhdWx0TG9hZGluZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9naW4sIEF1dGhTZXJ2aWNlIH0gZnJvbSAnLi4vYXV0aCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQWxsb2NhdGlvblNlcnZpY2UgfSBmcm9tICcuL21vZHVsZXMvc2FsZXMtbGl2ZS9wcm92aWRlcnMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4vbW9kdWxlcy9jb3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4uL2NvcmUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9jYWxEYiwgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9naW4sIEF1dGhTZXJ2aWNlIH0gZnJvbSAnLi4vYXV0aCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>men</last-search>
+      <last-search>PICK_COMPONENTS</last-search>
       <last-offset />
-      <last-pattern>men</last-pattern>
-      <last-replace>\t</last-replace>
-      <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
+      <last-pattern>PICK_COMPONENTS</last-pattern>
+      <last-replace>PickComponent</last-replace>
+      <last-substitute>PICK_COMPONENTS</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Click</entry>
         <entry>I</entry>
         <entry>Array</entry>
         <entry>syncLoading</entry>
@@ -2253,9 +2259,9 @@
         <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>pick</entry>
         <entry>men</entry>
+        <entry>PICK_COMPONENTS</entry>
       </history-search>
       <history-cmd>
-        <entry>2w</entry>
         <entry>%s/\t/    /g</entry>
         <entry>%s/let\ /let\ _/g</entry>
         <entry>wjk;w</entry>
@@ -2274,6 +2280,7 @@
         <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>w</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
+        <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
