@@ -33,9 +33,6 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" timestamp="1514673024429">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/itf-14.reader.spec.ts" timestamp="1489249540377">
         <mark key="'" line="2" column="34" />
         <mark key="[" line="0" column="0" />
@@ -128,12 +125,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.component.ts" timestamp="1515891622658">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.component.ts" timestamp="1515893379424">
         <mark key="'" line="19" column="26" />
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
@@ -185,7 +181,7 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" timestamp="1515889058173">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" timestamp="1515893447840">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="49" />
@@ -258,12 +254,12 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1515891563297">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1515894185163">
         <mark key="'" line="25" column="28" />
-        <mark key="[" line="25" column="63" />
-        <mark key="]" line="25" column="63" />
-        <mark key="." line="25" column="63" />
-        <mark key="^" line="25" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
@@ -1088,6 +1084,12 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/index.ts" timestamp="1515894254809">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.html" timestamp="1490295599974">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="42" />
@@ -1148,6 +1150,12 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" timestamp="1515894311184">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/signup/signup.ts" timestamp="1488670742016">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="29" column="4" />
@@ -1201,6 +1209,13 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1515894512584">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="10" column="59" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/index.ts" timestamp="1491323624077">
         <mark key="[" line="1" column="56" />
@@ -1839,6 +1854,12 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="47" column="4" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" timestamp="1515894528791">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.spec.ts" timestamp="1491871907415">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="5" column="45" />
@@ -1857,6 +1878,12 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/auth/auth.component.ts" timestamp="1515894152906">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-validator.service.spec.ts" timestamp="1490126032497">
         <mark key="'" line="85" column="16" />
@@ -2081,9 +2108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="25" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
-      <jump line="141" column="0" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
-      <jump line="20" column="16" filename="E:/Projects/Freshbyte/freshmobile/src/sales/providers/sales-order.service.ts" />
       <jump line="46" column="28" filename="E:/Projects/Freshbyte/fb-mobile-core/package.json" />
       <jump line="0" column="4" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
       <jump line="138" column="0" filename="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" />
@@ -2181,60 +2205,63 @@
       <jump line="18" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.component.ts" />
       <jump line="25" column="28" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="9" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" />
+      <jump line="22" column="52" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
+      <jump line="42" column="24" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
+      <jump line="23" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LnRoZW4oKCkgPT4g</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LnRoZW4oKCkgPT4g</text>
       </register>
       <register name="/" type="4">
-        <text>PICK_COMPONENTS</text>
+        <text encoding="base64">XCBcIFwgXCA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlleHBlY3QobWVudUl0ZW0udGl0bGUpLnRvQmUoJ2ZvbycpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5hbGwoQ09NTU9OX1RBQkxFUwoJCQkuZmlsdGVyKHQgPT4gdC5zeW5jKQoJCQkubWFwKHQgPT4gIHsKCQkJCWlmKHQubmFtZSA9PT0gJ2l0ZW1zJykgewoJCQkJCXRoaXMuX3RhYmxlU3luY1NlcnZpY2Uuc3luYyh0Lm5hbWUsIHsgZ2V0QXZhaWxhYmlsaXR5OiB0aGlzLl9hdXRoU3J2Yy5saWNlbnNlZCgnU2FsZXNMaXZlJyksIHN0YXJ0SWQ6IDAgfSk7CgkJCQl9IGVsc2UgewoJCQkJCXRoaXMuX3RhYmxlU3luY1NlcnZpY2Uuc3luYyh0Lm5hbWUsIHsgc3RhcnRJZDogMCB9KTsKCQkJCX0KCQkJfSkKCQkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gICAgICAgICAgICAgICAgIGZyb20gJy4uL2NvbW1vbi9jb21tb24ubW9kdWxlJzsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnU1lOQ0lORyBDT01NT04nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUElDS19DT01QT05FTlRTIH0gICAgICAgICAgICAgIGZyb20gJy4vY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">CQlldmVudHMuc3Vic2NyaWJlKFB1Ymxpc2hFdmVudHMuRnVsbFN5bmMsIHRoaXMuc3luYy5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzLCBQbGF0Zm9ybSB9IGZyb20gJ2lvbmljLWFuZ3VsYXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
+        <text encoding="base64">ZXhwb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnLi9jb21tb24ubW9kdWxlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUvbW9kZWxzJzsK</text>
+        <text encoding="base64">CQkJCQk8ZmItY29tbW9uPjwvZmItY29tbW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyB0aGlzLmRlc3Ryb3lEZWZhdWx0TG9hZGluZygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHVibGlzaEV2ZW50cyB9IGZyb20gJy4uL2NvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxsb2NhdGlvblNlcnZpY2UgfSBmcm9tICcuL21vZHVsZXMvc2FsZXMtbGl2ZS9wcm92aWRlcnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGl2aXR5U2VydmljZSwgQW5hbHl0aWNzU2VydmljZSB9IGZyb20gJy4uL2NvcmUnOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9naW4sIEF1dGhTZXJ2aWNlIH0gZnJvbSAnLi4vYXV0aCc7Cg==</text>
+        <text encoding="base64">CQl0aGlzLl9ldmVudHMucHVibGlzaChQdWJsaXNoRXZlbnRzLkZ1bGxTeW5jKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>PICK_COMPONENTS</last-search>
+      <last-search encoding="base64">XCBcIFwgXCA=</last-search>
       <last-offset />
-      <last-pattern>PICK_COMPONENTS</last-pattern>
-      <last-replace>PickComponent</last-replace>
-      <last-substitute>PICK_COMPONENTS</last-substitute>
+      <last-pattern encoding="base64">XCBcIFwgXCA=</last-pattern>
+      <last-replace>\t</last-replace>
+      <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2256,10 +2283,10 @@
         <entry>\</entry>
         <entry>(</entry>
         <entry>http</entry>
-        <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>pick</entry>
         <entry>men</entry>
         <entry>PICK_COMPONENTS</entry>
+        <entry encoding="base64">XCBcIFwgXCA=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\t/    /g</entry>
@@ -2279,8 +2306,8 @@
         <entry>q</entry>
         <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>w</entry>
-        <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
+        <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
