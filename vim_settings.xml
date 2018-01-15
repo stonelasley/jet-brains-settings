@@ -1189,11 +1189,10 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1516040650430">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1516041663881">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
@@ -2050,7 +2049,13 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1516040625660" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1516042054895">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="27" />
@@ -2120,7 +2125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="29" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="83" column="33" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="106" column="39" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="130" column="43" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
@@ -2220,66 +2224,66 @@
       <jump line="36" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="41" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="42" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
+      <jump line="6" column="13" filename="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNTA3MDdhZGExODdmZDc3NTE4OGVkZTEzMWUyMzgzN2NkNzk2NDM0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>process.env.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>process.env.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XCBcIFwgXCA=</text>
+        <text>process.env.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY3VyZTogQU1BWk9OX1NFQ1JFVF9BQ0NFU1NfS0VZIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNTA3MDdhZGExODdmZDc3NTE4OGVkZTEzMWUyMzgzN2NkNzk2NDM0Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA0MzdlYmM3YWY5ZTVkZDEyNWZlOTA3ZmRlMzY4NDU0ZWExZTAxOWJmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogWjljbzdnSW1LcEFVbGt4enBUVHl5QTIwWWlBM2xML1EzS0hJc09TdHdoU3doY1UraTJuL3dsM3FZc05sRXJuamc3aGFJd0phWmt5S3JZREtXamR6QktSVitKQWFlcjVwbjNlajhOWWZYcG9ucnREMUZaK0hWQ0dMcVpaR0FmOGhhV3p0TFVZb0I0eVdtb0MxZ2hSUENYWkcwbHYvVDUrNHF0N3VHUW1vRUFGQXExUExJR0FTU3MvbVdFd2RNVGpwU2plTnRlN0EyNGtYRGtUV1dXMDlSYWZBUWU3MWpPODIveEUyN2lyTms0YysxQkVmUFJhRHRVS0M5TXltOVpuZUpLK2U4UVV4YU04TVgzVnRVd3dtbm9jSkdMT0RDN200T3hBWnZ3VnlVTkVQbDY4NlVxV1JQdytMWTRMUS82N1FnOCtnVWhER2FqSFVvdzZjcSszdkJydWtxc0g0WmhtWEdtTWdzeHY0Y21qeFcxNjFWTWlMb2hvUnVtNGx0SnBFbDNMZHY4NjJGMlYyaGxMbXdEMGZUbHF2ZHNJZkgrRnVXVjEwZ1lnWGRwZG5PYmpKMlYxRk1ucy9YVUZHZ1JxYWJLS21EM3hYa3lETDd1aUtFV3FQQXdWaXhaVnNGQ2VuUHROc1VieUE4RTRiNVp0TVZBUHNqbldaeUpxUU5uTk4veEw5Z0xnU1UxTEl1T2Q2ZThYcHR2Mmg1aGxrN1h3TEdDdVdOZDlvZVdPaERsV1FWODFmL3RWK2s3OFNuMXNvZUE0Y2p4SlFZOUVjTUdSVHd2R2txNENzcFRKQmJLUThSQzBnc0xXN1BpbXZyQXNMakRlTHVJOFREaVdNMHQ4UGNIdFEvZ0IrdHhpR1MrUldKWUFOS0Q0dHdoOUhjSjNManlrWmhsMmNvdUU9Cg==</text>
+        <text encoding="base64">PT09PT09PQogIGFjY2Vzc19rZXlfaWQ6IHByb2Nlc3MuZW52LkFNQVpPTl9BQ0NFU1NfS0VZX0lECiAgc2VjcmV0X2FjY2Vzc19rZXk6CiAgICBzZWN1cmU6IHByb2Nlc3MuZW52LkFNQVpPTl9TRUNSRVRfQUNDRVNTX0tFWQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogSE04aHJadVlDTGtqSjE3QzlFc1BxaWVJYlBZVHpuTnU3a1MzcFJwQy9GYjk4SnBvdDFQNFNIMTgzZkwvWUh5UE1TOW1FYThmcFAwQnQwd3I1Uk1rb2JvUEt1TGUwd1ZKcjFvdHozM2RrOXpiNjc1NStWWGl2WmJTK0ZxZFNVSDBSZlk5eXYvanhZWFE5aDUrVGVtakp2SmRMUU9YcmFmbHRZeVRnTDVvUjdPbFNXa1MxcDZmdmJDS0RDVWhaNEJEN0tlVmRTYXlBMEloT2o0ZjZIY0lISkRGaGh5V2UvR291dHhVRy9aSmV2bnozWmlXWnIrc3FxQUo5STh3dVovSnU2Q0dkL0lpclQ3N1hPQ3ZPcTNJaGNJZkdQT3hWR3ZEMFNzVFNRV0JoeGRhVCtjMDV3d3pLN25wRmhtdlE4WXVmZXZnWldWdlplTERtVFpNMlNsQityNjN1a2hGcWI1cXA0YStTTVFOd2dnNktEL3lMa3I1R2hhZ1YrNkFGUU9kSE1Ed3RJdGJBdVRWMTB5TmFOWWVmRGRkcG5jVTdoMVJMQUNxNXQrT1N1S004eDN6S3ZMdnVkSzhRMUZBaUt0YmVkcWxNckhnR3dGamxIS25kc0FxaUxDc1FaR3pjT2ZuU2FTWDJ0RFc3Rmx1YXQ2ZHV2cG1UTkdzWGd5YUZPT3QyZXZIelZrRWVTcWw1VDhIVTI0S0R0d3k4V0w0M25SUUFnazIySTA5VU9ETlJLRmhPaytkVnhHd3dnTjZndHlQdlBGbXhGYTNWVGNiVVc4aUw3czRRM05tcTJ2UEJuano0THpJUDRZbVJUekt3ZmdmRTFYVkVtOWFKeFQwU1lPZzdnQUZJVFo4RlZScXdMdVlDYndacEZpWXhkd3pDNUdBYXlBcjVLdGZlYUk9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogT0U1TThzNFJLekpaejhlRDl3Zmx2NE0xK005bzBSZE94OU5QMHBYK3hFb0dmMUswTjNWQ1c3VnBWMVFKeFBLRXI2d09pMkdnYWdvK3ZKMDYwbUlsaXdxeEU3MHEvTTBEVkV1RFNSTzFIQ1Nyc1hYSVZnSlE0dUg4VndubzZvVlZNZDd3N0ZWSGw5QzJERVFCSU01N0kwRWFuc0xQVWp5MzVmYlp0QnU1RjlRbmZTV3pNUGFZaUxIeTBSanVFZmxSN2VNZm5FWGFzRk1acjFTdmxpbGs3L1huaFNYcjRPbW8zZjVMUVB0S29WWkJabWFjbC9uU0VaOVFWR1VUS0tJaU1ZQzJyUy95ZHkrbk5RbXpVYTV0N1JlemlWY29LbTNVeWZiank1b3Z4YTJycEVIS1ZxaC9FZzBZdGtLQXQwUnk0cFYzbVI4RlNlWThHZzdCVUpnTnFqNno5aDdDL3VDWmlETUp5T3lwQ0FROXhlakF1YmRtTE9XOTJhRWg3QnkrTnoyZ3M0Tm5GVW4yR1N3NWNLa0xwbUxaRmNmRGtrdXd5UStrVDJMb0dFMXU4UHdqeFYweXl3bWFzVjVUdDVxMFpTNHNuSFkvd0IzSFk2ZlFqWVhXSFNmOURwVU5NU1ZWZDB2aFg3SlVXcmhMdkZlNFprak91bHloTjU0MnFmcnFGYnc2OWVweDl3UFF4ZmhPRXZQUFpBZFptMzZKZEdhTkkxWnRZazZIMUg5WkN1TURDay9zZzMrdDVsL1B2S3ZWaGhVZVBJUjByM2NIT3N0bSt6TFFxN0FiVDZ1NTl0dVBTVlNYNFRhYUFzK3AvYjJLK2UzcVFoTmN4OVZVbEdPYXU0M1FXYVYyZTMzVWNyRnJVYXhia3dJNGJQUzZGRFh4TXFRdmkyOE1lekk9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA0MzdlYmM3YWY5ZTVkZDEyNWZlOTA3ZmRlMzY4NDU0ZWExZTAxOWJmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogVDd5OS9WNzdCQTVnRllmUGNiTFA3eDUvQWJMOW9QcS9CN2lDd3FWNFhYcXBXZXdqRE1qcnliQUFlV3Z5Z1JVaEU3L1dvckZzZ3BnMU16MjdKakVHRWxvMFlpU1JEd2JPS0JyUWh5cU1ZYXd1QUFVcnJ6YUcwdlhXczJnekpKVDNJdi9neGxlci9UQXhWa1o2QkNSaTRBb1ZGVVpjd0pSa21sUUQ5czQ1ZXkzeUltMm5YTmZHa0QrT3RlbzlrVXE0SlFvdjVhQ1Jvb1BMSzdib09KWjJ5emZaL01DZ282TlRsN2ExWGxVbDlCOWdsM1NTQkJYQWxJR3pQbDdNVkYwZzJyeVJuT005cWhaWVZyZU94T2FxemlqZU1lM0VQNVgxN3V4YlFRb1E5elJBU2tjV2o0OEMxaGwzZVc4eDFHRFdicEc2S2l2U2JXREFYL0N0NkgyZjBjRytNWFk0KzBOV0V5UHJXQnhxVzVpZEFJbjZwVEd0U3l2Rm5yVnlGNlk0VWNWOEdvMW4rR2l4Y24zT05BVThMTzZ1ZzhJdTR1aStPTFliYk1INjlLbVFEcjFiZS81ZGFUN3FyZW05ek5yWFpqTW4waVNaam11ZCthWVIyWHZ5T0kvaEFmd1RZWEZwb1oxcWwrOFB5eHhNbjBLWW41bW9qR0dDWlhTMnRVWGJaV2U4NkdCN1lTUGJJeU0yajJCSHpnbmdvL2lzSDJaQlV6QzJ0VEtaZXJsU0NBcHAvdXdaYWlCZHRwdGZPLzB5a04yOUdDazc5THFjcDJFOWdGdi9VQ011RGIyWGFMelNQR0plU3lPSGtpL2gyZTNFV1o1WFJ6eVJjQTBWRnllWDRvQ2RHR2NLNHRZdUM1c3grdU5GTVFxTWQ1MFNJT1Jaa1lreGljbnZyNkE9Cg==</text>
+        <text encoding="base64">PT09PT09PQogIGFjY2Vzc19rZXlfaWQ6IHByb2Nlc3MuZW52LkFNQVpPTl9BQ0NFU1NfS0VZX0lECiAgc2VjcmV0X2FjY2Vzc19rZXk6CiAgICBzZWN1cmU6IHByb2Nlc3MuZW52LkFNQVpPTl9TRUNSRVRfQUNDRVNTX0tFWQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogU21GamtVbkZyRytwK2o0czVycUNMdWg2dEVWbWFrQTh6VHJkU210NlZ2OFllb052bklNZ1ZSbGF1TWdiM0VGcm5zQmdqMnc5WllVNzV3aVlIVlZSQ2RQcXkySFM5MzVLVlgvNWs3OENVcmJSaHFJRldPMmpKcURpbVdlZE8xVmROajVrTnJxNWkvalF2Yzhib2d3ZE1IYmJBdW5JYktodUpjNjJWdURjNzAvd0VVYlJDaXJwY2lQcnhwMndYNkVlWlFLRmthTWVXZENIUThYVlkvN3NHZHhIWExFSXV6cUdOanl6c3FROHpuT0hXbUFySjltODlhZm5tS29qazlqVWVBUmxCN0RHWlBMZUhqODcxa2VkK25iTXdEU0VrZFdOWmNPbkRNMkdEV3NaMFN0ZmdIdk1IKzNWV3EwQVRQb1UvM2tQejlHOUtXY3lHYzdDc1Jsd2owOVcwaU5HQjNha0g3RFBFMFB2c2pnSnVTbXZTM1NKT1JJbCtsaU12T0VGTlhYSHU1OUh2aVRFc2ZoZnl5WWE4dVh3bENKa0U4L2pxV1U2bmIwbDRLVENtTHU4ZEJGQkFFcW53UlpMdUVHZXFEMEo3MUpVeEFPd0ZMc2EzT21HSXNsdnh0TXNvcXQ2T0grNnhqNGxUS1NuWlR5a3B3RWJpZ1JsbVRvL01jQ21qTWczOEIwRGNQdjBtbkpIbyt3TXBobzJtNXg0Mlkxd2VQQnhKRERUYmZzQWE1M0IwQWNLL2lSc0pra3UzWmRHYkNKaG9Na2orZUIwRm82R2o1TTl3dytMODBsSE1kZzU4ZXJ0cTFSaGMwZGFqNm54SW1VNXVLMUlDbjVZZXZvS2JsYXh1aVE3aWhCcG4wbWpXVlZxd1dNekk4ck40aGR5Y2V6ZVdWR1RCY0U9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkNTA3MDdhZGExODdmZDc3NTE4OGVkZTEzMWUyMzgzN2NkNzk2NDM0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHNlY3VyZTogWjdYZDlndllPV3JCMWtiTXJocEprVmlJUFZtbUNQY3ErSUpqQUxBSGh2OFM2S0Z3WE0zWHljK0xtUUh6dlM2NmdwTnBrSzd6OTMvYnRIQmY3TlhScmNsaXNBbS9RdjRYRWVCT1ZFY01SV240TGFGMUh6SS9YdlJCT3hOMmlqdTluNllvREtUQ2UyL2VSS1NWWjJIRmZqYUFxNW1MaVRuMHZybGVLSUVSSlFzWHBCTGJKQTJrR3I4bXl3OUZXVkxwVHllaThRU3M5NVErY0VrR3JubExRTDM3d1dwR2x4QS9KVkRiakdXbERzL01EbGdnQStLNndUelpRZnVyektSZzZwd2NpZThTNmFNWlBuMkp1aDc3dU5KbmxLckRUVjZPcDVsekhQSGJWUkI5ZFdxaGt0UXd4bVUrQkxQNm1YQUVKcExQSitnZWF2OWV2UlFVbmhoNEFxbzFaQ3FTdHljc05ESGg4Wnl5V0d4djZ6LzBmMWtKWURyUnFDakVCRGUyYXNOTkJWTnFmbUpJSmhXdGlBVDc2WlgvMUtrUGNHR1ZsRWZ3T0IyaEVzWVRBY2Q0bFF6QzRjQkF1VStiWDZJY0FoVUFSRkFpYVBsRUU3MFBIeEppVG41NFhmZldlbDFuMjZqZXQ3SlMvSFFMcTgxS2xVMXFRZmxFYnNvbkZsTmxpcHlKejVHUElRMWZJTGJySUlOQkZOcHcxSGVFSmszRC9jNGFxTXJ6TEZ6MXc3RGp4UUxXTkpVQ1ViSXVUcG1UMFBoay83K0ZrSERVbnpYVFMvNmdKTGtkZWxRMXlCeFpleWVtbmdOVTBFc25YNWE1Qm1LaDIvNm9PQUs2SVNwUDBaR01yN3JXUk0xTUhrb3JjdS8yZ2lEdmhML0VzSlRUcWhuUjN2MW51bGM9Cg==</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnbG9iYWw6Cg==</text>
+        <text encoding="base64">ICAtIHNlY3VyZTogWjljbzdnSW1LcEFVbGt4enBUVHl5QTIwWWlBM2xML1EzS0hJc09TdHdoU3doY1UraTJuL3dsM3FZc05sRXJuamc3aGFJd0phWmt5S3JZREtXamR6QktSVitKQWFlcjVwbjNlajhOWWZYcG9ucnREMUZaK0hWQ0dMcVpaR0FmOGhhV3p0TFVZb0I0eVdtb0MxZ2hSUENYWkcwbHYvVDUrNHF0N3VHUW1vRUFGQXExUExJR0FTU3MvbVdFd2RNVGpwU2plTnRlN0EyNGtYRGtUV1dXMDlSYWZBUWU3MWpPODIveEUyN2lyTms0YysxQkVmUFJhRHRVS0M5TXltOVpuZUpLK2U4UVV4YU04TVgzVnRVd3dtbm9jSkdMT0RDN200T3hBWnZ3VnlVTkVQbDY4NlVxV1JQdytMWTRMUS82N1FnOCtnVWhER2FqSFVvdzZjcSszdkJydWtxc0g0WmhtWEdtTWdzeHY0Y21qeFcxNjFWTWlMb2hvUnVtNGx0SnBFbDNMZHY4NjJGMlYyaGxMbXdEMGZUbHF2ZHNJZkgrRnVXVjEwZ1lnWGRwZG5PYmpKMlYxRk1ucy9YVUZHZ1JxYWJLS21EM3hYa3lETDd1aUtFV3FQQXdWaXhaVnNGQ2VuUHROc1VieUE4RTRiNVp0TVZBUHNqbldaeUpxUU5uTk4veEw5Z0xnU1UxTEl1T2Q2ZThYcHR2Mmg1aGxrN1h3TEdDdVdOZDlvZVdPaERsV1FWODFmL3RWK2s3OFNuMXNvZUE0Y2p4SlFZOUVjTUdSVHd2R2txNENzcFRKQmJLUThSQzBnc0xXN1BpbXZyQXNMakRlTHVJOFREaVdNMHQ4UGNIdFEvZ0IrdHhpR1MrUldKWUFOS0Q0dHdoOUhjSjNManlrWmhsMmNvdUU9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/process.env./$/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XCBcIFwgXCA=</last-search>
+      <last-search>process.env.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XCBcIFwgXCA=</last-pattern>
-      <last-replace>\t</last-replace>
-      <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
+      <last-pattern>process.env.</last-pattern>
+      <last-replace>$</last-replace>
+      <last-substitute>process.env.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>void</entry>
         <entry>getV</entry>
         <entry>\</entry>
         <entry>(</entry>
@@ -2299,9 +2303,9 @@
         <entry>sub</entry>
         <entry>to</entry>
         <entry encoding="base64">XCBcIFwgXCA=</entry>
+        <entry>process.env.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\t/    /g</entry>
         <entry>%s/let\ /let\ _/g</entry>
         <entry>wjk;w</entry>
         <entry>%s/actualLineItem/lineItem/g</entry>
@@ -2321,6 +2325,7 @@
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/process.env./$/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
