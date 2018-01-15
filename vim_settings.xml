@@ -134,11 +134,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1516049584811">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1516051717417">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
@@ -544,11 +544,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516049508963">
-        <mark key="[" line="160" column="18" />
-        <mark key="]" line="160" column="22" />
-        <mark key="." line="160" column="22" />
-        <mark key="^" line="160" column="22" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516052639496">
+        <mark key="'" line="83" column="37" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
@@ -1107,12 +1108,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516049568381">
-        <mark key="'" line="16" column="63" />
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516051939768">
+        <mark key="'" line="59" column="40" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="33" column="64" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="64" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.html" timestamp="1490295599974">
         <mark key="'" line="0" column="0" />
@@ -1188,6 +1189,7 @@
         <mark key="." line="29" column="10" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify_stage.js" timestamp="1516037460534" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/recipe.service.js" timestamp="1516051929420" />
       <file name="E:/Projects/Freshbyte/freshmobile/config/karma.conf.js" timestamp="1491939251589">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="21" />
@@ -2144,8 +2146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="43" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
-      <jump line="169" column="35" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="15" column="45" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="19" column="30" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="14" column="4" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
@@ -2244,19 +2244,21 @@
       <jump line="6" column="13" filename="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" />
       <jump line="33" column="13" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
       <jump line="16" column="63" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
+      <jump line="38" column="40" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
+      <jump line="83" column="37" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFydGljbGVCeUhhbmRsZShibG9nSWQsIGhhbmRsZSkgewogICAgICAgIHJldHVybiB0aGlzLl9maWx0ZXIoQ09OU1RBTlRTLlVSTFMuQVJUSUNMRVMsIGJsb2dJZCwgJ2hhbmRsZScsIGhhbmRsZSk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Handle</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>handle</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFydGljbGVCeUhhbmRsZShibG9nSWQsIGhhbmRsZSkgewogICAgICAgIHJldHVybiB0aGlzLl9maWx0ZXIoQ09OU1RBTlRTLlVSTFMuQVJUSUNMRVMsIGJsb2dJZCwgJ2hhbmRsZScsIGhhbmRsZSk7CiAgICB9Cg==</text>
@@ -2289,13 +2291,13 @@
         <text encoding="base64">ICAtIHNlY3VyZTogWjljbzdnSW1LcEFVbGt4enBUVHl5QTIwWWlBM2xML1EzS0hJc09TdHdoU3doY1UraTJuL3dsM3FZc05sRXJuamc3aGFJd0phWmt5S3JZREtXamR6QktSVitKQWFlcjVwbjNlajhOWWZYcG9ucnREMUZaK0hWQ0dMcVpaR0FmOGhhV3p0TFVZb0I0eVdtb0MxZ2hSUENYWkcwbHYvVDUrNHF0N3VHUW1vRUFGQXExUExJR0FTU3MvbVdFd2RNVGpwU2plTnRlN0EyNGtYRGtUV1dXMDlSYWZBUWU3MWpPODIveEUyN2lyTms0YysxQkVmUFJhRHRVS0M5TXltOVpuZUpLK2U4UVV4YU04TVgzVnRVd3dtbm9jSkdMT0RDN200T3hBWnZ3VnlVTkVQbDY4NlVxV1JQdytMWTRMUS82N1FnOCtnVWhER2FqSFVvdzZjcSszdkJydWtxc0g0WmhtWEdtTWdzeHY0Y21qeFcxNjFWTWlMb2hvUnVtNGx0SnBFbDNMZHY4NjJGMlYyaGxMbXdEMGZUbHF2ZHNJZkgrRnVXVjEwZ1lnWGRwZG5PYmpKMlYxRk1ucy9YVUZHZ1JxYWJLS21EM3hYa3lETDd1aUtFV3FQQXdWaXhaVnNGQ2VuUHROc1VieUE4RTRiNVp0TVZBUHNqbldaeUpxUU5uTk4veEw5Z0xnU1UxTEl1T2Q2ZThYcHR2Mmg1aGxrN1h3TEdDdVdOZDlvZVdPaERsV1FWODFmL3RWK2s3OFNuMXNvZUE0Y2p4SlFZOUVjTUdSVHd2R2txNENzcFRKQmJLUThSQzBnc0xXN1BpbXZyQXNMakRlTHVJOFREaVdNMHQ4UGNIdFEvZ0IrdHhpR1MrUldKWUFOS0Q0dHdoOUhjSjNManlrWmhsMmNvdUU9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/process.env./$/gc</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>handle</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>handle</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
       <last-dir>1</last-dir>
@@ -2303,8 +2305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\</entry>
-        <entry>(</entry>
         <entry>http</entry>
         <entry>pick</entry>
         <entry>men</entry>
@@ -2323,6 +2323,8 @@
         <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>process.env.</entry>
         <entry>handle</entry>
+        <entry>blog</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
@@ -2342,9 +2344,9 @@
         <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>%s/process.env./$/gc</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
