@@ -23,4 +23,16 @@
       <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="describeprop" value="describe('$PROP$', () =&gt; {&#10;    it('should return $PROP$', () =&gt; {&#10;        expect(_classUnderTest.$PROP$).toEqual(_$PROP$);&#10;    });&#10;});" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="itdone" value="it('$SHOULD$', (done) =&gt; {&#10;    $END$&#10;});" description="async it" toReformat="true" toShortenFQNames="true">
+    <variable name="SHOULD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -11,7 +11,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="shopify-text-input" value="&lt;label class=&quot;hidden-label&quot;&gt;{{'LABEL.$FORM$_$FIELD$' | translate}}&lt;/label&gt;&#10;&lt;input class=&quot;input-full&quot; placeholder=&quot;{{'LABEL.$FORM$_$FIELD$' | translate}}&quot; type=&quot;text&quot;&#10;                   [ngClass]=&quot;{error: registration.get('$FORMPROP$.$FIELDPROP$').hasError('required') &amp;&amp; registration.get('$FORMPROP$.$FIELDPROP$').touched}&quot;&#10;                   formControlName=&quot;$FIELDPROP$&quot;&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="shopify-text-input" value="&lt;label class=&quot;hidden-label&quot;&gt;{{'LABEL.$FORM$_$FIELD$' | translate}}&lt;/label&gt;&#10;&lt;input class=&quot;input-full&quot; placeholder=&quot;{{'LABEL.$FORM$_$FIELD$' | translate}}&quot; type=&quot;text&quot;&#10;                   [ngClass]=&quot;{error: registration.get('$FORMPROP$.$FIELDPROP$').hasError('required') &amp;&amp; registration.get('$FORMPROP$.$FIELDPROP$').touched}&quot;&#10;                   formControlName=&quot;$FIELDPROP$&quot;&gt;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="FORM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FORMPROP" expression="lowercaseAndDash(String)" defaultValue="lowercaseAndDash(FORM)" alwaysStopAt="false" />
@@ -66,7 +66,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="social-translation" value="&quot;$CHANNEL$_URL&quot;: &quot;$CHANNELTRANS$&quot;,&#10;&quot;$CHANNEL$_COUNT&quot;: &quot;Count&quot;," toReformat="false" toShortenFQNames="true">
+  <template name="social-translation" value="&quot;$CHANNEL$_URL&quot;: &quot;$CHANNELTRANS$&quot;,&#10;&quot;$CHANNEL$_COUNT&quot;: &quot;Count&quot;," description="" toReformat="false" toShortenFQNames="true">
     <variable name="CHANNEL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CHANNELTRANS" expression="capitalize(String)" defaultValue="capitalize(CHANNEL)" alwaysStopAt="false" />
     <context>
