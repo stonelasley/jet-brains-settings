@@ -544,12 +544,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516112513490">
-        <mark key="'" line="162" column="60" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="163" column="92" />
-        <mark key="." line="168" column="0" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516113067060">
+        <mark key="'" line="163" column="34" />
+        <mark key="[" line="163" column="46" />
+        <mark key="]" line="164" column="67" />
+        <mark key="^" line="164" column="67" />
+        <mark key="." line="164" column="67" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
@@ -1108,12 +1108,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516112568650">
-        <mark key="'" line="62" column="16" />
-        <mark key="[" line="71" column="39" />
-        <mark key="]" line="71" column="45" />
-        <mark key="." line="71" column="45" />
-        <mark key="^" line="71" column="45" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516113476284">
+        <mark key="'" line="70" column="20" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+        <mark key="^" line="76" column="14" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.html" timestamp="1490295599974">
         <mark key="'" line="0" column="0" />
@@ -2146,9 +2146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="37" filename="E:/Projects/Freshbyte/freshmobile/src/app/app.module.ts" />
-      <jump line="46" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/app/sales-live-db.config.ts" />
-      <jump line="79" column="28" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="82" column="25" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
       <jump line="67" column="9" filename="E:/Projects/Freshbyte/freshmobile/src/auth/providers/auth.service.ts" />
       <jump line="67" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" />
@@ -2246,69 +2243,68 @@
       <jump line="161" column="77" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="174" column="0" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="162" column="60" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="69" column="4" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
+      <jump line="163" column="34" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="70" column="20" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>articleById</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>articleById</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdldEJ5SWQoYXJ0aWNsZUlkKSB7CgkJcmV0dXJuIG5ldyBQcm9taXNlKChyZXMsIHJlaikgPT4gewoJCQlsZXQgdXJsID0gdGhpcy5fdXJsQnVpbGRlci5hcnRpY2xlQnlJZChhcnRpY2xlSWQpOwoKCQkJaWYgKHRoaXMuX3ZlcmJvc2UgfHwgdGhpcy5fZHJ5UnVuKSB7CgkJCQljb25zb2xlLmxvZygnR0VUOicsIHVybCk7CgkJCX0KCQkJdGhpcy5fYXBpLmdldCh1cmwsIGZ1bmN0aW9uIChlcnIsIGRhdGEsIGhlYWRlcnMpIHsKCQkJCWlmIChlcnIpIHsKCQkJCQlyZXR1cm4gcmVqKGVycik7CgkJCQl9IGVsc2UgewoJCQkJCXJldHVybiByZXMoZGF0YVsnYXJ0aWNsZSddKTsKCQkJCX0KCQkJfSk7CgkJfSkK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdQVVQ6JywgdXJsLCBhcnRpY2xlLmJvZHlfaHRtbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5lcnJvcihlcnIpKTsK</text>
+        <text encoding="base64">CQkJCWJvZHlfaHRtbDogYXJ0aWNsZS5iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHJlY2lwZXMgPT4gUHJvbWlzZS5hbGwocmVjaXBlcy5tYXAocmVjaXBlID0+IG1ldGFmaWVsZFNydmMuZ2V0QWxsKHNob3BpZnksICdhcnRpY2xlcycsIHJlY2lwZS5pZCwgdmVyYm9zZSwgZHJ5UnVuKSApKSkK</text>
+        <text encoding="base64">CQkJYXJ0aWNsZS5ib2R5ID0gYXJ0aWNsZS5ib2R5X2h0bWwucmVwbGFjZShwYXR0ZXJuLCBzdWJzaXR1dGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHVwZGF0ZXMgPT4gdXBkYXRlcy5tYXAodXBkYXRlID0+IHJlY2lwZVNydmMuZ2V0QnlIYW5kbGUoc2hvcGlmeSwgaWQsIHVwZGF0ZS5oYW5kbGUsIHZlcmJvc2UsIGRyeVJ1bikpKQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy8gcmVjaXBlU3J2Yy5wYXJzZVVwZGF0ZShmaWxlLCBoZWFkZXJzLCB2ZXJib3NlKQo=</text>
+        <text encoding="base64">CQkJCQkiaWQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkvLyByZXR1cm4gYXJ0aWNsZVNydmMuZ2V0QnlJZCg3Mzc1NDIxNjQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnR0VUVElORyBBUlRJQ0xFJywgYXJ0aWNsZUlkKTsK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdQVVQ6JywgdXJsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmVycm9yKCdFUlJPUiBHRVRUSU5HIEFSVElDTEUgQlkgSUQnLCBlcnIpOwo=</text>
+        <text encoding="base64">CQkJLy8gICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5lcnJvcihlcnIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnR09UIEFSVElDTEUgQlkgSUQnLCBkYXRhWydhcnRpY2xlJ10pOwo=</text>
+        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHJlY2lwZXMgPT4gUHJvbWlzZS5hbGwocmVjaXBlcy5tYXAocmVjaXBlID0+IG1ldGFmaWVsZFNydmMuZ2V0QWxsKHNob3BpZnksICdhcnRpY2xlcycsIHJlY2lwZS5pZCwgdmVyYm9zZSwgZHJ5UnVuKSApKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdHT1QgRVJSJywgZXJyKTsK</text>
+        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHVwZGF0ZXMgPT4gdXBkYXRlcy5tYXAodXBkYXRlID0+IHJlY2lwZVNydmMuZ2V0QnlIYW5kbGUoc2hvcGlmeSwgaWQsIHVwZGF0ZS5oYW5kbGUsIHZlcmJvc2UsIGRyeVJ1bikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry>doCoreSync</entry>
-        <entry>doCoresync</entry>
-        <entry>bynd</entry>
         <entry>sync</entry>
         <entry>any</entry>
         <entry>onLog</entry>
@@ -2319,12 +2315,16 @@
         <entry>process.env.</entry>
         <entry>handle</entry>
         <entry>blog</entry>
-        <entry>'</entry>
         <entry>constants</entry>
         <entry>Constants</entry>
-        <entry>ar</entry>
         <entry>IT</entry>
         <entry>return</entry>
+        <entry>B</entry>
+        <entry>_)</entry>
+        <entry>)</entry>
+        <entry>ar</entry>
+        <entry>WI</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
