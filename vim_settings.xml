@@ -134,11 +134,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1516051717417">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="22" column="47" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1516116614555">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
@@ -544,12 +544,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516113067060">
-        <mark key="'" line="163" column="34" />
-        <mark key="[" line="163" column="46" />
-        <mark key="]" line="164" column="67" />
-        <mark key="^" line="164" column="67" />
-        <mark key="." line="164" column="67" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516116701273">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="166" column="28" />
+        <mark key="]" line="166" column="28" />
+        <mark key="." line="166" column="28" />
+        <mark key="^" line="166" column="28" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
@@ -1108,12 +1108,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516113476284">
-        <mark key="'" line="70" column="20" />
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="14" />
-        <mark key="." line="76" column="14" />
-        <mark key="^" line="76" column="14" />
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1516116252264">
+        <mark key="'" line="74" column="19" />
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="33" column="63" />
+        <mark key="." line="33" column="63" />
+        <mark key="^" line="33" column="63" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.html" timestamp="1490295599974">
         <mark key="'" line="0" column="0" />
@@ -2146,10 +2146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="25" filename="E:/Projects/Freshbyte/fb-mobile-core/src/providers/local-db.service.ts" />
-      <jump line="67" column="9" filename="E:/Projects/Freshbyte/freshmobile/src/auth/providers/auth.service.ts" />
-      <jump line="67" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" />
-      <jump line="66" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" />
       <jump line="64" column="43" filename="E:/Projects/Freshbyte/freshmobile/src/sales/models/sales-order.ts" />
       <jump line="65" column="26" filename="E:/Projects/Freshbyte/freshmobile/src/auth/providers/auth.service.ts" />
       <jump line="162" column="41" filename="E:/Projects/Freshbyte/freshmobile/src/sales/models/sales-order.ts" />
@@ -2246,58 +2242,62 @@
       <jump line="69" column="4" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
       <jump line="163" column="34" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="70" column="20" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
+      <jump line="166" column="32" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="22" column="17" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="74" column="19" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
+      <jump line="6" column="20" filename="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcGFnZU51bSA9IHBhZ2UgfHwgMTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdQVVQ6JywgdXJsLCBhcnRpY2xlLmJvZHlfaHRtbCk7Cg==</text>
+        <text encoding="base64">bGV0IHN1YnN0aXR1dGUgPSBhcmd2WydzJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWJvZHlfaHRtbDogYXJ0aWNsZS5iCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcGFnZU51bSA9IHBhZ2UgfHwgMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJYXJ0aWNsZS5ib2R5ID0gYXJ0aWNsZS5ib2R5X2h0bWwucmVwbGFjZShwYXR0ZXJuLCBzdWJzaXR1dGUpOwo=</text>
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHVybC5jb25jYXQoJz9wYWdlPScsIHBhZ2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkiaWQiCg==</text>
+        <text encoding="base64">ICAgICAgIGlmKHBhZ2UgPiAxKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB1cmwucmVwbGFjZSgnI3BhZ2UjJywgcGFnZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdQVVQ6JywgdXJsKTsK</text>
+        <text encoding="base64">CQkJCQkJLnRoZW4oKCkgCgkJCQkJCWFydGljbGVTcnZjLmdldEJ5SWQocmVzdWx0LmlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5lcnJvcihlcnIpKTsK</text>
+        <text encoding="base64">CQkJCQkJCS5jYXRjaChjb25zb2xlLmVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHJlY2lwZXMgPT4gUHJvbWlzZS5hbGwocmVjaXBlcy5tYXAocmVjaXBlID0+IG1ldGFmaWVsZFNydmMuZ2V0QWxsKHNob3BpZnksICdhcnRpY2xlcycsIHJlY2lwZS5pZCwgdmVyYm9zZSwgZHJ5UnVuKSApKSkK</text>
+        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygnR09UIEFSVElDTEUnLCBhcnRpY2xlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gICAgIC50aGVuKHVwZGF0ZXMgPT4gdXBkYXRlcy5tYXAodXBkYXRlID0+IHJlY2lwZVNydmMuZ2V0QnlIYW5kbGUoc2hvcGlmeSwgaWQsIHVwZGF0ZS5oYW5kbGUsIHZlcmJvc2UsIGRyeVJ1bikpKQo=</text>
+        <text encoding="base64">CQkJCQkvLyB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
       <last-dir>1</last-dir>
@@ -2305,9 +2305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sync</entry>
-        <entry>any</entry>
-        <entry>onLog</entry>
         <entry>onLogin</entry>
         <entry>sub</entry>
         <entry>to</entry>
@@ -2325,6 +2322,9 @@
         <entry>ar</entry>
         <entry>WI</entry>
         <entry>'</entry>
+        <entry>k</entry>
+        <entry>getAll</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
