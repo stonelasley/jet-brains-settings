@@ -797,6 +797,12 @@
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1515895987578">
         <mark key="'" line="31" column="8" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516134550299">
+        <mark key="[" line="167" column="6" />
+        <mark key="]" line="167" column="5" />
+        <mark key="." line="167" column="5" />
+        <mark key="^" line="167" column="5" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="3" column="0" />
@@ -1203,6 +1209,7 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516134501654" />
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="30" column="49" />
@@ -2237,7 +2244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ2YWx2ZWxldCI6ICJeMS4xLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2252,31 +2259,31 @@
         <text encoding="base64">CQkJCQkJCQkudGhlbihjb25zb2xlLmxvZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ2YWx2ZWxldCI6ICJeMS4xLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmd2KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkvLyAudGhlbihjb25zb2xlLmxvZykpCg==</text>
+        <text encoding="base64">ICAgICJ2YWx2ZWxldCI6ICJeMS4xLjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnVVBEQVRFRDonLCBhcnRpY2xlKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmd2KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmVzKFtdKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkvLyAudGhlbihjb25zb2xlLmxvZykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlyZXMoYXJ0aWNsZSk7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnVVBEQVRFRDonLCBhcnRpY2xlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0JVSUxUIFVSTCcsIHVybCk7Cg==</text>
+        <text encoding="base64">CQkJcmVzKFtdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmwK</text>
+        <text encoding="base64">CQkJCQlyZXMoYXJ0aWNsZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWRkago=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0JVSUxUIFVSTCcsIHVybCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
