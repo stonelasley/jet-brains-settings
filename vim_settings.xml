@@ -714,12 +714,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" timestamp="1516207545462">
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" timestamp="1516210051904">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="15" column="2" />
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="74" />
+        <mark key="." line="14" column="74" />
+        <mark key="^" line="14" column="74" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/products.module.ts" timestamp="1489778562409">
         <mark key="'" line="7" column="0" />
@@ -915,7 +915,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516142518836">
+      <file name="/Dummy.txt" timestamp="1516208718074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1688,12 +1688,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" timestamp="1516207269923">
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" timestamp="1516210092674">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="20" column="66" />
-        <mark key="^" line="20" column="66" />
+        <mark key="[" line="38" column="72" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order.model.spec.ts" timestamp="1489804992577">
         <mark key="'" line="7" column="0" />
@@ -1956,12 +1956,12 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" timestamp="1516207852494">
-        <mark key="'" line="13" column="61" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" timestamp="1516209909327">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-validator.service.spec.ts" timestamp="1490126032497">
         <mark key="'" line="85" column="16" />
@@ -2131,7 +2131,7 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1516207703424">
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1516210137254">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
@@ -2200,7 +2200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="13" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" />
       <jump line="8" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
       <jump line="38" column="30" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" />
       <jump line="80" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
@@ -2300,58 +2299,59 @@
       <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
       <jump line="109" column="117" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
       <jump line="20" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
+      <jump line="2" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogVHJhbnNsYXRlU2VydmljZSwgdXNlVmFsdWU6IHt9IH0sCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tDb250cm9sLnBhcmVudC5nZXQuYW5kLnJldHVyblZhbHVlKCdBRicpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50OiBqYXNtaW5lLmNyZWF0ZVNweU9iaignQWJzdHJhY3RDb250cm9sJywgWydnZXQnXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2tDb250cm9sLnBhcmVudC5nZXQuYW5kLnJldHVyblZhbHVlKHt2YWx1ZTogJ1VTJ30pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnR09UIFBSRUZJWEVTJywgcmVzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJlZml4ID0gY29udHJvbC52YWx1ZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSVNlcmlhbFByZWZpeCB9IGZyb20gJy4uL21vZGVscy9jb3VudHJ5LmludGVyZmFjZSc7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9tYXAnOwo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgX2NhdGNoIH0gZnJvbSAncnhqcy9vcGVyYXRvci9jYXRjaCc7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBQ0hFIFZBTFVFJywgdGhpcy5fY2FjaGUpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0PHN0cmluZ1tdPihgJHt0aGlzLmNvbmZpZy5hcGlIb3N0fS9hcGkvJHt0aGlzLl9yZXNvdXJjZX1gKQogICAgICAuZG8odmFscyA9PiB0aGlzLl9jYWNoZSA9IHZhbHMpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZSc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90aW1lcic7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLmRlYm91bmNlKCgpID0+IE9ic2VydmFibGUudGltZXIoMTAwMCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuZGlzdGluY3RVbnRpbENoYW5nZWQoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGVTZXJ2aWNlIH0gZnJvbSAnLi4vc2VydmljZXMnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90aW1lcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>serialPrefix</last-replace>
       <last-substitute>state</last-substitute>
       <last-dir>1</last-dir>
@@ -2359,7 +2359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>k</entry>
         <entry>getAll</entry>
         <entry>,</entry>
         <entry>L</entry>
@@ -2379,6 +2378,7 @@
         <entry>has-states</entry>
         <entry>statesSvc</entry>
         <entry>state</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UnitOfMeasure/Warehouse/g</entry>
@@ -2393,13 +2393,13 @@
         <entry>%s/Country/SerialPrefix/g</entry>
         <entry>%s/country/serial-prefix/g</entry>
         <entry>%s/countries/prefixes/g</entry>
-        <entry>q</entry>
         <entry>%s/HasStates/SerialPrefix/g</entry>
         <entry>%s/States/SerialPrefix/g</entry>
         <entry>%s/has-states/serial-prefix/g</entry>
         <entry>%s/statesSvc/serialPrefixSvc/g</entry>
         <entry>%s/state/serialPrefix/g</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
