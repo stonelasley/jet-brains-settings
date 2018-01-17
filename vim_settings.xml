@@ -894,7 +894,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516133093817">
+      <file name="/Dummy.txt" timestamp="1516142518836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1930,6 +1930,13 @@
         <mark key="." line="15" column="66" />
         <mark key="^" line="15" column="66" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" timestamp="1516142630746">
+        <mark key="'" line="104" column="55" />
+        <mark key="[" line="104" column="71" />
+        <mark key="]" line="104" column="71" />
+        <mark key="^" line="104" column="68" />
+        <mark key="." line="104" column="71" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/products/providers/product.service.ts" timestamp="1489963622299">
         <mark key="'" line="26" column="39" />
         <mark key="[" line="26" column="27" />
@@ -2141,9 +2148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="28" filename="E:/Projects/Freshbyte/freshmobile/src/sales/models/sales-order.ts" />
-      <jump line="146" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales/models/sales-order.ts" />
-      <jump line="37" column="8" filename="E:/Projects/Freshbyte/freshmobile/src/common/config/db.config.ts" />
       <jump line="38" column="8" filename="E:/Projects/Freshbyte/freshmobile/src/common/config/db.config.ts" />
       <jump line="31" column="15" filename="E:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" />
       <jump line="2" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/pick/providers/warehouse.service.ts" />
@@ -2241,22 +2245,25 @@
       <jump line="64" column="24" filename="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" />
       <jump line="65" column="13" filename="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" />
       <jump line="38" column="101" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="13" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
+      <jump line="95" column="40" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
+      <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>verbose</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkudGhlbihjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">CQkJLnRoZW4oc2Vzc2lvbiA9PiBzZXNzaW9uID8gc2Vzc2lvbi50b2tlbiB8fCAnJyA6ICcnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2290,9 +2297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
       <last-dir>1</last-dir>
@@ -2300,7 +2307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sub</entry>
         <entry>to</entry>
         <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>process.env.</entry>
@@ -2320,6 +2326,7 @@
         <entry>L</entry>
         <entry>)</entry>
         <entry>'</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
