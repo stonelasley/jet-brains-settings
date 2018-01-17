@@ -1050,6 +1050,7 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1516201093665" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1194,8 +1195,6 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify_stage.js" timestamp="1516037460534" />
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/recipe.service.js" timestamp="1516052904038" />
       <file name="E:/Projects/Freshbyte/freshmobile/config/karma.conf.js" timestamp="1491939251589">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="21" />
@@ -1209,7 +1208,6 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516134501654" />
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="30" column="49" />
@@ -1389,6 +1387,7 @@
         <mark key="^" line="136" column="30" />
         <mark key="." line="136" column="30" />
       </file>
+      <file name="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.ts" timestamp="1516202506498" />
       <file name="E:/Projects/Freshbyte/freshmobile/karma.conf.js" timestamp="1491844874996">
         <mark key="'" line="9" column="32" />
         <mark key="[" line="32" column="10" />
@@ -2148,8 +2147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="E:/Projects/Freshbyte/freshmobile/src/common/config/db.config.ts" />
-      <jump line="31" column="15" filename="E:/Projects/Freshbyte/freshmobile/src/app/sync.service.ts" />
       <jump line="2" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/pick/providers/warehouse.service.ts" />
       <jump line="2" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/pick/models/warehouse.ts" />
       <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
@@ -2248,19 +2245,21 @@
       <jump line="13" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
       <jump line="95" column="40" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
       <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
+      <jump line="67" column="2" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
+      <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>/*</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>/*</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLnRoZW4oc2Vzc2lvbiA9PiBzZXNzaW9uID8gc2Vzc2lvbi50b2tlbiB8fCAnJyA6ICcnKTsK</text>
@@ -2293,21 +2292,20 @@
         <text encoding="base64">CQkJY29uc29sZS5sb2coJ0JVSUxUIFVSTCcsIHVybCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>*</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern>*</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>to</entry>
         <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>process.env.</entry>
         <entry>handle</entry>
@@ -2327,6 +2325,7 @@
         <entry>)</entry>
         <entry>'</entry>
         <entry>null</entry>
+        <entry>*</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
@@ -2342,13 +2341,13 @@
         <entry>we</entry>
         <entry>s/,\ /,\r/g</entry>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
-        <entry>q</entry>
         <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
