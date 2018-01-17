@@ -33,9 +33,6 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" timestamp="1514673024429">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" timestamp="1516123954091">
         <mark key="'" line="65" column="13" />
         <mark key="[" line="64" column="30" />
@@ -691,11 +688,25 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" timestamp="1516206719916">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="46" />
+        <mark key="^" line="44" column="46" />
+        <mark key="." line="44" column="46" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/lot-inventory.ts" timestamp="1490143633025">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" timestamp="1516206603879">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/products.module.ts" timestamp="1489778562409">
         <mark key="'" line="7" column="0" />
@@ -793,9 +804,6 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1515895987578">
-        <mark key="'" line="31" column="8" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516134550299">
         <mark key="[" line="167" column="6" />
@@ -1916,6 +1924,13 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" timestamp="1516206554125">
+        <mark key="'" line="13" column="61" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-validator.service.spec.ts" timestamp="1490126032497">
         <mark key="'" line="85" column="16" />
         <mark key="[" line="233" column="69" />
@@ -2147,13 +2162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/pick/providers/warehouse.service.ts" />
-      <jump line="2" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/pick/models/warehouse.ts" />
-      <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
-      <jump line="38" column="42" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="121" column="43" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="6" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="7" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
       <jump line="5" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
       <jump line="36" column="5" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
       <jump line="3" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" />
@@ -2247,71 +2255,72 @@
       <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
       <jump line="67" column="2" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
+      <jump line="7" column="24" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
+      <jump line="15" column="2" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
+      <jump line="14" column="61" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
+      <jump line="8" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="22" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="3" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="24" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/*</text>
+        <text>wwww.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/*</text>
+        <text>wwww.</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>www</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLnRoZW4oc2Vzc2lvbiA9PiBzZXNzaW9uID8gc2Vzc2lvbi50b2tlbiB8fCAnJyA6ICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FCQ0RFRkcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSVNlcmlhbFByZWZpeCB9IGZyb20gJy4uL21vZGVscy9jb3VudHJ5LmludGVyZmFjZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9tYXAnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ2YWx2ZWxldCI6ICJeMS4xLjEiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGVTZXJ2aWNlIH0gZnJvbSAnLi4vc2VydmljZXMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmd2KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAge25hbWU6ICdDYW5hZGEnLCBjb2RlOiAnQ0EnfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkvLyAudGhlbihjb25zb2xlLmxvZykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge25hbWU6ICdVbml0ZWQgU3RhdGVzJywgY29kZTogJ1VTJ30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnVVBEQVRFRDonLCBhcnRpY2xlKTsK</text>
+        <text encoding="base64">ICAgICAge25hbWU6ICdDYW5hZGEnLCBjb2RlOiAnQ0EnfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmVzKFtdKTsK</text>
+        <text encoding="base64">ICAgICAgY29kZTogJ1VTJ30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlyZXMoYXJ0aWNsZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0JVSUxUIFVSTCcsIHVybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>www</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
-      <last-replace>$</last-replace>
-      <last-substitute>process.env.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>www</last-pattern>
+      <last-replace>prefixes</last-replace>
+      <last-substitute>countries</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XCBcIFwgXCA=</entry>
-        <entry>process.env.</entry>
-        <entry>handle</entry>
-        <entry>blog</entry>
-        <entry>constants</entry>
-        <entry>Constants</entry>
         <entry>IT</entry>
         <entry>return</entry>
         <entry>B</entry>
@@ -2326,11 +2335,14 @@
         <entry>'</entry>
         <entry>null</entry>
         <entry>*</entry>
+        <entry>s3</entry>
+        <entry>coun</entry>
+        <entry>Country</entry>
+        <entry>country</entry>
+        <entry>countries</entry>
+        <entry>www</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/let\ /let\ _/g</entry>
-        <entry>wjk;w</entry>
-        <entry>%s/actualLineItem/lineItem/g</entry>
         <entry>sw</entry>
         <entry>%s/this._dbConfig/dbConfig/g</entry>
         <entry>ew</entry>
@@ -2346,7 +2358,10 @@
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
         <entry>wq</entry>
+        <entry>%s/Country/SerialPrefix/g</entry>
+        <entry>%s/country/serial-prefix/g</entry>
         <entry>w</entry>
+        <entry>%s/countries/prefixes/g</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
