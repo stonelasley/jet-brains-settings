@@ -818,12 +818,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516303363826">
-        <mark key="'" line="28" column="93" />
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="41" />
-        <mark key="." line="50" column="41" />
-        <mark key="^" line="50" column="41" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516309718921">
+        <mark key="'" line="50" column="25" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
@@ -1230,12 +1230,12 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516304907235">
-        <mark key="'" line="9" column="62" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516309854022">
+        <mark key="'" line="21" column="109" />
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="70" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
@@ -2208,9 +2208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="38" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="132" column="41" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="124" column="54" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="143" column="18" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="56" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="11" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
@@ -2297,7 +2294,6 @@
       <jump line="28" column="93" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="19" column="82" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="20" column="56" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="21" column="78" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="22" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="23" column="88" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="24" column="92" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
@@ -2308,19 +2304,23 @@
       <jump line="29" column="53" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="8" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="9" column="62" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="42" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="50" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="5" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByb3BlcnR5PSJyZWNpcGVJbnN0cnVjdGlvbnMi</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb3BlcnR5PSJyZWNpcGVJbnN0cnVjdGlvbnMi</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>span</text>
+        <text>itemtype</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJ0ZSByZWNpcGUtaW5zdHJ1Y3Rpb25zIiBwcm9wZXJ0eT0icmVjaXBlSW5zdHJ1Y3Rpb25zIj4KICAgICAgICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluc3RydWN0aW9ucycgfCB0fX08L2gzPgogICAgICAgIHt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImluc3RydWN0aW9ucyJdIH19CiAgICA8L2Rpdj4K</text>
@@ -2357,20 +2357,16 @@
       </register>
     </registers>
     <search>
-      <last-search>span</last-search>
+      <last-search>itemtype</last-search>
       <last-offset />
-      <last-pattern>span</last-pattern>
-      <last-replace>serialPrefix</last-replace>
-      <last-substitute>state</last-substitute>
+      <last-pattern>itemtype</last-pattern>
+      <last-replace>itemprop</last-replace>
+      <last-substitute>property</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>countries</entry>
-        <entry>www</entry>
-        <entry>:</entry>
-        <entry>HasStates</entry>
         <entry>States</entry>
         <entry>has-states</entry>
         <entry>statesSvc</entry>
@@ -2387,10 +2383,12 @@
         <entry>cookTime</entry>
         <entry>inst</entry>
         <entry>span</entry>
+        <entry>P</entry>
+        <entry>Prop</entry>
+        <entry>property</entry>
+        <entry>itemtype</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/UnitOfMeasure/Warehouse/g</entry>
-        <entry>%s/this._logger/this._loggerSrvc/g</entry>
         <entry>we</entry>
         <entry>s/,\ /,\r/g</entry>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
@@ -2408,6 +2406,8 @@
         <entry>%s/state/serialPrefix/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/property/itemProp/gc</entry>
+        <entry>%s/property/itemprop/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
