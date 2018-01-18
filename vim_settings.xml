@@ -244,6 +244,13 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/config.xml" timestamp="1516237971402">
+        <mark key="'" line="1" column="44" />
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/providers/scan-settings.service.ts" timestamp="1492118775119">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="2" column="30" />
@@ -1905,8 +1912,10 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516234693122">
-        <mark key="'" line="16" column="39" />
+      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516236985287">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
@@ -2143,10 +2152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
-      <jump line="38" column="42" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="121" column="43" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="6" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
       <jump line="7" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
       <jump line="5" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
       <jump line="36" column="5" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
@@ -2243,19 +2248,23 @@
       <jump line="102" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="37" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/auth/providers/auth.service.ts" />
       <jump line="16" column="39" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
+      <jump line="8" column="37" filename="P:/Projects/Freshbyte/freshmobile/config.xml" />
+      <jump line="77" column="37" filename="P:/Projects/Freshbyte/freshmobile/config.xml" />
+      <jump line="0" column="6" filename="P:/Projects/Freshbyte/freshmobile/config.xml" />
+      <jump line="1" column="44" filename="P:/Projects/Freshbyte/freshmobile/config.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXJldHVybiB0aGlzLl9hcHBTZXR0aW5nc1NlcnZpY2Uuc2V0U2Vzc2lvbihKU09OLnBhcnNlKHJlc3BvbnNlLmhlYWRlcnMuZ2V0KCdBdXRob3JpemF0aW9uJykpKTsK</text>
@@ -2292,9 +2301,9 @@
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>\t</last-replace>
       <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2302,8 +2311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onLogin</entry>
-        <entry>sub</entry>
         <entry>to</entry>
         <entry>credit</entry>
         <entry>CREDITS_COMPONENTS</entry>
@@ -2322,6 +2329,8 @@
         <entry>console</entry>
         <entry>,</entry>
         <entry>(</entry>
+        <entry>versioncode</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
