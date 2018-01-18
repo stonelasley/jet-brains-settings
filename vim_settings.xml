@@ -1905,11 +1905,8 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1514681078851">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516234693122">
+        <mark key="'" line="16" column="39" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
@@ -2146,7 +2143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/pick/models/warehouse.ts" />
       <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
       <jump line="38" column="42" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
       <jump line="121" column="43" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
@@ -2246,6 +2242,7 @@
       <jump line="108" column="36" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="102" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="37" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/auth/providers/auth.service.ts" />
+      <jump line="16" column="39" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
