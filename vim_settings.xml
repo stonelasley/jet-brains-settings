@@ -917,12 +917,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516402098044">
-        <mark key="'" line="166" column="23" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="98" column="26" />
-        <mark key="." line="103" column="0" />
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516404777884">
+        <mark key="'" line="122" column="23" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="122" column="42" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -2221,10 +2221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="0" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" />
-      <jump line="2" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" />
-      <jump line="111" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/core/providers/app-settings.service.ts" />
       <jump line="72" column="76" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="21" column="10" filename="P:/Projects/Freshbyte/freshmobile/src/mocks/sales-live/allocation.service.mock.ts" />
       <jump line="71" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
@@ -2321,51 +2317,50 @@
       <jump line="78" column="26" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="29" column="27" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="171" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="120" column="15" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="121" column="13" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="124" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="125" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>temperature</text>
+        <text>orientation</text>
       </register>
       <register name="/" type="4">
-        <text>lumens</text>
+        <text>or</text>
       </register>
-      <register name="0" type="4">
-        <text>var data = {
-			event: 'TOUCH',
-			value: 'PRESS'
-		};
-		console.log('Sending device event data:\n' + data);
-		client.sendEvent(new Message(data), printErrorFor('send event'));</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJJ29yaWVudGF0aW9uJzogdGhpcy5vcmllbnRhdGlvbiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ3knOiB0aGlzLnksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIH0pOwo=</text>
+        <text encoding="base64">CQkJJ3gnOiB0aGlzLngsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIAljb250cm9sbGVyOiAiVFNMMjU2MSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIHZhciBsaWdodCA9IG5ldyBmaXZlLkxpZ2h0KHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJ0V4dGVybmFsVGVtcGVyYXR1cmUnOiBleHRlcm5hbFRlbXBlcmF0dXJlCg==</text>
+        <text encoding="base64">CS8vIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gJ0x1eCc6IGxpZ2h0LAo=</text>
+        <text encoding="base64">CS8vIAljb250cm9sbGVyOiAiVFNMMjU2MSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJ0h1bWlkaXR5JzogaHVtaWRpdHksCg==</text>
+        <text encoding="base64">CS8vIHZhciBsaWdodCA9IG5ldyBmaXZlLkxpZ2h0KHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJJ0V4dGVybmFsVGVtcGVyYXR1cmUnOiBleHRlcm5hbFRlbXBlcmF0dXJlCg==</text>
@@ -2375,9 +2370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lumens</last-search>
+      <last-search>or</last-search>
       <last-offset />
-      <last-pattern>lumens</last-pattern>
+      <last-pattern>or</last-pattern>
       <last-replace>lux</last-replace>
       <last-substitute>lumens</last-substitute>
       <last-dir>1</last-dir>
@@ -2385,10 +2380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>,</entry>
-        <entry>prop[</entry>
-        <entry>prop</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">PA==</entry>
         <entry>cookTime</entry>
@@ -2405,6 +2396,10 @@
         <entry>T</entry>
         <entry>SetLumens</entry>
         <entry>lumens</entry>
+        <entry>x</entry>
+        <entry>y</entry>
+        <entry>roll</entry>
+        <entry>or</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
