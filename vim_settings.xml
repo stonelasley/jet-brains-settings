@@ -876,6 +876,13 @@
         <mark key="^" line="13" column="99" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/monitor-lizard/.gitignore" timestamp="1516394744769">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="59" column="4" />
+        <mark key="^" line="59" column="4" />
+        <mark key="." line="59" column="4" />
+      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" timestamp="1515893238539">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="0" column="38" />
@@ -909,6 +916,13 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
+      </file>
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516395599949">
+        <mark key="'" line="94" column="15" />
+        <mark key="[" line="95" column="21" />
+        <mark key="]" line="100" column="9" />
+        <mark key="." line="100" column="9" />
+        <mark key="^" line="100" column="9" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -2207,11 +2221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="18" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="56" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="11" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
-      <jump line="9" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
-      <jump line="42" column="49" filename="P:/Projects/Freshbyte/freshmobile/src/test.ts" />
       <jump line="41" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="38" column="74" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="39" column="73" filename="P:/Projects/Freshbyte/freshmobile/src/test.ts" />
@@ -2307,70 +2316,70 @@
       <jump line="50" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="5" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="77" column="12" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="117" column="24" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="119" column="51" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="2" column="4" filename="P:/Projects/Blendtec/monitor-lizard/.gitignore" />
+      <jump line="94" column="15" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>GROVE</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>GROVE</text>
       </register>
       <register name="/" type="4">
-        <text>itemtype</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJ0ZSByZWNpcGUtaW5zdHJ1Y3Rpb25zIiBwcm9wZXJ0eT0icmVjaXBlSW5zdHJ1Y3Rpb25zIj4KICAgICAgICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluc3RydWN0aW9ucycgfCB0fX08L2gzPgogICAgICAgIHt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImluc3RydWN0aW9ucyJdIH19CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CXZhciB0ZW1wID0gbmV3IGZpdmUuVGVtcGVyYXR1cmUoewoJCXBpbjogIkEwIiwKCQljb250cm9sbGVyOiAiR1JPVkUiCgl9KTsKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">CQlwaW46ICJBMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8c3BhbiBwcm9wZXJ0eT0iaW1hZ2UiPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgX2NhdGNoIH0gZnJvbSAncnhqcy9vcGVyYXRvci9jYXRjaCc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBQ0hFIFZBTFVFJywgdGhpcy5fY2FjaGUpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8c3BhbiBwcm9wZXJ0eT0iaW1hZ2UiPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgX2NhdGNoIH0gZnJvbSAncnhqcy9vcGVyYXRvci9jYXRjaCc7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0PHN0cmluZ1tdPihgJHt0aGlzLmNvbmZpZy5hcGlIb3N0fS9hcGkvJHt0aGlzLl9yZXNvdXJjZX1gKQogICAgICAuZG8odmFscyA9PiB0aGlzLl9jYWNoZSA9IHZhbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBQ0hFIFZBTFVFJywgdGhpcy5fY2FjaGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90aW1lcic7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0PHN0cmluZ1tdPihgJHt0aGlzLmNvbmZpZy5hcGlIb3N0fS9hcGkvJHt0aGlzLl9yZXNvdXJjZX1gKQogICAgICAuZG8odmFscyA9PiB0aGlzLl9jYWNoZSA9IHZhbHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemtype</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>itemtype</last-pattern>
+      <last-pattern>T</last-pattern>
       <last-replace>itemprop</last-replace>
       <last-substitute>property</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>States</entry>
-        <entry>has-states</entry>
-        <entry>statesSvc</entry>
-        <entry>state</entry>
-        <entry>map</entry>
         <entry>date</entry>
         <entry>I</entry>
         <entry>{</entry>
@@ -2386,6 +2395,11 @@
         <entry>Prop</entry>
         <entry>property</entry>
         <entry>itemtype</entry>
+        <entry>S</entry>
+        <entry>H</entry>
+        <entry>hu</entry>
+        <entry>temp</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -2403,10 +2417,10 @@
         <entry>%s/has-states/serial-prefix/g</entry>
         <entry>%s/statesSvc/serialPrefixSvc/g</entry>
         <entry>%s/state/serialPrefix/g</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>%s/property/itemProp/gc</entry>
         <entry>%s/property/itemprop/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
