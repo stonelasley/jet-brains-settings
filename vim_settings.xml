@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
+      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipe-categories.ts" timestamp="1488672177398">
@@ -32,6 +32,9 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" timestamp="1514673024429">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" timestamp="1516123954091">
         <mark key="'" line="65" column="13" />
@@ -100,6 +103,11 @@
         <mark key="]" line="54" column="22" />
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
+      </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1516483648100">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
@@ -817,6 +825,9 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1515895987578">
+        <mark key="'" line="31" column="8" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516374868924">
         <mark key="'" line="50" column="25" />
@@ -1951,6 +1962,9 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516482258255">
+        <mark key="'" line="4" column="15" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="18" />
@@ -2309,8 +2323,8 @@
       <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2325,31 +2339,31 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJ0ZSByZWNpcGUtaW5zdHJ1Y3Rpb25zIiBwcm9wZXJ0eT0icmVjaXBlSW5zdHJ1Y3Rpb25zIj4KICAgICAgICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluc3RydWN0aW9ucycgfCB0fX08L2gzPgogICAgICAgIHt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImluc3RydWN0aW9ucyJdIH19CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICJ0eXBpbmdzIjogIjEuMC40IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3BhbiBwcm9wZXJ0eT0iaW1hZ2UiPgo=</text>
+        <text encoding="base64">ICAgICJlczYtc2hpbSI6ICIwLjM1LjAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgX2NhdGNoIH0gZnJvbSAncnhqcy9vcGVyYXRvci9jYXRjaCc7Cg==</text>
+        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuNiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBQ0hFIFZBTFVFJywgdGhpcy5fY2FjaGUpOwo=</text>
+        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJpb25pYy1ndWxwLXNjcmlwdHMtY29weSI6ICIyLjAuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0PHN0cmluZ1tdPihgJHt0aGlzLmNvbmZpZy5hcGlIb3N0fS9hcGkvJHt0aGlzLl9yZXNvdXJjZX1gKQogICAgICAuZG8odmFscyA9PiB0aGlzLl9jYWNoZSA9IHZhbHMpOwo=</text>
+        <text encoding="base64">ICAgICJpb25pYy1ndWxwLXNhc3MtYnVpbGQiOiAiMS4wLjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZSc7Cg==</text>
+        <text encoding="base64">ICAgICJpb25pYy1ndWxwLWh0bWwtY29weSI6ICIxLjAuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90aW1lcic7Cg==</text>
+        <text encoding="base64">ICAgICJpb25pYy1ndWxwLWZvbnRzLWNvcHkiOiAiMS4wLjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2366,28 +2380,38 @@
     </search>
     <history>
       <history-search>
-        <entry>States</entry>
-        <entry>has-states</entry>
-        <entry>statesSvc</entry>
-        <entry>state</entry>
-        <entry>map</entry>
-        <entry>date</entry>
-        <entry>I</entry>
-        <entry>{</entry>
+        <entry>process.env.</entry>
+        <entry>handle</entry>
+        <entry>blog</entry>
+        <entry>constants</entry>
+        <entry>Constants</entry>
+        <entry>IT</entry>
+        <entry>return</entry>
+        <entry>B</entry>
+        <entry>_)</entry>
+        <entry>ar</entry>
+        <entry>WI</entry>
+        <entry>k</entry>
+        <entry>getAll</entry>
         <entry>,</entry>
-        <entry>prop[</entry>
-        <entry>prop</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry>cookTime</entry>
-        <entry>inst</entry>
-        <entry>span</entry>
-        <entry>P</entry>
-        <entry>Prop</entry>
-        <entry>property</entry>
-        <entry>itemtype</entry>
+        <entry>L</entry>
+        <entry>)</entry>
+        <entry>'</entry>
+        <entry>null</entry>
+        <entry>*</entry>
+        <entry>pricing</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/let\ /let\ _/g</entry>
+        <entry>wjk;w</entry>
+        <entry>%s/actualLineItem/lineItem/g</entry>
+        <entry>sw</entry>
+        <entry>%s/this._dbConfig/dbConfig/g</entry>
+        <entry>ew</entry>
+        <entry>%s/sales_/sales_live_/g</entry>
+        <entry>%s/sales_live/salesLive/g</entry>
+        <entry>%s/UnitOfMeasure/Warehouse/g</entry>
+        <entry>%s/this._logger/this._loggerSrvc/g</entry>
         <entry>we</entry>
         <entry>s/,\ /,\r/g</entry>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
@@ -2395,18 +2419,8 @@
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
-        <entry>%s/Country/SerialPrefix/g</entry>
-        <entry>%s/country/serial-prefix/g</entry>
-        <entry>%s/countries/prefixes/g</entry>
-        <entry>%s/HasStates/SerialPrefix/g</entry>
-        <entry>%s/States/SerialPrefix/g</entry>
-        <entry>%s/has-states/serial-prefix/g</entry>
-        <entry>%s/statesSvc/serialPrefixSvc/g</entry>
-        <entry>%s/state/serialPrefix/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>%s/property/itemProp/gc</entry>
-        <entry>%s/property/itemprop/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
