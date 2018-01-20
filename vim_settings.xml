@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
+      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
     <filemarks>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipe-categories.ts" timestamp="1488672177398">
@@ -33,9 +33,6 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" timestamp="1514673024429">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" timestamp="1516123954091">
         <mark key="'" line="65" column="13" />
         <mark key="[" line="64" column="30" />
@@ -62,6 +59,13 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" timestamp="1516207446850">
+        <mark key="'" line="111" column="117" />
+        <mark key="[" line="111" column="105" />
+        <mark key="]" line="111" column="123" />
+        <mark key="." line="111" column="123" />
+        <mark key="^" line="111" column="123" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" timestamp="1492471804586">
         <mark key="'" line="80" column="4" />
@@ -459,6 +463,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/index.ts" timestamp="1516207412980">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/components/main-menu.directive.ts" timestamp="1492118857642">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="3" column="50" />
@@ -691,11 +701,25 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" timestamp="1516211250791">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="73" />
+        <mark key="^" line="43" column="73" />
+        <mark key="." line="43" column="73" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/lot-inventory.ts" timestamp="1490143633025">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" timestamp="1516210051904">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="74" />
+        <mark key="." line="14" column="74" />
+        <mark key="^" line="14" column="74" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/products.module.ts" timestamp="1489778562409">
         <mark key="'" line="7" column="0" />
@@ -794,14 +818,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1515895987578">
-        <mark key="'" line="31" column="8" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516134550299">
-        <mark key="[" line="167" column="6" />
-        <mark key="]" line="167" column="5" />
-        <mark key="." line="167" column="5" />
-        <mark key="^" line="167" column="5" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516374868924">
+        <mark key="'" line="50" column="25" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
@@ -894,7 +916,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516142518836">
+      <file name="/Dummy.txt" timestamp="1516208718074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1208,6 +1230,13 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516309854022">
+        <mark key="'" line="21" column="109" />
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="70" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="30" column="49" />
@@ -1239,6 +1268,12 @@
         <mark key="]" line="167" column="52" />
         <mark key="." line="167" column="52" />
         <mark key="^" line="167" column="52" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.spec.ts" timestamp="1516207496934">
+        <mark key="[" line="84" column="18" />
+        <mark key="]" line="84" column="36" />
+        <mark key="." line="84" column="36" />
+        <mark key="^" line="84" column="36" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/nav-params.mock.ts" timestamp="1491332802422">
         <mark key="'" line="4" column="49" />
@@ -1660,6 +1695,13 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" timestamp="1516210092674">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="72" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order.model.spec.ts" timestamp="1489804992577">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="1" column="0" />
@@ -1852,6 +1894,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1516207622661">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="69" column="23" />
+        <mark key="." line="69" column="23" />
+      </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="20" />
@@ -1903,9 +1951,6 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516482258255">
-        <mark key="'" line="4" column="15" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="18" />
@@ -1917,6 +1962,13 @@
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" timestamp="1516209909327">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-validator.service.spec.ts" timestamp="1490126032497">
         <mark key="'" line="85" column="16" />
@@ -2086,6 +2138,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1516210137254">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="27" />
@@ -2149,36 +2207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/pick/models/warehouse.ts" />
-      <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
-      <jump line="38" column="42" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="121" column="43" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="6" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="7" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="5" column="47" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
-      <jump line="36" column="5" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
-      <jump line="3" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" />
-      <jump line="76" column="64" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
-      <jump line="153" column="45" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" />
-      <jump line="17" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" />
-      <jump line="183" column="13" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" />
-      <jump line="8" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" />
-      <jump line="38" column="30" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" />
-      <jump line="80" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" />
-      <jump line="48" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/pages/customer-list/customer-list.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/sales/pages/customer-list/customer-list.ts" />
-      <jump line="16" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/sales/pages/customer-list/customer-list.ts" />
-      <jump line="15" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales/pages/customer-list/customer-list.ts" />
-      <jump line="19" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/sales/pages/customer-list/customer-list.ts" />
-      <jump line="9" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="7" column="29" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.module.ts" />
-      <jump line="5" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.module.ts" />
-      <jump line="31" column="76" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="24" column="34" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="64" column="36" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="133" column="38" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="132" column="41" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="124" column="54" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="143" column="18" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="56" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="11" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
@@ -2248,98 +2276,118 @@
       <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
       <jump line="67" column="2" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
-      <jump line="4" column="15" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
+      <jump line="7" column="24" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
+      <jump line="15" column="2" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
+      <jump line="14" column="61" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
+      <jump line="8" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="22" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="3" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="24" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
+      <jump line="15" column="72" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
+      <jump line="7" column="22" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
+      <jump line="17" column="4" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
+      <jump line="109" column="117" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
+      <jump line="20" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
+      <jump line="2" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
+      <jump line="28" column="93" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="19" column="82" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="20" column="56" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="22" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="23" column="88" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="24" column="92" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="25" column="106" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="26" column="47" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="27" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="28" column="51" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="29" column="53" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="8" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="9" column="62" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="42" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="50" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="5" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/*</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/*</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>pricing</text>
+        <text>itemtype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLnRoZW4oc2Vzc2lvbiA9PiBzZXNzaW9uID8gc2Vzc2lvbi50b2tlbiB8fCAnJyA6ICcnKTsK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJ0ZSByZWNpcGUtaW5zdHJ1Y3Rpb25zIiBwcm9wZXJ0eT0icmVjaXBlSW5zdHJ1Y3Rpb25zIj4KICAgICAgICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluc3RydWN0aW9ucycgfCB0fX08L2gzPgogICAgICAgIHt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImluc3RydWN0aW9ucyJdIH19CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ2YWx2ZWxldCI6ICJeMS4xLjEiLAo=</text>
+        <text encoding="base64">ICA8c3BhbiBwcm9wZXJ0eT0iaW1hZ2UiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmd2KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgX2NhdGNoIH0gZnJvbSAncnhqcy9vcGVyYXRvci9jYXRjaCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkvLyAudGhlbihjb25zb2xlLmxvZykpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBQ0hFIFZBTFVFJywgdGhpcy5fY2FjaGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnVVBEQVRFRDonLCBhcnRpY2xlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmVzKFtdKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0PHN0cmluZ1tdPihgJHt0aGlzLmNvbmZpZy5hcGlIb3N0fS9hcGkvJHt0aGlzLl9yZXNvdXJjZX1gKQogICAgICAuZG8odmFscyA9PiB0aGlzLl9jYWNoZSA9IHZhbHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlyZXMoYXJ0aWNsZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0JVSUxUIFVSTCcsIHVybCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90aW1lcic7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pricing</last-search>
+      <last-search>itemtype</last-search>
       <last-offset />
-      <last-pattern>pricing</last-pattern>
-      <last-replace>$</last-replace>
-      <last-substitute>process.env.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>itemtype</last-pattern>
+      <last-replace>itemprop</last-replace>
+      <last-substitute>property</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>process.env.</entry>
-        <entry>handle</entry>
-        <entry>blog</entry>
-        <entry>constants</entry>
-        <entry>Constants</entry>
-        <entry>IT</entry>
-        <entry>return</entry>
-        <entry>B</entry>
-        <entry>_)</entry>
-        <entry>ar</entry>
-        <entry>WI</entry>
-        <entry>k</entry>
-        <entry>getAll</entry>
+        <entry>States</entry>
+        <entry>has-states</entry>
+        <entry>statesSvc</entry>
+        <entry>state</entry>
+        <entry>map</entry>
+        <entry>date</entry>
+        <entry>I</entry>
+        <entry>{</entry>
         <entry>,</entry>
-        <entry>L</entry>
-        <entry>)</entry>
-        <entry>'</entry>
-        <entry>null</entry>
-        <entry>*</entry>
-        <entry>pricing</entry>
+        <entry>prop[</entry>
+        <entry>prop</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>cookTime</entry>
+        <entry>inst</entry>
+        <entry>span</entry>
+        <entry>P</entry>
+        <entry>Prop</entry>
+        <entry>property</entry>
+        <entry>itemtype</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/let\ /let\ _/g</entry>
-        <entry>wjk;w</entry>
-        <entry>%s/actualLineItem/lineItem/g</entry>
-        <entry>sw</entry>
-        <entry>%s/this._dbConfig/dbConfig/g</entry>
-        <entry>ew</entry>
-        <entry>%s/sales_/sales_live_/g</entry>
-        <entry>%s/sales_live/salesLive/g</entry>
-        <entry>%s/UnitOfMeasure/Warehouse/g</entry>
-        <entry>%s/this._logger/this._loggerSrvc/g</entry>
         <entry>we</entry>
         <entry>s/,\ /,\r/g</entry>
         <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
@@ -2347,9 +2395,19 @@
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
+        <entry>%s/Country/SerialPrefix/g</entry>
+        <entry>%s/country/serial-prefix/g</entry>
+        <entry>%s/countries/prefixes/g</entry>
+        <entry>%s/HasStates/SerialPrefix/g</entry>
+        <entry>%s/States/SerialPrefix/g</entry>
+        <entry>%s/has-states/serial-prefix/g</entry>
+        <entry>%s/statesSvc/serialPrefixSvc/g</entry>
+        <entry>%s/state/serialPrefix/g</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>%s/property/itemProp/gc</entry>
+        <entry>%s/property/itemprop/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
