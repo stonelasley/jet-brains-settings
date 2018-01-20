@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
+      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipe-categories.ts" timestamp="1488672177398">
@@ -1387,7 +1387,6 @@
         <mark key="^" line="136" column="30" />
         <mark key="." line="136" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.ts" timestamp="1516202506498" />
       <file name="E:/Projects/Freshbyte/freshmobile/karma.conf.js" timestamp="1491844874996">
         <mark key="'" line="9" column="32" />
         <mark key="[" line="32" column="10" />
@@ -1904,6 +1903,9 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1516482258255">
+        <mark key="'" line="4" column="15" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="18" />
@@ -2147,7 +2149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/Projects/Freshbyte/freshmobile/src/pick/providers/warehouse.service.ts" />
       <jump line="2" column="4" filename="E:/Projects/Freshbyte/freshmobile/src/pick/models/warehouse.ts" />
       <jump line="15" column="19" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" />
       <jump line="38" column="42" filename="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" />
@@ -2247,6 +2248,7 @@
       <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
       <jump line="67" column="2" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
+      <jump line="4" column="15" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2259,7 +2261,7 @@
         <text>/*</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>pricing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLnRoZW4oc2Vzc2lvbiA9PiBzZXNzaW9uID8gc2Vzc2lvbi50b2tlbiB8fCAnJyA6ICcnKTsK</text>
@@ -2296,17 +2298,16 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>pricing</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>pricing</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>process.env.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>process.env.</entry>
         <entry>handle</entry>
         <entry>blog</entry>
@@ -2326,6 +2327,7 @@
         <entry>'</entry>
         <entry>null</entry>
         <entry>*</entry>
+        <entry>pricing</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
