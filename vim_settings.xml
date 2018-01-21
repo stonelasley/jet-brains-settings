@@ -2428,7 +2428,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5x</text>
       </register>
     </registers>
     <search>
@@ -2464,7 +2464,6 @@
         <entry>ng</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/let\ /let\ _/g</entry>
         <entry>wjk;w</entry>
         <entry>%s/actualLineItem/lineItem/g</entry>
         <entry>sw</entry>
@@ -2484,6 +2483,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
