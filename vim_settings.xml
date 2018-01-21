@@ -324,6 +324,12 @@
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="56" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/tests.js" timestamp="1516513580461">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/components/main-menu.directive.ts" timestamp="1489448335655">
         <mark key="'" line="33" column="32" />
         <mark key="[" line="46" column="36" />
@@ -883,6 +889,11 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulpfile.js" timestamp="1516513452952">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -930,12 +941,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" timestamp="1516513346448">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="31" />
-        <mark key="." line="40" column="0" />
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" timestamp="1516513486348">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -1325,6 +1336,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="39" column="14" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/conf.js" timestamp="1516513607016">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/index.ts" timestamp="1491323624077">
         <mark key="[" line="1" column="56" />
@@ -2370,13 +2386,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>bundle</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ng</text>
@@ -2385,25 +2401,25 @@
         <text encoding="base64">CXJldHVybiBicm93c2VyaWZ5KCcuL2xpYi9pbmRleC5qcycpCgkJLmJ1bmRsZSgpCgkJLnBpcGUoc291cmNlKCdmYi1wcmljaW5nLnVtZC5qcycpKQoJCS5waXBlKGJ1ZmZlcigpKQoJCS5waXBlKHVnbGlmeSgpKQoJCS5waXBlKGd1bHAuZGVzdCgnLi9idW5kbGVzJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CS8vIHJldHVybiBicm93c2VyaWZ5KCcuL2xpYi9pbmRleC5qcycpCgkvLyAJLmJ1bmRsZSgpCgkvLyAJLnBpcGUoc291cmNlKCdmYi1wcmljaW5nLnVtZC5qcycpKQoJLy8gCS5waXBlKGJ1ZmZlcigpKQoJLy8gCS5waXBlKHVnbGlmeSgpKQoJLy8gIAkucGlwZShndWxwLmRlc3QoJy4vYnVuZGxlcycpKTsKCgkvLyB2YXIgbmdVbWQgPSBicm93c2VyaWZ5KCcuL2xpYi9mcmFtZXdvcmtzL25nLmpzJykKCS8vIAkuYnVuZGxlKCkKCS8vIAkucGlwZShzb3VyY2UoJ2J1bmRsZS5uZy51bWQuanMnKSkKCS8vIAkucGlwZShidWZmZXIoKSkKCS8vIAkucGlwZSh1Z2xpZnkoKSkKCS8vIAkucGlwZShzb3VyY2UoJ2ZiLXByaWNpbmcubmcudW1kLmpzJykpOwogICAgLy8KCS8vIAlyZXR1cm4gbWVyZ2UodW1kLCBuZ1VtZCkKCS8vIAkucGlwZShndWxwLmRlc3QoJy4vYnVuZGxlcycpKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtZXJnZS1zdHJlYW0iOiAiXjEuMC4wIiwK</text>
+        <text encoding="base64">CQlicm93c2VyOid0eXBpbmdzL2Jyb3dzZXIuZC50cycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1lcmdlID0gcmVxdWlyZSgnbWVyZ2Utc3RyZWFtJyksCg==</text>
+        <text encoding="base64">CXR5cGluZ3M6ewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjbGVhbjpsaWIiOiAicmltcmFmIGxpYiIsCg==</text>
+        <text encoding="base64">CXRzY29uZmlnX2pzb246IF9fZGlybmFtZSArICcvLi4vdHNjb25maWcuanNvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJyaW1yYWYiOiAiZ3VscCBidWlsZCIK</text>
+        <text encoding="base64">CXR5cGluZ3NfanNvbjogX19kaXJuYW1lICsgJy8uLi90eXBpbmdzLmpzb24nLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkuYWRkKCcuL2xpYi9mcmFtZXdvcmtzL25nLnRzJykK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uKCkgewp9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
