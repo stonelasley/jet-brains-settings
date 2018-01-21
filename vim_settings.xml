@@ -104,10 +104,11 @@
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1516483648100">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="P:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1516512010147">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="26" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
@@ -153,6 +154,7 @@
         <mark key="^" line="27" column="62" />
         <mark key="." line="27" column="62" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/tslint.json" timestamp="1516511730561" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -928,18 +930,24 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" timestamp="1516512609584">
+        <mark key="'" line="25" column="46" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
         <mark key="]" line="86" column="18" />
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516208718074">
+      <file name="/Dummy.txt" timestamp="1516511664406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="P:/Projects/Personal/ionic-mocks/package.json" timestamp="1516489916516" />
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="22" />
@@ -976,6 +984,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/src/services/breakdownAmount.service.spec.ts" timestamp="1516511450543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.spec.ts" timestamp="1489980556012">
         <mark key="[" line="1" column="0" />
@@ -1037,6 +1050,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/src/config/inversify.config.ts" timestamp="1516511658609">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="29" column="25" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/mocks/providers/items.ts" timestamp="1488665653457">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="69" column="34" />
@@ -1091,7 +1111,6 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1516201093665" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1472,6 +1491,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/tslint.json" timestamp="1516511720914" />
       <file name="E:/Projects/Personal/blendtec/src/faqs/providers/index.ts" timestamp="1489883827023">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -1841,6 +1861,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/src/index.ts" timestamp="1516511747327">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/components/main-menu.directive.ts" timestamp="1492201391536">
         <mark key="[" line="86" column="41" />
         <mark key="]" line="86" column="44" />
@@ -1906,6 +1932,12 @@
         <mark key="]" line="3" column="51" />
         <mark key="." line="3" column="51" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/tsconfig.json" timestamp="1516511897194">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sync.service.ts" timestamp="1492123967613">
         <mark key="[" line="7" column="0" />
@@ -2214,6 +2246,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="P:/Projects/Freshbyte/fb-pricing/src/frameworks/ng.ts" timestamp="1516511774763">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/app-settings.service.ts" timestamp="1491496886653">
         <mark key="[" line="50" column="43" />
         <mark key="]" line="50" column="48" />
@@ -2229,13 +2267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="74" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
-      <jump line="39" column="73" filename="P:/Projects/Freshbyte/freshmobile/src/test.ts" />
-      <jump line="45" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="0" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" />
-      <jump line="2" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/core/models/publish-events.ts" />
-      <jump line="111" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/core/providers/app-settings.service.ts" />
-      <jump line="72" column="76" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="21" column="10" filename="P:/Projects/Freshbyte/freshmobile/src/mocks/sales-live/allocation.service.mock.ts" />
       <jump line="71" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="43" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
@@ -2329,115 +2360,65 @@
       <jump line="76" column="0" filename="P:/Projects/Personal/SMSSpam/index.js" />
       <jump line="74" column="19" filename="P:/Projects/Personal/SMSSpam/index.js" />
       <jump line="73" column="0" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="29" column="25" filename="P:/Projects/Freshbyte/fb-pricing/src/config/inversify.config.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Freshbyte/fb-pricing/src/config/inversify.config.ts" />
+      <jump line="23" column="8" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="19" column="8" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="10" column="10" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="8" column="10" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="24" column="46" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkucGx1Z2luKHVnbGlmeSkK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSc0MzU2NDAyNTc4JywK</text>
+        <text encoding="base64">CQkucGlwZShzb3VyY2UoJ2J1bmRsZS5qcycpKQoJCS5waXBlKGJ1ZmZlcigpKQoJCS5waXBlKHVnbGlmeSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XTsK</text>
+        <text encoding="base64">CQkucGx1Z2luKHVnbGlmeSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSc0MzU2NDA4Mjc4JywK</text>
+        <text encoding="base64">CQkuYWRkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSc0MzU2NDAyNTc4JywK</text>
+        <text encoding="base64">CQkuYWRkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSc0MzU2NDA1Mjk1JywK</text>
+        <text encoding="base64">CQkuYnVuZGxlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSc0MzU3Mjk5NTcyJywK</text>
+        <text encoding="base64">CQkuYnVuZGxlKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>'Is this the real life?',
-	'Is this just fantasy?',
-	'Caught in a landslide',
-	'No escape from reality.',
-	'Open your eyes',
-	'Look up to the skies and see',
-	'I\'m just a poor boy, I need no sympathy',
-	'Because I\'m easy come, easy go',
-	'Little high, little low',
-	'Any way the wind blows doesn\'t really matter to me, to me.',
-	'Mama, just killed a man',
-	'Put a gun against his head',
-	'Pulled my trigger, now he\'s dead.',
-	'Mama, life had just begun',
-	'But now I\'ve gone and thrown it all away.',
-	'Mama, ooh',
-	'Didn\'t mean to make you cry',
-	'If I\'m not back again this time tomorrow',
-	'Carry on, carry on as if nothing really matters.',
-	'Too late, my time has come',
-	'Sends shivers down my spine',
-	'Body\'s aching all the time.',
-	'Goodbye, everybody, I\'ve got to go',
-	'Gotta leave you all behind and face the truth.',
-	'Mama, ooh (any way the wind blows)',
-	'I don\'t wanna die',
-	'I sometimes wish I\'d never been born at all.',
-	'I see a little silhouetto of a man',
-	'Scaramouche, Scaramouche, will you do the Fandango?',
-	'Thunderbolt and lightning',
-	'Very, very frightening me.',
-	'(Galileo) Galileo.',
-	'(Galileo) Galileo',
-	'Galileo Figaro',
-	'Magnifico-o-o-o-o.',
-	'I\'m just a poor boy, nobody loves me.',
-	'He\'s just a poor boy from a poor family',
-	'Spare him his life from this monstrosity.',
-	'Easy come, easy go, will you let me go?',
-	'Bismillah! No, we will not let you go. (Let him go!)',
-	'Bismillah! We will not let you go. (Let him go!)',
-	'Bismillah! We will not let you go. (Let me go!)',
-	'Will not let you go. (Let me go!)',
-	'Never let you go (Never, never, never, never let me go)',
-	'Oh oh oh oh',
-	'No, no, no, no, no, no, no',
-	'Oh, mama mia, mama mia (Mama mia, let me go.)',
-	'Beelzebub has a devil put aside for me, for me, for me.',
-	'So you think you can stone me and spit in my eye?',
-	'So you think you can love me and leave me to die?',
-	'Oh, baby, can\'t do this to me, baby',
-	'Just gotta get out, just gotta get right outta here.',
-	'(Ooooh, ooh yeah, ooh yeah)',
-	'Nothing really matters',
-	'Anyone can see',
-	'Nothing really matters',
-	'Nothing really matters to me.',
-	'Any way the wind blows.'</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkucGx1Z2luKHRzaWZ5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHR3aWxpbyA9IHJlcXVpcmUoJ3R3aWxpbycpOwo=</text>
+        <text encoding="base64">CQkucGx1Z2luKHRzaWZ5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKSwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PgoJCQljbGllbnQubWVzc2FnZXMuY3JlYXRlKHsKCQkJCWJvZHk6IGxpbmUsCgkJCQl0bzogJysxNDM1NzI5OTU3MicsICAvLyBUZXh0IHRoaXMgbnVtYmVyCgkJCQlmcm9tOiAnKzEzODU0NzQ0NTE4JyAvLyBGcm9tIGEgdmFsaWQgVHdpbGlvIG51bWJlcgoJCQl9KQoJCQkudGhlbihjb25zb2xlLmxvZykKCQkJLmNhdGNoKGNvbnNvbGUuZXJyb3IpLAoJCWluZGV4ICogNjAwMDApOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>itemprop</last-replace>
       <last-substitute>property</last-substitute>
       <last-dir>-1</last-dir>
@@ -2445,19 +2426,12 @@
     </search>
     <history>
       <history-search>
-        <entry>constants</entry>
-        <entry>Constants</entry>
-        <entry>IT</entry>
-        <entry>return</entry>
-        <entry>B</entry>
-        <entry>_)</entry>
         <entry>ar</entry>
         <entry>WI</entry>
         <entry>k</entry>
         <entry>getAll</entry>
         <entry>,</entry>
         <entry>L</entry>
-        <entry>'</entry>
         <entry>null</entry>
         <entry>*</entry>
         <entry>pricing</entry>
@@ -2465,6 +2439,13 @@
         <entry>)</entry>
         <entry>cons</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>K</entry>
+        <entry>t</entry>
+        <entry>tsi</entry>
+        <entry>ts</entry>
+        <entry>sr</entry>
+        <entry>source</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
@@ -2484,8 +2465,8 @@
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
