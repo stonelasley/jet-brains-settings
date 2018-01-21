@@ -104,11 +104,11 @@
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1516512010147">
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="26" />
+      <file name="P:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1516513339860">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="75" column="40" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
@@ -930,12 +930,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" timestamp="1516512609584">
-        <mark key="'" line="25" column="46" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="23" column="0" />
+      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" timestamp="1516513346448">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="31" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -2362,72 +2362,70 @@
       <jump line="73" column="0" filename="P:/Projects/Personal/SMSSpam/index.js" />
       <jump line="29" column="25" filename="P:/Projects/Freshbyte/fb-pricing/src/config/inversify.config.ts" />
       <jump line="0" column="0" filename="P:/Projects/Freshbyte/fb-pricing/src/config/inversify.config.ts" />
-      <jump line="23" column="8" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
-      <jump line="19" column="8" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
       <jump line="10" column="10" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
       <jump line="8" column="10" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
       <jump line="24" column="46" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="23" column="0" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
+      <jump line="19" column="8" filename="P:/Projects/Freshbyte/fb-pricing/gulp/build.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkucGx1Z2luKHVnbGlmeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bundle</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>ng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkucGlwZShzb3VyY2UoJ2J1bmRsZS5qcycpKQoJCS5waXBlKGJ1ZmZlcigpKQoJCS5waXBlKHVnbGlmeSgpKQo=</text>
+        <text encoding="base64">CXJldHVybiBicm93c2VyaWZ5KCcuL2xpYi9pbmRleC5qcycpCgkJLmJ1bmRsZSgpCgkJLnBpcGUoc291cmNlKCdmYi1wcmljaW5nLnVtZC5qcycpKQoJCS5waXBlKGJ1ZmZlcigpKQoJCS5waXBlKHVnbGlmeSgpKQoJCS5waXBlKGd1bHAuZGVzdCgnLi9idW5kbGVzJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkucGx1Z2luKHVnbGlmeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkuYWRkKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CS8vIHJldHVybiBicm93c2VyaWZ5KCcuL2xpYi9pbmRleC5qcycpCgkvLyAJLmJ1bmRsZSgpCgkvLyAJLnBpcGUoc291cmNlKCdmYi1wcmljaW5nLnVtZC5qcycpKQoJLy8gCS5waXBlKGJ1ZmZlcigpKQoJLy8gCS5waXBlKHVnbGlmeSgpKQoJLy8gIAkucGlwZShndWxwLmRlc3QoJy4vYnVuZGxlcycpKTsKCgkvLyB2YXIgbmdVbWQgPSBicm93c2VyaWZ5KCcuL2xpYi9mcmFtZXdvcmtzL25nLmpzJykKCS8vIAkuYnVuZGxlKCkKCS8vIAkucGlwZShzb3VyY2UoJ2J1bmRsZS5uZy51bWQuanMnKSkKCS8vIAkucGlwZShidWZmZXIoKSkKCS8vIAkucGlwZSh1Z2xpZnkoKSkKCS8vIAkucGlwZShzb3VyY2UoJ2ZiLXByaWNpbmcubmcudW1kLmpzJykpOwogICAgLy8KCS8vIAlyZXR1cm4gbWVyZ2UodW1kLCBuZ1VtZCkKCS8vIAkucGlwZShndWxwLmRlc3QoJy4vYnVuZGxlcycpKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkuYWRkKCkK</text>
+        <text encoding="base64">ICAgICJtZXJnZS1zdHJlYW0iOiAiXjEuMC4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkuYnVuZGxlKCkK</text>
+        <text encoding="base64">CW1lcmdlID0gcmVxdWlyZSgnbWVyZ2Utc3RyZWFtJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkuYnVuZGxlKCkK</text>
+        <text encoding="base64">ICAgICJjbGVhbjpsaWIiOiAicmltcmFmIGxpYiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkucGx1Z2luKHRzaWZ5KQo=</text>
+        <text encoding="base64">ICAgICJyaW1yYWYiOiAiZ3VscCBidWlsZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkucGx1Z2luKHRzaWZ5KQo=</text>
+        <text encoding="base64">CQkuYWRkKCcuL2xpYi9mcmFtZXdvcmtzL25nLnRzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>ng</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>ng</last-pattern>
       <last-replace>itemprop</last-replace>
       <last-substitute>property</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ar</entry>
-        <entry>WI</entry>
         <entry>k</entry>
         <entry>getAll</entry>
         <entry>,</entry>
@@ -2446,6 +2444,8 @@
         <entry>sr</entry>
         <entry>source</entry>
         <entry>'</entry>
+        <entry>gulp</entry>
+        <entry>ng</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
