@@ -682,6 +682,13 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="P:/Projects/Personal/SMSSpam/index.js" timestamp="1516494898339">
+        <mark key="'" line="72" column="30" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="64" column="14" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="37" column="0" />
@@ -2222,12 +2229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="18" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="56" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="11" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
-      <jump line="9" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
-      <jump line="42" column="49" filename="P:/Projects/Freshbyte/freshmobile/src/test.ts" />
-      <jump line="41" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="38" column="74" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="39" column="73" filename="P:/Projects/Freshbyte/freshmobile/src/test.ts" />
       <jump line="45" column="31" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
@@ -2322,58 +2323,64 @@
       <jump line="50" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="5" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="57" column="4" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="26" column="15" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="59" column="57" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="76" column="0" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="74" column="19" filename="P:/Projects/Personal/SMSSpam/index.js" />
+      <jump line="73" column="30" filename="P:/Projects/Personal/SMSSpam/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
+        <text encoding="base64">dmFyIHR3aWxpbyA9IHJlcXVpcmUoJ3R3aWxpbycpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>2578</text>
       </register>
       <register name="/" type="4">
-        <text>itemtype</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJ0ZSByZWNpcGUtaW5zdHJ1Y3Rpb25zIiBwcm9wZXJ0eT0icmVjaXBlSW5zdHJ1Y3Rpb25zIj4KICAgICAgICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluc3RydWN0aW9ucycgfCB0fX08L2gzPgogICAgICAgIHt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImluc3RydWN0aW9ucyJdIH19CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CSc0MzU2NDAyNTc4JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
+        <text encoding="base64">dmFyIHR3aWxpbyA9IHJlcXVpcmUoJ3R3aWxpbycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzIjogIjEuMC40IiwK</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJlczYtc2hpbSI6ICIwLjM1LjAiLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PgoJCQljbGllbnQubWVzc2FnZXMuY3JlYXRlKHsKCQkJCWJvZHk6IGxpbmUsCgkJCQl0bzogJysxNDM1NzI5OTU3MicsICAvLyBUZXh0IHRoaXMgbnVtYmVyCgkJCQlmcm9tOiAnKzEzODU0NzQ0NTE4JyAvLyBGcm9tIGEgdmFsaWQgVHdpbGlvIG51bWJlcgoJCQl9KQoJCQkudGhlbihjb25zb2xlLmxvZykKCQkJLmNhdGNoKGNvbnNvbGUuZXJyb3IpLAoJCWluZGV4ICogNjAwMDApOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuNiIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1ndWxwLXNjcmlwdHMtY29weSI6ICIyLjAuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1ndWxwLXNhc3MtYnVpbGQiOiAiMS4wLjAiLAo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGluZGV4LCBsaW5lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1ndWxwLWh0bWwtY29weSI6ICIxLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJpbnZlcnNpZnktZHRzIjogIl4xLjIuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1ndWxwLWZvbnRzLWNvcHkiOiAiMS4wLjAiLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBpbmdzIjogIjEuMC40IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemtype</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>itemtype</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>itemprop</last-replace>
       <last-substitute>property</last-substitute>
       <last-dir>-1</last-dir>
@@ -2381,9 +2388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process.env.</entry>
-        <entry>handle</entry>
-        <entry>blog</entry>
         <entry>constants</entry>
         <entry>Constants</entry>
         <entry>IT</entry>
@@ -2396,11 +2400,14 @@
         <entry>getAll</entry>
         <entry>,</entry>
         <entry>L</entry>
-        <entry>)</entry>
         <entry>'</entry>
         <entry>null</entry>
         <entry>*</entry>
         <entry>pricing</entry>
+        <entry>d</entry>
+        <entry>)</entry>
+        <entry>cons</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/let\ /let\ _/g</entry>
