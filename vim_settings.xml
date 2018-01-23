@@ -917,12 +917,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516404777884">
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516735693759">
         <mark key="'" line="122" column="23" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="122" column="42" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="128" column="14" />
+        <mark key="]" line="128" column="17" />
+        <mark key="^" line="128" column="17" />
+        <mark key="." line="128" column="17" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -2323,14 +2323,14 @@
       <jump line="125" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
+      <register name="&quot;" type="4">
+        <text>500</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>orientation</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
