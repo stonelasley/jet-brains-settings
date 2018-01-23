@@ -917,12 +917,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516744459573">
-        <mark key="'" line="112" column="9" />
-        <mark key="[" line="112" column="17" />
-        <mark key="]" line="112" column="18" />
-        <mark key="^" line="112" column="18" />
-        <mark key="." line="112" column="18" />
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1516747881708">
+        <mark key="'" line="163" column="12" />
+        <mark key="[" line="158" column="74" />
+        <mark key="]" line="159" column="43" />
+        <mark key="." line="159" column="43" />
+        <mark key="^" line="159" column="43" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -2227,8 +2227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
-      <jump line="82" column="10" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="28" column="39" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="42" column="14" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="3" column="33" filename="P:/Projects/Freshbyte/freshmobile/src/mocks/ng2-translate/translate.service.mock.ts" />
@@ -2317,7 +2315,6 @@
       <jump line="119" column="51" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="2" column="4" filename="P:/Projects/Blendtec/monitor-lizard/.gitignore" />
       <jump line="94" column="15" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
-      <jump line="78" column="26" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="29" column="27" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="171" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="120" column="15" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
@@ -2327,67 +2324,68 @@
       <jump line="89" column="8" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="90" column="11" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="112" column="9" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="71" column="28" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="78" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="162" column="12" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Level</text>
       </register>
       <register name="/" type="4">
-        <text>on</text>
+        <text>Command</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlibHVlTGVkLm9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciBsZWQgPSBuZXcgZml2ZS5MZWQoNik7Cg==</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
+        <text encoding="base64">CQkJCQkJCQlyZWRMZWQub24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ3knOiB0aGlzLnksCg==</text>
+        <text encoding="base64">CQkJCQkJCWlmKGx1eCA9PT0gMSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJ3gnOiB0aGlzLngsCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnVE9VQ0ggUkVMRUFTRUQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl7CgkJCSdOYW1lJzogJ1NldEh1bWlkaXR5JywKCQkJJ1BhcmFtZXRlcnMnOiBbewoJCQkJJ05hbWUnOiAnSHVtaWRpdHknLAoJCQkJJ1R5cGUnOiAnZG91YmxlJwoJCQl9XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIH0pOwo=</text>
+        <text encoding="base64">CXZhciBsZWQgPSBuZXcgZml2ZS5MZWQoNik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIAljb250cm9sbGVyOiAiVFNMMjU2MSIK</text>
+        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHZhciBsaWdodCA9IG5ldyBmaXZlLkxpZ2h0KHsK</text>
+        <text encoding="base64">CQkJJ3knOiB0aGlzLnksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/Lux/Light/g</text>
       </register>
     </registers>
     <search>
-      <last-search>on</last-search>
+      <last-search>Command</last-search>
       <last-offset />
-      <last-pattern>on</last-pattern>
-      <last-replace>redLed</last-replace>
-      <last-substitute>led</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>Command</last-pattern>
+      <last-replace>Light</last-replace>
+      <last-substitute>Lux</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inst</entry>
-        <entry>span</entry>
         <entry>P</entry>
         <entry>Prop</entry>
         <entry>property</entry>
@@ -2406,9 +2404,10 @@
         <entry>led</entry>
         <entry>6</entry>
         <entry>on</entry>
+        <entry>Lux</entry>
+        <entry>Command</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/onLogin/onAuthentication/g</entry>
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
@@ -2428,6 +2427,7 @@
         <entry>%s/lumens/lux/gc</entry>
         <entry>%s/led/redLed/gc</entry>
         <entry>w</entry>
+        <entry>%s/Lux/Light/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
