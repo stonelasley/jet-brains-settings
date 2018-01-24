@@ -869,11 +869,10 @@
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="67" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.html" timestamp="1516753445377">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="36" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.html" timestamp="1516755194153">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.spec.ts" timestamp="1489981188914">
         <mark key="[" line="22" column="32" />
@@ -1818,6 +1817,11 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pages/pick-history-edit-tab/pick-history-edit-tab.ts" timestamp="1516755659954">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/e2e/auth/login.e2e-spec.ts" timestamp="1488913263600">
         <mark key="'" line="21" column="8" />
         <mark key="[" line="23" column="0" />
@@ -2403,13 +2407,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9maXJzdCc7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1BPU1QgQUNUSU9OJywgcG9zdEFjdGlvbik7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>observable</text>
+        <text>.value</text>
       </register>
       <register name="/" type="4">
         <text>_items</text>
@@ -2418,31 +2422,31 @@
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vYnNlcnZhYmxlL2Zyb20nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9maXJzdCc7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1BPU1QgQUNUSU9OJywgcG9zdEFjdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGhpcy5fZGV2RmxhZycsIHRoaXMuX2RldkZsYWcpOwo=</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdQT1NUIEFDVElPTicsIHBvc3RBY3Rpb24udmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgX2RldkZsYWc6IG51bWJlciA9IDA7Cg==</text>
+        <text encoding="base64">CQkJCQk8cD57e2l0ZW0udXBjQ29kZX19PC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9maXJzdCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGhpcy5fZGV2RmxhZycsIHRoaXMuX2RldkZsYWcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlicm93c2VyOid0eXBpbmdzL2Jyb3dzZXIuZC50cycK</text>
+        <text encoding="base64">CXByaXZhdGUgX2RldkZsYWc6IG51bWJlciA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXR5cGluZ3M6ewo=</text>
+        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRzY29uZmlnX2pzb246IF9fZGlybmFtZSArICcvLi4vdHNjb25maWcuanNvbicK</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXR5cGluZ3NfanNvbjogX19kaXJuYW1lICsgJy8uLi90eXBpbmdzLmpzb24nLAo=</text>
+        <text encoding="base64">CQlicm93c2VyOid0eXBpbmdzL2Jyb3dzZXIuZC50cycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
