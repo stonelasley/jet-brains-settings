@@ -273,7 +273,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1516662149975">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1516844474587">
         <mark key="'" line="125" column="12" />
         <mark key="[" line="133" column="8" />
         <mark key="]" line="133" column="8" />
@@ -1394,6 +1394,12 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/item-list/item-list.html" timestamp="1516844425747">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/fb-barcode-value.ts" timestamp="1491524019961">
         <mark key="'" line="61" column="54" />
         <mark key="[" line="68" column="19" />
@@ -2411,14 +2417,14 @@
       <jump line="35" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1BPU1QgQUNUSU9OJywgcG9zdEFjdGlvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5nLXBhc3RlPSJwYXN0ZVZhbHVlKCRldmVudCki</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.value</text>
+        <text encoding="base64">IG5nLXBhc3RlPSJwYXN0ZVZhbHVlKCRldmVudCki</text>
       </register>
       <register name="/" type="4">
         <text>_items</text>
@@ -2427,34 +2433,34 @@
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vYnNlcnZhYmxlL2Zyb20nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1BPU1QgQUNUSU9OJywgcG9zdEFjdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdQT1NUIEFDVElPTicsIHBvc3RBY3Rpb24udmFsdWUpOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1BPU1QgQUNUSU9OJywgcG9zdEFjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8cD57e2l0ZW0udXBjQ29kZX19PC9wPgo=</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdQT1NUIEFDVElPTicsIHBvc3RBY3Rpb24udmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9maXJzdCc7Cg==</text>
+        <text encoding="base64">CQkJCQk8cD57e2l0ZW0udXBjQ29kZX19PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGhpcy5fZGV2RmxhZycsIHRoaXMuX2RldkZsYWcpOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9maXJzdCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgX2RldkZsYWc6IG51bWJlciA9IDA7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGhpcy5fZGV2RmxhZycsIHRoaXMuX2RldkZsYWcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgX2RldkZsYWc6IG51bWJlciA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">CWNvbmYgPSByZXF1aXJlKCcuL2NvbmYnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlicm93c2VyOid0eXBpbmdzL2Jyb3dzZXIuZC50cycK</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2507,9 +2513,9 @@
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/process.env./$/gc</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
