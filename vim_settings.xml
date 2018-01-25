@@ -754,6 +754,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.html" timestamp="1516911247524">
+        <mark key="[" line="100" column="56" />
+        <mark key="]" line="100" column="66" />
+        <mark key="." line="100" column="66" />
+        <mark key="^" line="100" column="66" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/directives/index.ts" timestamp="1489712419240">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="22" />
@@ -974,10 +980,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.ts" timestamp="1516909644654">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.ts" timestamp="1516911594881">
+        <mark key="[" line="167" column="35" />
+        <mark key="]" line="168" column="88" />
+        <mark key="." line="168" column="88" />
+        <mark key="^" line="168" column="88" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/events.mock.ts" timestamp="1491327972812">
         <mark key="[" line="2" column="8" />
@@ -2331,13 +2338,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKTsK</text>
+        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">c2VsZWN0ZWRMb3ROdW1iZXIg</text>
       </register>
       <register name="/" type="4">
         <text>Command</text>
@@ -2346,31 +2353,31 @@
         <text encoding="base64">CQlibHVlTGVkLm9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKTsK</text>
+        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQlyZWRMZWQub24oKTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCWlmKGx1eCA9PT0gMSkgewo=</text>
+        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnVE9VQ0ggUkVMRUFTRUQnKTsK</text>
+        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9LAo=</text>
+        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl7CgkJCSdOYW1lJzogJ1NldEh1bWlkaXR5JywKCQkJJ1BhcmFtZXRlcnMnOiBbewoJCQkJJ05hbWUnOiAnSHVtaWRpdHknLAoJCQkJJ1R5cGUnOiAnZG91YmxlJwoJCQl9XQo=</text>
+        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBsZWQgPSBuZXcgZml2ZS5MZWQoNik7Cg==</text>
+        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJ3onOiB0aGlzLnosCg==</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
