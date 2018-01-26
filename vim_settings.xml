@@ -528,6 +528,7 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="39" column="16" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/pick/pages/pick-history-edit-tab/pick-history-edit-tab.ts" timestamp="1516983596983" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-list/sales-order-list.html" timestamp="1491926370091">
         <mark key="'" line="46" column="28" />
         <mark key="[" line="15" column="0" />
@@ -688,6 +689,7 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="53" />
       </file>
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/pick/pages/pick-history-edit-tab/pick-history-edit-tab.html" timestamp="1516983648496" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-handler.service.ts" timestamp="1491262794090">
         <mark key="[" line="16" column="89" />
         <mark key="]" line="16" column="94" />
@@ -754,11 +756,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.html" timestamp="1516911247524">
-        <mark key="[" line="100" column="56" />
-        <mark key="]" line="100" column="66" />
-        <mark key="." line="100" column="66" />
-        <mark key="^" line="100" column="66" />
+      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.html" timestamp="1516984206106">
+        <mark key="'" line="110" column="37" />
+        <mark key="[" line="110" column="78" />
+        <mark key="]" line="110" column="78" />
+        <mark key="." line="110" column="78" />
+        <mark key="^" line="110" column="78" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/directives/index.ts" timestamp="1489712419240">
         <mark key="[" line="6" column="13" />
@@ -2235,7 +2238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="39" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.spec.ts" />
       <jump line="42" column="14" filename="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" />
       <jump line="3" column="33" filename="P:/Projects/Freshbyte/freshmobile/src/mocks/ng2-translate/translate.service.mock.ts" />
       <jump line="6" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/mocks/ng2-translate/translate.service.mock.ts" />
@@ -2335,19 +2337,20 @@
       <jump line="71" column="28" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="78" column="23" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="162" column="12" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="110" column="37" filename="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09PSAnJw==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZWN0ZWRMb3ROdW1iZXIg</text>
+        <text encoding="base64">ID09PSAnJw==</text>
       </register>
       <register name="/" type="4">
-        <text>Command</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlibHVlTGVkLm9uKCk7Cg==</text>
@@ -2384,17 +2387,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Command</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>Command</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>Light</last-replace>
       <last-substitute>Lux</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>P</entry>
         <entry>Prop</entry>
         <entry>property</entry>
         <entry>itemtype</entry>
@@ -2414,6 +2416,7 @@
         <entry>on</entry>
         <entry>Lux</entry>
         <entry>Command</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
