@@ -1268,10 +1268,11 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517260812140">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517262088403">
+        <mark key="[" line="66" column="47" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="46" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
@@ -2161,12 +2162,12 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1516043817577">
+      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1517262253176">
         <mark key="'" line="6" column="13" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1516210137254">
         <mark key="[" line="7" column="33" />
@@ -2340,13 +2341,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSAnJw==</text>
+        <text>Shopify</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSAnJw==</text>
+        <text>Shopify</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
