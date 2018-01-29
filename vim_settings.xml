@@ -1268,11 +1268,11 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517263365825">
-        <mark key="[" line="66" column="17" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="66" column="17" />
-        <mark key="^" line="66" column="12" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517266315448">
+        <mark key="[" line="68" column="123" />
+        <mark key="]" line="68" column="124" />
+        <mark key="." line="68" column="124" />
+        <mark key="^" line="68" column="123" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
@@ -2341,19 +2341,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_stage</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_stage</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlibHVlTGVkLm9uKCk7Cg==</text>
+        <text encoding="base64">LSBjaG1vZCAreCAuL3RyYXZpcy9kZXBsb3lfc3RhZ2Uuc2gK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
