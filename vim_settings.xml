@@ -101,6 +101,11 @@
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/package.json" timestamp="1517354712325">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="24" />
@@ -935,7 +940,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516208718074">
+      <file name="/Dummy.txt" timestamp="1517354322316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1174,6 +1179,11 @@
         <mark key="]" line="36" column="51" />
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
+      </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1517354428022">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
@@ -1759,6 +1769,9 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/package-lock.json" timestamp="1517355116961">
+        <mark key="'" line="85" column="9" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/pipes/filter.pipe.spec.ts" timestamp="1489527014769">
         <mark key="'" line="103" column="4" />
         <mark key="[" line="145" column="22" />
@@ -2231,19 +2244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="29" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
-      <jump line="6" column="12" filename="P:/Projects/Freshbyte/freshmobile/package.json" />
-      <jump line="20" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/sales/sales.module.ts" />
-      <jump line="62" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="29" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
-      <jump line="5" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
-      <jump line="18" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.component.ts" />
-      <jump line="25" column="28" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
-      <jump line="9" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" />
-      <jump line="22" column="52" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="23" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="44" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="185" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="40" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="42" column="23" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="36" column="66" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
@@ -2331,58 +2331,71 @@
       <jump line="37" column="13" filename="P:/Projects/Blendtec/dealer-application/.travis.yml" />
       <jump line="54" column="2" filename="P:/Projects/Blendtec/dealer-application/.travis.yml" />
       <jump line="14" column="11" filename="P:/Projects/Blendtec/dealer-application/.travis.yml" />
+      <jump line="12730" column="35" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="6" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="8" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="26" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="28" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="35" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="37" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="41" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="71" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="73" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="79" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="81" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="85" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://s3-us-west-1.amazonaws.com</text>
+        <text>^</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://s3-us-west-1.amazonaws.com</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>recipe-stage-client.blendtec.com</text>
+        <text>@angular</text>
       </register>
       <register name="0" type="4">
         <text>TRAVIS_BUILD_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
+        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLkJFQ09NRV9BX0RFQUxFUicgfCB0cmFuc2xhdGV9fTwvaDE+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
+        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKQo=</text>
+        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKTsK</text>
+        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>recipe-stage-client.blendtec.com</last-search>
+      <last-search>@angular</last-search>
       <last-offset />
-      <last-pattern>recipe-stage-client.blendtec.com</last-pattern>
+      <last-pattern>@angular</last-pattern>
       <last-replace>$S3_STAGE_BUCKET</last-replace>
       <last-substitute>recipe-stage-client.blendtec.com</last-substitute>
       <last-dir>1</last-dir>
@@ -2390,7 +2403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hu</entry>
         <entry>temp</entry>
         <entry>T</entry>
         <entry>SetLumens</entry>
@@ -2410,6 +2422,7 @@
         <entry>dealer-application</entry>
         <entry>recipe-client.blendtec.com</entry>
         <entry>recipe-stage-client.blendtec.com</entry>
+        <entry>@angular</entry>
       </history-search>
       <history-cmd>
         <entry>%s/country/serial-prefix/g</entry>
@@ -2419,7 +2432,6 @@
         <entry>%s/has-states/serial-prefix/g</entry>
         <entry>%s/statesSvc/serialPrefixSvc/g</entry>
         <entry>%s/state/serialPrefix/g</entry>
-        <entry>q</entry>
         <entry>%s/property/itemProp/gc</entry>
         <entry>%s/property/itemprop/gc</entry>
         <entry>%s/SetLumens/SetLux/g</entry>
@@ -2432,6 +2444,7 @@
         <entry>%s/recipe-client.blendtec.com/$S3_BUCKET/gc</entry>
         <entry>%s/recipe-stage-client.blendtec.com/$S3_STAGE_BUCKET/gc</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
