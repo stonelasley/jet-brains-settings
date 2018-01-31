@@ -1269,13 +1269,6 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1516309854022">
-        <mark key="'" line="21" column="109" />
-        <mark key="[" line="21" column="70" />
-        <mark key="]" line="21" column="70" />
-        <mark key="." line="21" column="70" />
-        <mark key="^" line="21" column="70" />
-      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="30" column="49" />
@@ -1962,11 +1955,8 @@
         <mark key="^" line="69" column="23" />
         <mark key="." line="69" column="23" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1517429727829">
-        <mark key="[" line="298" column="8" />
-        <mark key="]" line="298" column="9" />
-        <mark key="^" line="298" column="9" />
-        <mark key="." line="298" column="9" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1517434140614">
+        <mark key="'" line="34" column="19" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
@@ -2280,12 +2270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="66" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="54" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="31" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="36" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="41" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="42" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="6" column="13" filename="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" />
       <jump line="33" column="13" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
       <jump line="16" column="63" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
@@ -2380,6 +2364,12 @@
       <jump line="85" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
       <jump line="105" column="30" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="1156" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
+      <jump line="247" column="37" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="136" column="95" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="322" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="410" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="6" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="34" column="19" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2392,7 +2382,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>color_primary</text>
+        <text>schema</text>
       </register>
       <register name="0" type="4">
         <text>TRAVIS_BUILD_DIR</text>
@@ -2429,9 +2419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>color_primary</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>color_primary</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>$S3_STAGE_BUCKET</last-replace>
       <last-substitute>recipe-stage-client.blendtec.com</last-substitute>
       <last-dir>1</last-dir>
@@ -2439,9 +2429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
-        <entry>SetLumens</entry>
-        <entry>lumens</entry>
         <entry>x</entry>
         <entry>y</entry>
         <entry>roll</entry>
@@ -2459,6 +2446,9 @@
         <entry>recipe-stage-client.blendtec.com</entry>
         <entry>@angular</entry>
         <entry>color_primary</entry>
+        <entry>itemProp</entry>
+        <entry>prop</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>%s/countries/prefixes/g</entry>
