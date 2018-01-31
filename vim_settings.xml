@@ -1695,6 +1695,13 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1517419932685">
+        <mark key="'" line="1156" column="20" />
+        <mark key="[" line="1153" column="7" />
+        <mark key="]" line="1156" column="20" />
+        <mark key="^" line="1156" column="20" />
+        <mark key="." line="1156" column="20" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/fb-pricing.db.config.ts" timestamp="1492127811100">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="27" />
@@ -1924,7 +1931,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/page.find-a-store.liquid" timestamp="1517417660354">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/page.find-a-store.liquid" timestamp="1517419969699">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -2267,7 +2274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="36" column="66" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="54" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="31" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
@@ -2367,6 +2373,7 @@
       <jump line="81" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
       <jump line="85" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
       <jump line="105" column="30" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1156" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2379,7 +2386,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>@angular</text>
+        <text>color_primary</text>
       </register>
       <register name="0" type="4">
         <text>TRAVIS_BUILD_DIR</text>
@@ -2416,9 +2423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@angular</last-search>
+      <last-search>color_primary</last-search>
       <last-offset />
-      <last-pattern>@angular</last-pattern>
+      <last-pattern>color_primary</last-pattern>
       <last-replace>$S3_STAGE_BUCKET</last-replace>
       <last-substitute>recipe-stage-client.blendtec.com</last-substitute>
       <last-dir>1</last-dir>
@@ -2426,7 +2433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>temp</entry>
         <entry>T</entry>
         <entry>SetLumens</entry>
         <entry>lumens</entry>
@@ -2446,6 +2452,7 @@
         <entry>recipe-client.blendtec.com</entry>
         <entry>recipe-stage-client.blendtec.com</entry>
         <entry>@angular</entry>
+        <entry>color_primary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/countries/prefixes/g</entry>
