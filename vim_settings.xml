@@ -1133,6 +1133,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" timestamp="1517438275974" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/index.ts" timestamp="1491322852056">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -1268,6 +1269,9 @@
         <mark key="]" line="5" column="57" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1517437959622">
+        <mark key="'" line="33" column="51" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
@@ -2270,7 +2274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" />
       <jump line="33" column="13" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
       <jump line="16" column="63" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
       <jump line="38" column="40" filename="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" />
@@ -2370,6 +2373,7 @@
       <jump line="410" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
       <jump line="6" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
       <jump line="34" column="19" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="33" column="51" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
