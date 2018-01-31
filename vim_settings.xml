@@ -1917,6 +1917,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/page.find-a-store.liquid" timestamp="1517417660354">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/config/db.config.ts" timestamp="1492188289981">
         <mark key="'" line="38" column="8" />
         <mark key="[" line="51" column="14" />
@@ -2357,14 +2362,14 @@
       <jump line="85" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>priceSpiderWidget</text>
       </register>
       <register name="/" type="4">
         <text>@angular</text>
@@ -2373,31 +2378,31 @@
         <text>TRAVIS_BUILD_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdQUyBBU1lOQycpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLkJFQ09NRV9BX0RFQUxFUicgfCB0cmFuc2xhdGV9fTwvaDE+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJdmFyIHByaWNlU3BpZGVyV2lkZ2V0ID0gOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdQUyBBU1lOQycpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLkJFQ09NRV9BX0RFQUxFUicgfCB0cmFuc2xhdGV9fTwvaDE+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
+        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
