@@ -871,6 +871,12 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="1" />
+        <mark key="^" line="76" column="1" />
+        <mark key="." line="76" column="1" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1474,6 +1480,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/price-spider-header-scripts.liquid" timestamp="1517415806672">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/models/serializable.model.ts" timestamp="1491606788378">
         <mark key="[" line="9" column="36" />
@@ -2346,13 +2358,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>@angular</text>
@@ -2361,31 +2373,31 @@
         <text>TRAVIS_BUILD_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLkJFQ09NRV9BX0RFQUxFUicgfCB0cmFuc2xhdGV9fTwvaDE+Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdQUyBBU1lOQycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
+        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLkJFQ09NRV9BX0RFQUxFUicgfCB0cmFuc2xhdGV9fTwvaDE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RFU1RJTkcgRU5WJywgcHJvY2Vzcy5lbnYuVEVTVEVSX1dFU1RFUik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCS50aGVuKCgpID0+IHRoaXMudXBkYXRlTG90KGJhcmNvZGVWYWwpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
+        <text encoding="base64">CQl0aGlzLj0gYmFyY29kZVZhbC5sb3ROdW1iZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB1cGRhdGVMb3QoYmFyY29kZVZhbDogRmJCYXJjb2RlVmFsdWUpOiB2b2lkIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5hZGQoKQo=</text>
+        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVMb3QoYmFyY29kZVZhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2424,7 +2436,6 @@
         <entry>@angular</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/country/serial-prefix/g</entry>
         <entry>%s/countries/prefixes/g</entry>
         <entry>%s/HasStates/SerialPrefix/g</entry>
         <entry>%s/States/SerialPrefix/g</entry>
@@ -2443,6 +2454,7 @@
         <entry>%s/recipe-client.blendtec.com/$S3_BUCKET/gc</entry>
         <entry>%s/recipe-stage-client.blendtec.com/$S3_STAGE_BUCKET/gc</entry>
         <entry>q</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
