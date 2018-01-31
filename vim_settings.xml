@@ -2386,7 +2386,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>schema</text>
+        <text>prop</text>
       </register>
       <register name="0" type="4">
         <text>TRAVIS_BUILD_DIR</text>
@@ -2423,9 +2423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>schema</last-search>
+      <last-search>prop</last-search>
       <last-offset />
-      <last-pattern>schema</last-pattern>
+      <last-pattern>prop</last-pattern>
       <last-replace>$S3_STAGE_BUCKET</last-replace>
       <last-substitute>recipe-stage-client.blendtec.com</last-substitute>
       <last-dir>1</last-dir>
@@ -2450,9 +2450,9 @@
         <entry>recipe-stage-client.blendtec.com</entry>
         <entry>@angular</entry>
         <entry>color_primary</entry>
+        <entry>schema</entry>
         <entry>itemProp</entry>
         <entry>prop</entry>
-        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>%s/countries/prefixes/g</entry>
