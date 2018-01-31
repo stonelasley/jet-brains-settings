@@ -1742,6 +1742,13 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1517418840171">
+        <mark key="'" line="105" column="30" />
+        <mark key="[" line="1838" column="17" />
+        <mark key="]" line="1838" column="0" />
+        <mark key="." line="1838" column="0" />
+        <mark key="^" line="1838" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order.model.spec.ts" timestamp="1489804992577">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="1" column="0" />
@@ -2260,7 +2267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="17" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="42" column="23" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="36" column="66" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="54" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
@@ -2360,16 +2366,17 @@
       <jump line="79" column="5" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
       <jump line="81" column="46" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
       <jump line="85" column="9" filename="P:/Projects/Blendtec/dealer-application/package-lock.json" />
+      <jump line="105" column="30" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>priceSpiderWidget</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>@angular</text>
