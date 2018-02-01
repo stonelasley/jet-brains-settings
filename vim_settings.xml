@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -646,7 +646,6 @@
         <mark key="^" line="148" column="28" />
         <mark key="." line="148" column="28" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config-develop.yml" timestamp="1517518844193" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/short-item.ts" timestamp="1490904084053">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
@@ -1100,7 +1099,6 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" timestamp="1517518278612" />
       <file name="E:/Projects/Personal/blendtec/src/recipes/directives/index.ts" timestamp="1489709382956">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="23" />
@@ -1332,7 +1330,6 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" timestamp="1517518256850" />
       <file name="E:/Projects/Freshbyte/freshmobile/node_modules/fb-mobile-core/dist/providers/table-sync.service.js" timestamp="1492118182325">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="41" />
@@ -1706,7 +1703,7 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1517419932685">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1517520791739">
         <mark key="'" line="1156" column="20" />
         <mark key="[" line="1153" column="7" />
         <mark key="]" line="1156" column="20" />
