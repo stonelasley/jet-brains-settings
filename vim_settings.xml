@@ -1133,7 +1133,6 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" timestamp="1517438275974" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/index.ts" timestamp="1491322852056">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -1324,6 +1323,11 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" timestamp="1517516635340">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/node_modules/fb-mobile-core/dist/providers/table-sync.service.js" timestamp="1492118182325">
         <mark key="[" line="48" column="41" />
@@ -2383,7 +2387,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQVJUSUNMRQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2398,31 +2402,31 @@
         <text>TRAVIS_BUILD_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQVJUSUNMRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyIHByaWNlU3BpZGVyV2lkZ2V0ID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdQUyBBU1lOQycpOwo=</text>
+        <text encoding="base64">CQkJdmFyIHByaWNlU3BpZGVyV2lkZ2V0ID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
