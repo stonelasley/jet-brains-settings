@@ -837,11 +837,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517679660948">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517680336380">
         <mark key="'" line="36" column="2" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="89" column="105" />
+        <mark key="]" line="89" column="107" />
+        <mark key="." line="89" column="107" />
+        <mark key="^" line="89" column="107" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
@@ -1924,11 +1925,10 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify.js" timestamp="1517677479781">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify.js" timestamp="1517680029821">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/e2e/auth/login.e2e-spec.ts" timestamp="1488913263600">
         <mark key="'" line="21" column="8" />
@@ -2524,47 +2524,47 @@
       <jump line="36" column="2" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95X3N0YWdlLnNoICRTM19TVEFHRV9SRUdJT04vJFMzX1NUQUdFX0JVQ0tFVC8kQVBQX05BTUUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>STAGE</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>STAGE</text>
       </register>
       <register name="/" type="4">
         <text>STAGE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95LnNoICRTM19SRUdJT04vJFMzX0JVQ0tFVC8kQVBQX05BTUUiCg==</text>
+        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95LnNoICRTSE9QSUZZX1NIT1AgJFNIT1BJRllfQVBJX0tFWSAkU0hPUElGWV9BUElfUEFTU1dPUkQgJFNIT1BJRllfUEFHRV9JRCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95X3N0YWdlLnNoICRTM19TVEFHRV9SRUdJT04vJFMzX1NUQUdFX0JVQ0tFVC8kQVBQX05BTUUiCg==</text>
+        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95LnNoICIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyIHBhZ2VJZCA9IGFyZ3NbM107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ21hc3RlcicgXTsgdGhlbiAKICBucG0gcnVuIGVudiAmJiBuZyBidWlsZCAtLWFvdCAtLXByb2QgLS1iYXNlLWhyZWYgL3BhZ2VzLyRBUFBfTkFNRSAtLWRlcGxveS11cmwgJFMzX1NUQUdFX1JFR0lPTi8kUzNfU1RBR0VfQlVDS0VULyRBUFBfTkFNRS8iIDtmaQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnREVQTE9ZIEhFUkUnLCBkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkYXRhID0gZGF0YS5yZXBsYWNlKC88YmFzZVxzaHJlZj1bXj5dKj4vZ2ksICc8YmFzZSBocmVmPSIvcGFnZXMvZGVhbGVycy1jb21tZXJjaWFsLWludGwiLz4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA7ZmkK</text>
+        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95X3N0YWdlLnNoICRTM19TVEFHRV9SRUdJT04vJFMzX1NUQUdFX0JVQ0tFVC8kQVBQX05BTUUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FLXN0YWdlLwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FLzsgCg==</text>
+        <text encoding="base64">LSBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ21hc3RlcicgXTsgdGhlbiAKICBucG0gcnVuIGVudiAmJiBuZyBidWlsZCAtLWFvdCAtLXByb2QgLS1iYXNlLWhyZWYgL3BhZ2VzLyRBUFBfTkFNRSAtLWRlcGxveS11cmwgJFMzX1NUQUdFX1JFR0lPTi8kUzNfU1RBR0VfQlVDS0VULyRBUFBfTkFNRS8iIDtmaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gIjxzY3JpcHQ+IHdpbmRvdy5pbWFnZVN0b3JhZ2UgPSAnIitwcm9jZXNzLmFyZ3ZbMl0rIic7IHdpbmRvdy5saXZlU2l0ZSA9IHRydWU7IDwvc2NyaXB0PiIgKyBkYXRhOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAge25hbWU6ICdDYW5hZGEnLCBjb2RlOiAnQ0EnfQo=</text>
+        <text encoding="base64">ICA7ZmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
