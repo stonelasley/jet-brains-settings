@@ -837,12 +837,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517687940217">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517689649625">
         <mark key="'" line="29" column="121" />
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="10" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="105" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
@@ -1401,8 +1401,8 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/README.md" timestamp="1517613492019">
-        <mark key="'" line="3" column="0" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/README.md" timestamp="1517689027695">
+        <mark key="'" line="11" column="160" />
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
@@ -2422,7 +2422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
       <jump line="15" column="72" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
       <jump line="7" column="22" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
       <jump line="17" column="4" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
@@ -2522,19 +2521,20 @@
       <jump line="31" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
       <jump line="30" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
       <jump line="29" column="121" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
+      <jump line="11" column="160" filename="P:/Projects/Blendtec/commercial-dealers-international/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>staging</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>commercial-dealer-application</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ3N0YWdpbmcnIF07IHRoZW4K</text>
@@ -2567,21 +2567,20 @@
         <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19CVUNLRVQvJEFQUF9OQU1FLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>commercial-dealer-application</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>dealer</last-replace>
-      <last-substitute>country</last-substitute>
+      <last-pattern>commercial-dealer-application</last-pattern>
+      <last-replace>commercial-dealers-intl</last-replace>
+      <last-substitute>commercial-dealer-application</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deal</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxEZWFsZXJcPg==</entry>
         <entry>V</entry>
@@ -2601,9 +2600,9 @@
         <entry>sh</entry>
         <entry>S</entry>
         <entry>;</entry>
+        <entry>commercial-dealer-application</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/statesSvc/serialPrefixSvc/g</entry>
         <entry>%s/state/serialPrefix/g</entry>
         <entry>%s/property/itemProp/gc</entry>
         <entry>%s/property/itemprop/gc</entry>
@@ -2619,10 +2618,11 @@
         <entry>%s/dealer-application/commercial-dealer-application/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>%s/Country/Dealer/g</entry>
         <entry>%s/country/dealer/g</entry>
         <entry>w</entry>
+        <entry>%s/commercial-dealer-application/commercial-dealers-intl/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
