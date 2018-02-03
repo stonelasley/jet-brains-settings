@@ -837,12 +837,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517680336380">
-        <mark key="'" line="36" column="2" />
-        <mark key="[" line="89" column="105" />
-        <mark key="]" line="89" column="107" />
-        <mark key="." line="89" column="107" />
-        <mark key="^" line="89" column="107" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517684277707">
+        <mark key="'" line="29" column="121" />
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
@@ -2422,9 +2422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
-      <jump line="22" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
-      <jump line="3" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
       <jump line="24" column="4" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.spec.ts" />
       <jump line="15" column="72" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
       <jump line="7" column="22" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
@@ -2520,60 +2517,63 @@
       <jump line="20" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
       <jump line="64" column="8" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
       <jump line="33" column="1" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
-      <jump line="31" column="1" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
       <jump line="36" column="2" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
+      <jump line="89" column="21" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
+      <jump line="31" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
+      <jump line="30" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
+      <jump line="29" column="121" filename="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>STAGE</text>
+        <text>staging</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>STAGE</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
-        <text>STAGE</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95LnNoICRTSE9QSUZZX1NIT1AgJFNIT1BJRllfQVBJX0tFWSAkU0hPUElGWV9BUElfUEFTU1dPUkQgJFNIT1BJRllfUEFHRV9JRCIK</text>
+        <text encoding="base64">ICBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ3N0YWdpbmcnIF07IHRoZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95LnNoICIK</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHBhZ2VJZCA9IGFyZ3NbM107Cg==</text>
+        <text encoding="base64">ICBmaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnREVQTE9ZIEhFUkUnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkYXRhID0gZGF0YS5yZXBsYWNlKC88YmFzZVxzaHJlZj1bXj5dKj4vZ2ksICc8YmFzZSBocmVmPSIvcGFnZXMvZGVhbGVycy1jb21tZXJjaWFsLWludGwiLz4nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6ICIuLy50cmF2aXMvZGVwbG95X3N0YWdlLnNoICRTM19TVEFHRV9SRUdJT04vJFMzX1NUQUdFX0JVQ0tFVC8kQVBQX05BTUUiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVEFHSU5HJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVNURVInKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ21hc3RlcicgXTsgdGhlbiAKICBucG0gcnVuIGVudiAmJiBuZyBidWlsZCAtLWFvdCAtLXByb2QgLS1iYXNlLWhyZWYgL3BhZ2VzLyRBUFBfTkFNRSAtLWRlcGxveS11cmwgJFMzX1NUQUdFX1JFR0lPTi8kUzNfU1RBR0VfQlVDS0VULyRBUFBfTkFNRS8iIDtmaQo=</text>
+        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19ERVZfQlVDS0VULyRBUFBfTkFNRS8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19TVEFHRV9CVUNLRVQvJEFQUF9OQU1FLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA7ZmkK</text>
+        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19CVUNLRVQvJEFQUF9OQU1FLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>STAGE</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>STAGE</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>dealer</last-replace>
       <last-substitute>country</last-substitute>
       <last-dir>1</last-dir>
@@ -2581,9 +2581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>)</entry>
-        <entry>console</entry>
         <entry>deal</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxEZWFsZXJcPg==</entry>
@@ -2601,6 +2598,9 @@
         <entry>country</entry>
         <entry>then</entry>
         <entry>STAGE</entry>
+        <entry>sh</entry>
+        <entry>S</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/statesSvc/serialPrefixSvc/g</entry>
