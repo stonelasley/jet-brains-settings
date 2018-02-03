@@ -837,12 +837,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517689649625">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517690633305">
         <mark key="'" line="29" column="121" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="105" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
@@ -1356,6 +1356,7 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517690761259" />
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="25" />
@@ -1925,7 +1926,7 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify.js" timestamp="1517680029821">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify.js" timestamp="1517691200969">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -2348,6 +2349,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1517690770291">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="27" />
@@ -2524,14 +2530,14 @@
       <jump line="11" column="160" filename="P:/Projects/Blendtec/commercial-dealers-international/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text>commercial-dealer-application</text>
@@ -2540,31 +2546,31 @@
         <text encoding="base64">ICBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ3N0YWdpbmcnIF07IHRoZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBlbHNlCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmaQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVEFHSU5HJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVNURVInKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVEFHSU5HJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19ERVZfQlVDS0VULyRBUFBfTkFNRS8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVNURVInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19TVEFHRV9CVUNLRVQvJEFQUF9OQU1FLwo=</text>
+        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19ERVZfQlVDS0VULyRBUFBfTkFNRS8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19CVUNLRVQvJEFQUF9OQU1FLwo=</text>
+        <text encoding="base64">ICAgIG5wbSBydW4gZW52ICYmIG5nIGJ1aWxkIC0tYW90IC0tcHJvZCAtLWJhc2UtaHJlZiAvcGFnZXMvJEFQUF9OQU1FIC0tZGVwbG95LXVybCAkUzNfUkVHSU9OLyRTM19TVEFHRV9CVUNLRVQvJEFQUF9OQU1FLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
