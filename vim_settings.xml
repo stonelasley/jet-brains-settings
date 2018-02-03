@@ -837,7 +837,7 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517672936246">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517674883254">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -1470,12 +1470,12 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" timestamp="1517674041040">
-        <mark key="'" line="51" column="4" />
-        <mark key="[" line="66" column="93" />
-        <mark key="]" line="66" column="113" />
-        <mark key="^" line="66" column="113" />
-        <mark key="." line="66" column="113" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" timestamp="1517676072934">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-list/faq-list.page.html" timestamp="1489962849552">
         <mark key="[" line="17" column="0" />
@@ -1571,6 +1571,12 @@
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify_stage.js" timestamp="1517675761425">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="15" column="94" />
+        <mark key="." line="15" column="94" />
+        <mark key="^" line="15" column="94" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/index.ts" timestamp="1492132656121">
         <mark key="[" line="2" column="15" />
@@ -1916,6 +1922,12 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis/shopify.js" timestamp="1517675721141">
+        <mark key="[" line="15" column="94" />
+        <mark key="]" line="15" column="94" />
+        <mark key="." line="15" column="94" />
+        <mark key="^" line="15" column="94" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/e2e/auth/login.e2e-spec.ts" timestamp="1488913263600">
         <mark key="'" line="21" column="8" />
@@ -2403,7 +2415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="7" column="24" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
       <jump line="15" column="2" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
       <jump line="14" column="61" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
@@ -2503,16 +2514,17 @@
       <jump line="4" column="20" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" />
       <jump line="19" column="0" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
       <jump line="20" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
+      <jump line="64" column="8" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warranties-registration</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>warranties-registration</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>country</text>
