@@ -429,7 +429,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/config/app-config.module.ts" timestamp="1517612657645">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/config/app-config.module.ts" timestamp="1517673465519">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
@@ -602,11 +602,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.ts" timestamp="1517625063503">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.ts" timestamp="1517672755777">
         <mark key="'" line="4" column="38" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.ts" timestamp="1489447815190">
         <mark key="'" line="23" column="28" />
@@ -636,10 +637,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" timestamp="1517612865901">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" timestamp="1517673515422">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/providers/index.ts" timestamp="1488671439255">
         <mark key="'" line="11" column="1" />
@@ -834,6 +837,11 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.travis.yml" timestamp="1517672936246">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="28" column="12" />
@@ -870,6 +878,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/.angular-cli.json" timestamp="1517674167065">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
@@ -908,6 +922,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/country.service.spec.ts" timestamp="1517673952876">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
         <mark key="[" line="76" column="0" />
@@ -1150,6 +1170,7 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1517671954122" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1233,12 +1254,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" timestamp="1517626211167">
-        <mark key="'" line="6" column="52" />
-        <mark key="[" line="6" column="72" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="74" />
-        <mark key="^" line="6" column="74" />
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" timestamp="1517672870549">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="16" column="114" />
+        <mark key="]" line="16" column="114" />
+        <mark key="." line="16" column="114" />
+        <mark key="^" line="16" column="114" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
@@ -1274,7 +1295,7 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" timestamp="1517621942407">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" timestamp="1517672235174">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="18" column="6" />
         <mark key="]" line="18" column="66" />
@@ -1448,6 +1469,13 @@
         <mark key="]" line="19" column="49" />
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" timestamp="1517674041040">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="66" column="93" />
+        <mark key="]" line="66" column="113" />
+        <mark key="^" line="66" column="113" />
+        <mark key="." line="66" column="113" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-list/faq-list.page.html" timestamp="1489962849552">
         <mark key="[" line="17" column="0" />
@@ -1705,12 +1733,12 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/country.service.ts" timestamp="1517617113917">
+      <file name="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/country.service.ts" timestamp="1517672280615">
         <mark key="'" line="0" column="50" />
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="68" />
-        <mark key="." line="14" column="68" />
-        <mark key="^" line="14" column="68" />
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="59" />
+        <mark key="." line="15" column="59" />
+        <mark key="^" line="15" column="59" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/pages/category-list/category-list.page.ts" timestamp="1488666416945">
         <mark key="'" line="20" column="4" />
@@ -2295,12 +2323,6 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1517350962645">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/registration/src/environments/environment.ts" timestamp="1516210137254">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="35" />
@@ -2381,12 +2403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="13" filename="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" />
-      <jump line="38" column="101" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
-      <jump line="13" column="0" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
-      <jump line="95" column="40" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
-      <jump line="104" column="55" filename="P:/Projects/Edible/freshmobile/src/app/modules/core/providers/app-settings.service.ts" />
-      <jump line="67" column="2" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="47" column="59" filename="P:/Projects/Blendtec/warranties/src/app/personal/personal.component.spec.ts" />
       <jump line="7" column="24" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
       <jump line="15" column="2" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
@@ -2473,7 +2489,6 @@
       <jump line="14" column="64" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" />
       <jump line="4" column="27" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" />
       <jump line="0" column="50" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/country.service.ts" />
-      <jump line="16" column="19" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" />
       <jump line="19" column="30" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" />
       <jump line="2" column="29" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" />
       <jump line="3" column="0" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" />
@@ -2481,75 +2496,94 @@
       <jump line="15" column="0" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.ts" />
       <jump line="18" column="13" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" />
       <jump line="4" column="52" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" />
+      <jump line="16" column="14" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.html" />
+      <jump line="9" column="9" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" />
+      <jump line="16" column="47" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" />
+      <jump line="22" column="49" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" />
+      <jump line="4" column="20" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/app.component.spec.ts" />
+      <jump line="19" column="0" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
+      <jump line="20" column="4" filename="P:/Projects/Blendtec/commercial-dealers-international/src/app/services/dealer.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>power</text>
+        <text>warranties-registration</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>power</text>
+        <text>warranties-registration</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text>country</text>
       </register>
-      <register name="0" type="4">
-        <text>e</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNvdW50cnlTdmMgPSBqYXNtaW5lLmNyZWF0ZVNweU9iaignU3RhdGVTZXJ2aWNlJywgWydnZXRBbGwkJ10pOwogICAgY291bnRyeVN2Yy5nZXRBbGwkLmFuZC5yZXR1cm5WYWx1ZShPYnNlcnZhYmxlLm9mKFtdKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiTm8gbWF0Y2hlcyIK</text>
+        <text encoding="base64">ICAgICAge25hbWU6ICdDYW5hZGEnLCBjb2RlOiAnQ0EnfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY291bnRyeSA9IHtjb2RlOiAnJ307Cg==</text>
+        <text encoding="base64">ICAgICAge25hbWU6ICdVbml0ZWQgU3RhdGVzJywgY29kZTogJ1VTJ30sCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiByZWdpc3RyYXRpb24uZ2V0KCdhZGRyZXNzLmNpdHknKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiByZWdpc3RyYXRpb24uZ2V0KCdhZGRyZXNzLmNpdHknKS50b3VjaGVkfSIK</text>
+      <register name="4" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPiB7eydMQUJFTC5DSVRZJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAge25hbWU6ICdVbml0ZWQgU3RhdGVzJywgY29kZTogJ1VTJ30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY291bnRyeTogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAge25hbWU6ICdVbml0ZWQgU3RhdGVzJywgY29kZTogJ1VTJ30sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc2VsZWN0ZWRDb3VudHJ5OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgICBSZWFjdGl2ZUZvcm1zTW9kdWxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHVsPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuL3NlcnZpY2VzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>country</last-pattern>
+      <last-replace>dealer</last-replace>
+      <last-substitute>country</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>itemProp</entry>
-        <entry>prop</entry>
-        <entry>dealer-application</entry>
-        <entry>Country</entry>
-        <entry>country</entry>
-        <entry>O</entry>
-        <entry>core</entry>
-        <entry>(</entry>
-        <entry>In</entry>
-        <entry>'</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">PA==</entry>
         <entry>map</entry>
@@ -2560,6 +2594,16 @@
         <entry encoding="base64">XDxEZWFsZXJcPg==</entry>
         <entry>V</entry>
         <entry>selected</entry>
+        <entry>def</entry>
+        <entry>Form</entry>
+        <entry>}</entry>
+        <entry>Store</entry>
+        <entry>re</entry>
+        <entry>State</entry>
+        <entry>R</entry>
+        <entry>Reactive</entry>
+        <entry>Country</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
         <entry>%s/statesSvc/serialPrefixSvc/g</entry>
@@ -2576,11 +2620,11 @@
         <entry>%s/recipe-stage-client.blendtec.com/$S3_STAGE_BUCKET/gc</entry>
         <entry>qw</entry>
         <entry>%s/dealer-application/commercial-dealer-application/g</entry>
-        <entry>%s/Country/Dealer/g</entry>
-        <entry>%s/country/dealer/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>%s/Country/Dealer/g</entry>
+        <entry>%s/country/dealer/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
