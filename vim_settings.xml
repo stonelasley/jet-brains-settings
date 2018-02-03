@@ -1356,7 +1356,11 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517690761259" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1517692803671">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="25" />
@@ -2552,25 +2556,25 @@
         <text encoding="base64">LSAnNicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
+        <text encoding="base64">LSAnNycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text encoding="base64">LSAnNicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmaQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
+        <text encoding="base64">ICBmaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVEFHSU5HJyk7Cg==</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVNURVInKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
