@@ -440,9 +440,9 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" timestamp="1517695197956">
-        <mark key="[" line="18" column="154" />
-        <mark key="]" line="18" column="154" />
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" timestamp="1517761566271">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="75" />
         <mark key="." line="18" column="154" />
         <mark key="^" line="18" column="42" />
       </file>
@@ -1195,6 +1195,7 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1517761283949" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1548,6 +1549,12 @@
         <mark key="]" line="16" column="66" />
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="66" />
+      </file>
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" timestamp="1517763396254">
+        <mark key="'" line="341" column="13" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="." line="354" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.html" timestamp="1489978307813">
         <mark key="'" line="13" column="49" />
@@ -2460,25 +2467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.spec.ts" />
-      <jump line="109" column="117" filename="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" />
-      <jump line="20" column="0" filename="P:/Projects/Blendtec/registration/src/app/validators/serial-prefix.validator.ts" />
-      <jump line="2" column="0" filename="P:/Projects/Blendtec/registration/src/app/services/serial-prefix.service.ts" />
-      <jump line="28" column="93" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
-      <jump line="19" column="82" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="20" column="56" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="22" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="23" column="88" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="24" column="92" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="25" column="106" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="26" column="47" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="27" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="28" column="51" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="29" column="53" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="8" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="9" column="62" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
-      <jump line="42" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="50" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="5" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="21" column="109" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
@@ -2560,71 +2548,84 @@
       <jump line="11" column="160" filename="P:/Projects/Blendtec/commercial-dealers-international/README.md" />
       <jump line="2" column="0" filename="P:/Projects/Blendtec/commercial-dealers/README.md" />
       <jump line="1" column="0" filename="P:/Projects/Blendtec/commercial-dealers/README.md" />
+      <jump line="309" column="6" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="11" column="26" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="9" column="26" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="10" column="30" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="7" column="19" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="362" column="4" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="361" column="5" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="359" column="11" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="348" column="9" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="329" column="9" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="241" column="4" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="298" column="8" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="24" column="8" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="349" column="0" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="325" column="79" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="333" column="15" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="337" column="9" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
+      <jump line="341" column="13" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/SCRATCH.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8aHIvPgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGV4dC1jZW50ZXIg</text>
       </register>
       <register name="/" type="4">
-        <text>I</text>
+        <text encoding="base64">XDxoclwvXD8=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiBbICRUUkFWSVNfQlJBTkNIID0gJ3N0YWdpbmcnIF07IHRoZW4K</text>
+        <text encoding="base64">ICAgICAgICA8aHIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSAnNycK</text>
+        <text encoding="base64">ICAgICAgICA8aHIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAnNicK</text>
+        <text encoding="base64">ICAgICAgICA8aHIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAnNycK</text>
+        <text encoding="base64">ICAgIDxoci8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSAnNicK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaQo=</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVZFTE9QJyk7Cg==</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/large--one-half/large--one-half\ text-center/g</text>
       </register>
     </registers>
     <search>
-      <last-search>I</last-search>
+      <last-search encoding="base64">XDxoclwvXD8=</last-search>
       <last-offset />
-      <last-pattern>I</last-pattern>
-      <last-replace>dealers</last-replace>
-      <last-substitute>dealers-intl</last-substitute>
+      <last-pattern encoding="base64">XDxoclwvXD8=</last-pattern>
+      <last-replace>large--one-half\ text-center</last-replace>
+      <last-substitute>large--one-half</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>V</entry>
-        <entry>selected</entry>
-        <entry>def</entry>
-        <entry>Form</entry>
-        <entry>}</entry>
-        <entry>Store</entry>
         <entry>re</entry>
         <entry>State</entry>
         <entry>R</entry>
@@ -2639,17 +2640,14 @@
         <entry>commercial-dealer-application</entry>
         <entry>dealers-intl</entry>
         <entry>I</entry>
+        <entry>row</entry>
+        <entry>col\ col-md-8</entry>
+        <entry>col\ col-md-4</entry>
+        <entry>large--one-half</entry>
+        <entry>hr</entry>
+        <entry encoding="base64">XDxoclwvXD8=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/property/itemProp/gc</entry>
-        <entry>%s/property/itemprop/gc</entry>
-        <entry>%s/SetLumens/SetLux/g</entry>
-        <entry>%s/lumens/lux/gc</entry>
-        <entry>%s/led/redLed/gc</entry>
-        <entry>%s/Lux/Light/g</entry>
-        <entry>we</entry>
-        <entry>%s/dealer-application/$APP_NAME/gc</entry>
-        <entry>%s/recipe-client.blendtec.com/$S3_BUCKET/gc</entry>
         <entry>%s/recipe-stage-client.blendtec.com/$S3_STAGE_BUCKET/gc</entry>
         <entry>qw</entry>
         <entry>%s/dealer-application/commercial-dealer-application/g</entry>
@@ -2661,6 +2659,15 @@
         <entry>%s/dealers-intl/dealers/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/row/grid/gc</entry>
+        <entry>%s/col\ col-md-8/large--one-half/g</entry>
+        <entry>%s/col\ col-md-4/grid__item\ large--one-third/g</entry>
+        <entry>%s/col\ col-md-8/grid__item\ large--two-thirds/g</entry>
+        <entry>%s/col\ col-md-4/large--one-half/g</entry>
+        <entry>%s/col\ col-md-8/grid__item\ large--one-half/g</entry>
+        <entry>%s/col\ col-md-4/grid__item\ large--one-half/g</entry>
+        <entry>%s/large--one-half/large--one-half\ text-center/g</entry>
+        <entry encoding="base64">PGhy</entry>
       </history-cmd>
       <history-expr />
       <history-input />
