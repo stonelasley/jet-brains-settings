@@ -161,12 +161,12 @@
         <mark key="]" line="20" column="59" />
         <mark key="." line="20" column="59" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.ts" timestamp="1517948845153">
-        <mark key="'" line="2" column="0" />
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.ts" timestamp="1517950499789">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-        <mark key="^" line="24" column="41" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/blendtec/directives/index.ts" timestamp="1489779170728">
         <mark key="[" line="11" column="0" />
@@ -428,12 +428,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" timestamp="1517949517417">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="9" column="95" />
-        <mark key="]" line="9" column="99" />
-        <mark key="." line="9" column="99" />
-        <mark key="^" line="9" column="99" />
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" timestamp="1517950220336">
+        <mark key="'" line="7" column="45" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.spec.ts" timestamp="1489452217595">
         <mark key="'" line="67" column="45" />
@@ -442,12 +442,12 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" timestamp="1517949210146">
-        <mark key="'" line="98" column="26" />
-        <mark key="[" line="113" column="14" />
-        <mark key="]" line="113" column="14" />
-        <mark key="." line="113" column="14" />
-        <mark key="^" line="113" column="14" />
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" timestamp="1517950485050">
+        <mark key="'" line="98" column="24" />
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/providers/scan-validator.service.spec.ts" timestamp="1491602586075">
         <mark key="'" line="47" column="9" />
@@ -645,12 +645,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" timestamp="1517949458908">
+      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" timestamp="1517950258822">
         <mark key="'" line="20" column="17" />
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="68" />
-        <mark key="." line="17" column="68" />
-        <mark key="^" line="17" column="68" />
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+        <mark key="^" line="16" column="74" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/index.ts" timestamp="1489712220739">
         <mark key="[" line="0" column="64" />
@@ -2373,26 +2373,30 @@
       <jump line="3" column="18" filename="P:/Projects/Blendtec/commercial-dealers/src/app/models/dealer.interface.ts" />
       <jump line="22" column="55" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" />
       <jump line="18" column="14" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="111" column="2" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="112" column="33" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="98" column="26" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
       <jump line="20" column="17" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" />
+      <jump line="10" column="19" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
+      <jump line="9" column="34" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
+      <jump line="7" column="45" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
+      <jump line="111" column="21" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
+      <jump line="112" column="55" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
+      <jump line="98" column="24" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
+      <jump line="23" column="0" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>code</text>
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGdldCBkZWFsZXJzIGJ5IFN0YXRlJywgKGRvbmUpID0+IHsKICAgIGNvbnN0IGV4cGVjdGVkID0gZGVhbGVycy5maW5kKGQgPT4gZC5pc1JlcCA9PT0gZmFsc2UgJiYgZC5zdGF0ZUNvZGUgPT09ICdDQScpOwogICAgc2VydmljZS5nZXREZWFsZXJzKCdDQScpCiAgICAgIC5zdWJzY3JpYmUocmVzID0+IHsKICAgICAgICBleHBlY3QocmVzKS50b0VxdWFsKFtleHBlY3RlZF0pOwogICAgICAgIGRvbmUoKTsKICAgICAgfSk7CgogICAgY29uc3QgcmVxdWVzdCA9IGh0dHBNb2NrLmV4cGVjdE9uZSgnaHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9kYXRhLmJsZW5kdGVjLmNvbS9kZWFsZXJzLmpzb24nKTsKICAgIHJlcXVlc3QuZmx1c2goZGVhbGVycyk7CgoKICAgIGh0dHBNb2NrLnZlcmlmeSgpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cD57e2RlYWxlci5zdGF0ZUNvZGV9fTwvcD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAge3Nob3J0OiAnQnVraWRub24nLCBuYW1lOiAnQnVraWRub24nLCBjb3VudHJ5OiAnUEgnLCByZWdpb246ICcnLCBhbHQ6IFtdfSwK</text>
@@ -2452,9 +2456,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace>rep</last-replace>
       <last-substitute>dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -2462,17 +2466,12 @@
     </search>
     <history>
       <history-search>
-        <entry>prop</entry>
-        <entry>Commercial</entry>
-        <entry>commercial-dealers</entry>
-        <entry>Cou</entry>
         <entry>Country</entry>
         <entry>countries</entry>
         <entry>country</entry>
         <entry>deal</entry>
         <entry>reps</entry>
         <entry>$</entry>
-        <entry>(</entry>
         <entry>D</entry>
         <entry>O</entry>
         <entry>\&quot;\:</entry>
@@ -2482,6 +2481,11 @@
         <entry>dealer</entry>
         <entry>false</entry>
         <entry>state</entry>
+        <entry>state_</entry>
+        <entry>by</entry>
+        <entry>CA</entry>
+        <entry>ca</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lumens/lux/gc</entry>
@@ -2499,10 +2503,10 @@
         <entry>%s/country/state/g</entry>
         <entry>%s/\&quot;\:/\:/g</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>wq</entry>
         <entry>s/dealer/rep/g</entry>
         <entry>ws</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
