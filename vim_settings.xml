@@ -101,7 +101,7 @@
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/package.json" timestamp="1518033570904">
+      <file name="P:/Projects/Blendtec/dealer-application/package.json" timestamp="1518046615518">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -879,6 +879,9 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1516374868924">
+        <mark key="'" line="22" column="25" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="3" column="0" />
@@ -1077,6 +1080,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" timestamp="1518046702827">
+        <mark key="'" line="177" column="4" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/package.json" timestamp="1489281451740">
         <mark key="'" line="18" column="23" />
         <mark key="[" line="18" column="20" />
@@ -1165,7 +1171,6 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1517948296449" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1334,6 +1339,9 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1517437959622">
+        <mark key="'" line="33" column="51" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="30" column="49" />
@@ -1341,6 +1349,7 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518046821138" />
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="25" />
@@ -1685,6 +1694,12 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="50" column="4" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/app.component.spec.ts" timestamp="1518046763471">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/fb-barcode-value.ts" timestamp="1488497418140">
         <mark key="'" line="32" column="8" />
         <mark key="[" line="124" column="25" />
@@ -1889,6 +1904,9 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/package-lock.json" timestamp="1517355116961">
+        <mark key="'" line="85" column="9" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/pipes/filter.pipe.spec.ts" timestamp="1489527014769">
         <mark key="'" line="103" column="4" />
         <mark key="[" line="145" column="22" />
@@ -1908,6 +1926,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="20" column="4" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" timestamp="1518046716667">
+        <mark key="'" line="107" column="4" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1491925699887">
         <mark key="[" line="2" column="74" />
@@ -2009,6 +2030,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="18" />
       </file>
+      <file name="P:/Projects/Blendtec/residential-dealers-intl/README.md" timestamp="1517932400917">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.spec.ts" timestamp="1492129333600">
         <mark key="'" line="33" column="70" />
         <mark key="[" line="119" column="72" />
@@ -2053,6 +2077,9 @@
         <mark key="]" line="69" column="23" />
         <mark key="^" line="69" column="23" />
         <mark key="." line="69" column="23" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1517434140614">
+        <mark key="'" line="34" column="19" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
@@ -2417,10 +2444,13 @@
       <jump line="26" column="18" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
       <jump line="0" column="21" filename="P:/Projects/Blendtec/commercial-dealers/src/app/rep-card/rep-card.component.html" />
       <jump line="40" column="17" filename="P:/Projects/Blendtec/dealer-application/src/app/app.module.ts" />
+      <jump line="177" column="4" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
+      <jump line="107" column="4" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" />
+      <jump line="31" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/app.component.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQVBQX0JBU0VfSFJFRiB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbic7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2429,46 +2459,46 @@
         <text>width=device-width, initial-scale=1</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>RouterM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQVBQX0JBU0VfSFJFRiB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm91dGluZ01vZHVsZSB9IGZyb20gJy4vYXBwLXJvdXRpbmcubW9kdWxlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmd4RXJyb3JzTW9kdWxlIH0gZnJvbSAnQHVsdGltYXRlL25neGVycm9ycyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE5neEVycm9yc01vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChbXSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tPHNjcmlwdCBzcmM9Imh0dHBzOi8vdXNlLmZvbnRhd2Vzb21lLmNvbS9jOTc4NmJmZDIzLmpzIj48L3NjcmlwdD4tLT4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMjE4Mi8wMjU3L3QvNy9hc3NldHMvc3R5bGUuc2Nzcy5jc3MiPi0tPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICJAdWx0aW1hdGUvbmd4ZXJyb3JzIjogIl4xLjQuMCIsCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQXBwUm91dGluZ01vZHVsZSB9IGZyb20gJy4vYXBwLXJvdXRpbmcubW9kdWxlJzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTmd4RXJyb3JzTW9kdWxlIH0gZnJvbSAnQHVsdGltYXRlL25neGVycm9ycyc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9yb3V0ZXIiOiAiNS4xLjAiLAo=</text>
+        <text encoding="base64">ICAgIE5neEVycm9yc01vZHVsZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>RouterM</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>RouterM</last-pattern>
       <last-replace>dealer</last-replace>
       <last-substitute>rep</last-substitute>
       <last-dir>1</last-dir>
@@ -2476,9 +2506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
-        <entry>add</entry>
-        <entry>city</entry>
         <entry>ci</entry>
         <entry>state</entry>
         <entry>p</entry>
@@ -2496,6 +2523,9 @@
         <entry>rep</entry>
         <entry>Route</entry>
         <entry>router</entry>
+        <entry>Router</entry>
+        <entry>Rout</entry>
+        <entry>RouterM</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
