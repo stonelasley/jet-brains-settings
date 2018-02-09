@@ -609,11 +609,11 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config.yml" timestamp="1517518857138">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config.yml" timestamp="1518204165749">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.ts" timestamp="1489447815190">
         <mark key="'" line="23" column="28" />
@@ -1338,9 +1338,6 @@
         <mark key="]" line="5" column="57" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1517437959622">
-        <mark key="'" line="33" column="51" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/utils/aim-parser.spec.ts" timestamp="1491515607748">
         <mark key="'" line="30" column="12" />
@@ -2336,6 +2333,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518204076672">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/models/recipe.model.ts" timestamp="1488672539928">
         <mark key="'" line="330" column="0" />
         <mark key="[" line="287" column="45" />
@@ -2449,50 +2452,50 @@
       <jump line="31" column="13" filename="P:/Projects/Blendtec/dealer-application/src/app/app.component.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQVBQX0JBU0VfSFJFRiB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>production</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>width=device-width, initial-scale=1</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>RouterM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
+        <text encoding="base64">cHJvZHVjdGlvbjoKICBwYXNzd29yZDogVEhFTUVLSVRfUEFTU1dPUkQKICB0aGVtZV9pZDogVEhFTUVLSVRfVEhFTUVfSUQKICBzdG9yZTogVEhFTUVLSVRfU1RPUkUKICBpZ25vcmVzOgogICAgLSB0aGVtZWtpdF9pZ25vcmVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQVBQX0JBU0VfSFJFRiB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbic7Cg==</text>
+        <text encoding="base64">ICAgIGJyYW5jaDogZGV2ZWxvcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvbjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
+        <text encoding="base64">ICBzY3JpcHQ6IHRoZW1lIC1lIGRldmVsb3BtZW50IHVwbG9hZCAtLWZvcmNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChbXSksCg==</text>
+        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdWx0aW1hdGUvbmd4ZXJyb3JzIjogIl4xLjQuMCIsCg==</text>
+        <text encoding="base64">LSBwcm92aWRlcjogc2NyaXB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQVBQX0JBU0VfSFJFRiB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm91dGluZ01vZHVsZSB9IGZyb20gJy4vYXBwLXJvdXRpbmcubW9kdWxlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmd4RXJyb3JzTW9kdWxlIH0gZnJvbSAnQHVsdGltYXRlL25neGVycm9ycyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5neEVycm9yc01vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChbXSksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2544,10 +2547,10 @@
         <entry>ws</entry>
         <entry>q</entry>
         <entry>%s/dealer/rep/gc</entry>
-        <entry>wq</entry>
         <entry>%s/CompanyName/Company Name\ :/g</entry>
         <entry>%s/rep/dealer/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
