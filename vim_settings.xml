@@ -1041,12 +1041,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="P:/Projects/Edible/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tab/sales-order-line-edit-tab.ts" timestamp="1516911594881">
-        <mark key="[" line="167" column="35" />
-        <mark key="]" line="168" column="88" />
-        <mark key="." line="168" column="88" />
-        <mark key="^" line="168" column="88" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/events.mock.ts" timestamp="1491327972812">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="14" />
@@ -1171,6 +1165,7 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1518212524183" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="20" column="21" />
@@ -1346,7 +1341,6 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518046821138" />
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="25" />
@@ -1777,7 +1771,6 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/index.html" timestamp="1518045658423" />
       <file name="E:/Projects/Freshbyte/barcode-parser/src/config/aim-codes.ts" timestamp="1491513192000">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="30" />
