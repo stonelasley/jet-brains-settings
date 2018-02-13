@@ -32,6 +32,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.stage.ts" timestamp="1518557727150">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="81" />
+        <mark key="^" line="6" column="81" />
+        <mark key="." line="6" column="81" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-edit-tabs.html" timestamp="1490223367476">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="11" column="30" />
@@ -435,6 +442,12 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.develop.ts" timestamp="1518557836265">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" timestamp="1492470635258">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -749,12 +762,24 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1518557755440">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="76" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/fb-barcode-value.ts" timestamp="1491524019961">
         <mark key="'" line="61" column="54" />
         <mark key="[" line="68" column="19" />
         <mark key="]" line="68" column="20" />
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="20" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.css" timestamp="1518557274029">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/main-menu.directive.ts" timestamp="1492118968788">
         <mark key="[" line="3" column="50" />
@@ -2505,67 +2530,67 @@
       <jump line="183" column="5" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
       <jump line="191" column="5" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.ts" />
       <jump line="153" column="41" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" />
+      <jump line="4" column="0" filename="P:/Projects/Blendtec/registration/src/environments/environment.stage.ts" />
+      <jump line="6" column="15" filename="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>recipe-client</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>recipe-client</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>ass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiZGV2ZWxvcCI6ICJlbnZpcm9ubWVudHMvZW52aXJvbm1lbnQuZGV2ZWxvcC5wcm9kLnRzIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci5pbnB1dFJlcXVpcmVkewoJYm9yZGVyLWNvbG9yOnJlZDsKCWJvcmRlci1zdHlsZTpzb2xpZDsKCWJvcmRlci13aWR0aDoxcHg7Cn0KLnNlcmlhbC1udW1iZXItaW5mby13cmFwcGVyewoJYm9yZGVyLWNvbG9yOmJsYWNrOwoJYm9yZGVyLXN0eWxlOnNvbGlkOwoJYm9yZGVyLXdpZHRoOjFweDsKCWJvcmRlci1yYWRpdXM6MTAwcHg7CglkaXNwbGF5OmlubGluZS1ibG9jazsKICAgIHdpZHRoOiAyMHB4OwogICAgaGVpZ2h0OiAyMHB4OwogICAgY3Vyc29yOnBvaW50ZXI7CiAgICBwb3NpdGlvbjpyZWxhdGl2ZTsKfQouc2VyaWFsLW51bWJlci1pbmZvewogICAgZm9udC1zaXplOiAxNnB4OwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAycHg7CiAgICBsZWZ0OiA3cHg7Cn0KLnNlcmlhbC1udW1iZXItaW5mby13cmFwcGVyOmhvdmVyIC5zZXJpYWwtbnVtYmVyLWluZm97Cglmb250LXNpemU6MjBweDsKCXRvcDowcHg7CglsZWZ0OjZweDsKfQojcmVnaXN0cmF0aW9uLW1haW4tZGl2ewoKfQojd2hlcmVJc1NlcmlhbE51bWJlcnsKICAgIG1heC13aWR0aDogNjAwcHg7CiAgICBib3JkZXItY29sb3I6IGJsYWNrOwogICAgYm9yZGVyLXN0eWxlOiBzb2xpZDsKICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7CiAgICBib3JkZXItd2lkdGg6IDFweDsKCS13ZWJraXQtYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoMCwwLDAsMC43NSk7CgktbW96LWJveC1zaGFkb3c6IDJweCAycHggNXB4IDBweCByZ2JhKDAsMCwwLDAuNzUpOwoJYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoMCwwLDAsMC43NSk7Cglwb3NpdGlvbjphYnNvbHV0ZTsKCXotaW5kZXg6MTA7CgliYWNrZ3JvdW5kLWNvbG9yOndoaXRlOwp9CiNiYWNrZ3JvdW5kLXNjcmVlbnsKICAgIGRpc3BsYXk6IG5vbmU7CiAgICBoZWlnaHQ6IDEwMCU7CiAgICB3aWR0aDogMTAwJTsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIG9wYWNpdHk6IDAuNTsKICAgIHotaW5kZXg6IDU7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgIHRvcDogMDsKICAgIGxlZnQ6IDA7Cn0KLmNsaWNrYWJsZXsKICAgIGN1cnNvcjpwb2ludGVyOwp9Ci5yZWdpc3RyYXRpb24tdGhhbmsteW91IHsKICBtYXgtd2lkdGg6IDg2MHB4OwogIG1hcmdpbjogYXV0bzsgfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1oZXJvLWltYWdlIHsKICAgIGJhY2tncm91bmQ6IHVybCgiI2h0dHBzOi8vY2RuLmJsZW5kdGVjLmNvbS9pbWcvcmVnaXN0cmF0aW9uL3Byb2R1Y3QtcmVnaXN0cmF0aW9uLWhlcm8tc20uanBnIikgbm8tcmVwZWF0OwogICAgYmFja2dyb3VuZC1wb3NpdGlvbjogNzAlIDA7CiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOyB9CiAgICBAbWVkaWEgKG1pbi13aWR0aDogMjUwcHgpIHsKICAgICAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWhlcm8taW1hZ2UgewogICAgICAgIGJhY2tncm91bmQ6IHVybCgiI2h0dHBzOi8vY2RuLmJsZW5kdGVjLmNvbS9pbWcvcmVnaXN0cmF0aW9uL3Byb2R1Y3QtcmVnaXN0cmF0aW9uLWhlcm8uanBnIikgbm8tcmVwZWF0OwogICAgICAgIGJhY2tncm91bmQtcG9zaXRpb246IDcwJSAwOwogICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7IH0gfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1sZWFkZXItdGl0bGUgewogICAgZm9udC1zaXplOiAyLjRyZW07CiAgICBtYXJnaW46IDUwcHggYXV0byAwOyB9CiAgICBAbWVkaWEgKG1pbi13aWR0aDogMjUwcHgpIHsKICAgICAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWxlYWRlci10aXRsZSB7CiAgICAgICAgZm9udC1zaXplOiAyLjhyZW07IH0gfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1oZWFkaW5nIHsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IH0KICAucmVnaXN0cmF0aW9uLXRoYW5rLXlvdS0tcGFyYSB7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBmb250LXNpemU6IDEuNHJlbTsKICAgIG1heC13aWR0aDogNjAwcHg7CiAgICBtYXJnaW46IDEwcHggYXV0bzsgfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b25zIHsKICAgIG1heC13aWR0aDogMTEyMHB4OwogICAgbWFyZ2luLXRvcDogNjBweDsKICAgIG1hcmdpbi1ib3R0b206IDE2MHB4OyB9CiAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbiB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICB3aWR0aDogNDkuMTUyNTQlOwogICAgZmxvYXQ6IHJpZ2h0OwogICAgbWFyZ2luLXJpZ2h0OiAwOyB9CiAgICBAbWVkaWEgKG1pbi13aWR0aDogNjUwcHgpIHsKICAgICAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbiB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMHB4OwogICAgICAgIHdpZHRoOjIzLjclOyB9IH0KICAgIEBtZWRpYSAobWluLXdpZHRoOiA2NTBweCkgewogICAgICAucmVnaXN0cmF0aW9uLXRoYW5rLXlvdS0tYnV0dG9uOmxhc3Qtb2YtdHlwZSB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMHB4OwogICAgICAgIHdpZHRoOiAyMy43Mjg4MSU7IH0gfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1zb2NpYWwtYm94IHsKICAgIGRpc3BsYXk6IGJsb2NrOwogICAgdGV4dC1hbGlnbjogY2VudGVyOyB9CiAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbi1pbWFnZSB7CiAgICBoZWlnaHQ6IGF1dG87CiAgICBtYXgtd2lkdGg6IDEzMHB4OwogICAgd2lkdGg6IDEwMCU7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbjogYXV0bzsgfQogICAgQG1lZGlhIChtaW4td2lkdGg6IDI1MHB4KSB7CiAgICAgIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b24taW1hZ2UgewogICAgICAgIG1heC13aWR0aDogMTUwcHg7IH0gfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b24tY29udGVudCB7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBkaXNwbGF5OiBibG9jazsgfQogIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idG4tdGl0bGUgewogICAgZm9udC1zaXplOiAxLjE0cmVtOwogICAgY29sb3I6ICM1ODU5NWI7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogICAgbWFyZ2luOiAxNHB4IDA7IH0KICAgIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b246aG92ZXIgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ0bi10aXRsZSB7CiAgICAgIGNvbG9yOiAjRUQxQjJDOyB9CiAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbi1hcnJvdyBzdmcgewogICAgZGlzcGxheTogYmxvY2s7CiAgICBoZWlnaHQ6IDMwcHg7CiAgICBtYXJnaW46IDAgYXV0bzsKICAgIHdpZHRoOiAzMHB4OwogICAgcGFkZGluZzogMXB4OyB9CiAgICAucmVnaXN0cmF0aW9uLXRoYW5rLXlvdS0tYnV0dG9uLWFycm93IHN2ZyAjY2lyY2xlIHsKICAgICAgc3Ryb2tlOiByZWQ7CiAgICAgIHN0cm9rZS13aWR0aDogNDA7IH0KICAgIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b24tYXJyb3cgc3ZnICNhcnJvdyB7CiAgICAgIGZpbGw6ICM1ODU5NWI7IH0KICAgIC5yZWdpc3RyYXRpb24tdGhhbmsteW91LS1idXR0b246aG92ZXIgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbi1hcnJvdyBzdmcgI2NpcmNsZSB7CiAgICAgIHN0cm9rZTogbm9uZTsKICAgICAgZmlsbDogI0VEMUIyQzsgfQogICAgLnJlZ2lzdHJhdGlvbi10aGFuay15b3UtLWJ1dHRvbjpob3ZlciAucmVnaXN0cmF0aW9uLXRoYW5rLXlvdS0tYnV0dG9uLWFycm93IHN2ZyAjYXJyb3cgewogICAgICBmaWxsOiB3aGl0ZTsgfQouc29jaWFsLWljb25zIC5zb2NpYWwtaWNvbiBhIHsKICAgIGNvbG9yOiAjRUQxQjJDOwp9Ci5zb2NpYWwtaWNvbnMgLnNvY2lhbC1pY29uIGE6aG92ZXIgewogICAgY29sb3I6ICM1ODU5NWI7Cn0KLmljb24gewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIGxpbmUtaGVpZ2h0OiAxOwogICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsKICAgIHNwZWFrOiBub25lOwogICAgdGV4dC1kZWNvcmF0aW9uOiBpbmhlcml0OwogICAgdGV4dC10cmFuc2Zvcm06IG5vbmU7CiAgICB0ZXh0LXJlbmRlcmluZzogb3B0aW1pemVMZWdpYmlsaXR5OwogICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwp9Ci5zb2NpYWwtaWNvbnMgLnNvY2lhbC1pY29uIHsKICAgIGZvbnQtc2l6ZTogMjFweDsKICAgIGZvbnQtc2l6ZTogMS41cmVtOwogICAgbGlzdC1zdHlsZTogbm9uZTsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgIHBhZGRpbmc6IDAgNnB4Owp9Ci5pY29uIHN2ZyB7CiAgICBmaWxsOiAjRUQxQjJDOwp9Ci5pY29uOmhvdmVyIHN2Z3sKICAgIGZpbGw6ICM1ODU5NWI7Cn0KLnRleHQtbWF4LXdpZHRoewogICAgbWF4LXdpZHRoOjEyMDBweDsKfQouZXJyb3ItbWVzc2FnZXsKICAgIGNvbG9yOiAjYTk0NDQyOwogICAgYmFja2dyb3VuZC1jb2xvcjogI2YyZGVkZTsKICAgIGJvcmRlci1jb2xvcjogI2ViY2NkMTsKICAgIHBhZGRpbmctcmlnaHQ6IDM1cHg7CiAgICBwYWRkaW5nOiAxNXB4OwogICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgIGJvcmRlcjogMXB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLXJhZGl1czogNHB4OwogICAgbWF4LXdpZHRoOiA2MDBweDsKICAgIHBvc2l0aW9uOnJlbGF0aXZlOwp9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iZmF2aWNvbi5pY28iPgo=</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iZmF2aWNvbi5pY28iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+Cg==</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8dGl0bGU+QmVjb21lIGEgRGVhbGVyPC90aXRsZT4K</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NVQ0NFU1MgUFJFIFJVTicsIGNvbXBvbmVudC5zdWNjZXNzKTsK</text>
+        <text encoding="base64">ICA8dGl0bGU+QmVjb21lIGEgRGVhbGVyPC90aXRsZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NVQ0NFU1MgUFJFIFJVTicsIGNvbXBvbmVudC5zdWNjZXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBjbWQgPSBuZXcgQXBwbGljYXRpb25Db21tYW5kKGZvcm1EYXRhLnZhbHVlKTsgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpCg==</text>
+        <text encoding="base64">ICAgIGxldCBjbWQgPSBuZXcgQXBwbGljYXRpb25Db21tYW5kKGZvcm1EYXRhLnZhbHVlKTsgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>ass</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace>dealer</last-replace>
-      <last-substitute>rep</last-substitute>
+      <last-pattern>ass</last-pattern>
+      <last-replace>apps</last-replace>
+      <last-substitute>recipe-client</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>d</entry>
-        <entry>2</entry>
         <entry>impm</entry>
         <entry>On</entry>
         <entry>For</entry>
@@ -2584,10 +2609,10 @@
         <entry>this</entry>
         <entry>(</entry>
         <entry>'</entry>
+        <entry>recipe-client</entry>
+        <entry>ass</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
-        <entry>%s/dealer-application/$APP_NAME/gc</entry>
         <entry>%s/recipe-client.blendtec.com/$S3_BUCKET/gc</entry>
         <entry>%s/recipe-stage-client.blendtec.com/$S3_STAGE_BUCKET/gc</entry>
         <entry>qw</entry>
@@ -2604,7 +2629,9 @@
         <entry>%s/dealer/rep/gc</entry>
         <entry>%s/CompanyName/Company Name\ :/g</entry>
         <entry>%s/rep/dealer/gc</entry>
+        <entry>%s/recipe-client/apps.stage/g</entry>
         <entry>wq</entry>
+        <entry>%s/recipe-client/apps/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
