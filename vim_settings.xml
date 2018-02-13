@@ -764,12 +764,10 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1518561656413">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="71" />
-        <mark key="^" line="6" column="71" />
-        <mark key="." line="6" column="71" />
+      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1518562338697">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/fb-barcode-value.ts" timestamp="1491524019961">
         <mark key="'" line="61" column="54" />
@@ -2584,7 +2582,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2599,31 +2597,31 @@
         <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8dGl0bGU+UmVnaXN0cmF0aW9uPC90aXRsZT4K</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2luZG93U2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzL3dpbmRvdy5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApIHsK</text>
+        <text encoding="base64">ICBhc3NldHM6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL3JlY2lwZS1jbGllbnQuYmxlbmR0ZWMuY29tL3JlZ2lzdHJhdGlvbi9hc3NldHMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5SZWYubmF0aXZlV2luZG93LmltYWdlU3RvcmFnZSkgewo=</text>
+        <text encoding="base64">ICA8dGl0bGU+UmVnaXN0cmF0aW9uPC90aXRsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdPVVRQVVQnLCBwdXRfZGF0YS5wYWdlLmJvZHlfaHRtbCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgV2luZG93U2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzL3dpbmRvdy5zZXJ2aWNlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSAnNycK</text>
+        <text encoding="base64">ICApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSAnNicK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtLWJhc2UtaHJlZiAvcGFnZXMvcHJvZHVjdC1yZWdpc3RyYXRpb24vOyBmaQo=</text>
+        <text encoding="base64">ICAgIGlmICh3aW5SZWYubmF0aXZlV2luZG93LmltYWdlU3RvcmFnZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
