@@ -912,6 +912,11 @@
         <mark key="." line="48" column="62" />
         <mark key="^" line="48" column="79" />
       </file>
+      <file name="P:/Projects/Blendtec/dealer-application/src/index.html" timestamp="1518550989856">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/config/aim-codes.ts" timestamp="1491513192000">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="30" />
@@ -1810,11 +1815,11 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518548783523">
-        <mark key="[" line="29" column="74" />
-        <mark key="]" line="29" column="89" />
-        <mark key="." line="29" column="89" />
-        <mark key="^" line="29" column="89" />
+      <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518551506236">
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="29" column="92" />
+        <mark key="." line="29" column="92" />
+        <mark key="^" line="29" column="92" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" timestamp="1492470800724">
         <mark key="'" line="187" column="13" />
@@ -1900,6 +1905,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/dealer-application/.angular-cli.json" timestamp="1518551991470">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="28" column="61" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/fb-barcode-value.spec.ts" timestamp="1491602320899">
         <mark key="[" line="16" column="25" />
@@ -2496,47 +2507,47 @@
       <jump line="153" column="41" filename="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NVQ0NFU1MgUFJFIFJVTicsIGNvbXBvbmVudC5zdWNjZXNzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBhcHBsaWNhdGlvblN2Y01vY2sucG9zdC5hbmQuY2FsbEZha2UoKCkgPT4gUHJvbWlzZS5yZWplY3QoJycpKTsK</text>
+        <text encoding="base64">ICAgICAgICAiZGV2ZWxvcCI6ICJlbnZpcm9ubWVudHMvZW52aXJvbm1lbnQuZGV2ZWxvcC5wcm9kLnRzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NVQ0NFU1MgUFJFIFJVTicsIGNvbXBvbmVudC5zdWNjZXNzKTsK</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpOwo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iZmF2aWNvbi5pY28iPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBjbWQgPSBuZXcgQXBwbGljYXRpb25Db21tYW5kKGZvcm1EYXRhLnZhbHVlKTsgCg==</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpCg==</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICA8dGl0bGU+QmVjb21lIGEgRGVhbGVyPC90aXRsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdPTiBTVUJNSVQnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NVQ0NFU1MgUFJFIFJVTicsIGNvbXBvbmVudC5zdWNjZXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZygnRVJST1InLCBlcnIpKTsKICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICAgIGxldCBjbWQgPSBuZXcgQXBwbGljYXRpb25Db21tYW5kKGZvcm1EYXRhLnZhbHVlKTsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdPTiBTVUJNSVQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
