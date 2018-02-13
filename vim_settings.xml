@@ -646,11 +646,11 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1518476052850">
-        <mark key="[" line="696" column="58" />
-        <mark key="]" line="696" column="82" />
-        <mark key="." line="696" column="82" />
-        <mark key="^" line="696" column="82" />
+      <file name="P:/Projects/Blendtec/dealer-application/src/app/components/application/application.component.html" timestamp="1518555300750">
+        <mark key="[" line="696" column="61" />
+        <mark key="]" line="696" column="75" />
+        <mark key="." line="696" column="75" />
+        <mark key="^" line="696" column="75" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
@@ -2508,13 +2508,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>success</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
