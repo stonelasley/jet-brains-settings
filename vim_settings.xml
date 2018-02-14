@@ -623,6 +623,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1518640885590" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1160,12 +1161,11 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/.travis/shopify.js" timestamp="1518560135053" />
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518204076672">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="16" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -1518,12 +1518,6 @@
         <mark key="]" line="18" column="16" />
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config.yml" timestamp="1518204165749">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/gtin-8.reader.ts" timestamp="1488237870790">
         <mark key="'" line="1" column="12" />
@@ -1926,10 +1920,10 @@
         <mark key="^" line="0" column="16" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/blog.liquid" timestamp="1517441619369">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/common.module.ts" timestamp="1489974130693">
         <mark key="'" line="13" column="0" />
