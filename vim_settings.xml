@@ -1771,6 +1771,9 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" timestamp="1518647845644">
+        <mark key="'" line="44" column="98" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/directives/index.ts" timestamp="1489709382956">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="23" />
@@ -2573,6 +2576,9 @@
       <jump line="9" column="36" filename="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.html" />
       <jump line="27" column="4" filename="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.html" />
       <jump line="14" column="20" filename="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.ts" />
+      <jump line="14" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
+      <jump line="35" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
+      <jump line="44" column="98" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2585,7 +2591,7 @@
         <text>winRef.nativeWindow.imageStorage</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>itemprop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
@@ -2618,13 +2624,13 @@
         <text encoding="base64">ICAgIGlmICh3aW5SZWYubmF0aXZlV2luZG93LmltYWdlU3RvcmFnZSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>itemprop</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>itemprop</last-pattern>
       <last-replace />
       <last-substitute>assets\/</last-substitute>
       <last-dir>1</last-dir>
@@ -2632,7 +2638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Repws</entry>
         <entry>Rep</entry>
         <entry>rep</entry>
         <entry>Route</entry>
@@ -2652,6 +2657,7 @@
         <entry>develop</entry>
         <entry>assets\/</entry>
         <entry>)</entry>
+        <entry>itemprop</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Commercial/Residential/g</entry>
@@ -2667,13 +2673,13 @@
         <entry>%s/CompanyName/Company Name\ :/g</entry>
         <entry>%s/rep/dealer/gc</entry>
         <entry>%s/recipe-client/apps.stage/g</entry>
-        <entry>wq</entry>
         <entry>%s/recipe-client/apps/g</entry>
         <entry>s/develop/stage/g</entry>
         <entry>%s/assets\//g</entry>
         <entry>%s/assets\///g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
