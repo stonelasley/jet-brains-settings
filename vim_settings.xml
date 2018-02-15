@@ -518,10 +518,11 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518716594205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1518729160769">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
         <mark key="'" line="21" column="55" />
@@ -813,6 +814,7 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="P:/Projects/Edible/fb-pricing/config/tsconfig.build.json" timestamp="1518728882152" />
       <file name="P:/Projects/Edible/fb-pricing/src/config/db.config.ts" timestamp="1518721193557">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -1697,6 +1699,12 @@
         <mark key="]" line="59" column="4" />
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="4" />
+      </file>
+      <file name="P:/Projects/Edible/fb-pricing/package.json" timestamp="1518728902721">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" timestamp="1515893238539">
         <mark key="'" line="10" column="13" />
@@ -2584,58 +2592,59 @@
       <jump line="14" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="35" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="44" column="98" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
+      <jump line="0" column="2" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>.ts</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.ts</text>
       </register>
       <register name="/" type="4">
-        <text>itemprop</text>
+        <text encoding="base64">XDx0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
+        <text encoding="base64">ICAgICJlMmUiOiAidHNjIC1wIC4vY29uZmlnL3RzY29uZmlnLnRlc3QuanNvbiAmJiBjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlOmUyZVwiIFwic2xlZXAgMzAgJiYgbnBtIHJ1biBwcm90cmFjdG9yXCIgLS1raWxsLW90aGVycyAtLXN1Y2Nlc3MgZmlyc3QiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZTplMmUiOiAiY2QgZXhhbXBsZSAmJiBpb25pYyBzZXJ2ZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhc3NldHM6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL3JlY2lwZS1jbGllbnQuYmxlbmR0ZWMuY29tL3JlZ2lzdHJhdGlvbi9hc3NldHMnLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8dGl0bGU+UmVnaXN0cmF0aW9uPC90aXRsZT4K</text>
+        <text encoding="base64">ICBhc3NldHM6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL3JlY2lwZS1jbGllbnQuYmxlbmR0ZWMuY29tL3JlZ2lzdHJhdGlvbi9hc3NldHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2luZG93U2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzL3dpbmRvdy5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApIHsK</text>
+        <text encoding="base64">ICA8dGl0bGU+UmVnaXN0cmF0aW9uPC90aXRsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgV2luZG93U2VydmljZSB9IGZyb20gJy4uLy4uL3NlcnZpY2VzL3dpbmRvdy5zZXJ2aWNlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5SZWYubmF0aXZlV2luZG93LmltYWdlU3RvcmFnZSkgewo=</text>
+        <text encoding="base64">ICApIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemprop</last-search>
+      <last-search encoding="base64">XDx0c1w+</last-search>
       <last-offset />
-      <last-pattern>itemprop</last-pattern>
+      <last-pattern encoding="base64">XDx0c1w+</last-pattern>
       <last-replace />
       <last-substitute>assets\/</last-substitute>
       <last-dir>1</last-dir>
@@ -2643,7 +2652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rep</entry>
         <entry>rep</entry>
         <entry>Route</entry>
         <entry>router</entry>
@@ -2663,6 +2671,7 @@
         <entry>assets\/</entry>
         <entry>)</entry>
         <entry>itemprop</entry>
+        <entry encoding="base64">XDx0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Commercial/Residential/g</entry>
@@ -2683,8 +2692,8 @@
         <entry>%s/assets\//g</entry>
         <entry>%s/assets\///g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
