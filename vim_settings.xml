@@ -813,6 +813,11 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="P:/Projects/Edible/fb-pricing/src/config/db.config.ts" timestamp="1518721193557">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/index.ts" timestamp="1492132656121">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -2581,14 +2586,14 @@
       <jump line="44" column="98" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>winRef.nativeWindow.imageStorage</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>itemprop</text>
