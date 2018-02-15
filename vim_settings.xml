@@ -518,7 +518,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518734684723">
+      <file name="/Dummy.txt" timestamp="1518735707925">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -1705,11 +1705,11 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
-      <file name="P:/Projects/Edible/fb-pricing/package.json" timestamp="1518734551497">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="70" column="0" />
+      <file name="P:/Projects/Edible/fb-pricing/package.json" timestamp="1518735753931">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pick.module.ts" timestamp="1515893238539">
         <mark key="'" line="10" column="13" />
@@ -2601,7 +2601,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBlZG9jIjogIl4wLjUuMSIsCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -2616,31 +2616,31 @@
         <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBlZG9jIjogIl4wLjUuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXR5cGluZ3M6ewo=</text>
+        <text encoding="base64">ICAgICJyZW1hcC1pc3RhbmJ1bCI6ICJeMC42LjQiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzIjogIjEuMC40IiwK</text>
+        <text encoding="base64">ICAgICJwb3N0dGVzdCI6ICJyZW1hcC1pc3RhbmJ1bCAtaSBjb3ZlcmFnZS9qc29uL2NvdmVyYWdlLWZpbmFsLmpzb24gLW8gY292ZXJhZ2UvaHRtbCAtdCBodG1sIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICJlMmUiOiAidHNjIC1wIC4vY29uZmlnL3RzY29uZmlnLnRlc3QuanNvbiAmJiBjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlOmUyZVwiIFwic2xlZXAgMzAgJiYgbnBtIHJ1biBwcm90cmFjdG9yXCIgLS1raWxsLW90aGVycyAtLXN1Y2Nlc3MgZmlyc3QiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZTplMmUiOiAiY2QgZXhhbXBsZSAmJiBpb25pYyBzZXJ2ZSIsCg==</text>
+        <text encoding="base64">ICAgICJwcm90cmFjdG9yIjogInByb3RyYWN0b3IgLi9jb25maWcvcHJvdHJhY3Rvci5jb25mLmpzIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFnZQo=</text>
+        <text encoding="base64">ICAgICJwcmVwcm90cmFjdG9yIjogIndlYmRyaXZlci1tYW5hZ2VyIHVwZGF0ZSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZTplMmUiOiAiY2QgZXhhbXBsZSAmJiBpb25pYyBzZXJ2ZSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3NldHM6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL3JlY2lwZS1jbGllbnQuYmxlbmR0ZWMuY29tL3JlZ2lzdHJhdGlvbi9hc3NldHMnLAo=</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CXR5cGluZ3M6ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
