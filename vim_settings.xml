@@ -1076,12 +1076,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1518806936632">
-        <mark key="'" line="135" column="23" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1518810485675">
+        <mark key="'" line="131" column="12" />
         <mark key="[" line="131" column="69" />
-        <mark key="]" line="131" column="76" />
+        <mark key="]" line="131" column="69" />
         <mark key="^" line="131" column="76" />
-        <mark key="." line="131" column="76" />
+        <mark key="." line="131" column="69" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
@@ -1174,11 +1174,12 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518809563336">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="19" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518810457294">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="22" column="104" />
+        <mark key="]" line="22" column="134" />
+        <mark key="^" line="22" column="134" />
+        <mark key="." line="22" column="134" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -2608,67 +2609,67 @@
       <jump line="8" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
       <jump line="39" column="49" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
       <jump line="135" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="17" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" />
+      <jump line="131" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dXBsb2FkIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBsb2FkIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>collection</text>
+        <text>han</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7cHJvdmlkZTogQVBQX0NPTkZJRywgdXNlVmFsdWU6IHtzMzogJ3MzVXJsJywgY2FwdGNoYUtleTogJ3Rlc3RLZXknfX0sCg==</text>
+        <text encoding="base64">ICBzY3JpcHQ6IHRoZW1lIHVwbG9hZCAtcCAkU1RBR0VfUEFTU1dPUkQgLXMgJFNUQUdFX1NIT1AgLXQgJFNUQUdFX1RIRU1FX0lEIC0tZm9yY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlZG9jIjogIl4wLjUuMSIsCg==</text>
+        <text encoding="base64">ICBzY3JpcHQ6IHRoZW1lIC1lIHByb2R1Y3Rpb24gdXBsb2FkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZW1hcC1pc3RhbmJ1bCI6ICJeMC42LjQiLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBlZG9jIjogIl4wLjUuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwb3N0dGVzdCI6ICJyZW1hcC1pc3RhbmJ1bCAtaSBjb3ZlcmFnZS9qc29uL2NvdmVyYWdlLWZpbmFsLmpzb24gLW8gY292ZXJhZ2UvaHRtbCAtdCBodG1sIgo=</text>
+        <text encoding="base64">ICAgICJyZW1hcC1pc3RhbmJ1bCI6ICJeMC42LjQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJlMmUiOiAidHNjIC1wIC4vY29uZmlnL3RzY29uZmlnLnRlc3QuanNvbiAmJiBjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlOmUyZVwiIFwic2xlZXAgMzAgJiYgbnBtIHJ1biBwcm90cmFjdG9yXCIgLS1raWxsLW90aGVycyAtLXN1Y2Nlc3MgZmlyc3QiLAo=</text>
+        <text encoding="base64">ICAgICJwb3N0dGVzdCI6ICJyZW1hcC1pc3RhbmJ1bCAtaSBjb3ZlcmFnZS9qc29uL2NvdmVyYWdlLWZpbmFsLmpzb24gLW8gY292ZXJhZ2UvaHRtbCAtdCBodG1sIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwcm90cmFjdG9yIjogInByb3RyYWN0b3IgLi9jb25maWcvcHJvdHJhY3Rvci5jb25mLmpzIiwK</text>
+        <text encoding="base64">ICAgICJlMmUiOiAidHNjIC1wIC4vY29uZmlnL3RzY29uZmlnLnRlc3QuanNvbiAmJiBjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlOmUyZVwiIFwic2xlZXAgMzAgJiYgbnBtIHJ1biBwcm90cmFjdG9yXCIgLS1raWxsLW90aGVycyAtLXN1Y2Nlc3MgZmlyc3QiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwcmVwcm90cmFjdG9yIjogIndlYmRyaXZlci1tYW5hZ2VyIHVwZGF0ZSIsCg==</text>
+        <text encoding="base64">ICAgICJwcm90cmFjdG9yIjogInByb3RyYWN0b3IgLi9jb25maWcvcHJvdHJhY3Rvci5jb25mLmpzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZTplMmUiOiAiY2QgZXhhbXBsZSAmJiBpb25pYyBzZXJ2ZSIsCg==</text>
+        <text encoding="base64">ICAgICJwcmVwcm90cmFjdG9yIjogIndlYmRyaXZlci1tYW5hZ2VyIHVwZGF0ZSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiLAo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZTplMmUiOiAiY2QgZXhhbXBsZSAmJiBpb25pYyBzZXJ2ZSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXR5cGluZ3M6ewo=</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>collection</last-search>
+      <last-search>han</last-search>
       <last-offset />
-      <last-pattern>collection</last-pattern>
-      <last-replace />
-      <last-substitute>assets\/</last-substitute>
+      <last-pattern>han</last-pattern>
+      <last-replace>PROD</last-replace>
+      <last-substitute>STAGE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>router</entry>
-        <entry>Router</entry>
         <entry>Rout</entry>
         <entry>RouterM</entry>
         <entry>{</entry>
@@ -2687,9 +2688,10 @@
         <entry encoding="base64">XDx0c1w+</entry>
         <entry>form</entry>
         <entry>collection</entry>
+        <entry>STAGE</entry>
+        <entry>han</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Commercial/Residential/g</entry>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
         <entry>%s/Country/State/g</entry>
         <entry>%s/countries/states/g</entry>
@@ -2708,6 +2710,7 @@
         <entry>%s/assets\///g</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>s/STAGE/PROD/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
