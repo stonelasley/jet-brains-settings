@@ -459,6 +459,13 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1518824708178">
+        <mark key="'" line="87" column="7" />
+        <mark key="[" line="87" column="37" />
+        <mark key="]" line="87" column="38" />
+        <mark key="^" line="87" column="38" />
+        <mark key="." line="87" column="38" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-validator.service.ts" timestamp="1490144479300">
         <mark key="'" line="2" column="25" />
         <mark key="[" line="0" column="22" />
@@ -630,6 +637,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" timestamp="1518824695217">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="77" column="35" />
+        <mark key="]" line="77" column="34" />
+        <mark key="^" line="77" column="34" />
+        <mark key="." line="77" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/index.ts" timestamp="1491322852056">
         <mark key="[" line="0" column="23" />
@@ -1919,8 +1933,8 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" timestamp="1518817224233">
-        <mark key="'" line="0" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" timestamp="1518824639768">
+        <mark key="'" line="94" column="6" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="4" />
         <mark key="." line="103" column="4" />
@@ -2623,6 +2637,13 @@
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
       <jump line="191" column="38" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="68" column="0" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
+      <jump line="17" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
+      <jump line="86" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
+      <jump line="89" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
+      <jump line="94" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="87" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2635,7 +2656,7 @@
         <text>article</text>
       </register>
       <register name="/" type="4">
-        <text>han</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJLy8gCQkudGhlbihhcnRpY2xlID0+IGFydGljbGVTcnZjLnVwZGF0ZShhcnRpY2xlLCAndGFncycsICcnKSkpCg==</text>
@@ -2672,9 +2693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>han</last-search>
+      <last-search>5</last-search>
       <last-offset />
-      <last-pattern>han</last-pattern>
+      <last-pattern>5</last-pattern>
       <last-replace>PROD</last-replace>
       <last-substitute>STAGE</last-substitute>
       <last-dir>1</last-dir>
@@ -2682,8 +2703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rout</entry>
-        <entry>RouterM</entry>
         <entry>{</entry>
         <entry>=</entry>
         <entry>()</entry>
@@ -2702,6 +2721,8 @@
         <entry>collection</entry>
         <entry>STAGE</entry>
         <entry>han</entry>
+        <entry>paginate</entry>
+        <entry>5</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
@@ -2720,9 +2741,9 @@
         <entry>s/develop/stage/g</entry>
         <entry>%s/assets\//g</entry>
         <entry>%s/assets\///g</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>s/STAGE/PROD/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
