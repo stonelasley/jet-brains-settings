@@ -1076,12 +1076,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1518739535208">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1518806267524">
         <mark key="'" line="135" column="23" />
-        <mark key="[" line="169" column="22" />
-        <mark key="]" line="169" column="25" />
+        <mark key="[" line="134" column="22" />
+        <mark key="]" line="134" column="22" />
         <mark key="^" line="169" column="25" />
-        <mark key="." line="169" column="25" />
+        <mark key="." line="134" column="22" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
@@ -1532,7 +1532,6 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config.yml" timestamp="1518799903882" />
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/gtin-8.reader.ts" timestamp="1488237870790">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="3" column="30" />
@@ -2611,13 +2610,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29sbGVjdGlvbi50aXRsZSA=</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sbGVjdGlvbi50aXRsZSA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>collection</text>
