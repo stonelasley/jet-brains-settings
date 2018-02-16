@@ -1174,11 +1174,11 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518204076672">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1518809563336">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -2611,13 +2611,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">dXBsb2FkIA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">dXBsb2FkIA==</text>
       </register>
       <register name="/" type="4">
         <text>collection</text>
