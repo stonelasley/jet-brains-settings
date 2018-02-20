@@ -2189,8 +2189,8 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1517418840171">
-        <mark key="'" line="105" column="30" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1518827317813">
+        <mark key="'" line="2620" column="1" />
         <mark key="[" line="1838" column="17" />
         <mark key="]" line="1838" column="0" />
         <mark key="." line="1838" column="0" />
@@ -2644,6 +2644,12 @@
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="87" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
+      <jump line="26" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="93" column="46" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="374" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="380" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="2497" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="2620" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2656,7 +2662,7 @@
         <text>article</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>$headerSize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJLy8gCQkudGhlbihhcnRpY2xlID0+IGFydGljbGVTcnZjLnVwZGF0ZShhcnRpY2xlLCAndGFncycsICcnKSkpCg==</text>
@@ -2693,18 +2699,16 @@
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>$headerSize</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>$headerSize</last-pattern>
       <last-replace>PROD</last-replace>
       <last-substitute>STAGE</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>=</entry>
         <entry>()</entry>
         <entry>this</entry>
         <entry>(</entry>
@@ -2723,6 +2727,8 @@
         <entry>han</entry>
         <entry>paginate</entry>
         <entry>5</entry>
+        <entry>site-header</entry>
+        <entry>$headerSize</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
