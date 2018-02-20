@@ -976,12 +976,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1517520791739">
-        <mark key="'" line="1156" column="20" />
-        <mark key="[" line="1153" column="7" />
-        <mark key="]" line="1156" column="20" />
-        <mark key="^" line="1156" column="20" />
-        <mark key="." line="1156" column="20" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1519149348014">
+        <mark key="'" line="1162" column="20" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="7" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/index.html" timestamp="1517955456365">
         <mark key="'" line="4" column="0" />
@@ -2189,12 +2189,12 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1518827317813">
-        <mark key="'" line="2620" column="1" />
-        <mark key="[" line="1838" column="17" />
-        <mark key="]" line="1838" column="0" />
-        <mark key="." line="1838" column="0" />
-        <mark key="^" line="1838" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519149387853">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="110" column="1" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="110" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.module.ts" timestamp="1517944654949">
         <mark key="[" line="20" column="0" />
@@ -2650,6 +2650,7 @@
       <jump line="380" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="2497" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="2620" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="85" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2662,7 +2663,7 @@
         <text>article</text>
       </register>
       <register name="/" type="4">
-        <text>$headerSize</text>
+        <text>$colorBody</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJLy8gCQkudGhlbihhcnRpY2xlID0+IGFydGljbGVTcnZjLnVwZGF0ZShhcnRpY2xlLCAndGFncycsICcnKSkpCg==</text>
@@ -2699,17 +2700,16 @@
       </register>
     </registers>
     <search>
-      <last-search>$headerSize</last-search>
+      <last-search>$colorBody</last-search>
       <last-offset />
-      <last-pattern>$headerSize</last-pattern>
+      <last-pattern>$colorBody</last-pattern>
       <last-replace>PROD</last-replace>
       <last-substitute>STAGE</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>()</entry>
         <entry>this</entry>
         <entry>(</entry>
         <entry>'</entry>
@@ -2729,6 +2729,7 @@
         <entry>5</entry>
         <entry>site-header</entry>
         <entry>$headerSize</entry>
+        <entry>$colorBody</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
