@@ -1889,11 +1889,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1518821691467">
+      <file name="P:/Projects/Blendtec/shopify-api-scratch/services/articles.service.js" timestamp="1519253467932">
         <mark key="'" line="74" column="19" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="110" column="48" />
+        <mark key="]" line="110" column="48" />
+        <mark key="." line="110" column="48" />
+        <mark key="^" line="110" column="48" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/sales-live/allocation.service.mock.ts" timestamp="1514675267036">
         <mark key="'" line="21" column="10" />
