@@ -2191,8 +2191,8 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519232037430">
-        <mark key="'" line="188" column="1" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519240234032">
+        <mark key="'" line="7447" column="0" />
         <mark key="[" line="7692" column="4" />
         <mark key="]" line="7692" column="4" />
         <mark key="." line="7692" column="4" />
@@ -2563,7 +2563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="58" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" />
       <jump line="3" column="18" filename="P:/Projects/Blendtec/commercial-dealers/src/app/models/dealer.interface.ts" />
       <jump line="18" column="14" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
       <jump line="20" column="17" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" />
@@ -2663,6 +2662,7 @@
       <jump line="58" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="3" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="17" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="7447" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2675,7 +2675,7 @@
         <text encoding="base64">LXN0eWxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>hr</text>
+        <text>heavy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJLy8gCQkudGhlbihhcnRpY2xlID0+IGFydGljbGVTcnZjLnVwZGF0ZShhcnRpY2xlLCAndGFncycsICcnKSkpCg==</text>
@@ -2712,9 +2712,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hr</last-search>
+      <last-search>heavy</last-search>
       <last-offset />
-      <last-pattern>hr</last-pattern>
+      <last-pattern>heavy</last-pattern>
       <last-replace>PROD</last-replace>
       <last-substitute>STAGE</last-substitute>
       <last-dir>1</last-dir>
@@ -2722,8 +2722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>develop</entry>
-        <entry>assets\/</entry>
         <entry>)</entry>
         <entry>itemprop</entry>
         <entry encoding="base64">XDx0c1w+</entry>
@@ -2742,6 +2740,8 @@
         <entry>rec</entry>
         <entry>blen</entry>
         <entry>hr</entry>
+        <entry>hevy</entry>
+        <entry>heavy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
