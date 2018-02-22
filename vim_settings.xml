@@ -863,10 +863,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" timestamp="1519334758304">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" timestamp="1519339691064">
+        <mark key="'" line="26" column="59" />
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="43" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/index.ts" timestamp="1489970473915">
         <mark key="'" line="6" column="18" />
@@ -2209,12 +2211,12 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519335421222">
-        <mark key="'" line="9044" column="20" />
-        <mark key="[" line="9038" column="3" />
-        <mark key="]" line="9039" column="1" />
-        <mark key="." line="9039" column="1" />
-        <mark key="^" line="9039" column="1" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519340037884">
+        <mark key="'" line="6635" column="6" />
+        <mark key="[" line="7771" column="3" />
+        <mark key="]" line="7788" column="6" />
+        <mark key="." line="7788" column="6" />
+        <mark key="^" line="7788" column="6" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.module.ts" timestamp="1517944654949">
         <mark key="[" line="20" column="0" />
@@ -2588,16 +2590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="74" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" />
-      <jump line="50" column="14" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="110" column="0" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="112" column="35" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="115" column="8" filename="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.spec.ts" />
-      <jump line="16" column="20" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
-      <jump line="29" column="20" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
-      <jump line="4" column="0" filename="P:/Projects/Blendtec/commercial-dealers/src/index.html" />
-      <jump line="21" column="35" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
-      <jump line="0" column="2" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
       <jump line="19" column="46" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
       <jump line="22" column="37" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
       <jump line="20" column="44" filename="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.html" />
@@ -2688,58 +2680,68 @@
       <jump line="227" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="9044" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="7745" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="22" column="89" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
+      <jump line="25" column="44" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
+      <jump line="26" column="59" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
+      <jump line="7788" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="4312" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="4397" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="6600" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="6609" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="6635" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>button-hero</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>button-hero</text>
       </register>
       <register name="/" type="4">
-        <text>l</text>
+        <text>exit-intent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDQlOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogNjBweDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAkbGFyZ2UpIHsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CjxzdHlsZT4KCgo8L3N0eWxlPg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEgyIHsKICAgICAgbWFyZ2luLWJvdHRvbTogLTEwcHg7CiAgICAgIGZvbnQtc2l6ZTogNDBweDsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qeHNtYWxsIC0gNjAwd2lkdGgqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qeHhzbWFsbCAtIDQwMHdpZHRoKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAkbGFyZ2UpIHsKCiAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBIMiB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBmb250LXdlaWdodDogOTAwOwogICAgbWFyZ2luLWJvdHRvbTogLTMwcHg7CiAgICBmb250LXNpemU6IDYwcHg7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>l</last-search>
+      <last-search>exit-intent</last-search>
       <last-offset />
-      <last-pattern>l</last-pattern>
+      <last-pattern>exit-intent</last-pattern>
       <last-replace>PROD</last-replace>
       <last-substitute>STAGE</last-substitute>
       <last-dir>1</last-dir>
@@ -2747,8 +2749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>paginate</entry>
-        <entry>5</entry>
         <entry>$headerSize</entry>
         <entry>$colorBody</entry>
         <entry>site-header</entry>
@@ -2767,6 +2767,8 @@
         <entry>author</entry>
         <entry>auth</entry>
         <entry>l</entry>
+        <entry>hero</entry>
+        <entry>exit-intent</entry>
       </history-search>
       <history-cmd>
         <entry>%s/commercial-dealers/residential-dealers-intl/g</entry>
