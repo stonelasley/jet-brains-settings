@@ -280,7 +280,7 @@
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="76" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519418937155">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519423731512">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="7" column="36" />
@@ -684,6 +684,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/ormconfig.json" timestamp="1519423524766">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/state.service.ts" timestamp="1517948627100">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="31" />
@@ -963,12 +969,12 @@
         <mark key="." line="28" column="56" />
         <mark key="^" line="28" column="56" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1519419579588">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1519424522364">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/recipe-tabs/recipe-tabs.page.ts" timestamp="1488671253424">
         <mark key="'" line="0" column="0" />
@@ -1143,11 +1149,11 @@
         <mark key="^" line="131" column="76" />
         <mark key="." line="131" column="69" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/app.module.ts" timestamp="1519419610381">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="6" column="52" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/app.module.ts" timestamp="1519424676430">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
@@ -1359,6 +1365,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519424918750">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
@@ -1829,6 +1842,13 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519423330089">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="32" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" timestamp="1519232077778">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="73" column="0" />
@@ -1854,6 +1874,12 @@
         <mark key="]" line="22" column="15" />
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" timestamp="1519425379591">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.dev.ts" timestamp="1518548699799">
         <mark key="[" line="6" column="54" />
@@ -2157,6 +2183,13 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" timestamp="1519424167462">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="94" />
+        <mark key="." line="7" column="94" />
+        <mark key="^" line="7" column="94" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order-short.model.ts" timestamp="1492118881340">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="30" />
@@ -2187,6 +2220,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="53" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" timestamp="1519424726610">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-gs-one-handler.service.ts" timestamp="1491931377849">
         <mark key="[" line="2" column="47" />
@@ -2238,6 +2278,12 @@
         <mark key="]" line="3" column="60" />
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="60" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519422822642">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/lot.ts" timestamp="1490143604358">
         <mark key="[" line="0" column="50" />
@@ -2644,15 +2690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="14" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
-      <jump line="44" column="98" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
-      <jump line="0" column="2" filename="/Dummy.txt" />
-      <jump line="8" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="39" column="49" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="135" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="17" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" />
-      <jump line="131" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
       <jump line="191" column="38" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="68" column="0" filename="P:/Projects/Blendtec/shopify-api-scratch/index.js" />
       <jump line="17" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" />
@@ -2744,72 +2781,74 @@
       <jump line="7497" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="25" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
       <jump line="5" column="4" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" />
+      <jump line="60" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" />
+      <jump line="35" column="4" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" />
+      <jump line="1" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" />
+      <jump line="2" column="20" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" />
+      <jump line="4" column="32" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" />
+      <jump line="4" column="21" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" />
+      <jump line="10" column="42" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" />
+      <jump line="8" column="8" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Database</text>
+        <text>InSerialList</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Database</text>
+        <text>InSerialList</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogOTAwOwo=</text>
+        <text encoding="base64">CUBJc05vdEVtcHR5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29ubmVjdGlvbiB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewoJCXByb3ZpZGU6ICdEYkNvbm5lY3Rpb25Ub2tlbicsCgkJdXNlRmFjdG9yeTogYXN5bmMgKCkgPT4gYXdhaXQgY3JlYXRlQ29ubmVjdGlvbih7CgkJCXR5cGU6ICdteXNxbCcsCgkJCWhvc3Q6IHByb2Nlc3MuZW52LkRCX0hPU1QsCgkJCXBvcnQ6IDMzMDYsCgkJCXVzZXJuYW1lOiBwcm9jZXNzLmVudi5EQl9VU0VSLAoJCQlwYXNzd29yZDogcHJvY2Vzcy5lbnYuREJfUEFTU1dPUkQsCgkJCWRhdGFiYXNlOiBwcm9jZXNzLmVudi5EQl9OQU1FLAoJCQllbnRpdGllczogWwoJCQkJX19kaXJuYW1lICsgJy8uLi8qKi8qLmVudGl0eXsudHMsLmpzfScsCgkJCV0sCgkJCWF1dG9TY2hlbWFTeW5jOiB0cnVlLAoJCX0pLAoJfSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CUBJc05vdEVtcHR5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlkOiBudW1iZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvblN0cmluZyA9ICdtb25nb2RiOi8vJyArIHVzZXIgKyAnOicgKyBwYXNzd29yZCArIGhvc3QgKyBhdXRoU3JjOwo=</text>
+        <text encoding="base64">CglAQ29sdW1uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CglAQ29sdW1uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSBwcm9jZXNzLmVudi5EQl9OQU1FOwo=</text>
+        <text encoding="base64">CglAQ29sdW1uKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdXNlciA9IHByb2Nlc3MuZW52LkRCX1VTRVI7Cg==</text>
+        <text encoding="base64">CglAQ29sdW1uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VUlOVEFfU0VDUkVUPXNlY3JldAo=</text>
+        <text encoding="base64">CglAQ29sdW1uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>productRegistration</last-replace>
-      <last-substitute>database</last-substitute>
+      <last-substitute>photo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rec</entry>
-        <entry>blen</entry>
-        <entry>hr</entry>
-        <entry>hevy</entry>
-        <entry>include</entry>
-        <entry>bread</entry>
-        <entry>recipes</entry>
         <entry>blog</entry>
         <entry>author</entry>
         <entry>auth</entry>
@@ -2823,12 +2862,15 @@
         <entry>$color</entry>
         <entry>small</entry>
         <entry>database</entry>
+        <entry>pho</entry>
+        <entry>Phot</entry>
+        <entry>Regisr</entry>
+        <entry>Photo</entry>
+        <entry>Prod</entry>
+        <entry>photo</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Country/State/g</entry>
-        <entry>%s/countries/states/g</entry>
-        <entry>%s/country/state/g</entry>
-        <entry>%s/\&quot;\:/\:/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>s/dealer/rep/g</entry>
         <entry>ws</entry>
@@ -2842,8 +2884,12 @@
         <entry>%s/assets\///g</entry>
         <entry>s/STAGE/PROD/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>%s/database/productRegistration/g</entry>
+        <entry>%s/photo/product-registration/g</entry>
+        <entry>%s/Regisr/Registr/g</entry>
+        <entry>%s/Photo/ProductRegistration/g</entry>
+        <entry>%s/photo/productRegistration/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
