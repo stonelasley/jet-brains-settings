@@ -3,6 +3,7 @@
     <default_templates>
       <template name="Ionic Mock.ts" reformat="true" live-template-enabled="true" />
       <template name="Ionic2PageTemplate.ts" reformat="true" live-template-enabled="true" />
+      <template name="NestModule.ts" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
