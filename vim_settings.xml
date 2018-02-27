@@ -5,11 +5,6 @@
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
     <filemarks>
-      <file name="P:/Projects/Edible/freshmobile/src/app/modules/core/interceptors/error.interceptor.ts" timestamp="1518463065339">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.html" timestamp="1491934392683">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="14" />
@@ -21,11 +16,6 @@
         <mark key="]" line="24" column="54" />
         <mark key="." line="24" column="54" />
         <mark key="^" line="25" column="61" />
-      </file>
-      <file name="P:/Projects/Blendtec/dealer-application/package.json" timestamp="1518046615518">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
@@ -45,17 +35,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/.travis.yml" timestamp="1518559747440">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519756243971">
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
@@ -82,11 +66,6 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="E:/Projects/Freshbyte/freshmobile/src/sales/providers/customer.service.ts" timestamp="1492128752712">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="59" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/blendtec/directives/index.ts" timestamp="1489779170728">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -111,11 +90,6 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/index.ts" timestamp="1517944646430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/fb-core.module.ts" timestamp="1491432834633">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="55" />
@@ -134,11 +108,11 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/index.js" timestamp="1519417802907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/index.js" timestamp="1519761306547">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-list/sales-order-list.ts" timestamp="1491925426885">
         <mark key="[" line="7" column="26" />
@@ -200,11 +174,6 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/package.json" timestamp="1516133105956">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/index.ts" timestamp="1489776289084">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -235,22 +204,17 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/index.html" timestamp="1518561113725">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/article-title.liquid" timestamp="1519329571790">
         <mark key="[" line="1" column="70" />
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="76" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519756202130">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519761509677">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/index.ts" timestamp="1489888543420">
         <mark key="[" line="5" column="0" />
@@ -348,11 +312,6 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="P:/Projects/Edible/fb-pricing/gulp/conf.js" timestamp="1518734534104">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-handler.service.ts" timestamp="1491262794090">
         <mark key="[" line="16" column="89" />
         <mark key="]" line="16" column="94" />
@@ -364,11 +323,6 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/database.providers.ts" timestamp="1519419502467">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/models/contact.ts" timestamp="1489963780847">
         <mark key="[" line="1" column="0" />
@@ -424,6 +378,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env-remote" timestamp="1519761381026" />
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.spec.ts" timestamp="1489981188914">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="36" />
@@ -435,11 +390,6 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
-      </file>
-      <file name="E:/Projects/Freshbyte/freshmobile/src/app/pricing-db.config.ts" timestamp="1492133234405">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
         <mark key="[" line="76" column="0" />
@@ -519,23 +469,18 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519755003012">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519761567174">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="87" />
-        <mark key="^" line="17" column="87" />
-        <mark key="." line="17" column="87" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.spec.ts" timestamp="1517958997439">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/index.ts" timestamp="1519418451190">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/warehouse.service.ts" timestamp="1492468702746">
         <mark key="[" line="22" column="13" />
@@ -646,11 +591,6 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/.travis/shopify.js" timestamp="1518560524021">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/session.ts" timestamp="1489770130507">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -729,26 +669,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/environments/environment.prod.ts" timestamp="1518562338697">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/index.ts" timestamp="1514668778451">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
-      </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.css" timestamp="1518557274029">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/blog.liquid" timestamp="1518817247623">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/main-menu.directive.ts" timestamp="1492118968788">
         <mark key="[" line="3" column="50" />
@@ -823,11 +748,6 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/Projects/Edible/fb-pricing/src/config/db.config.ts" timestamp="1518721193557">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/modal-controller.mock.ts" timestamp="1491334695478">
         <mark key="[" line="4" column="64" />
         <mark key="]" line="4" column="63" />
@@ -901,11 +821,6 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/sales/providers/customer.service.ts" timestamp="1514664165038">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1519424522364">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="3" column="0" />
@@ -950,11 +865,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="25" />
       </file>
-      <file name="P:/Projects/Blendtec/dealer-application/src/index.html" timestamp="1518550989856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.ts" timestamp="1492035002128">
         <mark key="[" line="4" column="73" />
         <mark key="]" line="5" column="0" />
@@ -966,13 +876,6 @@
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env-local" timestamp="1519757670607" />
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519760260115">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/fb-pricing.db.config.ts" timestamp="1492127811100">
         <mark key="[" line="0" column="13" />
@@ -991,11 +894,6 @@
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="25" />
-      </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.module.ts" timestamp="1517944654949">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/events.mock.ts" timestamp="1491334659158">
         <mark key="[" line="4" column="69" />
@@ -1051,11 +949,6 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/country-select/country-select.component.spec.ts" timestamp="1518561259626">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="78" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/models/index.ts" timestamp="1489963826942">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -1103,11 +996,6 @@
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="18" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/page.find-a-store.liquid" timestamp="1517419969699">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sync.service.ts" timestamp="1492123967613">
         <mark key="[" line="7" column="0" />
@@ -1283,11 +1171,6 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/commercial-dealers/src/app/models/index.ts" timestamp="1517944630821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/app-settings.service.ts" timestamp="1491496886653">
         <mark key="[" line="50" column="43" />
         <mark key="]" line="50" column="48" />
@@ -1399,13 +1282,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>U</text>
@@ -1414,32 +1297,32 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmVzdGFydCI6ICJ0c2MiLAo=</text>
+        <text encoding="base64">REJfTkFNRT10cmFuc2l0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJub2RlIGluZGV4LmpzIiwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">REJfUE9SVD0zMzA2Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Object.assign({}, createProductRegistrationDto, {
-		})</text>
+      <register name="3" type="2">
+        <text encoding="base64">REJfVVNFUj1yb290Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">REJfSE9TVD10cmFuc2l0LWFwaS5jajVzNTFlcWllcncudXMtd2VzdC0xLnJkcy5hbWF6b25hd3MuY29tCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwcmVzdGFydCI6ICJ0c2MiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbW9kaWZpZWRPbjogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAo=</text>
+        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY3JlYXRlZE9uOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCg==</text>
+        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QiCg==</text>
+        <text encoding="base64">REJfUE9SVD0zMzA2Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSAnOCcK</text>
+      <register name="9" type="4">
+        <text>Object.assign({}, createProductRegistrationDto, {
+		})</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
