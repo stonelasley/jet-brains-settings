@@ -968,11 +968,11 @@
         <mark key="." line="4" column="30" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/environments/.env-local" timestamp="1519757670607" />
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519759191800">
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519760260115">
         <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/fb-pricing.db.config.ts" timestamp="1492127811100">
         <mark key="[" line="0" column="13" />
@@ -1399,13 +1399,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dist</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>U</text>
