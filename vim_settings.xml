@@ -583,7 +583,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519689789075">
+      <file name="/Dummy.txt" timestamp="1519695789238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
@@ -695,6 +695,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1519695702010" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1977,7 +1978,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/bin/main.js" timestamp="1519691051284" />
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="1" />
@@ -2121,12 +2121,9 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519694865298">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519695876557">
         <mark key="'" line="3" column="15" />
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
@@ -3024,8 +3021,8 @@
       <jump line="3" column="15" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFVzZUZpbHRlcnMobmV3IE1vbmdvRXhjZXB0aW9uRmlsdGVyKCkpCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3040,31 +3037,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVFlQRScsIHR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9uZ29FeGNlcHRpb25GaWx0ZXIgfSBmcm9tICcuLi8uLi9jb21tb24vZmlsdGVycyc7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">QFVzZUZpbHRlcnMobmV3IE1vbmdvRXhjZXB0aW9uRmlsdGVyKCkpCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTW9uZ29FeGNlcHRpb25GaWx0ZXIgfSBmcm9tICcuLi8uLi9jb21tb24vZmlsdGVycyc7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0FVR0hUIEFOIEVYQ0VQVElPTicsIGV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">QFVzZUZpbHRlcnMobmV3IE1vbmdvRXhjZXB0aW9uRmlsdGVyKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0FVR0hUIEFOIEVYQ0VQVElPTicsIGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQ29uZmxpY3RFeGNlcHRpb24oJ3JldGhyb3cgY29uZmxpY3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NBVENISU5HJywgZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQ29uZmxpY3RFeGNlcHRpb24oJ3JldGhyb3cgY29uZmxpY3QnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXhjZXB0aW9uIH0gZnJvbSAnQG5lc3Rqcy9jb3JlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NBVENISU5HJywgZXJyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
