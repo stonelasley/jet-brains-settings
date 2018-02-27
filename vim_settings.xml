@@ -2088,12 +2088,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" timestamp="1519693226195">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="45" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" timestamp="1519694072690">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.html" timestamp="1489447929227">
         <mark key="'" line="37" column="47" />
@@ -2121,12 +2121,12 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519692578566">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="13" column="26" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519694865298">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
@@ -2922,8 +2922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6635" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="7461" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7727" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="173" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -2985,12 +2983,10 @@
       <jump line="8" column="19" filename="P:/Projects/Uinta/axpense-api/src/app/app.module.ts" />
       <jump line="18" column="20" filename="P:/Projects/Uinta/axpense-api/src/app/app.module.ts" />
       <jump line="30" column="12" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
-      <jump line="3" column="53" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
       <jump line="9" column="13" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/organization.service.ts" />
       <jump line="13" column="35" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/expense.module.ts" />
       <jump line="14" column="32" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/expense.module.ts" />
       <jump line="11" column="7" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/expense.module.ts" />
-      <jump line="10" column="0" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
       <jump line="6" column="0" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/organization.service.ts" />
       <jump line="8" column="0" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.ts" />
       <jump line="2" column="9" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.ts" />
@@ -3022,66 +3018,69 @@
       <jump line="14" column="12" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
       <jump line="7" column="44" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
       <jump line="9" column="8" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="10" column="1" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
+      <jump line="5" column="9" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
+      <jump line="4" column="23" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
+      <jump line="3" column="15" filename="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>Use</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVFlQRScsIHR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0FVR0hUIEFOIEVYQ0VQVElPTicsIGV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9uZ29FeGNlcHRpb25GaWx0ZXIgfSBmcm9tICcuLi8uLi9jb21tb24vZmlsdGVycyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QFVzZUZpbHRlcnMobmV3IE1vbmdvRXhjZXB0aW9uRmlsdGVyKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0FVR0hUIEFOIEVYQ0VQVElPTicsIGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQ29uZmxpY3RFeGNlcHRpb24oJ3JldGhyb3cgY29uZmxpY3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NBVENISU5HJywgZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXhjZXB0aW9uIH0gZnJvbSAnQG5lc3Rqcy9jb3JlJzsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQ29uZmxpY3RFeGNlcHRpb24oJ3JldGhyb3cgY29uZmxpY3QnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4vc3JjIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NBVENISU5HJywgZXJyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXhjZXB0aW9uIH0gZnJvbSAnQG5lc3Rqcy9jb3JlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>Use</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>Use</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">LFwg</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Inject</entry>
         <entry>In</entry>
         <entry>Inval</entry>
         <entry>HttpException</entry>
@@ -3101,6 +3100,7 @@
         <entry>t</entry>
         <entry>code</entry>
         <entry>T</entry>
+        <entry>Use</entry>
       </history-search>
       <history-cmd>
         <entry>%s/autoFocus/disableScanning/g</entry>
