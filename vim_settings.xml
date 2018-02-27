@@ -391,7 +391,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env-remote" timestamp="1519761381026" />
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.spec.ts" timestamp="1489981188914">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="36" />
@@ -513,6 +512,12 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/.elasticbeanstalk/config.yml" timestamp="1519768649652">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/index.ts" timestamp="1489776719878">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -538,11 +543,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/.gitignore" timestamp="1519752652613">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="P:/Projects/Blendtec/transit-api/.gitignore" timestamp="1519768238775">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1491925620827">
         <mark key="[" line="22" column="74" />
@@ -896,12 +901,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519763278299">
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/fb-pricing.db.config.ts" timestamp="1492127811100">
         <mark key="[" line="0" column="13" />
@@ -987,6 +992,7 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/scripts/dist.sh" timestamp="1519768212358" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/components/index.ts" timestamp="1491928534105">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="5" column="0" />
@@ -1309,13 +1315,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prestart</text>
+        <text>aws-eb-typescript-app</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>prestart</text>
+        <text>aws-eb-typescript-app</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -1351,7 +1357,7 @@
         <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlUHJvZHVjdFJlZ2lzdHJhdGlvbkR0byB9IGZyb20gJy4uL21vZGVscyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1405,8 +1411,8 @@
         <entry>q</entry>
         <entry>%s/modelMock/repoMock/g</entry>
         <entry>%s/model/dto/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
