@@ -530,12 +530,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519426969016">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519755003012">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="60" />
-        <mark key="." line="20" column="60" />
-        <mark key="^" line="20" column="60" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="87" />
+        <mark key="^" line="17" column="87" />
+        <mark key="." line="17" column="87" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/app.component.spec.ts" timestamp="1517958997439">
         <mark key="[" line="27" column="21" />
@@ -1420,8 +1420,9 @@
       <jump line="43" column="30" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QiCg==</text>
+      <register name="&quot;" type="4">
+        <text>Object.assign({}, createProductRegistrationDto, {
+		})</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1435,35 +1436,36 @@
       <register name="0" type="2">
         <text encoding="base64">LSAnOCcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QiCg==</text>
+      <register name="1" type="4">
+        <text>Object.assign({}, createProductRegistrationDto, {
+		})</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAnOCcK</text>
+        <text encoding="base64">CQkJbW9kaWZpZWRPbjogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAnNicK</text>
+        <text encoding="base64">CQkJY3JlYXRlZE9uOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCX0pCg==</text>
+        <text encoding="base64">LSAnOCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkb25lKCk7Cg==</text>
+        <text encoding="base64">LSAnNicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS50aGVuKHJlc3VsdCAgPT4gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCX0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZG9uZSgpOwo=</text>
+        <text encoding="base64">CQkJCQlkb25lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/model/dto/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1517,8 +1519,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>%s/modelMock/repoMock/g</entry>
-        <entry>w</entry>
         <entry>%s/model/dto/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
