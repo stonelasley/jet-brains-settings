@@ -12,12 +12,6 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="21" column="52" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/config/webpack.config.js" timestamp="1519686619266">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="13" column="53" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/connections.module.ts" timestamp="1489771346671">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="9" column="0" />
@@ -55,6 +49,12 @@
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="24" />
         <mark key="^" line="49" column="24" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/controllers/expense-report.controller.spec.ts" timestamp="1519689003720">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/img/logo.svg" timestamp="1489779070581">
         <mark key="[" line="13" column="0" />
@@ -476,6 +476,11 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/interfaces/expense-category.interface.ts" timestamp="1519689125247">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="28" column="12" />
@@ -515,6 +520,12 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/update-expense-report.dto.ts" timestamp="1519689098366">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -547,6 +558,12 @@
         <mark key="^" line="91" column="28" />
         <mark key="." line="91" column="28" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/create-expense.dto.spec.ts" timestamp="1519689050646">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1492187520056">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="17" />
@@ -566,7 +583,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519683967010">
+      <file name="/Dummy.txt" timestamp="1519689789075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
@@ -678,19 +695,18 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1519683565994" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/main.ts" timestamp="1519537089636">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="80" />
-        <mark key="." line="14" column="0" />
+      <file name="P:/Projects/Uinta/axpense-api/src/main.ts" timestamp="1519692027472">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="60" />
+        <mark key="^" line="5" column="62" />
+        <mark key="." line="5" column="60" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/index.ts" timestamp="1491322852056">
         <mark key="[" line="0" column="23" />
@@ -825,6 +841,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/index.ts" timestamp="1519691613576">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/gtin8.reader.spec.ts" timestamp="1488237834113">
         <mark key="'" line="24" column="52" />
         <mark key="[" line="16" column="28" />
@@ -837,6 +859,12 @@
         <mark key="]" line="86" column="78" />
         <mark key="." line="84" column="36" />
         <mark key="^" line="84" column="36" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/update-expense-report.dto.spec.ts" timestamp="1519689093222">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1515896516798">
         <mark key="[" line="53" column="0" />
@@ -891,6 +919,12 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/create-expense-report.dto.spec.ts" timestamp="1519689069852">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/index.ts" timestamp="1491931547835">
         <mark key="'" line="10" column="12" />
@@ -961,12 +995,8 @@
         <mark key="^" line="77" column="70" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/expense.module.ts" timestamp="1519536339092">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/expense.module.ts" timestamp="1519689636731">
         <mark key="'" line="11" column="7" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/tsconfig.test.json" timestamp="1491938618442">
         <mark key="[" line="11" column="19" />
@@ -1007,12 +1037,18 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/organization.service.ts" timestamp="1519536987589">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="57" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/organization.service.ts" timestamp="1519691274588">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="5" column="44" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/schema/index.ts" timestamp="1519688556321">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/gs-1.reader.ts" timestamp="1491501761918">
         <mark key="'" line="24" column="10" />
@@ -1085,13 +1121,6 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/services/jwt.service.ts" timestamp="1519533474866">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/pick-line.ts" timestamp="1490143814040">
         <mark key="'" line="64" column="13" />
         <mark key="[" line="0" column="46" />
@@ -1133,12 +1162,12 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/account.module.ts" timestamp="1519536931217">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/account.module.ts" timestamp="1519688598994">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
+        <mark key="[" line="3" column="76" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1491925699887">
         <mark key="[" line="2" column="74" />
@@ -1193,6 +1222,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1519688992937">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/app.module.ts" timestamp="1519535423787">
         <mark key="'" line="18" column="20" />
         <mark key="[" line="11" column="0" />
@@ -1219,10 +1254,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/package.json" timestamp="1519686347322">
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/create-expense-category.dto.spec.ts" timestamp="1519689061640">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.html" timestamp="1491503212814">
         <mark key="[" line="15" column="56" />
@@ -1264,12 +1300,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/services/auth.service.ts" timestamp="1519537458080">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/services/auth.service.ts" timestamp="1519688832505">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="59" column="7" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.html" timestamp="1491932172194">
         <mark key="[" line="23" column="25" />
@@ -1295,6 +1331,11 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/pipes/validation.pipe.ts" timestamp="1519688960567">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="101" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/directives/category-badge.component.ts" timestamp="1489961494329">
         <mark key="'" line="5" column="24" />
@@ -1329,11 +1370,11 @@
         <mark key="^" line="50" column="48" />
         <mark key="." line="50" column="48" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/strategies/jwt.strategy.ts" timestamp="1519532943495">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/strategies/jwt.strategy.ts" timestamp="1519688862922">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="41" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
         <mark key="^" line="10" column="41" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/sales/pages/customer-list/customer-list.ts" timestamp="1514664412793">
@@ -1565,11 +1606,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="27" column="46" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/account.providers.ts" timestamp="1519535830849">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/account.providers.ts" timestamp="1519688434639">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pipes/index.ts" timestamp="1489887921854">
         <mark key="[" line="11" column="16" />
@@ -1692,6 +1733,10 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/exceptions/mongo.exception.ts" timestamp="1519692463850">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="26" column="5" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.spec.ts" timestamp="1491939879688">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1743,6 +1788,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/controllers/expense-report.controller.ts" timestamp="1519689027233">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/index.ts" timestamp="1491500412664">
         <mark key="'" line="34" column="25" />
         <mark key="[" line="35" column="8" />
@@ -1777,12 +1828,24 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="17" column="52" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-category.service.ts" timestamp="1519590913956">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="40" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-category.service.ts" timestamp="1519692569758">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/interfaces/expense-report.interface.ts" timestamp="1519689138476">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/create-expense-report.dto.ts" timestamp="1519689077828">
+        <mark key="[" line="2" column="87" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
@@ -1816,11 +1879,11 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.spec.ts" timestamp="1519590679758">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-        <mark key="^" line="25" column="4" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.spec.ts" timestamp="1519689177550">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/lot-inventory.ts" timestamp="1490143633025">
         <mark key="[" line="0" column="21" />
@@ -1860,6 +1923,12 @@
         <mark key="." line="2" column="82" />
         <mark key="^" line="2" column="82" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/update-expense.dto.spec.ts" timestamp="1519689086408">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/device.service.ts" timestamp="1489712138334">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="36" column="39" />
@@ -1878,11 +1947,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/exceptions/index.ts" timestamp="1519537669043">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/exceptions/index.ts" timestamp="1519688892314">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/auth.module.ts" timestamp="1489778313820">
         <mark key="'" line="12" column="19" />
@@ -1908,6 +1977,7 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/bin/main.js" timestamp="1519691051284" />
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="1" />
@@ -2018,10 +2088,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" timestamp="1519590823390">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" timestamp="1519693226195">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.html" timestamp="1489447929227">
         <mark key="'" line="37" column="47" />
@@ -2049,12 +2121,12 @@
         <mark key="." line="185" column="54" />
         <mark key="^" line="185" column="34" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519536911771">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="11" column="26" />
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519692578566">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1492472834393">
         <mark key="'" line="8" column="0" />
@@ -2551,11 +2623,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.ts" timestamp="1519589260484">
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-report.service.ts" timestamp="1519689203401">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/sales-order-line-edit/sales-order-line-edit.html" timestamp="1491933286468">
         <mark key="[" line="10" column="13" />
@@ -2612,6 +2681,12 @@
         <mark key="]" line="3" column="51" />
         <mark key="." line="3" column="51" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="P:/Projects/Uinta/axpense-api/package.json" timestamp="1519690606193">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sync.service.ts" timestamp="1492123967613">
         <mark key="[" line="7" column="0" />
@@ -2801,6 +2876,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/controllers/expense-category.controller.spec.ts" timestamp="1519688983649">
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/models/recipe.model.ts" timestamp="1488672539928">
         <mark key="'" line="330" column="0" />
         <mark key="[" line="287" column="45" />
@@ -2841,15 +2922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9044" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="7745" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="22" column="89" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
-      <jump line="26" column="59" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
-      <jump line="7788" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="4312" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="4397" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="6600" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="6609" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="6635" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7461" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -2941,85 +3013,94 @@
       <jump line="30" column="55" filename="P:/Projects/Freshbyte/freshmobile/tsconfig.json" />
       <jump line="17" column="54" filename="P:/Projects/Freshbyte/freshmobile/tsconfig.json" />
       <jump line="6" column="0" filename="P:/Projects/Freshbyte/freshmobile/webpack.config.js" />
+      <jump line="77" column="19" filename="P:/Projects/Uinta/axpense-api/package.json" />
+      <jump line="15" column="0" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="3" column="7" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="15" column="4" filename="P:/Projects/Uinta/axpense-api/src/main.ts" />
+      <jump line="34" column="0" filename="P:/Projects/Uinta/axpense-api/src/app/modules/expense/services/expense-category.service.ts" />
+      <jump line="6" column="28" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="14" column="12" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="7" column="44" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
+      <jump line="9" column="8" filename="P:/Projects/Uinta/axpense-api/src/app/modules/common/filters/mongo-exception.filter.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>providers</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>providers</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>inter</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkiQGNvcmUiOiBwYXRoLnJlc29sdmUoJy4vc3JjL2FwcC9tb2R1bGVzL2NvcmUvJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVFlQRScsIHR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0FVR0hUIEFOIEVYQ0VQVElPTicsIGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJIkBjb3JlL2ludGVyY2VwdG9ycy8qIjogWyJhcHAvbW9kdWxlcy9jb3JlL2ludGVyY2VwdG9ycy8qIl0sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQ29uZmxpY3RFeGNlcHRpb24oJ3JldGhyb3cgY29uZmxpY3QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJIkBjb3JlL3BpcGVzLyoiOiBbImFwcC9tb2R1bGVzL2NvcmUvcGlwZXMvKiJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NBVENISU5HJywgZXJyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cFV0aWwgfSBmcm9tICcuLi8uLi9jb3JlL3Byb3ZpZGVycyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXhjZXB0aW9uIH0gZnJvbSAnQG5lc3Rqcy9jb3JlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwVmVyc2lvbkludGVyY2VwdG9yIH0gZnJvbSAnLi9pbnRlcmNlcHRvcnMvYXBwLXZlcnNpb24uaW50ZXJjZXB0b3InOwo=</text>
+        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4vc3JjIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBpQmFzZUludGVyY2VwdG9yIH0gZnJvbSAnLi9pbnRlcmNlcHRvcnMvYXBpLWJhc2UuaW50ZXJjZXB0b3InOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>inter</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>inter</last-pattern>
+      <last-pattern>T</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">LFwg</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry>awa</entry>
-        <entry>,</entry>
-        <entry encoding="base64">LFwg</entry>
-        <entry>U</entry>
-        <entry>S</entry>
-        <entry>Cat</entry>
-        <entry>Inj</entry>
-        <entry>Injec</entry>
         <entry>Inject</entry>
         <entry>In</entry>
         <entry>Inval</entry>
         <entry>HttpException</entry>
-        <entry>Http</entry>
         <entry>enum</entry>
         <entry>_to</entry>
         <entry>)</entry>
         <entry>E</entry>
         <entry>'</entry>
         <entry>inter</entry>
+        <entry>a</entry>
+        <entry>Http</entry>
+        <entry>im</entry>
+        <entry>M</entry>
+        <entry>Mongo</entry>
+        <entry>static</entry>
+        <entry>=</entry>
+        <entry>t</entry>
+        <entry>code</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
         <entry>%s/autoFocus/disableScanning/g</entry>
@@ -3027,8 +3108,8 @@
         <entry>qw</entry>
         <entry>s/,\ /\r/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
