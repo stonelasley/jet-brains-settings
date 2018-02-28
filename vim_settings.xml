@@ -415,11 +415,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1517415759669">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="1" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519849131209">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
         <mark key="^" line="76" column="1" />
-        <mark key="." line="76" column="1" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -963,6 +963,10 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519849076842">
+        <mark key="'" line="7770" column="28" />
+        <mark key="[" line="7834" column="0" />
+      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/auth.service.mock.ts" timestamp="1514668848822">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -999,9 +1003,9 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519846535290">
-        <mark key="[" line="91" column="19" />
-        <mark key="]" line="91" column="31" />
+      <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519849110418">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="93" column="0" />
         <mark key="." line="91" column="31" />
         <mark key="^" line="91" column="31" />
       </file>
@@ -1077,8 +1081,8 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" timestamp="1519848021049">
-        <mark key="'" line="5825" column="2" />
+      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" timestamp="1519848913476">
+        <mark key="'" line="189" column="14" />
         <mark key="[" line="5825" column="25" />
         <mark key="]" line="5825" column="25" />
         <mark key="." line="5825" column="25" />
@@ -1272,9 +1276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="26" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
-      <jump line="296" column="120" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
-      <jump line="300" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
       <jump line="301" column="223" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
       <jump line="28" column="33" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="227" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -1372,6 +1373,9 @@
       <jump line="5822" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
       <jump line="133" column="112" filename="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" />
       <jump line="5825" column="2" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="5800" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="189" column="14" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="7770" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1386,35 +1390,29 @@
       <register name="/" type="4">
         <text>j</text>
       </register>
-      <register name="0" type="4">
-        <text>.template-product {
-
-  .affirm-as-low-as {
-    margin-top: 1rem;
-  }
-
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCEtLUFmZmlybSBIZWFkZXIgU2NyaXB0LS0+CiAgPHNjcmlwdCBzcmM9Int7ICdhZmZpcm0taGVhZGVyLmpzJyB8IGFzc2V0X3VybCB9fSI+PC9zY3JpcHQ+CjwhLS1FbmQgQWZmaXJtIEhlYWRlciBTY3JpcHQtLT4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFmZmlybS1hcy1sb3ctYXMiIGRhdGEtYW1vdW50PSJ7e2NhcnQudG90YWxfcHJpY2V9fSI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFmZmlybS1hcy1sb3ctYXMiIGRhdGEtYW1vdW50PSJ7e2NhcnQudG90YWxfcHJpY2V9fSI+PC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImFmZmlybS1tZXNzYWdpbmciPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImFmZmlybS1tZXNzYWdpbmciPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
