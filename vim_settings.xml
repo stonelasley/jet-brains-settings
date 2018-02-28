@@ -42,6 +42,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="66" column="22" />
@@ -415,16 +421,17 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/affirm-header.js" timestamp="1519850177138">
-        <mark key="[" line="5" column="125" />
-        <mark key="]" line="5" column="125" />
-        <mark key="^" line="5" column="125" />
-        <mark key="." line="5" column="125" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/affirm-header.js" timestamp="1519854706912">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519853247776">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519854747623">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="1" />
+        <mark key="." line="79" column="1" />
+        <mark key="^" line="79" column="1" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -450,12 +457,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" timestamp="1519847804838">
-        <mark key="'" line="133" column="112" />
-        <mark key="[" line="133" column="111" />
-        <mark key="]" line="133" column="111" />
-        <mark key="." line="133" column="111" />
-        <mark key="^" line="133" column="111" />
+      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" timestamp="1519855046217">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="116" />
+        <mark key="^" line="125" column="111" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1492187520056">
         <mark key="[" line="81" column="17" />
@@ -596,6 +603,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1519855060474">
+        <mark key="'" line="21" column="38" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="114" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/binary-version.directive.ts" timestamp="1491496932898">
         <mark key="[" line="29" column="39" />
@@ -893,7 +906,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519850290994">
+      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519854799398">
         <mark key="'" line="146" column="36" />
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="82" />
@@ -1108,11 +1121,11 @@
         <mark key="^" line="28" column="23" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1519850304908">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1519854809773">
         <mark key="[" line="199" column="10" />
         <mark key="]" line="199" column="13" />
-        <mark key="^" line="199" column="13" />
         <mark key="." line="199" column="13" />
+        <mark key="^" line="199" column="13" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
@@ -1290,8 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="223" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
-      <jump line="28" column="33" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
       <jump line="227" column="25" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="9044" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7745" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -1390,58 +1401,60 @@
       <jump line="5800" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
       <jump line="189" column="14" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
       <jump line="7770" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="22" column="18" filename="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" />
+      <jump line="21" column="38" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1wcm9tby1pZD0iRTFCNkVMUU4yRlRFSzZWViIgZGF0YS1hbW91bnQ9Int7IGNhcnQudG90YWxfcHJpY2UgfX0iPjwvcD4K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>j</text>
+        <text>subtotal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJhZmZpcm0tYXMtbG93LWFzIiBkYXRhLWFtb3VudD0ie3tjdXJyZW50X3ZhcmlhbnQucHJpY2V9fSI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1wcm9tby1pZD0iRTFCNkVMUU4yRlRFSzZWViIgZGF0YS1hbW91bnQ9Int7IGNhcnQudG90YWxfcHJpY2UgfX0iPjwvcD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHNjcmlwdD4KICBfYWZmaXJtX2NvbmZpZyA9IHsKICAgIHB1YmxpY19hcGlfa2V5OiAgIkUxQjZFTFFOMkZURUs2VlYiLAogICAgc2NyaXB0OiAgICAgICAgICAiaHR0cHM6Ly9jZG4xLmFmZmlybS5jb20vanMvdjIvYWZmaXJtLmpzIgogIH07CiAgLy8oZnVuY3Rpb24obCxnLG0sZSxhLGYsYil7dmFyIGQsYz1sW21dfHx7fSxoPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoZiksbj1kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZShmKVswXSxrPWZ1bmN0aW9uKGEsYixjKXtyZXR1cm4gZnVuY3Rpb24oKXthW2JdLl8ucHVzaChbYyxhcmd1bWVudHNdKX19O2NbZV09ayhjLGUsInNldCIpO2Q9Y1tlXTtjW2FdPXt9O2NbYV0uXz1bXTtkLl89W107Y1thXVtiXT1rKGMsYSxiKTthPTA7Zm9yKGI9InNldCBhZGQgc2F2ZSBwb3N0IG9wZW4gZW1wdHkgcmVzZXQgb24gb2ZmIHRyaWdnZXIgcmVhZHkgc2V0UHJvZHVjdCIuc3BsaXQoIiAiKTthPGIubGVuZ3RoO2ErKylkW2JbYV1dPWsoYyxlLGJbYV0pO2E9MDtmb3IoYj1bImdldCIsInRva2VuIiwidXJsIiwiaXRlbXMiXTthPGIubGVuZ3RoO2ErKylkW2JbYV1dPWZ1bmN0aW9uKCl7fTtoLmFzeW5jPSEwO2guc3JjPWdbZl07bi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShoLG4pO2RlbGV0ZSBnW2ZdO2QoZyk7bFttXT1jfSkod2luZG93LF9hZmZpcm1fY29uZmlnLCJhZmZpcm0iLCJjaGVja291dCIsInVpIiwic2NyaXB0IiwicmVhZHkiKTsKIC8vIFVzZSB5b3VyIGxpdmUgcHVibGljIEFQSSBLZXkgYW5kIGh0dHBzOi8vY2RuMS5hZmZpcm0uY29tL2pzL3YyL2FmZmlybS5qcyBzY3JpcHQgdG8gcG9pbnQgdG8gQWZmaXJtIHByb2R1Y3Rpb24gZW52aXJvbm1lbnQuCjwvc2NyaXB0Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y3VycmVudF92YXJpYW50LnByaWNlfX0iPjwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVXNlIHlvdXIgbGl2ZSBwdWJsaWMgQVBJIEtleSBhbmQgaHR0cHM6Ly9jZG4xLmFmZmlybS5jb20vanMvdjIvYWZmaXJtLmpzIHNjcmlwdCB0byBwb2ludCB0byBBZmZpcm0gcHJvZHVjdGlvbiBlbnZpcm9ubWVudC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">b28K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>j</last-search>
+      <last-search>subtotal</last-search>
       <last-offset />
-      <last-pattern>j</last-pattern>
+      <last-pattern>subtotal</last-pattern>
       <last-replace>dto</last-replace>
       <last-substitute>dto</last-substitute>
       <last-dir>1</last-dir>
@@ -1449,8 +1462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
-        <entry>_)</entry>
         <entry>)</entry>
         <entry>ex</entry>
         <entry>model</entry>
@@ -1469,6 +1480,8 @@
         <entry>pro</entry>
         <entry>data</entry>
         <entry>j</entry>
+        <entry>affirm</entry>
+        <entry>subtotal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rep/dealer/gc</entry>
