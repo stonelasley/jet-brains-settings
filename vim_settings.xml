@@ -312,6 +312,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/config.yml" timestamp="1519838115826">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/dtos/index.ts" timestamp="1519762344662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
@@ -1315,13 +1321,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aws-eb-typescript-app</text>
+        <text>THEMEKIT_STORE</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>aws-eb-typescript-app</text>
+        <text>THEMEKIT_STORE</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -1330,34 +1336,45 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
+      <register name="2" type="4">
+        <text>development:
+  password: THEMEKIT_PASSWORD_DEV
+  theme_id: THEMEKIT_THEME_ID_DEV
+  store: THEMEKIT_STORE_DEV
+  ignores:
+    - themekit_ignores
+stage:
+  password: THEMEKIT_PASSWORD_STAGE
+  theme_id: THEMEKIT_THEME_ID_STAGE
+  store: THEMEKIT_STORE_STAGE
+  ignores:
+    - themekit_ignores</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwcmVzdGFydDpwcm9kIjogInRzYyIsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzdGFydDp3YXRjaCI6ICJub2RlbW9uIGluZGV4LmpzIiwK</text>
+        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyB9KTsK</text>
+        <text encoding="base64">ICAgICJwcmVzdGFydDpwcm9kIjogInRzYyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBjb25zdCBuZXdFbnRyeSA9IE9iamVjdC5hc3NpZ24oe30sIGNyZWF0ZVByb2R1Y3RSZWdpc3RyYXRpb25EdG8sIHsKCQkvLyAJY3JlYXRlZE9uOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCgkJLy8gCW1vZGlmaWVkT246IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwK</text>
+        <text encoding="base64">ICAgICJzdGFydDp3YXRjaCI6ICJub2RlbW9uIGluZGV4LmpzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7Cg==</text>
+        <text encoding="base64">CQkvLyB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlUHJvZHVjdFJlZ2lzdHJhdGlvbkR0byB9IGZyb20gJy4uL21vZGVscy9jcmVhdGUtcHJvZHVjdC1yZWdpc3RyYXRpb24uZHRvJzsK</text>
+        <text encoding="base64">CQkvLyBjb25zdCBuZXdFbnRyeSA9IE9iamVjdC5hc3NpZ24oe30sIGNyZWF0ZVByb2R1Y3RSZWdpc3RyYXRpb25EdG8sIHsKCQkvLyAJY3JlYXRlZE9uOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCgkJLy8gCW1vZGlmaWVkT246IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlUHJvZHVjdFJlZ2lzdHJhdGlvbkR0byB9IGZyb20gJy4uL21vZGVscyc7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1411,8 +1428,8 @@
         <entry>q</entry>
         <entry>%s/modelMock/repoMock/g</entry>
         <entry>%s/model/dto/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
