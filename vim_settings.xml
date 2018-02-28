@@ -312,11 +312,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/config.yml" timestamp="1519840075702">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-        <mark key="^" line="1" column="45" />
+      <file name="P:/Projects/Blendtec/shopify-go-theme/config.yml" timestamp="1519842080674">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/dtos/index.ts" timestamp="1519762344662">
         <mark key="[" line="0" column="0" />
@@ -433,6 +433,7 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/themekit_ignores" timestamp="1519841276096" />
       <file name="E:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1492187520056">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="17" />
@@ -1321,13 +1322,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>THEMEKIT_STORE</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>THEMEKIT_STORE</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -1335,10 +1336,18 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>production:
+  password: 5ef4c953a0d0b5db71a2e88c4b796dba
+  theme_id: &quot;182870157&quot;
+  store: blendtecgo.myshopify.com
+  ignores:
+  - themekit_ignores</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>development:
   password: THEMEKIT_PASSWORD_DEV
   theme_id: THEMEKIT_THEME_ID_DEV
@@ -1352,29 +1361,26 @@ stage:
   ignores:
     - themekit_ignores</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJwcmVzdGFydDpwcm9kIjogInRzYyIsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJzdGFydDp3YXRjaCI6ICJub2RlbW9uIGluZGV4LmpzIiwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkvLyB9KTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkvLyBjb25zdCBuZXdFbnRyeSA9IE9iamVjdC5hc3NpZ24oe30sIGNyZWF0ZVByb2R1Y3RSZWdpc3RyYXRpb25EdG8sIHsKCQkvLyAJY3JlYXRlZE9uOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCgkJLy8gCW1vZGlmaWVkT246IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1428,8 +1434,8 @@ stage:
         <entry>q</entry>
         <entry>%s/modelMock/repoMock/g</entry>
         <entry>%s/model/dto/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
