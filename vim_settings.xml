@@ -42,12 +42,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="66" column="22" />
@@ -102,6 +96,11 @@
         <mark key="]" line="15" column="55" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/affirm-header.js" timestamp="1519846687599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/nav.mock.ts" timestamp="1491323194246">
         <mark key="[" line="0" column="16" />
@@ -445,6 +444,13 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" timestamp="1519847804838">
+        <mark key="'" line="133" column="112" />
+        <mark key="[" line="133" column="111" />
+        <mark key="]" line="133" column="111" />
+        <mark key="." line="133" column="111" />
+        <mark key="^" line="133" column="111" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/package.json" timestamp="1492187520056">
         <mark key="[" line="81" column="17" />
@@ -882,6 +888,13 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519847427446">
+        <mark key="'" line="146" column="36" />
+        <mark key="[" line="188" column="12" />
+        <mark key="]" line="188" column="9" />
+        <mark key="." line="188" column="9" />
+        <mark key="^" line="188" column="9" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.scss" timestamp="1489711578106">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="1" column="1" />
@@ -986,6 +999,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519846535290">
+        <mark key="[" line="91" column="19" />
+        <mark key="]" line="91" column="31" />
+        <mark key="." line="91" column="31" />
+        <mark key="^" line="91" column="31" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1491925699887">
         <mark key="[" line="2" column="74" />
         <mark key="]" line="3" column="0" />
@@ -1057,6 +1076,13 @@
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" timestamp="1519848021049">
+        <mark key="'" line="5825" column="2" />
+        <mark key="[" line="5825" column="25" />
+        <mark key="]" line="5825" column="25" />
+        <mark key="." line="5825" column="25" />
+        <mark key="^" line="5825" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sync.service.ts" timestamp="1492123967613">
         <mark key="[" line="7" column="0" />
@@ -1167,6 +1193,11 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/affirm.header.js" timestamp="1519846211796">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1516744511143">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="40" />
@@ -1241,19 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="30" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="30" column="33" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="7599" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="55" column="69" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="52" column="47" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="58" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="3" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="17" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="7447" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="26" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
-      <jump line="78" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" />
-      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.liquid" />
-      <jump line="11" column="36" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
       <jump line="95" column="26" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
       <jump line="296" column="120" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
       <jump line="300" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/locales/en.default.json" />
@@ -1341,89 +1359,84 @@
       <jump line="2" column="13" filename="P:/Projects/Blendtec/shopify-go-theme/scripts/theme.sh" />
       <jump line="59" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/.gitignore" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/.gitignore" />
+      <jump line="49" column="79" filename="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" />
+      <jump line="146" column="36" filename="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" />
+      <jump line="306" column="52" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="5727" column="28" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="11" column="12" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="5815" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="9" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="5814" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="154" column="11" filename="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" />
+      <jump line="5822" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
+      <jump line="133" column="112" filename="P:/Projects/Blendtec/shopify-go-theme/sections/cart-template.liquid" />
+      <jump line="5825" column="2" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>j</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiUEFTU1dPUkQgJFRIRU1FS0lUX1BBU1NXT1JEX0dPIgo=</text>
+      <register name="0" type="4">
+        <text>.template-product {
+
+  .affirm-as-low-as {
+    margin-top: 1rem;
+  }
+
+}</text>
       </register>
-      <register name="1" type="4">
-        <text>- provider: script
-  skip_cleanup: true
-  script: theme upload -p $STAGE_PASSWORD -s $STAGE_SHOP -t $STAGE_THEME_ID --force --no-update-notifier --ignores './themekit_ignores'
-  on:
-    branch: stage</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>production:
-  password: 5ef4c953a0d0b5db71a2e88c4b796dba
-  theme_id: &quot;182870157&quot;
-  store: blendtecgo.myshopify.com
-  ignores:
-  - themekit_ignores</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFmZmlybS1hcy1sb3ctYXMiIGRhdGEtYW1vdW50PSJ7e2NhcnQudG90YWxfcHJpY2V9fSI+PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>development:
-  password: THEMEKIT_PASSWORD_DEV
-  theme_id: THEMEKIT_THEME_ID_DEV
-  store: THEMEKIT_STORE_DEV
-  ignores:
-    - themekit_ignores
-stage:
-  password: THEMEKIT_PASSWORD_STAGE
-  theme_id: THEMEKIT_THEME_ID_STAGE
-  store: THEMEKIT_STORE_STAGE
-  ignores:
-    - themekit_ignores</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImFmZmlybS1tZXNzYWdpbmciPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwcmVzdGFydDpwcm9kIjogInRzYyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>j</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>j</last-pattern>
       <last-replace>dto</last-replace>
       <last-substitute>dto</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ExpenseReport</entry>
-        <entry>reportModel</entry>
-        <entry>f</entry>
-        <entry>modelMock</entry>
         <entry>=</entry>
         <entry>_)</entry>
         <entry>)</entry>
@@ -1433,13 +1446,17 @@ stage:
         <entry>'</entry>
         <entry>..</entry>
         <entry>dto</entry>
-        <entry>pro</entry>
         <entry>new</entry>
         <entry>:</entry>
         <entry>dist</entry>
         <entry>P</entry>
         <entry>G</entry>
         <entry>git</entry>
+        <entry>SA</entry>
+        <entry>button</entry>
+        <entry>pro</entry>
+        <entry>data</entry>
+        <entry>j</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rep/dealer/gc</entry>
