@@ -1,13 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env-local" type="PLAIN_TEXT" />
       <mapping pattern=".env-default" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="themekit_ignores" type="PLAIN_TEXT" />
       <mapping pattern="gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="liquid" type="XHTML" />
+      <mapping pattern="*.scss.liquid" type="SCSS" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
