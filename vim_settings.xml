@@ -134,6 +134,11 @@
         <mark key="." line="133" column="8" />
         <mark key="^" line="133" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/index.ts" timestamp="1519790314987">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="63" />
@@ -236,6 +241,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519789421321">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="84" />
+        <mark key="^" line="16" column="84" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-list/faq-list.page.ts" timestamp="1489962792558">
         <mark key="'" line="17" column="21" />
         <mark key="[" line="0" column="28" />
@@ -312,6 +323,13 @@
         <mark key="]" line="9" column="117" />
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1519791767492">
+        <mark key="'" line="124" column="40" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.ts" timestamp="1489447815190">
         <mark key="'" line="23" column="28" />
@@ -663,6 +681,13 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" timestamp="1519790121931">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+      </file>
       <file name="P:/Projects/Blendtec/transit-api/ormconfig.json" timestamp="1519423524766">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
@@ -843,11 +868,11 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/index.ts" timestamp="1519788355051">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/index.ts" timestamp="1519790553932">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/index.ts" timestamp="1492132656121">
         <mark key="[" line="2" column="15" />
@@ -1311,12 +1336,6 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="66" column="22" />
@@ -1431,6 +1450,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/context.decorator.ts" timestamp="1519790409711">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" timestamp="1514676059104">
         <mark key="'" line="42" column="14" />
         <mark key="[" line="42" column="40" />
@@ -1495,6 +1520,12 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/user-context.interface.ts" timestamp="1519790277514">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/index.ts" timestamp="1492183801774">
         <mark key="[" line="0" column="18" />
@@ -1943,6 +1974,18 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/account.controller.ts" timestamp="1519789108410">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/index.ts" timestamp="1519790416800">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="29" column="176" />
@@ -2044,12 +2087,14 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" timestamp="1519788412146">
-        <mark key="'" line="3" column="34" />
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" timestamp="1519791474671">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-report.controller.ts" timestamp="1519791975452">
+        <mark key="'" line="364" column="4" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/providers/sync.service.ts" timestamp="1492131713512">
         <mark key="[" line="16" column="41" />
@@ -2263,6 +2308,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/request-context.decorator.ts" timestamp="1519790689618">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-gtin-handler.service.spec.ts" timestamp="1491931244963">
         <mark key="[" line="5" column="63" />
         <mark key="]" line="5" column="62" />
@@ -2295,12 +2346,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" timestamp="1519788781327">
-        <mark key="'" line="64" column="17" />
-        <mark key="[" line="112" column="82" />
-        <mark key="]" line="112" column="86" />
-        <mark key="." line="112" column="86" />
-        <mark key="^" line="112" column="86" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" timestamp="1519791376084">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="277" column="43" />
+        <mark key="]" line="277" column="43" />
+        <mark key="." line="277" column="43" />
+        <mark key="^" line="277" column="41" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
@@ -2389,6 +2440,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user.decorator.ts" timestamp="1519788972275">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-gs-one-handler.service.spec.ts" timestamp="1491931391718">
         <mark key="'" line="264" column="0" />
         <mark key="[" line="3" column="51" />
@@ -2450,6 +2507,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/context.model.ts" timestamp="1519790336719">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
@@ -2514,6 +2577,13 @@
         <mark key="]" line="82" column="22" />
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user-context.decorator.ts" timestamp="1519790326331">
+        <mark key="'" line="2" column="66" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/scan-document.enum.ts" timestamp="1491519256503">
         <mark key="[" line="7" column="24" />
@@ -2611,24 +2681,8 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" timestamp="1516753848136">
-        <mark key="'" line="34" column="43" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="9044" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="7745" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="22" column="89" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
-      <jump line="26" column="59" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
-      <jump line="7788" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="4312" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="4397" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="6600" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="6609" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="6635" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7461" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7727" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -2704,122 +2758,137 @@
       <jump line="1" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" />
       <jump line="3" column="34" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" />
       <jump line="275" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
-      <jump line="276" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="244" column="31" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="194" column="31" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="41" column="21" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="56" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
-      <jump line="3" column="9" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="4" column="30" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="8" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="9" column="46" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="15" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="20" column="36" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
-      <jump line="57" column="49" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="63" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
       <jump line="64" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="142" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="3" column="66" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user-context.decorator.ts" />
+      <jump line="19" column="41" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" />
+      <jump line="57" column="27" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="5" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="3" column="11" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="276" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" />
+      <jump line="84" column="41" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" />
+      <jump line="123" column="40" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" />
+      <jump line="88" column="31" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-report.controller.ts" />
+      <jump line="364" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-report.controller.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdEQVRBJywgZGF0YSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGlwZVRyc2RkbnNmb3JtIH0gZnJvbSAnQG5lc3Rqcy9jb21tb24nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gY3JlYXRlUGFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbnRleHQgfSBmcm9tICcuLi9pbnRlcmZhY2VzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29udGV4dCB9IGZyb20gJy4uL21vZGVscyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi91c2VyLWNvbnRleHQuaW50ZXJmYWNlJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
+      <register name="8" type="4">
+        <text>{
+        user: req.user,
+        userId: req.user.id,
+        organization: req.user.organization,
+        organizationId: req.user.organization.id
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5vZGUgZGlzdC9tYWluLmpzIiwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgX2lkOiBudW1iZXI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/User/UserModel/gc</text>
+        <text>%s/req/ctx/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
-      <last-replace>UserModel</last-replace>
-      <last-substitute>User</last-substitute>
+      <last-pattern>req</last-pattern>
+      <last-replace>ctx</last-replace>
+      <last-substitute>req</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ts</entry>
-        <entry>sr</entry>
-        <entry>source</entry>
-        <entry>'</entry>
-        <entry>gulp</entry>
-        <entry>ng</entry>
-        <entry>Ser</entry>
-        <entry>)</entry>
-        <entry>take</entry>
-        <entry>from</entry>
-        <entry>_items$</entry>
-        <entry>_items</entry>
         <entry>decor</entry>
         <entry>F</entry>
         <entry>or</entry>
         <entry>Req()\ req</entry>
         <entry>req.</entry>
-        <entry>Req</entry>
         <entry>U</entry>
+        <entry>acount</entry>
+        <entry>@User</entry>
+        <entry>UserModel</entry>
         <entry>User</entry>
+        <entry>number</entry>
+        <entry>UserContext</entry>
+        <entry>user</entry>
+        <entry>AuthContext</entry>
+        <entry>RequestContext</entry>
+        <entry>ctx</entry>
+        <entry>reqCtxService</entry>
+        <entry>Req</entry>
+        <entry>@Req</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
-        <entry>%s/sales_/sales_live_/g</entry>
-        <entry>%s/sales_live/salesLive/g</entry>
-        <entry>%s/UnitOfMeasure/Warehouse/g</entry>
-        <entry>%s/this._logger/this._loggerSrvc/g</entry>
-        <entry>we</entry>
-        <entry>s/,\ /,\r/g</entry>
-        <entry>%s/SALES_LIVE_COMPONENTS/SalesLiveComponent/g</entry>
-        <entry>%s/onLogin/onAuthentication/g</entry>
-        <entry>%s/PICK_COMPONENTS/PickComponent/g</entry>
-        <entry>%s/\ \ \ \ /\t/g</entry>
-        <entry>%s/process.env./$/gc</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>w</entry>
-        <entry>q</entry>
         <entry>%s/User/Organization/g</entry>
-        <entry>wq</entry>
         <entry>%s/Req()\ req/User()\ user/gc</entry>
         <entry>%s/req.//gc</entry>
         <entry>s/User/UserModel/gc</entry>
+        <entry>%s/@User/@UserContext/g</entry>
+        <entry>%s/UserModel/User/g</entry>
+        <entry>q</entry>
+        <entry>%s/number/string/g</entry>
+        <entry>%s/UserContext/AuthContext/g</entry>
+        <entry>%s/user/ctx/g</entry>
+        <entry>%s/AuthContext/RequestContext/g</entry>
+        <entry>wq</entry>
+        <entry>%s/RequestContext/ReqContext/g</entry>
+        <entry>%s/ctx/reqCtx/g</entry>
+        <entry>%s/reqCtxService/userService/g</entry>
+        <entry>%s/Req/ReqContext/gc</entry>
+        <entry>w</entry>
+        <entry>%s/@Req/@ReqContext/gc</entry>
+        <entry>%s/req/ctx/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
