@@ -415,11 +415,16 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519849131209">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="76" column="1" />
-        <mark key="." line="80" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/affirm-header.js" timestamp="1519850177138">
+        <mark key="[" line="5" column="125" />
+        <mark key="]" line="5" column="125" />
+        <mark key="^" line="5" column="125" />
+        <mark key="." line="5" column="125" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519850191803">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -888,10 +893,10 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519847427446">
+      <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519850290994">
         <mark key="'" line="146" column="36" />
-        <mark key="[" line="188" column="12" />
-        <mark key="]" line="188" column="9" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="82" />
         <mark key="." line="188" column="9" />
         <mark key="^" line="188" column="9" />
       </file>
@@ -963,9 +968,12 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519849076842">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519850287643">
         <mark key="'" line="7770" column="28" />
-        <mark key="[" line="7834" column="0" />
+        <mark key="[" line="7819" column="1" />
+        <mark key="]" line="7820" column="0" />
+        <mark key="^" line="7820" column="0" />
+        <mark key="." line="7820" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/auth.service.mock.ts" timestamp="1514668848822">
         <mark key="[" line="7" column="25" />
@@ -1099,6 +1107,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="28" column="23" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1519850304908">
+        <mark key="[" line="199" column="10" />
+        <mark key="]" line="199" column="13" />
+        <mark key="^" line="199" column="13" />
+        <mark key="." line="199" column="13" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
@@ -1378,8 +1392,8 @@
       <jump line="7770" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1391,37 +1405,37 @@
         <text>j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCEtLUFmZmlybSBIZWFkZXIgU2NyaXB0LS0+CiAgPHNjcmlwdCBzcmM9Int7ICdhZmZpcm0taGVhZGVyLmpzJyB8IGFzc2V0X3VybCB9fSI+PC9zY3JpcHQ+CjwhLS1FbmQgQWZmaXJtIEhlYWRlciBTY3JpcHQtLT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJhZmZpcm0tYXMtbG93LWFzIiBkYXRhLWFtb3VudD0ie3tjdXJyZW50X3ZhcmlhbnQucHJpY2V9fSI+PC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFmZmlybS1hcy1sb3ctYXMiIGRhdGEtYW1vdW50PSJ7e2NhcnQudG90YWxfcHJpY2V9fSI+PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImFmZmlybS1tZXNzYWdpbmciPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y2FydC50b3RhbF9wcmljZX19Ij48L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFmZmlybS1hcy1sb3ctYXMiIGRhdGEtYW1vdW50PSJ7e2NhcnQudG90YWxfcHJpY2V9fSI+PC9wPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1475,8 +1489,8 @@
         <entry>q</entry>
         <entry>%s/modelMock/repoMock/g</entry>
         <entry>%s/model/dto/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
