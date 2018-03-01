@@ -327,6 +327,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/carousel.liquid" timestamp="1519938608652" />
       <file name="P:/Projects/Blendtec/shopify-go-theme/config.yml" timestamp="1519845323511">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="43" />
@@ -573,6 +574,12 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" timestamp="1519938739782">
+        <mark key="[" line="128" column="6" />
+        <mark key="]" line="128" column="4" />
+        <mark key="." line="128" column="4" />
+        <mark key="^" line="128" column="4" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/directives/index.ts" timestamp="1489709382956">
         <mark key="[" line="1" column="20" />
@@ -962,6 +969,9 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1519938441341">
+        <mark key="'" line="4" column="11" />
+      </file>
       <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="10" column="44" />
@@ -1310,8 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7276" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="7274" column="36" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7890" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7497" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="25" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" />
@@ -1410,22 +1418,29 @@
       <jump line="1662" column="40" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="1666" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="134" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="38" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
+      <jump line="4" column="11" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IGUuY3VycmVudFRhcmdldC5jbGFzc05hbWUgPT0gJ3BzX1Byb2R1Y3RMb2NhbFNlbGxlcnNMb2NhdGlvbkJ1dHRvblN0eWxlJw==</text>
+        <text>slide</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IGUuY3VycmVudFRhcmdldC5jbGFzc05hbWUgPT0gJ3BzX1Byb2R1Y3RMb2NhbFNlbGxlcnNMb2NhdGlvbkJ1dHRvblN0eWxlJw==</text>
+        <text>slide</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>blog</text>
       </register>
       <register name="0" type="4">
-        <text>ps_ProductLocalSellersLocationButtonStyle</text>
+        <text>{
+    &quot;type&quot;: &quot;checkbox&quot;,
+    &quot;id&quot;: &quot;enable_blog_author&quot;,
+    &quot;default&quot;: false,
+    &quot;label&quot;: &quot;Show author&quot;
+    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLUdlbV9QYWdlX0Zvb3Rlcl9TY3JpcHQtLT4KeyUgaW5jbHVkZSAnZ2VtLWFwcC1mb290ZXItc2NyaXB0cycgJX0KPCEtLUVuZF9HZW1fUGFnZV9Gb290ZXJfU2NyaXB0LS0+Cg==</text>
@@ -1459,9 +1474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JiY=</last-search>
+      <last-search>blog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JiY=</last-pattern>
+      <last-pattern>blog</last-pattern>
       <last-replace>dto</last-replace>
       <last-substitute>dto</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,8 +1484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ONE</entry>
-        <entry encoding="base64">PA==</entry>
         <entry>{</entry>
         <entry>for</entry>
         <entry>collection-filters</entry>
@@ -1489,6 +1502,8 @@
         <entry>gem</entry>
         <entry>$fadeOutOverlay</entry>
         <entry encoding="base64">JiY=</entry>
+        <entry>author</entry>
+        <entry>blog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rep/dealer/gc</entry>
