@@ -1424,7 +1424,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text>blog-filter</text>
+        <text>blog-filtering</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIj48L2Rpdj4K</text>
@@ -1457,13 +1457,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blog-filter</last-search>
+      <last-search>blog-filtering</last-search>
       <last-offset />
-      <last-pattern>blog-filter</last-pattern>
+      <last-pattern>blog-filtering</last-pattern>
       <last-replace>dto</last-replace>
       <last-substitute>dto</last-substitute>
       <last-dir>1</last-dir>
@@ -1471,7 +1471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shop</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>J</entry>
         <entry>On</entry>
@@ -1491,6 +1490,7 @@
         <entry encoding="base64">Jg==</entry>
         <entry>2</entry>
         <entry>blog-filter</entry>
+        <entry>blog-filtering</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rep/dealer/gc</entry>
@@ -1511,8 +1511,8 @@
         <entry>q</entry>
         <entry>%s/modelMock/repoMock/g</entry>
         <entry>%s/model/dto/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
