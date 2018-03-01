@@ -430,7 +430,8 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519927433834">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519937365806">
+        <mark key="'" line="134" column="8" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
@@ -1309,7 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7295" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7276" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7274" column="36" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7890" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -1409,6 +1409,7 @@
       <jump line="891" column="81" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="1662" column="40" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="1666" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="134" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
