@@ -480,6 +480,9 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1519930990861">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="22" />
@@ -1293,7 +1296,9 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1519925395953" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1519930819020">
+        <mark key="[" line="890" column="29" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/app-settings.service.ts" timestamp="1491496886653">
         <mark key="[" line="50" column="43" />
         <mark key="]" line="50" column="48" />
