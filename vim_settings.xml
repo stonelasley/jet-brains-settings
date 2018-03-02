@@ -716,11 +716,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1520015049899">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1520015755160">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
@@ -1453,47 +1453,47 @@
       <jump line="1505" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>caloeis</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>caloeis</text>
       </register>
       <register name="/" type="4">
         <text>section-header--image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbGFyZ2UtLW9uZS10aGlyZCBtZWRpdW0tLW9uZS10aGlyZCI+CiAgICA8L2Rpdj4KCg==</text>
+        <text encoding="base64">ICAgICAgICA8aDU+e3sgJ3JlY2lwZXMuc2VydmluZ3MnIHwgdCB9fTwvaDU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDQUxPUklFUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTRVJWSU5HUwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZGlzcGxheS10YWJsZS1jZWxsIj4KICAgICAgICAgIHslIGNhcHR1cmUgZGF0ZSAlfTx0aW1lIGl0ZW1wcm9wPSJkYXRlUHVibGlzaGVkIiBjb250ZW50PSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iIGRhdGV0aW1lPSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iPnt7IGFydGljbGUucHVibGlzaGVkX2F0IHwgZGF0ZTogZm9ybWF0OiAnbW9udGhfZGF5X3llYXInIH19PC90aW1lPnslIGVuZGNhcHR1cmUgJX0KICAgICAgICA8cCBjbGFzcz0naDYgbGlnaHQnPnt7ICdibG9ncy5hcnRpY2xlLm9uX2RhdGVfaHRtbCcgfCB0OiBkYXRlOiBkYXRlIH19PC9wPgogICAgICA8L2Rpdj4=</text>
       </register>
       <register name="8" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZGlzcGxheS10YWJsZS1jZWxsIj4KICAgICAgICAgIHslIGNhcHR1cmUgZGF0ZSAlfTx0aW1lIGl0ZW1wcm9wPSJkYXRlUHVibGlzaGVkIiBjb250ZW50PSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iIGRhdGV0aW1lPSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iPnt7IGFydGljbGUucHVibGlzaGVkX2F0IHwgZGF0ZTogZm9ybWF0OiAnbW9udGhfZGF5X3llYXInIH19PC90aW1lPnslIGVuZGNhcHR1cmUgJX0KICAgICAgICA8cCBjbGFzcz0naDYgbGlnaHQnPnt7ICdibG9ncy5hcnRpY2xlLm9uX2RhdGVfaHRtbCcgfCB0OiBkYXRlOiBkYXRlIH19PC9wPgogICAgICA8L2Rpdj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
