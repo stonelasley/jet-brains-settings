@@ -432,6 +432,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1520014629913">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="57" column="10" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.spec.ts" timestamp="1489981188914">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="36" />
@@ -710,11 +716,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1519249387043">
-        <mark key="[" line="9" column="71" />
-        <mark key="]" line="9" column="72" />
-        <mark key="." line="9" column="72" />
-        <mark key="^" line="8" column="55" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1520015049899">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
@@ -745,6 +751,10 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-blog-template.liquid" timestamp="1520014356935">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="5" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/node_modules/fb-mobile-core/dist/providers/table-sync.service.js" timestamp="1492118182325">
         <mark key="[" line="48" column="41" />
@@ -1444,46 +1454,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCVENPTS0yMzIyYi1ibG9nLXRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>section-header--image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSdibG9nLWluZm8nPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IGFydGljbGUudXJsIH19Ij57eyAnYmxvZ3MuYXJ0aWNsZS5yZWFkX21vcmUnIHwgdCB8IHVwY2FzZX19CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbGFyZ2UtLW9uZS10aGlyZCBtZWRpdW0tLW9uZS10aGlyZCI+CiAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCVENPTS0yMzIyYi1ibG9nLXRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJibG9nLWluZm8iIGl0ZW1wcm9wPSJrZXl3b3JkcyI+eyUgaW5jbHVkZSAndGFncy1hcnRpY2xlJyAlfTwvc3Bhbj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmbG9hdDogbGVmdDsK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">e3sgYmxvZy50aXRsZSB8IGRvd25jYXNlIH19Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZGlzcGxheS10YWJsZS1jZWxsIj4KICAgICAgICAgIHslIGNhcHR1cmUgZGF0ZSAlfTx0aW1lIGl0ZW1wcm9wPSJkYXRlUHVibGlzaGVkIiBjb250ZW50PSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iIGRhdGV0aW1lPSJ7eyBhcnRpY2xlLnB1Ymxpc2hlZF9hdCB8IGRhdGU6ICclWS0lbS0lZCcgfX0iPnt7IGFydGljbGUucHVibGlzaGVkX2F0IHwgZGF0ZTogZm9ybWF0OiAnbW9udGhfZGF5X3llYXInIH19PC90aW1lPnslIGVuZGNhcHR1cmUgJX0KICAgICAgICA8cCBjbGFzcz0naDYgbGlnaHQnPnt7ICdibG9ncy5hcnRpY2xlLm9uX2RhdGVfaHRtbCcgfCB0OiBkYXRlOiBkYXRlIH19PC9wPgogICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPkJMT0cgVElUTEUge3sgYmxvZy50aXRsZSB8IGRvd25jYXNlIH19PC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
