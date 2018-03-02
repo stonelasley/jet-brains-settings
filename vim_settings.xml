@@ -47,12 +47,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="66" column="22" />
@@ -461,8 +455,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1519943594201">
-        <mark key="'" line="127" column="40" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520024270271">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -637,12 +635,6 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1519855060474">
-        <mark key="'" line="21" column="38" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="114" />
-        <mark key="." line="145" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/binary-version.directive.ts" timestamp="1491496932898">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="44" />
@@ -684,6 +676,11 @@
         <mark key="]" line="696" column="75" />
         <mark key="." line="696" column="75" />
         <mark key="^" line="696" column="75" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/theme-info.liquid" timestamp="1520024045722">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/directives/index.ts" timestamp="1489961324768">
         <mark key="[" line="1" column="22" />
@@ -999,12 +996,11 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1519940805009">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1520024280006">
         <mark key="'" line="1044" column="17" />
-        <mark key="[" line="1053" column="17" />
-        <mark key="]" line="1053" column="6" />
-        <mark key="^" line="1053" column="6" />
-        <mark key="." line="1053" column="6" />
+        <mark key="[" line="1301" column="0" />
+        <mark key="]" line="1301" column="0" />
+        <mark key="." line="1301" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
         <mark key="'" line="7" column="4" />
@@ -1268,6 +1264,11 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="P:/Projects/Blendtec/shopify-go-theme/assets/affirm.header.js" timestamp="1519846211796">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1516744511143">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="40" />
@@ -1356,7 +1357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="27" column="19" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="28" column="20" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="33" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
@@ -1456,49 +1456,64 @@
       <jump line="13" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="23" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
       <jump line="26" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" />
+      <jump line="18" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBKa3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzPSJyZWNpcGVfaW5zdHJ1Y3Rpb25zIg==</text>
+        <text>GTM-43Z4V</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3sgYXJ0aWNsZS5jb250ZW50IH19Cg==</text>
+      <register name="0" type="4">
+        <text>{
+    &quot;name&quot;: &quot;PriceSpider&quot;,
+    &quot;settings&quot;: [
+      {
+        &quot;type&quot;: &quot;paragraph&quot;,
+        &quot;content&quot;: &quot;PriceSpider find a store widget.&quot;
+      },
+      {
+        &quot;type&quot;: &quot;text&quot;,
+        &quot;id&quot;: &quot;pricespider_main_widget_id&quot;,
+        &quot;label&quot;: &quot;Widget Id&quot;,
+        &quot;info&quot;: &quot;Widget Id is found here: https:\/\/portal.pricespider.com under WhereToBuy menu&quot;
+      }
+    ]
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKa3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluZ3JlZGllbnRzJyB8IHR9fTwvaDM+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icnRlIHJlY2lwZS1pbmdyZWRpZW50cyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2xhc3NHaWFudC5jb20K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICJ0aGVtZV9kb2N1bWVudGF0aW9uX3VybCI6ICJodHRwczpcL1wvd3d3LmJsZW5kdGVjLmNvbSIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8aDMgY2xhc3M9InJlY2lwZV9pbnN0cnVjdGlvbnMiPnt7ICdyZWNpcGVzLmluZ3JlZGllbnRzJyB8IHR9fTwvaDM+Cg==</text>
+        <text encoding="base64">ICAgICJ0aGVtZV9kb2N1bWVudGF0aW9uX3VybCI6ICJodHRwOlwvXC93d3cuYmxlbmR0ZWMuY29tIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
