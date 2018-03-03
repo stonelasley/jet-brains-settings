@@ -455,12 +455,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520024270271">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520036789068">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -719,7 +719,6 @@
         <mark key="." line="5" column="21" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/recipe-template.liquid" timestamp="1520034735146">
-        <mark key="'" line="40" column="57" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -1461,35 +1460,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>raf</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>raf</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-    &quot;name&quot;: &quot;PriceSpider&quot;,
-    &quot;settings&quot;: [
-      {
-        &quot;type&quot;: &quot;paragraph&quot;,
-        &quot;content&quot;: &quot;PriceSpider find a store widget.&quot;
-      },
-      {
-        &quot;type&quot;: &quot;text&quot;,
-        &quot;id&quot;: &quot;pricespider_main_widget_id&quot;,
-        &quot;label&quot;: &quot;Widget Id&quot;,
-        &quot;info&quot;: &quot;Widget Id is found here: https:\/\/portal.pricespider.com under WhereToBuy menu&quot;
-      }
-    ]
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7eyAncmFmLmpzJyB8IGFzc2V0X3VybCB8IHNjcmlwdF90YWcgfX0K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>p
 p
 p
@@ -1500,32 +1488,29 @@ p
 p
 p</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PHA+PHNwYW4+e3sgJ3JlY2lwZXMuc2VydmluZ3NpemUnIHwgdH19OiA8L3NwYW4+PHNwYW4gIGl0ZW1wcm9wPSJzZXJ2aW5nU2l6ZSI+e3sgYXJ0aWNsZS5tZXRhZmllbGRzWyJnbG9iYWwiXVsic2VydmluZ3NpemUiXSB8IGRpdmlkZWRfYnk6IDEgfX17eyBhcnRpY2xlLm1ldGFmaWVsZHNbImdsb2JhbCJdWyJzZXJ2aW5nLXNpemUtbWVhc3VyZW1lbnQiXSB9fTwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLmZhdCcgfCB0fX06IDwvc3Bhbj48c3BhbiBpdGVtcHJvcD0iZmF0Q29udGVudCI+e3sgYXJ0aWNsZS5tZXRhZmllbGRzWyJnbG9iYWwiXVsiZmF0Il0gfCBkaXZpZGVkX2J5OiAxMDAwIH19Zzwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLnNhdGZhdCcgfCB0fX06IDwvc3Bhbj48c3BhbiBpdGVtcHJvcD0ic2F0dXJhdGVkRmF0Q29udGVudCI+e3sgYXJ0aWNsZS5tZXRhZmllbGRzWyJnbG9iYWwiXVsic2F0ZmF0Il0gfCBkaXZpZGVkX2J5OiAxMDAwfX1nPC9zcGFuPjwvcD4KICAgICAgICAgICAgICAgICAgICA8cD48c3BhbiA+e3sgJ3JlY2lwZXMuY2hvbGVzdGVyb2wnIHwgdH19OiA8L3NwYW4+PHNwYW4gaXRlbXByb3A9ImNob2xlc3Rlcm9sQ29udGVudCI+e3sgYXJ0aWNsZS5tZXRhZmllbGRzWyJnbG9iYWwiXVsiY2hvbGVzdGVyb2wiXSB9fW1nPC9zcGFuPjwvcD4KICAgICAgICAgICAgICAgICAgICA8cD48c3BhbiA+e3sgJ3JlY2lwZXMuc29kaXVtJyB8IHR9fTogPC9zcGFuPjxzcGFuIGl0ZW1wcm9wPSJzb2RpdW1Db250ZW50Ij57eyBhcnRpY2xlLm1ldGFmaWVsZHNbImdsb2JhbCJdWyJzb2RpdW0iXSB8IGRpdmlkZWRfYnk6IDEgfX1tZzwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLmNhcmJzJyB8IHR9fTogPC9zcGFuPjxzcGFuIGl0ZW1wcm9wPSJjYXJib2h5ZHJhdGVDb250ZW50Ij57eyBhcnRpY2xlLm1ldGFmaWVsZHNbImdsb2JhbCJdWyJjYXJib2h5ZHJhdGVzIl0gfCBkaXZpZGVkX2J5OiAxMDAwIH19Zzwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLmZpYmVyJyB8IHR9fTogPC9zcGFuPjxzcGFuIGl0ZW1wcm9wPSJmaWJlckNvbnRlbnQiPnt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bImZpYmVyIl0gfCBkaXZpZGVkX2J5OiAxMDAwIH19Zzwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLnN1Z2FyJyB8IHR9fTogPC9zcGFuPjxzcGFuIGl0ZW1wcm9wPSJzdWdhckNvbnRlbnQiPnt7IGFydGljbGUubWV0YWZpZWxkc1siZ2xvYmFsIl1bInN1Z2FyIl0gfCBkaXZpZGVkX2J5OiAxMDAwIH19Zzwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+PHNwYW4gPnt7ICdyZWNpcGVzLnByb3RlaW4nIHwgdH19OiA8L3NwYW4+PHNwYW4gaXRlbXByb3A9InByb3RlaW5Db250ZW50Ij57eyBhcnRpY2xlLm1ldGFmaWVsZHNbImdsb2JhbCJdWyJwcm90ZWluIl0gfCBkaXZpZGVkX2J5OiAxMDAwIH19Zzwvc3Bhbj48L3A+</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2xhc3NHaWFudC5jb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/p/li/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1579,8 +1564,8 @@ p</text>
         <entry>%s/enable_blog_author/show_recipe_author/g</entry>
         <entry>%s/enable_blog_author/show_blog_author/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%s/p/li/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
