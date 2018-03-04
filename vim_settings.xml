@@ -669,6 +669,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1520124041089" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1183,6 +1184,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/utils/eb-package.sh" timestamp="1520124259839">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.html" timestamp="1491932172194">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="33" />
@@ -1328,6 +1335,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1520124406888">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" timestamp="1492536912476">
         <mark key="'" line="38" column="30" />
@@ -2786,13 +2799,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>npm_package_version</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>npm_package_version</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
@@ -2801,36 +2814,31 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
+        <text encoding="base64">ICBta2RpciBkaXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">fSB8fCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0IGRpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbnRleHQgfSBmcm9tICcuLi9pbnRlcmZhY2VzJzsK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29udGV4dCB9IGZyb20gJy4uL21vZGVscyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi91c2VyLWNvbnRleHQuaW50ZXJmYWNlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxQ29udGV4dCB9IGZyb20gJy4uLy4uL2FjY291bnQvZGVjb3JhdG9ycyc7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-        user: req.user,
-        userId: req.user.id,
-        organization: req.user.organization,
-        organizationId: req.user.organization.id
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgX2lkOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/req/ctx/gc</text>
