@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
     </globalmarks>
@@ -88,6 +88,7 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/environments/.env" timestamp="1520127877306" />
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" timestamp="1515893447840">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="1" column="0" />
