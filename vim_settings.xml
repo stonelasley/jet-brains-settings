@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -66,12 +66,6 @@
         <mark key="]" line="1" column="90" />
         <mark key="^" line="1" column="90" />
         <mark key="." line="1" column="90" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" timestamp="1519950142345">
-        <mark key="'" line="242" column="10" />
-        <mark key="[" line="268" column="15" />
-        <mark key="]" line="268" column="15" />
-        <mark key="." line="268" column="15" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/index.ts" timestamp="1489713690067">
         <mark key="[" line="4" column="20" />
@@ -516,11 +510,12 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="81" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1520276588217">
-        <mark key="'" line="113" column="17" />
-        <mark key="[" line="110" column="49" />
-        <mark key="]" line="110" column="50" />
-        <mark key="." line="110" column="50" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1520284327376">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="291" column="22" />
+        <mark key="]" line="291" column="24" />
+        <mark key="." line="291" column="24" />
+        <mark key="^" line="291" column="24" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/package.json" timestamp="1492202988024">
         <mark key="[" line="86" column="18" />
@@ -1030,12 +1025,6 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" timestamp="1520024280006">
-        <mark key="'" line="1254" column="17" />
-        <mark key="[" line="1511" column="0" />
-        <mark key="]" line="1511" column="0" />
-        <mark key="." line="1511" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="10" column="44" />
@@ -1398,11 +1387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="29" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
-      <jump line="677" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
-      <jump line="14" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
-      <jump line="10" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
-      <jump line="9" column="39" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="5015" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="7934" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="344" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -1498,22 +1482,27 @@
       <jump line="181" column="24" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="55" column="76" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="27" column="94" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="135" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="238" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="1" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="117" column="132" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="118" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Policy</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Policy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICJ0eXBlIjogInRleHQiLAogICAgImlkIjogImJsZW5kZXIyX2xpbmtfdGV4dCIsCiAgICAibGFiZWwiOiAiQmxlbmRlciAyIExpbmsgVGV4dCIKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJpZCI6ICJwcml2YWN5X3BvbGljeV9saW5rIiwKICAgICAgICAidHlwZSI6ICJ1cmwiLAogICAgICAgICJsYWJlbCI6ICJMaW5rIHRvIFByaXZhY3kgUG9saWN5IgogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1548,9 +1537,9 @@ s</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>li</last-replace>
       <last-substitute>p</last-substitute>
       <last-dir>1</last-dir>
@@ -1558,8 +1547,6 @@ s</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pg==</entry>
-        <entry>p</entry>
         <entry encoding="base64">PC8=</entry>
         <entry>li</entry>
         <entry>title</entry>
@@ -1577,7 +1564,9 @@ s</text>
         <entry>foot</entry>
         <entry>blender3</entry>
         <entry>SHOP</entry>
+        <entry>bottom-terms</entry>
         <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/develop/stage/g</entry>
