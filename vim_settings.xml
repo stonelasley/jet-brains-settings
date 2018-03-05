@@ -1376,12 +1376,11 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1519949647531">
-        <mark key="'" line="2705" column="10" />
-        <mark key="[" line="2706" column="6" />
-        <mark key="]" line="2706" column="6" />
-        <mark key="^" line="2706" column="7" />
-        <mark key="." line="2706" column="6" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1520265745780">
+        <mark key="'" line="373" column="6" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/app-settings.service.ts" timestamp="1491496886653">
         <mark key="[" line="50" column="43" />
@@ -1391,23 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="44" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="150" column="73" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="155" column="73" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="156" column="73" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="174" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="176" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="1038" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="63" column="58" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="242" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="52" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="68" column="21" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="1045" column="23" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="61" column="21" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="1044" column="17" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_schema.json" />
-      <jump line="11" column="42" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
-      <jump line="127" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
-      <jump line="128" column="17" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
       <jump line="130" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
       <jump line="131" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
       <jump line="132" column="11" filename="P:/Projects/Blendtec/blendtec-shopify-theme/config/settings_data.json" />
@@ -1491,58 +1473,75 @@
       <jump line="30" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="11" column="36" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-no-price-template.liquid" />
       <jump line="14" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-no-purchase-template.liquid" />
+      <jump line="2683" column="11" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="2725" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="2735" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="241" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="258" column="40" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="348" column="47" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1225" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1699" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1191" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1206" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1211" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1218" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1687" column="29" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="350" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1670" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="1681" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
+      <jump line="373" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcmEuZmFkZU91dE9uQ2xpY2soKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>noPrice</text>
+        <text>fadeOutOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7eyAncmFmLmpzJyB8IGFzc2V0X3VybCB8IHNjcmlwdF90YWcgfX0K</text>
+        <text encoding="base64">ICAgIGlmKGUuY3VycmVudFRhcmdldCAmJiBlLmN1cnJlbnRUYXJnZXQuY2xhc3NOYW1lID09ICdwc19Qcm9kdWN0TG9jYWxTZWxsZXJzTG9jYXRpb25CdXR0b25TdHlsZScpIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcmEuZmFkZU91dE9uQ2xpY2soKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JSBhc3NpZ24gbm9QdXJjaGFzZSA9IGZhbHNlICV9CiAgICAgICAgICAgICAgeyUgZm9yIHRhZyBpbiBwcm9kdWN0LnRhZ3MgJX0KICAgCQkJCSB7JSBpZiB0YWcgPT0gJ05vUHVyY2hhc2UnJX0KCQkJCQl7JSBhc3NpZ24gbm9QdXJjaGFzZSA9IHRydWUgJX0KICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQoJCQkgIHslIGVuZGZvciAlfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCiAqIFdoZW5ldmVyIHRoZSB1c2VyIGZvbGxvd3MgYSBsaW5rLCBoYXZlIHRoZSBzaXRlCiAqIGZhZGUgdG8gd2hpdGUuCiAqLwppcmEuZmFkZU91dE9uQ2xpY2sgPSBmdW5jdGlvbigpewoJcmV0dXJuOwogIC8vQnkgc2V0dGluZyB1cCBhbiBVbmxvYWQgZXZlbnQgd2UgcmVtb3ZlIHBhZ2UgY2FjaGluZwogIC8vd2hpY2ggbWFrZXMgdGhlIGJyb3dzZXIgZG8gYSBuZXcgSFRUUCByZXF1ZXN0IHdoZW4KICAvL2NsaWNraW5nIHRoZSBiYWNrIGJ1dHRvbiwgaW5zdGVhZCBvZiB0cnlpbmcgdG8KICAvL3JlYnVpbGQgdGhlIHBhZ2UuCiAgd2luZG93Lm9udW5sb2FkID0gZnVuY3Rpb24oZSl7CiAgICAvLyBjb25zb2xlLmluZm8oInVubG9hZCBldmVudDoiLCBlKTsKICB9OwoKICB3aW5kb3cub25wYWdlc2hvdyA9IGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAgIGlmIChldmVudC5wZXJzaXN0ZWQpIHsKICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKQogICAgICB9CiAgfTsKCgogIHZhciAkb3ZlcmxheSA9IHRoaXMuY2FjaGUuJGZhZGVPdXRPdmVybGF5OwogIHZhciB0aW1lID0gMzAwOwogIHZhciBhbmltYXRpb24gPSAnZWFzZSc7CiAgJCgnYm9keScpLm9uKCdjbGljaycsICdhJywgZnVuY3Rpb24oZSl7CiAgICBpZiAoZS5tZXRhS2V5IHx8IGUuc2hpZnRLZXkpIHJldHVybjsKICAgIHZhciBocmVmID0gJCh0aGlzKS5hdHRyKCdocmVmJyk7CiAgICAvL0lmIGl0J3MgYSAjLCBvciBzdGFydHMgd2l0aCBvbmUsIGl0J3MgZWl0aGVyIGFuIGFuY2hvciBvciBhIGR1bW15IGxpbmsuCiAgICBpZihlLmN1cnJlbnRUYXJnZXQgJiYgZS5jdXJyZW50VGFyZ2V0LmNsYXNzTmFtZSA9PSAncHNfUHJvZHVjdExvY2FsU2VsbGVyc0xvY2F0aW9uQnV0dG9uU3R5bGUnKSByZXR1cm47CglpZihlLmN1cnJlbnRUYXJnZXQgJiYgZS5jdXJyZW50VGFyZ2V0LmNsYXNzTmFtZSA9PSAncHNfUHJvZHVjdExvY2FsU2VsbGVyc0xvY2F0aW9uQnV0dG9uU3R5bGUnKSByZXR1cm47CiAgICBpZiAodHlwZW9mIGhyZWYgPT09ICd1bmRlZmluZWQnIHx8IGhyZWYgPT09ICcjJyB8fCBocmVmLmluZGV4T2YoJyMnKSA9PT0gMCkgcmV0dXJuOwogICAgaWYgKCQodGhpcykuYXR0cigndGFyZ2V0JykgPT0gIl9ibGFuayIpIHJldHVybjsKCiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAkb3ZlcmxheS5hZGRDbGFzcygnc2hvdycpOwoKICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgbG9jYXRpb24uaHJlZiA9IGhyZWY7CiAgICB9LmJpbmQodGhpcyksIHRpbWUgLyAyKQogIH0pOwoKfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkgICAgICB7JSBpZiBub1B1cmNoYXNlID09IGZhbHNlICV9CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJvZHVjdC1zZWxlY3RvcnMiPgogICAgICAgICAgICAgICAgPHNlbGVjdCBuYW1lPSJpZCIgaWQ9InByb2R1Y3RTZWxlY3QiIGNsYXNzPSJwcm9kdWN0LXNpbmdsZV9fdmFyaWFudHMiPgogICAgICAgICAgICAgICAgICB7JSBmb3IgdmFyaWFudCBpbiBwcm9kdWN0LnZhcmlhbnRzICV9CiAgICAgICAgICAgICAgICAgICAgeyUgaWYgdmFyaWFudC5hdmFpbGFibGUgJX0KCiAgICAgICAgICAgICAgICAgICAgICB7JSBjb21tZW50ICV9CiAgICAgICAgICAgICAgICAgICAgICAgIE5vdGU6IGlmIHlvdSB1c2Ugb3B0aW9uX3NlbGVjdGlvbi5qcywgeW91ciA8c2VsZWN0PiB0YWcgd2lsbCBiZSBvdmVyd3JpdHRlbiwgbWVhbmluZyB3aGF0IHlvdSBoYXZlIGluc2lkZSA8b3B0aW9uPiB3aWxsIG5vdCByZWZsZWN0IHdoYXQgeW91IGNvZGVkIGJlbG93LgogICAgICAgICAgICAgICAgICAgICAgeyUgZW5kY29tbWVudCAlfQoKICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24geyUgaWYgdmFyaWFudCA9PSBwcm9kdWN0LnNlbGVjdGVkX29yX2ZpcnN0X2F2YWlsYWJsZV92YXJpYW50ICV9IHNlbGVjdGVkPSJzZWxlY3RlZCIgeyUgZW5kaWYgJX0gdmFsdWU9Int7IHZhcmlhbnQuaWQgfX0iIGRhdGEtc2t1PSJ7eyB2YXJpYW50LnNrdSB9fSI+e3sgdmFyaWFudC50aXRsZSB9fSAtIHt7IHZhcmlhbnQucHJpY2UgfCBtb25leV93aXRoX2N1cnJlbmN5IH19PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgeyUgZWxzZSAlfQogICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiBkaXNhYmxlZD0iZGlzYWJsZWQiPgogICAgICAgICAgICAgICAgICAgICAgICB7eyB2YXJpYW50LnRpdGxlIH19IC0ge3sgJ3Byb2R1Y3RzLnByb2R1Y3Quc29sZF9vdXQnIHwgdCB9fQogICAgICAgICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgICAgICAgICAgICAgeyUgZW5kZm9yICV9CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4KCiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJRdWFudGl0eSIgY2xhc3M9InF1YW50aXR5LXNlbGVjdG9yIj57eyAncHJvZHVjdHMucHJvZHVjdC5xdWFudGl0eScgfCB0IH19PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJudW1iZXIiIGlkPSJRdWFudGl0eSIgbmFtZT0icXVhbnRpdHkiIHZhbHVlPSIxIiBtaW49IjEiIGNsYXNzPSJxdWFudGl0eS1zZWxlY3RvciI+CiAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgbmFtZT0iYWRkIiBpZD0iQWRkVG9DYXJ0IiBjbGFzcz0iYnRuIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gaWQ9IkFkZFRvQ2FydFRleHQiPnt7ICdwcm9kdWN0cy5wcm9kdWN0LmFkZF90b19jYXJ0JyB8IHQgfX08L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8cCBjbGFzcz0iYWZmaXJtLWFzLWxvdy1hcyIgZGF0YS1hbW91bnQ9Int7Y3VycmVudF92YXJpYW50LnByaWNlfX0iPjwvcD4KICAgICAgICAgICAgICB7JSBlbmRpZiAlfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgIC8vVE9ETyAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgYXNzaWduIG5vUHJpY2UgPSBmYWxzZSAlfQogICAgICAgICAgICB7JSBmb3IgdGFnIGluIHByb2R1Y3QudGFncyAlfQogICAgICAgICAgICAgIHslIGlmIHRhZyA9PSAnTm9QcmljZSclfQogICAgICAgICAgICAgIAl7JSBhc3NpZ24gbm9QcmljZSA9IHRydWUgJX0KICAgICAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgICAgICB7JSBlbmRmb3IgJX0KCiAgICAgICAgICAgIHslIGlmIG5vUHJpY2UgPT0gZmFsc2UgJX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>noPrice</last-search>
+      <last-search>fadeOutOnClick</last-search>
       <last-offset />
-      <last-pattern>noPrice</last-pattern>
+      <last-pattern>fadeOutOnClick</last-pattern>
       <last-replace>li</last-replace>
       <last-substitute>p</last-substitute>
       <last-dir>1</last-dir>
@@ -1550,13 +1549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>feature-blog</entry>
-        <entry>featured-blog__image</entry>
-        <entry>featured-blog</entry>
-        <entry>imageGridInit()</entry>
-        <entry encoding="base64">Pj4=</entry>
-        <entry>down</entry>
-        <entry>tags</entry>
         <entry>h1</entry>
         <entry>section-header--image</entry>
         <entry>article-feature-image</entry>
@@ -1570,6 +1562,13 @@
         <entry>title</entry>
         <entry>blog</entry>
         <entry>noPrice</entry>
+        <entry>overlay</entry>
+        <entry>$fadeOutOverlay</entry>
+        <entry>$overlay</entry>
+        <entry>fadeOUt</entry>
+        <entry>fadeOutOverlay</entry>
+        <entry>fadeOut</entry>
+        <entry>fadeOutOnClick</entry>
       </history-search>
       <history-cmd>
         <entry>s/develop/stage/g</entry>
