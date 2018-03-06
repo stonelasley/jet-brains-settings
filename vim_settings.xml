@@ -88,6 +88,12 @@
         <mark key="]" line="20" column="59" />
         <mark key="." line="20" column="59" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-no-price-template.liquid" timestamp="1520039048989">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/blendtec/directives/index.ts" timestamp="1489779170728">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -171,6 +177,10 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" timestamp="1520318494954">
+        <mark key="'" line="129" column="29" />
+        <mark key="^" line="128" column="34" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-list/sales-order-list.ts" timestamp="1491925426885">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="63" />
@@ -189,6 +199,12 @@
         <mark key="]" line="8" column="62" />
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" timestamp="1520318615708">
+        <mark key="'" line="101" column="44" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="37" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/components/main-menu.directive.ts" timestamp="1489448335655">
         <mark key="'" line="33" column="32" />
@@ -522,7 +538,7 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" timestamp="1520314194240">
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" timestamp="1520314882865">
         <mark key="'" line="18" column="23" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -586,7 +602,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520276482189">
+      <file name="/Dummy.txt" timestamp="1520318163146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1295,6 +1311,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1520265745780">
+        <mark key="'" line="373" column="6" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/app-settings.service.ts" timestamp="1491496886653">
         <mark key="[" line="50" column="43" />
         <mark key="]" line="50" column="48" />
@@ -1350,10 +1372,10 @@
         <mark key="." line="111" column="123" />
         <mark key="^" line="111" column="123" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520310860275">
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520316423177">
         <mark key="'" line="255" column="7" />
-        <mark key="[" line="251" column="20" />
-        <mark key="]" line="251" column="20" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="39" />
         <mark key="." line="251" column="20" />
         <mark key="^" line="257" column="4" />
       </file>
@@ -1407,6 +1429,12 @@
         <mark key="]" line="34" column="20" />
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
         <mark key="'" line="23" column="17" />
@@ -1657,6 +1685,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="92" column="87" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-no-purchase-template.liquid" timestamp="1520039130475">
+        <mark key="'" line="14" column="16" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/table-sync.service.ts" timestamp="1492202468954">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="57" />
@@ -1893,10 +1927,6 @@
         <mark key="^" line="125" column="111" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/collection.liquid" timestamp="1520268277994">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="87" />
-      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-headline-with-cta.liquid" timestamp="1520292890484">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="10" column="80" />
@@ -2059,6 +2089,12 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1519855060474">
+        <mark key="'" line="21" column="38" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="114" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/binary-version.directive.ts" timestamp="1491496932898">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="44" />
@@ -2197,11 +2233,6 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/blog.liquid" timestamp="1520268292476">
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/common.module.ts" timestamp="1489974130693">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="9" column="44" />
@@ -2291,6 +2322,12 @@
         <mark key="]" line="136" column="30" />
         <mark key="^" line="136" column="30" />
         <mark key="." line="136" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/snippets/drawer-nav.liquid" timestamp="1520318388411">
+        <mark key="[" line="21" column="151" />
+        <mark key="]" line="21" column="151" />
+        <mark key="." line="21" column="151" />
+        <mark key="^" line="21" column="157" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/karma.conf.js" timestamp="1491844874996">
         <mark key="'" line="9" column="32" />
@@ -2633,7 +2670,12 @@
         <mark key="." line="5825" column="25" />
         <mark key="^" line="5825" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" timestamp="1520308182966" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" timestamp="1520318348755">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="200" />
+        <mark key="." line="142" column="102" />
+        <mark key="^" line="142" column="102" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-gs-one-handler.service.spec.ts" timestamp="1491931391718">
         <mark key="'" line="264" column="0" />
         <mark key="[" line="3" column="51" />
@@ -2754,6 +2796,12 @@
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520318000398">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3355" column="0" />
+        <mark key="]" line="3355" column="0" />
+        <mark key="." line="3355" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.config.ts" timestamp="1489964993812">
         <mark key="[" line="19" column="29" />
@@ -2884,44 +2932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="35" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="73" column="133" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="91" column="14" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="95" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="104" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="135" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="168" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="172" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="45" column="46" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="70" column="107" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="99" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="133" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="226" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="227" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="43" column="54" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="66" column="54" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="228" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="44" column="50" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="67" column="67" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="68" column="129" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="243" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="255" column="7" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
-      <jump line="260" column="14" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="283" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="308" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="47" column="72" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="298" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="299" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="310" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="0" column="7" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="59" column="116" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="322" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="341" column="29" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="58" column="6" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="72" column="6" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="73" column="53" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="365" column="52" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="80" column="6" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="377" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="370" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="104" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
@@ -2984,95 +2994,125 @@
       <jump line="22" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="185" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="18" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
+      <jump line="183" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="2" column="22" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="245" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="257" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="139" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="166" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="105" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="99" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="115" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="107" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="101" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="26" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="118" column="30" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="29" column="41" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="126" column="34" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="30" column="37" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="124" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="130" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="132" column="29" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
+      <jump line="147" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="537" column="36" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="545" column="6" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="535" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="541" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="142" column="73" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="284" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="210" column="11" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="278" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="279" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="283" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="14" column="5" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="58" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="113" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="191" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
+      <jump line="178" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCQkJCSJkZWZhdWx0IjogIlNob3AgTm93Igo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>blender3_link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogImNvbG9yIiwKICAgICAgICAgICAgImlkIjoiaW5mb19ib3R0b21sZWZ0X3RpdGxlX2NvbG9yIiwKICAgICAgICAgICAgImxhYmVsIjoiQmxlbmRlciBpbmZvIG1pZCBsZWZ0IHRleHQgY29sb3IiLAogICAgICAgICAgICAiZGVmYXVsdCI6ICIjZmZmZmZmIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgCQkJCSJkZWZhdWx0IjogIlNob3AgTm93Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Rm9ybWF0dGVkIEhUTUw6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHt7c2VjdGlvbi5zZXR0aW5ncy5xdWVzdGlvbnNfdGV4dCB9PGEgaHJlZj0idGVsOnt7c2VjdGlvbi5zZXR0aW5ncy5xdWVzdGlvbnNfdGV4dF9udW1iZXJ9fSI+e3tzZWN0aW9uLnNldHRpbmdzLnF1ZXN0aW9uc190ZXh0X251bWJlcn19PC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxhYmVsIjoiQmxlbmRlciBpbmZvIG1pZCBsZWZ0IHRleHQgY29sb3IiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxhYmVsIjoiQmxlbmRlciBpbmZvIG1pZCBsZWZ0IHRpdGxlIiwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIjogImluZm9fbWlkbGVmdF90aXRsZSIsCg==</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyNHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LnF1ZXN0aW9ucy1tYXJnaW4gewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/blender1/collection1/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>blender3_link</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
-      <last-replace>cta_link</last-replace>
-      <last-substitute>section2_link</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>blender3_link</last-pattern>
+      <last-replace>collection1</last-replace>
+      <last-substitute>blender1</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>info_bottomright_title</entry>
-        <entry>bottomright_text</entry>
-        <entry>t</entry>
-        <entry>Left</entry>
-        <entry>info_bottomleft_title</entry>
-        <entry>&quot;&quot;</entry>
-        <entry>info_bottomleft</entry>
-        <entry>info_bottomleft_text</entry>
-        <entry>&quot;</entry>
-        <entry>info_midleft</entry>
-        <entry>info_midleft_title_color</entry>
-        <entry>info_midleft_title</entry>
-        <entry>h3_headline</entry>
-        <entry>descriptive_title_top</entry>
-        <entry>descriptive_title_top_color</entry>
-        <entry>DRV</entry>
-        <entry>h4_subhead</entry>
-        <entry>color</entry>
-        <entry>h4-subhead</entry>
-        <entry>style</entry>
+        <entry>blender2</entry>
+        <entry>2</entry>
+        <entry>titl</entry>
+        <entry>blender1_text_color</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>section4_headine</entry>
+        <entry>section4_headline</entry>
+        <entry>section4_text</entry>
+        <entry>section4-text</entry>
+        <entry>section4_link</entry>
+        <entry>section4_link_text</entry>
+        <entry>blender1</entry>
+        <entry>text_number</entry>
+        <entry>questions-margin</entry>
+        <entry>qeustions_text</entry>
+        <entry>questions_text</entry>
+        <entry>mobile</entry>
+        <entry>include</entry>
+        <entry>questions</entry>
+        <entry>blender3_link</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/number/string/g</entry>
-        <entry>%s/UserContext/AuthContext/g</entry>
-        <entry>%s/user/ctx/g</entry>
-        <entry>%s/AuthContext/RequestContext/g</entry>
-        <entry>wq</entry>
-        <entry>%s/RequestContext/ReqContext/g</entry>
-        <entry>%s/ctx/reqCtx/g</entry>
-        <entry>%s/reqCtxService/userService/g</entry>
         <entry>%s/Req/ReqContext/gc</entry>
         <entry>%s/@Req/@ReqContext/gc</entry>
         <entry>%s/req/ctx/gc</entry>
@@ -3084,7 +3124,15 @@
         <entry>%s/section2_text/text/gc</entry>
         <entry>%s/section2_linktext/cta_text/gc</entry>
         <entry>%s/section2_link/cta_link/gc</entry>
+        <entry>blender2_title</entry>
         <entry>w</entry>
+        <entry>%s/section4_headine/header/gc</entry>
+        <entry>%s/section4_headline/header</entry>
+        <entry>%s/section4_text/body/gc</entry>
+        <entry>%s/section4_link/cta/gc</entry>
+        <entry>%s/section4_link/cta_url/gc</entry>
+        <entry>%s/section4_link_text/cta_text/gc</entry>
+        <entry>%s/blender1/collection1/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
