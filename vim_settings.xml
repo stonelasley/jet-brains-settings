@@ -1279,11 +1279,12 @@
         <mark key="^" line="28" column="23" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520451469979">
-        <mark key="'" line="409" column="13" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520457455058">
+        <mark key="'" line="412" column="13" />
+        <mark key="[" line="299" column="18" />
+        <mark key="]" line="301" column="15" />
+        <mark key="." line="301" column="15" />
+        <mark key="^" line="301" column="15" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/product.no-price.liquid" timestamp="1520038876627">
         <mark key="[" line="1" column="79" />
