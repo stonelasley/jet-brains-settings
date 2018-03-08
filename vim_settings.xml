@@ -268,6 +268,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/package.json" timestamp="1520539686713">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/iline-item.ts" timestamp="1490143945310">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="22" />
@@ -529,6 +534,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/services/registration.service.ts" timestamp="1520539319307">
+        <mark key="[" line="12" column="136" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="P:/Projects/Edible/fb-pricing/package.json" timestamp="1518735753931">
         <mark key="[" line="68" column="0" />
@@ -1271,11 +1282,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1518547641542">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="28" column="23" />
-        <mark key="." line="12" column="0" />
+      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1520539664475">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520463639766">
         <mark key="'" line="47" column="3" />
@@ -1486,7 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="34" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="18" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="93" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
@@ -1586,16 +1597,17 @@
       <jump line="8" column="190" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
       <jump line="142" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="15" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="21" column="0" filename="P:/Projects/Blendtec/registration/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLlJFR0lTVEVSX1BST0RVQ1QnIHwgdHJhbnNsYXRlfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgICJuZy1odHRwLWxvYWRlciI6ICJeMC42LjAiLAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/models/app-config.interface</text>
       </register>
       <register name="/" type="4">
         <text>grid--products</text>
@@ -1604,31 +1616,31 @@
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLlJFR0lTVEVSX1BST0RVQ1QnIHwgdHJhbnNsYXRlfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgICJuZy1odHRwLWxvYWRlciI6ICJeMC42LjAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQVBQX0NPTkZJRyB9IGZyb20gJy4vY29uZmlnL2FwcC1jb25maWcubW9kdWxlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VyaWFsUHJlZml4U2VydmljZSB9IGZyb20gJy4vc2VydmljZXMvc2VyaWFsLXByZWZpeC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGVTZXJ2aWNlIH0gZnJvbSAnLi9zZXJ2aWNlcy9zdGF0ZS5zZXJ2aWNlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmV0YWlsZXJTZXJ2aWNlIH0gZnJvbSAnLi9zZXJ2aWNlcy9yZXRhaWxlci5zZXJ2aWNlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTUwcHg7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ291bnRyeVNlcnZpY2UgfSBmcm9tICcuL3NlcnZpY2VzL2NvdW50cnkuc2VydmljZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmdyaWQtLXByb2R1Y3RzIHsK</text>
+        <text encoding="base64">aW1wb3J0IHsgV2luZG93U2VydmljZSB9IGZyb20gJy4vc2VydmljZXMvd2luZG93LnNlcnZpY2UnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGluY2x1ZGUgYXQtcXVlcnkoJG1heCwgJG1lZGl1bSl7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVnaXN0cmF0aW9uU2VydmljZSB9IGZyb20gJy4vc2VydmljZXMvcmVnaXN0cmF0aW9uLnNlcnZpY2UnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTmdIdHRwTG9hZGVyTW9kdWxlIH0gZnJvbSAnbmctaHR0cC1sb2FkZXIvbmctaHR0cC1sb2FkZXIubW9kdWxlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
