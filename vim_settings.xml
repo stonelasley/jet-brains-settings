@@ -346,6 +346,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1520534743839">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="21" />
@@ -1584,7 +1589,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLlJFR0lTVEVSX1BST0RVQ1QnIHwgdHJhbnNsYXRlfX08L2gxPgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1599,31 +1604,31 @@
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIDxoMT57eydIRUFESU5HLlJFR0lTVEVSX1BST0RVQ1QnIHwgdHJhbnNsYXRlfX08L2gxPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmdyaWQtLXByb2R1Y3RzIHsK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTUwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGluY2x1ZGUgYXQtcXVlcnkoJG1heCwgJG1lZGl1bSl7Cg==</text>
+        <text encoding="base64">ICAgICAgLmdyaWQtLXByb2R1Y3RzIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">QGluY2x1ZGUgYXQtcXVlcnkoJG1heCwgJG1lZGl1bSl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBhdC1xdWVyeSgkbWF4LCAkbWVkaXVtKXsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
