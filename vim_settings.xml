@@ -80,7 +80,8 @@
         <mark key="^" line="1" column="90" />
         <mark key="." line="1" column="90" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" timestamp="1520447916321">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" timestamp="1520526106336">
+        <mark key="'" line="142" column="3" />
         <mark key="[" line="42" column="73" />
         <mark key="]" line="42" column="81" />
         <mark key="^" line="42" column="81" />
@@ -574,10 +575,11 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520466443374">
-        <mark key="[" line="0" column="172" />
-        <mark key="]" line="0" column="172" />
-        <mark key="." line="0" column="172" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520525857573">
+        <mark key="'" line="8" column="190" />
+        <mark key="[" line="8" column="190" />
+        <mark key="]" line="8" column="190" />
+        <mark key="." line="8" column="190" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
@@ -696,6 +698,7 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1520525804232" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1123,12 +1126,12 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520525468629">
-        <mark key="'" line="3610" column="2" />
-        <mark key="[" line="6314" column="22" />
-        <mark key="]" line="6314" column="21" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520526134978">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="6326" column="26" />
+        <mark key="]" line="6328" column="0" />
         <mark key="^" line="6314" column="21" />
-        <mark key="." line="6314" column="21" />
+        <mark key="." line="6328" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/warranties/src/environments/environment.ts" timestamp="1520444494180">
         <mark key="[" line="9" column="79" />
@@ -1478,12 +1481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1211" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
-      <jump line="1218" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
-      <jump line="1687" column="29" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
-      <jump line="350" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
-      <jump line="1670" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
-      <jump line="1681" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="373" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" />
       <jump line="34" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/blog-template.liquid" />
       <jump line="18" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
@@ -1578,19 +1575,25 @@
       <jump line="2729" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="3590" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="3610" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="25" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
+      <jump line="32" column="50" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
+      <jump line="0" column="172" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
+      <jump line="8" column="190" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
+      <jump line="142" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="15" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>right</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>margin-right</text>
+        <text>grid--products</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
@@ -1599,37 +1602,37 @@
         <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1MHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmdyaWQtLXByb2R1Y3RzIHsK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTUwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGluY2x1ZGUgYXQtcXVlcnkoJG1heCwgJG1lZGl1bSl7Cg==</text>
+        <text encoding="base64">ICAgICAgLmdyaWQtLXByb2R1Y3RzIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">QGluY2x1ZGUgYXQtcXVlcnkoJG1heCwgJG1lZGl1bSl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBhdC1xdWVyeSgkbWF4LCAkbWVkaXVtKXsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBhdC1xdWVyeSgkbWF4LCAkbWVkaXVtKXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>margin-right</last-search>
+      <last-search>grid--products</last-search>
       <last-offset />
-      <last-pattern>margin-right</last-pattern>
+      <last-pattern>grid--products</last-pattern>
       <last-replace>li</last-replace>
       <last-substitute>hasSocial</last-substitute>
       <last-dir>1</last-dir>
@@ -1637,13 +1640,11 @@
     </search>
     <history>
       <history-search>
-        <entry>Typography</entry>
         <entry>t</entry>
         <entry>h2</entry>
         <entry>bt-hero-heavy</entry>
         <entry>bt-hero</entry>
         <entry>&quot;</entry>
-        <entry>orloop</entry>
         <entry>div</entry>
         <entry>900</entry>
         <entry>headerFontWeight</entry>
@@ -1654,9 +1655,11 @@
         <entry>collections</entry>
         <entry>l</entry>
         <entry>grid--full</entry>
-        <entry>grid--products</entry>
         <entry>template-collection</entry>
         <entry>margin-right</entry>
+        <entry>orloop</entry>
+        <entry>grid-products</entry>
+        <entry>grid--products</entry>
       </history-search>
       <history-cmd>
         <entry>s/develop/stage/g</entry>
