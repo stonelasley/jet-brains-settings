@@ -574,10 +574,10 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520455871779">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="155" />
-        <mark key="." line="66" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520466443374">
+        <mark key="[" line="0" column="172" />
+        <mark key="]" line="0" column="172" />
+        <mark key="." line="0" column="172" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
@@ -1306,11 +1306,6 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-ratings-and-reviews.liquid" timestamp="1520357194397">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="23" />
@@ -1585,14 +1580,14 @@
       <jump line="47" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>meta</text>
