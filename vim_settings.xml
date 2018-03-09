@@ -2512,12 +2512,12 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/customer.service.spec.ts" timestamp="1520634144195">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/customer.service.spec.ts" timestamp="1520634997830">
         <mark key="'" line="18" column="44" />
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="58" />
-        <mark key="^" line="18" column="58" />
-        <mark key="." line="18" column="58" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/providers/sync.service.ts" timestamp="1492131713512">
         <mark key="[" line="16" column="41" />
@@ -3283,13 +3283,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SalesConstants</text>
+        <text>u</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SalesConstants</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>SalesConstants</text>
