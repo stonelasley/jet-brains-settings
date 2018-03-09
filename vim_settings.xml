@@ -447,6 +447,11 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="P:/Projects/Blendtec/residential-dealers-intl/src/app/services/dealer.service.ts" timestamp="1520620901909">
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="65" />
+        <mark key="." line="18" column="65" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/models/contact.ts" timestamp="1489963780847">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="44" column="4" />
@@ -492,6 +497,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/residential-dealers-intl/package.json" timestamp="1520621516248" />
       <file name="P:/Projects/Blendtec/registration/src/environments/environment.develop.ts" timestamp="1518561636956">
         <mark key="[" line="6" column="72" />
         <mark key="]" line="6" column="79" />
@@ -725,7 +731,6 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1520525804232" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -779,6 +784,11 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="P:/Projects/Blendtec/residential-dealers-intl/src/app/services/dealer.service.spec.ts" timestamp="1520621886511">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.stage.ts" timestamp="1518548666012">
         <mark key="[" line="6" column="46" />
@@ -1669,7 +1679,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgUEVBSyBIT1JTRVBPV0VSlCAoUEhQKSBET0VTIE5PVCBERU5PVEUgVEhFIE9QRVJBVElPTkFMIEhPUlNFUE9XRVIgT0YgQSBCTEVOREVSIEJVVCBSQVRIRVIgVEhFIEhPUlNFUE9XRVIgT1VUUFVUIE9GIEEgTU9UT1IsIElOQ0xVRElORyBUSEUgTU9UT1KSUyBJTkVSVElBTCBDT05UUklCVVRJT04sIEFDSElFVkVEIElOIExBQk9SQVRPUlkgVEVTVElORy4gSU4gQUNUVUFMIFVTRSwgQkxFTkRURUMgTU9UT1JTIERPIE5PVCBPUEVSQVRFIEFUIFRIRSBQRUFLIEhPUlNFUE9XRVIgU0hPV04uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1722,9 +1732,9 @@
         <entry>%s/p/li/gc</entry>
         <entry>%s/\^5.1.0/5.2.8/gc</entry>
         <entry>%s/\^5.1.0/5.1.0/gc</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
