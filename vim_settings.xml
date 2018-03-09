@@ -31,7 +31,7 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-summary.liquid" timestamp="1520552063867">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-summary.liquid" timestamp="1520611002503">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="1" column="69" />
@@ -441,7 +441,7 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-inline-ratings.liquid" timestamp="1520551906336">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-inline-ratings.liquid" timestamp="1520611115023">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="1" column="55" />
         <mark key="^" line="1" column="69" />
@@ -1340,6 +1340,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-ratings-and-reviews.liquid" timestamp="1520611184758" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="23" />
