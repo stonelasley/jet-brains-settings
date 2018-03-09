@@ -187,11 +187,11 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" timestamp="1520633860549">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" timestamp="1520637759932">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-list/sales-order-list.ts" timestamp="1491925426885">
         <mark key="[" line="7" column="26" />
@@ -626,7 +626,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520482803613">
+      <file name="/Dummy.txt" timestamp="1520637205903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
@@ -899,12 +899,12 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/customer.service.ts" timestamp="1520635131955">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/customer.service.ts" timestamp="1520637222309">
         <mark key="'" line="24" column="67" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
-        <mark key="^" line="0" column="53" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
@@ -1274,6 +1274,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/config/mod.config.ts" timestamp="1520637615769">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/inventory/models/index.ts" timestamp="1520048444036">
         <mark key="[" line="3" column="69" />
@@ -3290,13 +3296,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SalesConstants</text>
+        <text>MODULE_CONFIG</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SalesConstants</text>
+        <text>MODULE_CONFIG</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
