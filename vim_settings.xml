@@ -188,10 +188,10 @@
         <mark key="." line="0" column="56" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" timestamp="1520637759932">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="13" column="44" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-list/sales-order-list.ts" timestamp="1491925426885">
         <mark key="[" line="7" column="26" />
@@ -943,12 +943,12 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/sales-order.service.ts" timestamp="1520636376907">
-        <mark key="'" line="118" column="8" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="56" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/sales-order.service.ts" timestamp="1520637845587">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
         <mark key="^" line="40" column="100" />
-        <mark key="." line="40" column="100" />
+        <mark key="." line="9" column="45" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/index.ts" timestamp="1488671160139">
         <mark key="'" line="12" column="0" />
@@ -3193,7 +3193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="36" filename="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" />
       <jump line="306" column="52" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
       <jump line="5727" column="28" filename="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" />
@@ -3293,19 +3292,20 @@
       <jump line="39" column="19" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/sales-order.service.spec.ts" />
       <jump line="25" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="26" column="15" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
+      <jump line="21" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/sales-order.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MODULE_CONFIG</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MODULE_CONFIG</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>MOD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlASW5qZWN0KEFQUF9DT05GSUcpcHJpdmF0ZSBfY29uZmlnOiBBcHBDb25maWcpIHsK</text>
@@ -3348,17 +3348,16 @@ public static</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>MOD</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>MOD</last-pattern>
       <last-replace>this._config</last-replace>
       <last-substitute>SalesConstants</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>n</entry>
         <entry>'sales_salesOrders'</entry>
         <entry>'</entry>
         <entry>'sales_lineItems'</entry>
@@ -3378,6 +3377,7 @@ public static</text>
         <entry>SalesConstants</entry>
         <entry>,</entry>
         <entry>)</entry>
+        <entry>MOD</entry>
       </history-search>
       <history-cmd>
         <entry>%s/delivery-menut/fb-delivery/gc</entry>
