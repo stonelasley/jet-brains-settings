@@ -147,12 +147,12 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1520641728054">
-        <mark key="'" line="30" column="30" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1520643130893">
+        <mark key="'" line="92" column="25" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
         <mark key="^" line="30" column="31" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
@@ -900,12 +900,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1520641689443">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="37" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" timestamp="1520643056302">
+        <mark key="'" line="64" column="32" />
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="65" column="35" />
+        <mark key="." line="65" column="35" />
+        <mark key="^" line="65" column="35" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/sales-order.service.ts" timestamp="1520637845587">
         <mark key="'" line="21" column="16" />
@@ -3029,13 +3029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/models/allocation-delete.command.ts" />
-      <jump line="43" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/models/allocation-delete.command.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/add-return/add-return.ts" />
-      <jump line="44" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/add-return/add-return.ts" />
-      <jump line="49" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/add-return/add-return.ts" />
-      <jump line="47" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/add-return/add-return.ts" />
-      <jump line="48" column="11" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/add-return/add-return.ts" />
       <jump line="0" column="19" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/sales-order-line-list/sales-order-line-list.ts" />
       <jump line="28" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/credit-order-header-tab/credit-order-header-tab.ts" />
       <jump line="3" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/credit-order-header-tab/credit-order-header-tab.ts" />
@@ -3129,68 +3122,72 @@
       <jump line="10" column="67" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" />
       <jump line="9" column="58" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" />
       <jump line="30" column="30" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="182" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="200" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="167" column="29" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="149" column="37" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="93" column="25" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="64" column="32" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>v</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIAlyZXR1cm4gdGhpcy5zeW5jQ29tbW9uKCkKCS8vIAkJLnRoZW4oKCkgPT4gdGhpcy5zeW5jUHJpY2luZygpKQoJLy8gCQkudGhlbigoKSA9PiB0aGlzLnN5bmNDcmVkaXRzKCkpOwo=</text>
+        <text encoding="base64">CQlsZXQgc3luY1N0YXJ0OiBhbnkgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsKCQlyZXR1cm4gdGhpcy5fZGIuc2V0dXBEYihyZXNldCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aE1vZHVsZSB9IGZyb20gJy4uL2F1dGgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9naW4gfSAgICAgICAgICBmcm9tICcuL3BhZ2VzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWJvb3RzdHJhcDogW0xvZ2luXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aE1vZHVsZSB9ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tICcuL21vZHVsZXMvYXV0aCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlBdXRoTW9kdWxlLAo=</text>
+        <text encoding="base64">CQl0aGlzLl9ldmVudHMucHVibGlzaChQdWJsaXNoRXZlbnRzLkZ1bGxTeW5jKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aE1vZHVsZSB9IGZyb20gJy4uL2F1dGgvYXV0aC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">CQlsZXQgc3luY1N0YXJ0OiBhbnkgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aE1vZHVsZSB9IGZyb20gJy4uL2F1dGgnOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnQ0xJQ0sgU1lOQyBDT1JFIERBVEEnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHJhbnNsYXRlTW9kdWxlIH0gZnJvbSAnQG5neC10cmFuc2xhdGUvY29yZSc7CmltcG9ydCB7IEZiQ29yZU1vZHVsZSB9IGZyb20gJy4uL2NvcmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>v</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>v</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LFwg</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>customers</entry>
-        <entry>SCAN_COMPONENTS</entry>
-        <entry>f</entry>
         <entry>;</entry>
         <entry>config</entry>
         <entry>this.config</entry>
@@ -3208,6 +3205,9 @@
         <entry>)</entry>
         <entry>Auth</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>anal</entry>
+        <entry>_alert</entry>
+        <entry>v</entry>
       </history-search>
       <history-cmd>
         <entry>%s/DELIVERY_COMPONENTS/DeliveryComponent/g</entry>
@@ -3228,8 +3228,8 @@
         <entry>%s/SalesConstants/this._config/gc</entry>
         <entry>s/,\ /,\r/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
