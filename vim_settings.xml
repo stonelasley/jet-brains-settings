@@ -1340,11 +1340,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520613553943">
-        <mark key="'" line="90" column="15" />
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="37" />
-        <mark key="." line="89" column="37" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520975932887">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="147" column="66" />
+        <mark key="]" line="147" column="93" />
+        <mark key="." line="147" column="93" />
+        <mark key="^" line="147" column="93" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/product.no-price.liquid" timestamp="1520038876627">
         <mark key="[" line="1" column="79" />
@@ -1469,12 +1470,12 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" timestamp="1520974340887">
-        <mark key="'" line="114" column="35" />
-        <mark key="[" line="115" column="12" />
-        <mark key="]" line="115" column="19" />
-        <mark key="." line="115" column="19" />
-        <mark key="^" line="115" column="19" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" timestamp="1520975457931">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="131" column="21" />
       </file>
       <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1516744511143">
         <mark key="[" line="20" column="40" />
@@ -1575,17 +1576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="382" column="9" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="393" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="405" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="410" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="415" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="420" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
-      <jump line="51" column="33" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" />
-      <jump line="102" column="75" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="5" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/cta-text.liquid" />
-      <jump line="6" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/cta-text.liquid" />
       <jump line="4" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/cta-text.liquid" />
       <jump line="68" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" />
       <jump line="7531" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -1675,6 +1665,17 @@
       <jump line="106" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
       <jump line="108" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
       <jump line="114" column="35" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
+      <jump line="2" column="17" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
+      <jump line="14" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
+      <jump line="31" column="33" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/product-grid-item.liquid" />
+      <jump line="12" column="32" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="17" column="21" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="137" column="17" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="192" column="53" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="9" column="42" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="139" column="85" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="193" column="48" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
+      <jump line="25" column="36" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1687,46 +1688,46 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text>variant.price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgaW5jbHVkZSAnYm9sZC1tZW1iZXJzaGlwcy1zYWx0JyAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7JSBpbmNsdWRlICdib2xkLW1lbWJlcnNoaXBzLXByaWNlJyAlfQogICAgICAgICAgICAgIHslIGlmIGJvbGRfaGlkZV9pdGVtID09IGZhbHNlICV9CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icHJpY2UiPnt7ICdwcm9kdWN0cy5nZW5lcmFsLmZyb21fdGV4dF9odG1sJyB8IHQ6IHByaWNlOiBwcmljZSB9fTwvc3Bhbj4KICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnYm9sZC1tZW1iZXJzaGlwcy1wcm9kdWN0JyAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InByaWNlIj57eyAncHJvZHVjdHMuZ2VuZXJhbC5mcm9tX3RleHRfaHRtbCcgfCB0OiBwcmljZTogcHJpY2UgfX08L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7eyBwcm9kdWN0LnByaWNlIHwgbW9uZXkgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRW5kIEJvbGQ6TWVtYmVyc2hpcHMgKEFydGljbGUpIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBlbmQgQm9sZCBjb2RlIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU3RhcnQgQm9sZDpNZW1iZXJzaGlwcyAoQXJ0aWNsZSkgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBKa3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSBCb2xkOiBNZW1iZXJzaGlwcyAobWFuYWdlIG1lbWJlcnNoaXBzKSAtLT4K</text>
+        <text encoding="base64">eyUgaW5jbHVkZSAnYm9sZC1tZW1iZXJzaGlwcy1wcm9kdWN0JyAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyUgaW5jbHVkZSAnYm9sZC1tZW1iZXJzaGlwcy1wcm9kdWN0JyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>variant.price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern>variant.price</last-pattern>
       <last-replace>5.1.0</last-replace>
       <last-substitute>\^5.1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1734,10 +1735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orloop</entry>
-        <entry>grid-products</entry>
-        <entry>grid--products</entry>
-        <entry>\^5.1.0</entry>
         <entry>product-single__photos</entry>
         <entry>p</entry>
         <entry>product-single__photoes</entry>
@@ -1752,8 +1749,12 @@
         <entry>Cust</entry>
         <entry>sho</entry>
         <entry>collection.products</entry>
-        <entry>product.price</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>t</entry>
+        <entry>add</entry>
+        <entry>AddToCart</entry>
+        <entry>product.price</entry>
+        <entry>variant.price</entry>
       </history-search>
       <history-cmd>
         <entry>%s/assets\///g</entry>
