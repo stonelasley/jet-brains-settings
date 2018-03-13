@@ -528,11 +528,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520268783496">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="29" column="9" />
-        <mark key="." line="162" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520972147538">
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="98" column="28" />
+        <mark key="^" line="98" column="28" />
+        <mark key="." line="98" column="28" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -1156,12 +1156,6 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520526134978">
-        <mark key="'" line="15" column="0" />
-        <mark key="]" line="6333" column="0" />
-        <mark key="^" line="6314" column="21" />
-        <mark key="." line="6333" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/warranties/src/environments/environment.ts" timestamp="1520444494180">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="85" />
@@ -1339,12 +1333,12 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" timestamp="1520971232980">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" timestamp="1520972097985">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/bv-ratings-and-reviews.liquid" timestamp="1520612085290">
         <mark key="[" line="1" column="34" />
@@ -1631,7 +1625,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyUgY29tbWVudCAlfQo=</text>
+        <text encoding="base64">eyUgZW5kY29tbWVudCAlfQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1643,7 +1637,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgY29tbWVudCAlfQo=</text>
+        <text encoding="base64">eyUgZW5kY29tbWVudCAlfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">eyUgY29tbWVudCAlfQo=</text>
