@@ -2155,12 +2155,12 @@
         <mark key="." line="159" column="43" />
         <mark key="^" line="159" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521062776251">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521062869377">
         <mark key="'" line="98" column="27" />
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="37" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
         <mark key="^" line="92" column="37" />
-        <mark key="." line="92" column="37" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
@@ -3219,8 +3219,8 @@
       <jump line="98" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-media-bottom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3234,32 +3234,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbGFyZ2UtLW9uZS10aGlyZCBtZWRpdW0tLW9uZS10aGlyZCBsYXJnZS0tdGV4dC1yaWdodCBtZWRpdW0tLXRleHQtcmlnaHQgc21hbGwtLXRleHQtY2VudGVyIj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAuZ3JpZF9faXRlbSB7CiAgICAgICAgcGFkZGluZzogNSU7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5oZWFkZXIsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEycHg7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC5zaXRlLWZvb3RlciwKICAgIC5zaXRlLWZvb3RlciAubGlzdC1jb2x1bW4gYSwKICAgIC5wYXltZW50LWljb25zIGxpLAogICAgLnNvY2lhbC1pY29ucyBsaSBhLAogICAgLnNpdGUtaGVhZGVyX19sb2dvIHsKICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAuZ3JpZF9faXRlbSB7CiAgICAgICAgcGFkZGluZzogNSU7CiAgICB9</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6MjUwcHg7Cg==</text>
+        <text encoding="base64">ICAgIC5oZWFkZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5zb2NpYWwtbWVkaWEtYm90dG9tIHsK</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEycHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDoxMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
