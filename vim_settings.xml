@@ -2155,12 +2155,12 @@
         <mark key="." line="159" column="43" />
         <mark key="^" line="159" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521064671596">
-        <mark key="'" line="4" column="28" />
-        <mark key="[" line="105" column="15" />
-        <mark key="]" line="105" column="15" />
-        <mark key="^" line="105" column="15" />
-        <mark key="." line="105" column="15" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521068084242">
+        <mark key="'" line="111" column="2" />
+        <mark key="[" line="152" column="16" />
+        <mark key="]" line="152" column="16" />
+        <mark key="^" line="106" column="47" />
+        <mark key="." line="152" column="16" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
@@ -2719,8 +2719,11 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1521059139522">
-        <mark key="'" line="9242" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1521067942904">
+        <mark key="'" line="1476" column="0" />
+        <mark key="[" line="1530" column="15" />
+        <mark key="]" line="1530" column="16" />
+        <mark key="." line="1530" column="16" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/events.mock.ts" timestamp="1491334659158">
         <mark key="[" line="4" column="69" />
@@ -3117,25 +3120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="15" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
-      <jump line="12" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
-      <jump line="0" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="51" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="40" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="33" column="73" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="31" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="2" column="57" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/config/db.config.ts" />
-      <jump line="10" column="11" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/config/db.config.ts" />
-      <jump line="16" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/config/db.config.ts" />
-      <jump line="105" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/config/db.config.ts" />
-      <jump line="12" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
-      <jump line="0" column="8" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/core/models/index.ts" />
-      <jump line="35" column="61" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="76" column="26" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
-      <jump line="6" column="11" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/db.config.ts" />
-      <jump line="8" column="22" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/db.config.ts" />
-      <jump line="56" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/db.config.ts" />
-      <jump line="51" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/db.config.ts" />
       <jump line="3" column="22" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/db.config.ts" />
       <jump line="19" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/db.config.ts" />
       <jump line="51" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/db.config.ts" />
@@ -3217,58 +3201,77 @@
       <jump line="151" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="156" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="4" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="126" column="22" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="17" column="69" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="18" column="30" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="65" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="68" column="45" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="69" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="100" column="69" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="102" column="62" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="111" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="9254" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="26" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="27" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="234" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1037" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1060" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1174" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1280" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1445" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1476" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>footer-container</text>
+        <text>small</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbGFyZ2UtLW9uZS10aGlyZCBtZWRpdW0tLW9uZS10aGlyZCBsYXJnZS0tdGV4dC1yaWdodCBtZWRpdW0tLXRleHQtcmlnaHQgc21hbGwtLXRleHQtY2VudGVyIj4K</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46YXV0bzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsjfSN9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7I2NvbG9yOiB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19ICFpbXBvcnRhbnQ7I30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHsjLmZvb3Rlci1hdHRyaWJ1dGlvbiBhIHsjfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxsOiB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl9oZWFkZXIgfX07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5zaG9wLW5hbWUgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
+        <text encoding="base64">ICBmb250LXNpemU6IC41cmVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c21hbGwgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGgzIHsKICAgICAgICBjb2xvcjoge3sgc2VjdGlvbi5zZXR0aW5ncy5jb2xvcl9mb290ZXJfaGVhZGVyIH19OwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>footer-container</last-search>
+      <last-search>small</last-search>
       <last-offset />
-      <last-pattern>footer-container</last-pattern>
+      <last-pattern>small</last-pattern>
       <last-replace>hubspot_newsletter_body</last-replace>
       <last-substitute>homepage_newsletter_body</last-substitute>
       <last-dir>1</last-dir>
@@ -3276,11 +3279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>U</entry>
-        <entry>User</entry>
-        <entry>onLog</entry>
-        <entry encoding="base64">XCBcIFwgXCA=</entry>
-        <entry>)</entry>
         <entry>this</entry>
         <entry>;</entry>
         <entry>US</entry>
@@ -3289,13 +3287,18 @@
         <entry>A</entry>
         <entry>contact-form</entry>
         <entry>form</entry>
-        <entry>header</entry>
         <entry>copy</entry>
         <entry>div</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>&quot;</entry>
         <entry>attribution</entry>
         <entry>footer-container</entry>
+        <entry>header</entry>
+        <entry>footer</entry>
+        <entry>typo</entry>
+        <entry>Typography</entry>
+        <entry>font-size</entry>
+        <entry>small</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
