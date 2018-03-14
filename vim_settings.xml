@@ -2694,12 +2694,12 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1519850287643">
-        <mark key="'" line="7770" column="28" />
-        <mark key="[" line="7819" column="1" />
-        <mark key="]" line="7820" column="0" />
-        <mark key="." line="7820" column="0" />
-        <mark key="^" line="7820" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1521043509220">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="7509" column="0" />
+        <mark key="]" line="7509" column="0" />
+        <mark key="^" line="7816" column="0" />
+        <mark key="." line="7509" column="0" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/events.mock.ts" timestamp="1491334659158">
         <mark key="[" line="4" column="69" />
@@ -3096,8 +3096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/auth/auth.component.ts" />
-      <jump line="42" column="41" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="58" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="57" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="10" column="67" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" />
@@ -3196,10 +3194,12 @@
       <jump line="38" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="39" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="47" column="20" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
+      <jump line="6317" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="72" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3208,46 +3208,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>US</text>
+        <text>HEAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnU0FMRVMgVVNFUiBBVVRIJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLmNhdGNoKCgpID0+IHRoaXMuX2RiLnNldHVwRGIodHJ1ZSkpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKGVycikpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQldKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJdGhpcy5fZGIuc2V0dXBEYigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2V2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyQXV0aGVudGljYXRlZCwgKCkgPT4gdGhpcy5fZGIuc2V0dXBEYigpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWV2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyTG9nb3V0LCAoKSA9PiB0aGlzLl9kYi5zZXR1cERiKHRydWUpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgbWFyZ2luOiAwIDE1MHB4IDAgMTUwcHg7Cj09PT09PT0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLmNhdGNoKCgpID0+IHRoaXMuX2RiLnNldHVwRGIodHJ1ZSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKGVycikpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQldKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdGhpcy5fZGIuc2V0dXBEYigpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCXRoaXMuX2V2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyQXV0aGVudGljYXRlZCwgKCkgPT4gdGhpcy5fZGIuc2V0dXBEYigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgbGlzdGVuVG9Mb2dpbkV2ZW50cyhldmVudHM6IEV2ZW50cyk6IHZvaWQgewo=</text>
+        <text encoding="base64">CQkJCWV2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyTG9nb3V0LCAoKSA9PiB0aGlzLl9kYi5zZXR1cERiKHRydWUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\ \ \ \ /\t/g</text>
       </register>
     </registers>
     <search>
-      <last-search>US</last-search>
+      <last-search>HEAD</last-search>
       <last-offset />
-      <last-pattern>US</last-pattern>
+      <last-pattern>HEAD</last-pattern>
       <last-replace>\t</last-replace>
       <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3255,7 +3255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DBCONFIG</entry>
         <entry>import</entry>
         <entry>Com</entry>
         <entry>Sales</entry>
@@ -3275,6 +3274,7 @@
         <entry>this</entry>
         <entry>;</entry>
         <entry>US</entry>
+        <entry>HEAD</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lineItem/${SalesConstants.lineItemTable}/gc</entry>
