@@ -2155,12 +2155,12 @@
         <mark key="." line="159" column="43" />
         <mark key="^" line="159" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521062869377">
-        <mark key="'" line="98" column="27" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="^" line="92" column="37" />
-        <mark key="." line="188" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1521064658601">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
@@ -3117,10 +3117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="9" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
-      <jump line="3" column="9" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
-      <jump line="1" column="9" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
-      <jump line="15" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
       <jump line="13" column="15" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
       <jump line="12" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credit.module.ts" />
       <jump line="0" column="4" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
@@ -3217,25 +3213,29 @@
       <jump line="88" column="29" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="91" column="16" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="98" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="183" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="151" column="5" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="156" column="7" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
+      <jump line="4" column="28" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>-media-bottom</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>footer-container</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gbGFyZ2UtLW9uZS10aGlyZCBtZWRpdW0tLW9uZS10aGlyZCBsYXJnZS0tdGV4dC1yaWdodCBtZWRpdW0tLXRleHQtcmlnaHQgc21hbGwtLXRleHQtY2VudGVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3243,20 +3243,20 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIC5zaXRlLWZvb3RlciwKICAgIC5zaXRlLWZvb3RlciAubGlzdC1jb2x1bW4gYSwKICAgIC5wYXltZW50LWljb25zIGxpLAogICAgLnNvY2lhbC1pY29ucyBsaSBhLAogICAgLnNpdGUtaGVhZGVyX19sb2dvIHsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAuZ3JpZF9faXRlbSB7CiAgICAgICAgcGFkZGluZzogNSU7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxsOiB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl9oZWFkZXIgfX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5oZWFkZXIsCg==</text>
+        <text encoding="base64">ICAgIC5zaG9wLW5hbWUgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEycHg7Cg==</text>
+        <text encoding="base64">CiAgICAuZm9vdGVyLWF0dHJpYnV0aW9uIHsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB7eyBzZWN0aW9uLnNldHRpbmdzLmNvbG9yX2Zvb3Rlcl90ZXh0IH19OwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3266,9 +3266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>footer-container</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>footer-container</last-pattern>
       <last-replace>hubspot_newsletter_body</last-replace>
       <last-substitute>homepage_newsletter_body</last-substitute>
       <last-dir>1</last-dir>
@@ -3276,8 +3276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
-        <entry>dropAndCreate</entry>
         <entry>U</entry>
         <entry>User</entry>
         <entry>onLog</entry>
@@ -3296,6 +3294,8 @@
         <entry>div</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>&quot;</entry>
+        <entry>attribution</entry>
+        <entry>footer-container</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
