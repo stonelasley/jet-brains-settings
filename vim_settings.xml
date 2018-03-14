@@ -65,6 +65,13 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/hubspot-newsletter.liquid" timestamp="1521049650384">
+        <mark key="'" line="31" column="15" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/users.service.ts" timestamp="1489710631975">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="24" />
@@ -165,6 +172,11 @@
         <mark key="]" line="6" column="9" />
         <mark key="^" line="120" column="36" />
         <mark key="." line="6" column="9" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/hubspot-form.liquid" timestamp="1521049625508">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
@@ -3096,7 +3108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="57" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.component.ts" />
       <jump line="10" column="67" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" />
       <jump line="9" column="58" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/common.module.ts" />
@@ -3196,66 +3207,66 @@
       <jump line="47" column="20" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="6317" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="72" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="31" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/hubspot-newsletter.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      <register name="&quot;" type="4">
+        <text>Newsletter</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Newsletter</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>homepage_newsletter_body</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnU0FMRVMgVVNFUiBBVVRIJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgbWFyZ2luOiAwIDE1MHB4IDAgMTUwcHg7Cj09PT09PT0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJLmNhdGNoKCgpID0+IHRoaXMuX2RiLnNldHVwRGIodHJ1ZSkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKGVycikpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQldKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJdGhpcy5fZGIuc2V0dXBEYigpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCXRoaXMuX2V2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyQXV0aGVudGljYXRlZCwgKCkgPT4gdGhpcy5fZGIuc2V0dXBEYigpKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWV2ZW50cy5zdWJzY3JpYmUoUHVibGlzaEV2ZW50cy5Vc2VyTG9nb3V0LCAoKSA9PiB0aGlzLl9kYi5zZXR1cERiKHRydWUpKTsK</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/\ \ \ \ /\t/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>homepage_newsletter_body</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
-      <last-replace>\t</last-replace>
-      <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
+      <last-pattern>homepage_newsletter_body</last-pattern>
+      <last-replace>hubspot_newsletter_body</last-replace>
+      <last-substitute>homepage_newsletter_body</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>Com</entry>
         <entry>Sales</entry>
         <entry>DbConf</entry>
@@ -3275,9 +3286,9 @@
         <entry>;</entry>
         <entry>US</entry>
         <entry>HEAD</entry>
+        <entry>homepage_newsletter_body</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/lineItem/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItemTable/salesLineTable/gc</entry>
         <entry>%s/customers/${SalesConstants.customerTable}/gc</entry>
@@ -3292,11 +3303,12 @@
         <entry>%s/CREDITS_COMPONENTS/CreditComponent/g</entry>
         <entry>%s/DBCONFIG/TABLES/g</entry>
         <entry>%s/import/export/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>%s/TABLES/SCHEMA/gc</entry>
         <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
+        <entry>%s/homepage_newsletter_body/hubspot_newsletter_body/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
