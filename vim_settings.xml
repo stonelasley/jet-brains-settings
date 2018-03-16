@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -1574,8 +1574,8 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1519761397285">
-        <mark key="'" line="3" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1521239691592">
+        <mark key="'" line="2" column="6" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="3" column="14" />
@@ -2690,12 +2690,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1521239535867">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/lot.ts" timestamp="1490143604358">
         <mark key="[" line="0" column="50" />
@@ -3132,7 +3132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.module.ts" />
       <jump line="15" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="8" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="10" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
@@ -3232,16 +3231,17 @@
       <jump line="1455" column="26" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="3" column="849" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" />
       <jump line="106" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eyJpdiI6IitLUE9pMVFwSVY3ZStSS1FWN0RnQVE9PSIsInZhbHVlIjoibFJiVVM0bFR6d3Y1Q0U0NUpxbzl2dz09IiwibWFjIjoiN2Y1ZTg5NGE0NWQ5M2M2ZDg0ZjJjMmM1NzM3ZTY4MTg2YTM1MDkxN2EyODNjNjg0MjQ0ZWE0NWRmNTdmNjlkMyJ9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eyJpdiI6IitLUE9pMVFwSVY3ZStSS1FWN0RnQVE9PSIsInZhbHVlIjoibFJiVVM0bFR6d3Y1Q0U0NUpxbzl2dz09IiwibWFjIjoiN2Y1ZTg5NGE0NWQ5M2M2ZDg0ZjJjMmM1NzM3ZTY4MTg2YTM1MDkxN2EyODNjNjg0MjQ0ZWE0NWRmNTdmNjlkMyJ9</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>deadline</text>
@@ -3250,31 +3250,31 @@
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGVudCI6ICJHb29nbGUgVGFnIE1hbmFnZXIgSUQiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJwYXJhZ3JhcGgiLAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAiY29udGVudCI6ICJHb29nbGUgVGFnIE1hbmFnZXIgSUQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJwYXJhZ3JhcGgiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoMyB7Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhLAogICAgICAgIHAgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBoMyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
