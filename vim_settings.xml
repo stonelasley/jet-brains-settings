@@ -1037,9 +1037,6 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/core/providers/local-db.service.ts" timestamp="1520786785023">
-        <mark key="'" line="80" column="11" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/directives/index.ts" timestamp="1489970382086">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="13" />
@@ -1237,6 +1234,12 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="91" column="31" />
         <mark key="^" line="91" column="31" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/theme/theme-variables.scss" timestamp="1521303980944">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/e2e/auth/login.e2e-spec.ts" timestamp="1488913263600">
         <mark key="'" line="21" column="8" />
@@ -2128,6 +2131,13 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.scss" timestamp="1521303666431">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/config/index.ts" timestamp="1492110688474">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="42" />
@@ -2957,6 +2967,12 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.html" timestamp="1521303880007">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" timestamp="1521130257561">
         <mark key="'" line="3" column="849" />
         <mark key="[" line="3" column="877" />
@@ -3171,7 +3187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="8" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="10" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
       <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
@@ -3271,31 +3286,32 @@
       <jump line="3" column="849" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" />
       <jump line="106" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEEyMDAsIEExMDAsIEE0MDA=</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEEyMDAsIEExMDAsIEE0MDA=</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>deadline</text>
+        <text>brand</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb2xvcjogbWF0LWNvbG9yKCRhcHAtcHJpbWFyeSwgImRlZmF1bHQtY29udHJhc3QiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">ICAgIDxhIGNsYXNzPSJicmFuZCIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL25neC1yb2NrZXQiIHRyYW5zbGF0ZT5BUFBfTkFNRTwvYT4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -3307,22 +3323,22 @@
         <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2xvcjogbWF0LWNvbG9yKCRhcHAtcHJpbWFyeSwgImRlZmF1bHQtY29udHJhc3QiKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmJyYW5kIHsK</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deadline</last-search>
+      <last-search>brand</last-search>
       <last-offset />
-      <last-pattern>deadline</last-pattern>
+      <last-pattern>brand</last-pattern>
       <last-replace>hubspot_newsletter_body</last-replace>
       <last-substitute>homepage_newsletter_body</last-substitute>
       <last-dir>1</last-dir>
@@ -3330,7 +3346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DBCONFIG</entry>
         <entry>import</entry>
         <entry>Com</entry>
         <entry>Sales</entry>
@@ -3350,6 +3365,7 @@
         <entry>this</entry>
         <entry>;</entry>
         <entry>US</entry>
+        <entry>brand</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lineItem/${SalesConstants.lineItemTable}/gc</entry>
@@ -3367,11 +3383,11 @@
         <entry>%s/CREDITS_COMPONENTS/CreditComponent/g</entry>
         <entry>%s/DBCONFIG/TABLES/g</entry>
         <entry>%s/import/export/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>%s/TABLES/SCHEMA/gc</entry>
         <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
