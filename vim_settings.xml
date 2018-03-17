@@ -768,6 +768,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1521322800052" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -846,7 +847,6 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/core/authentication/authentication.guard.ts" timestamp="1521316453134" />
       <file name="E:/Projects/Personal/blendtec/src/common/pages/tutorial/tutorial.ts" timestamp="1488670306708">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="47" column="14" />
@@ -1333,7 +1333,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/registration/registration.service.spec.ts" timestamp="1521315545807" />
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/inventory/models/index.ts" timestamp="1520048444036">
         <mark key="[" line="3" column="69" />
         <mark key="]" line="3" column="70" />
@@ -1771,7 +1770,6 @@
         <mark key="." line="12" column="62" />
         <mark key="^" line="12" column="62" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/login/login.module.ts" timestamp="1521314824990" />
       <file name="E:/Projects/Personal/blendtec/src/products/directives/index.ts" timestamp="1489709932022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3097,11 +3095,12 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.html" timestamp="1521303880007">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="19" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.html" timestamp="1521323163525">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" timestamp="1521130257561">
         <mark key="'" line="3" column="849" />
@@ -3116,7 +3115,6 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/registration/registration.component.spec.ts" timestamp="1521315561080" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/pages/purchase-order-list/purchase-order-list.ts" timestamp="1492118903557">
         <mark key="'" line="50" column="19" />
         <mark key="[" line="5" column="37" />
@@ -3324,7 +3322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="64" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
       <jump line="68" column="29" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" />
       <jump line="40" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
       <jump line="38" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
@@ -3424,46 +3421,47 @@
       <jump line="33" column="60" filename="P:/Projects/Blendtec/blendwizard/src/app/registration/registration.component.html" />
       <jump line="6" column="23" filename="P:/Projects/Blendtec/blendwizard/src/app/registration/registration-routing.module.ts" />
       <jump line="4" column="41" filename="P:/Projects/Blendtec/blendwizard/src/app/registration/registration-routing.module.ts" />
+      <jump line="17" column="14" filename="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text>info</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>regi</text>
+        <text>about</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgcGF0aDogJ3Byb2ZpbGVzJywgbG9hZENoaWxkcmVuOiAnYXBwL3Byb2ZpbGVzL3Byb2ZpbGUubW9kdWxlI1Byb2ZpbGVNb2R1bGUnIH0sCg==</text>
+        <text encoding="base64">ICAgICAgPG1hdC1pY29uPmluZm88L21hdC1pY29uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICA8YSBocmVmPSIiIAo=</text>
+        <text encoding="base64">ICAgICAgPG1hdC1pY29uPnZpZXdsaXN0PC9tYXQtaWNvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsgcGF0aDogJ3JlZ2lzdGVyJywgbG9hZENoaWxkcmVuOiAnYXBwL3JlZ2lzdHJhdGlvbi9yZWdpc3RyYXRpb24ubW9kdWxlI1JlZ2lzdHJhdGlvbk1vZHVsZScgfSwK</text>
+        <text encoding="base64">ICAgICAgIDxzcGFuIHRyYW5zbGF0ZT5Qcm9maWxlczwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtYXQtc2xpZGUtdG9nZ2xlIGNvbG9yPSJwcmltYXJ5IiBmb3JtQ29udHJvbE5hbWU9InJlbWVtYmVyIiB0cmFuc2xhdGU+UmVtZW1iZXIgbWU8L21hdC1zbGlkZS10b2dnbGU+Cg==</text>
+        <text encoding="base64">ICAgICA8YSBocmVmPSIiIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsgcGF0aDogJ3JlZ2lzdGVyJywgbG9hZENoaWxkcmVuOiAnYXBwL3JlZ2lzdHJhdGlvbi9yZWdpc3RyYXRpb24ubW9kdWxlI1JlZ2lzdHJhdGlvbk1vZHVsZScgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIDxtYXQtc2xpZGUtdG9nZ2xlIGNvbG9yPSJwcmltYXJ5IiBmb3JtQ29udHJvbE5hbWU9InJlbWVtYmVyIiB0cmFuc2xhdGU+UmVtZW1iZXIgbWU8L21hdC1zbGlkZS10b2dnbGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9naW5Sb3V0aW5nTW9kdWxlIH0gICAgZnJvbSAnQGFwcC9sb2dpbi9sb2dpbi1yb3V0aW5nLm1vZHVsZSc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5hbWUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dpbkZvcm06IEZvcm1Hcm91cDsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9naW5Sb3V0aW5nTW9kdWxlIH0gICAgZnJvbSAnQGFwcC9sb2dpbi9sb2dpbi1yb3V0aW5nLm1vZHVsZSc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3473,17 +3471,16 @@
       </register>
     </registers>
     <search>
-      <last-search>regi</last-search>
+      <last-search>about</last-search>
       <last-offset />
-      <last-pattern>regi</last-pattern>
+      <last-pattern>about</last-pattern>
       <last-replace>Registration</last-replace>
       <last-substitute>Login</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>About</entry>
         <entry>Service</entry>
         <entry>steps</entry>
@@ -3503,6 +3500,7 @@
         <entry>pass</entry>
         <entry>confir</entry>
         <entry>regi</entry>
+        <entry>about</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SCAN_COMPONENTS/ScannerComponent/g</entry>
