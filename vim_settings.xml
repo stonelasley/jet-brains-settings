@@ -97,6 +97,13 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="14" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/cycle.model.ts" timestamp="1521307942793">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/index.ts" timestamp="1489713690067">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="5" column="17" />
@@ -134,6 +141,13 @@
         <mark key="]" line="42" column="2" />
         <mark key="^" line="42" column="2" />
         <mark key="." line="42" column="2" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/assets/profiles.json" timestamp="1521309739229">
+        <mark key="'" line="422" column="10" />
+        <mark key="[" line="632" column="10" />
+        <mark key="]" line="632" column="11" />
+        <mark key="^" line="696" column="40" />
+        <mark key="." line="632" column="11" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1491858497332">
         <mark key="'" line="175" column="45" />
@@ -233,6 +247,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/index.ts" timestamp="1521305608352">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.ts" timestamp="1491505949687">
         <mark key="[" line="4" column="0" />
@@ -411,6 +431,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/cycle.interface.ts" timestamp="1521307625698">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/providers/sales-order.service.ts" timestamp="1492186339283">
         <mark key="'" line="20" column="16" />
@@ -752,7 +778,6 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1521299018151" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -973,6 +998,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" timestamp="1521307693154">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/documents.ts" timestamp="1491517694690">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="15" />
@@ -998,6 +1029,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/step.model.ts" timestamp="1521305201570">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/index.ts" timestamp="1492132656121">
         <mark key="[" line="2" column="15" />
@@ -1135,6 +1172,12 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.html" timestamp="1521312830256">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="44" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipes.ts" timestamp="1488672216478">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="4" column="0" />
@@ -1222,12 +1265,30 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.ts" timestamp="1521312610474">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-routing.module.ts" timestamp="1521312149510">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" timestamp="1520740983497">
         <mark key="'" line="30" column="30" />
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.component.ts" timestamp="1521311506346">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519853353740">
         <mark key="[" line="90" column="0" />
@@ -1418,6 +1479,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/tslint.json" timestamp="1521305531661">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+      </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/services/auth.service.ts" timestamp="1519688832505">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="3" column="62" />
@@ -1430,6 +1497,12 @@
         <mark key="]" line="24" column="33" />
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/profile.interface.ts" timestamp="1521307754882">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order.model.ts" timestamp="1492118888046">
         <mark key="'" line="0" column="0" />
@@ -1705,6 +1778,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/registration/registration.service.ts" timestamp="1521313565398">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order-line.model.spec.ts" timestamp="1489532633599">
         <mark key="'" line="42" column="33" />
         <mark key="[" line="38" column="25" />
@@ -1724,6 +1802,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="23" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profiles.json" timestamp="1521307271227">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pipes/index.ts" timestamp="1489887921854">
         <mark key="[" line="11" column="16" />
@@ -2036,6 +2121,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/step.interface.ts" timestamp="1521307810089">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/pick-history-edit-tab/pick-history-edit-tab.spec.ts" timestamp="1491505854403">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="11" column="0" />
@@ -2254,6 +2345,13 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.ts" timestamp="1521312488522">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/api.service.ts" timestamp="1489537496883">
         <mark key="'" line="38" column="109" />
         <mark key="[" line="38" column="66" />
@@ -2433,12 +2531,26 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.html" timestamp="1521313151980">
+        <mark key="'" line="1" column="39" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/signup/signup.ts" timestamp="1488670742016">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="10" />
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/profile.model.ts" timestamp="1521307837525">
+        <mark key="'" line="0" column="53" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
@@ -2452,6 +2564,12 @@
         <mark key="]" line="167" column="52" />
         <mark key="." line="167" column="52" />
         <mark key="^" line="167" column="52" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/registration/models/registration.model.ts" timestamp="1521313640872">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/nav-params.mock.ts" timestamp="1491332802422">
         <mark key="'" line="4" column="49" />
@@ -2522,6 +2640,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.component.html" timestamp="1521312459936">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/warehouse.ts" timestamp="1488827909149">
         <mark key="'" line="9" column="0" />
@@ -3047,6 +3171,12 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/app-routing.module.ts" timestamp="1521312071573">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/sales.module.ts" timestamp="1492098123001">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="21" />
@@ -3187,21 +3317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
-      <jump line="10" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
-      <jump line="9" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.module.ts" />
-      <jump line="13" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
-      <jump line="10" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/index.ts" />
-      <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/index.ts" />
-      <jump line="37" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/index.ts" />
-      <jump line="12" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/index.ts" />
-      <jump line="18" column="28" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
-      <jump line="7" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
-      <jump line="42" column="23" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/db.config.ts" />
-      <jump line="60" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/providers/db.config.ts" />
-      <jump line="21" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
-      <jump line="53" column="43" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
       <jump line="30" column="30" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" />
       <jump line="75" column="60" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
       <jump line="59" column="24" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
@@ -3287,78 +3402,80 @@
       <jump line="106" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.scss" />
+      <jump line="0" column="53" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/profile.model.ts" />
+      <jump line="6" column="11" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" />
+      <jump line="13" column="0" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" />
+      <jump line="14" column="2" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" />
+      <jump line="33" column="6" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profiles.json" />
+      <jump line="5" column="9" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" />
+      <jump line="13" column="37" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/models/cycle.model.ts" />
+      <jump line="7" column="8" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.component.html" />
+      <jump line="37" column="6" filename="P:/Projects/Blendtec/blendwizard/src/assets/profiles.json" />
+      <jump line="65" column="15" filename="P:/Projects/Blendtec/blendwizard/src/assets/profiles.json" />
+      <jump line="236" column="6" filename="P:/Projects/Blendtec/blendwizard/src/assets/profiles.json" />
+      <jump line="480" column="10" filename="P:/Projects/Blendtec/blendwizard/src/assets/profiles.json" />
+      <jump line="20" column="2" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.component.ts" />
+      <jump line="8" column="0" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.ts" />
+      <jump line="20" column="39" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text>panelOpenState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
+        <text encoding="base64">ICB7CiAgICAiaWQiOiAyLAogICAgIm5hbWUiOiAiU21vb3RoaWUiLAogICAgImRlZmF1bHQiOiB0cnVlLAogICAgImN5Y2xlcyI6IFsKICAgICAgewogICAgICAgICJpZCI6IDEsCiAgICAgICAgIm5hbWUiOiAiU21hbGwgTWlsa3NoYWtlIiwKICAgICAgICAiZW5jbG9zdXJlU2FmZXR5TW9kZSI6IHRydWUsCiAgICAgICAgInNjcmVlblN0YW5kYnkiOiA1LAogICAgICAgICJjeWNsZVBhdXNlIjogdHJ1ZSwKICAgICAgICAic2xpZGVyTG9ja291dCI6IHRydWUsCiAgICAgICAgInNlY3VyZSI6IHRydWUsCiAgICAgICAgInN0ZXBzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAxLAogICAgICAgICAgICAiZHVyYXRpb24iOiAxLAogICAgICAgICAgICAic3BlZWQiOiAxLAogICAgICAgICAgICAiaW5kZXgiOiAwCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAyLAogICAgICAgICAgICAiZHVyYXRpb24iOiAyLAogICAgICAgICAgICAic3BlZWQiOiAyLAogICAgICAgICAgICAiaW5kZXgiOiAxCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAzLAogICAgICAgICAgICAiZHVyYXRpb24iOiA1LAogICAgICAgICAgICAic3BlZWQiOiAzLAogICAgICAgICAgICAiaW5kZXgiOiAyCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogMiwKICAgICAgICAibmFtZSI6ICJHcmFuaXRhL01lZGl1bSBNaWxrc2hha2UiLAogICAgICAgICJlbmNsb3N1cmVTYWZldHlNb2RlIjogdHJ1ZSwKICAgICAgICAic2NyZWVuU3RhbmRieSI6IDUsCiAgICAgICAgImN5Y2xlUGF1c2UiOiB0cnVlLAogICAgICAgICJzbGlkZXJMb2Nrb3V0IjogdHJ1ZSwKICAgICAgICAic2VjdXJlIjogdHJ1ZSwKICAgICAgICAic3RlcHMiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDEsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDEsCiAgICAgICAgICAgICJzcGVlZCI6IDEsCiAgICAgICAgICAgICJpbmRleCI6IDAKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDIsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDIsCiAgICAgICAgICAgICJzcGVlZCI6IDIsCiAgICAgICAgICAgICJpbmRleCI6IDEKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDMsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDUsCiAgICAgICAgICAgICJzcGVlZCI6IDMsCiAgICAgICAgICAgICJpbmRleCI6IDIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaWQiOiAzLAogICAgICAgICJuYW1lIjogIlNtIE1hcmdhcml0YS9JY2UgQ2FwcHVjY2lubyIsCiAgICAgICAgImVuY2xvc3VyZVNhZmV0eU1vZGUiOiB0cnVlLAogICAgICAgICJzY3JlZW5TdGFuZGJ5IjogNSwKICAgICAgICAiY3ljbGVQYXVzZSI6IHRydWUsCiAgICAgICAgInNsaWRlckxvY2tvdXQiOiB0cnVlLAogICAgICAgICJzZWN1cmUiOiB0cnVlLAogICAgICAgICJzdGVwcyI6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMSwKICAgICAgICAgICAgImR1cmF0aW9uIjogMSwKICAgICAgICAgICAgInNwZWVkIjogMSwKICAgICAgICAgICAgImluZGV4IjogMAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMiwKICAgICAgICAgICAgImR1cmF0aW9uIjogMiwKICAgICAgICAgICAgInNwZWVkIjogMiwKICAgICAgICAgICAgImluZGV4IjogMQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMywKICAgICAgICAgICAgImR1cmF0aW9uIjogNSwKICAgICAgICAgICAgInNwZWVkIjogMywKICAgICAgICAgICAgImluZGV4IjogMgogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSwKICAgICAgewogICAgICAgICJpZCI6IDQsCiAgICAgICAgIm5hbWUiOiAiTWVkaXVtIFNtb290aGllIDQiLAogICAgICAgICJlbmNsb3N1cmVTYWZldHlNb2RlIjogdHJ1ZSwKICAgICAgICAic2NyZWVuU3RhbmRieSI6IDUsCiAgICAgICAgImN5Y2xlUGF1c2UiOiB0cnVlLAogICAgICAgICJzbGlkZXJMb2Nrb3V0IjogdHJ1ZSwKICAgICAgICAic2VjdXJlIjogdHJ1ZSwKICAgICAgICAic3RlcHMiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDEsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDEsCiAgICAgICAgICAgICJzcGVlZCI6IDEsCiAgICAgICAgICAgICJpbmRleCI6IDAKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDIsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDIsCiAgICAgICAgICAgICJzcGVlZCI6IDIsCiAgICAgICAgICAgICJpbmRleCI6IDEKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDMsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDUsCiAgICAgICAgICAgICJzcGVlZCI6IDMsCiAgICAgICAgICAgICJpbmRleCI6IDIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaWQiOiA1LAogICAgICAgICJuYW1lIjogIkxhcmdlIFNtb290aGllIDQiLAogICAgICAgICJlbmNsb3N1cmVTYWZldHlNb2RlIjogdHJ1ZSwKICAgICAgICAic2NyZWVuU3RhbmRieSI6IDUsCiAgICAgICAgImN5Y2xlUGF1c2UiOiB0cnVlLAogICAgICAgICJzbGlkZXJMb2Nrb3V0IjogdHJ1ZSwKICAgICAgICAic2VjdXJlIjogdHJ1ZSwKICAgICAgICAic3RlcHMiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDEsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDEsCiAgICAgICAgICAgICJzcGVlZCI6IDEsCiAgICAgICAgICAgICJpbmRleCI6IDAKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDIsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDIsCiAgICAgICAgICAgICJzcGVlZCI6IDIsCiAgICAgICAgICAgICJpbmRleCI6IDEKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6IDMsCiAgICAgICAgICAgICJkdXJhdGlvbiI6IDUsCiAgICAgICAgICAgICJzcGVlZCI6IDMsCiAgICAgICAgICAgICJpbmRleCI6IDIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaWQiOiA2LAogICAgICAgICJuYW1lIjogIkxhcmdlIFNtb290aGllIiwKICAgICAgICAiZW5jbG9zdXJlU2FmZXR5TW9kZSI6IHRydWUsCiAgICAgICAgInNjcmVlblN0YW5kYnkiOiA1LAogICAgICAgICJjeWNsZVBhdXNlIjogdHJ1ZSwKICAgICAgICAic2xpZGVyTG9ja291dCI6IHRydWUsCiAgICAgICAgInNlY3VyZSI6IHRydWUsCiAgICAgICAgInN0ZXBzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAxLAogICAgICAgICAgICAiZHVyYXRpb24iOiAxLAogICAgICAgICAgICAic3BlZWQiOiAxLAogICAgICAgICAgICAiaW5kZXgiOiAwCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAyLAogICAgICAgICAgICAiZHVyYXRpb24iOiAyLAogICAgICAgICAgICAic3BlZWQiOiAyLAogICAgICAgICAgICAiaW5kZXgiOiAxCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAzLAogICAgICAgICAgICAiZHVyYXRpb24iOiA1LAogICAgICAgICAgICAic3BlZWQiOiAzLAogICAgICAgICAgICAiaW5kZXgiOiAyCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9LAogICAgICB7CiAgICAgICAgImlkIjogNywKICAgICAgICAibmFtZSI6ICI1MCBTZWNvbmRzIEAgU3BlZWQgNyIsCiAgICAgICAgImVuY2xvc3VyZVNhZmV0eU1vZGUiOiB0cnVlLAogICAgICAgICJzY3JlZW5TdGFuZGJ5IjogNSwKICAgICAgICAiY3ljbGVQYXVzZSI6IHRydWUsCiAgICAgICAgInNsaWRlckxvY2tvdXQiOiB0cnVlLAogICAgICAgICJzZWN1cmUiOiB0cnVlLAogICAgICAgICJzdGVwcyI6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMSwKICAgICAgICAgICAgImR1cmF0aW9uIjogMSwKICAgICAgICAgICAgInNwZWVkIjogMSwKICAgICAgICAgICAgImluZGV4IjogMAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMiwKICAgICAgICAgICAgImR1cmF0aW9uIjogMiwKICAgICAgICAgICAgInNwZWVkIjogMiwKICAgICAgICAgICAgImluZGV4IjogMQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImlkIjogMywKICAgICAgICAgICAgImR1cmF0aW9uIjogNSwKICAgICAgICAgICAgInNwZWVkIjogMywKICAgICAgICAgICAgImluZGV4IjogMgogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSwKICAgICAgewogICAgICAgICJpZCI6IDEsCiAgICAgICAgIm5hbWUiOiAiUHVsc2UgQCBTcGVlZCA3IiwKICAgICAgICAiZW5jbG9zdXJlU2FmZXR5TW9kZSI6IHRydWUsCiAgICAgICAgInNjcmVlblN0YW5kYnkiOiA1LAogICAgICAgICJjeWNsZVBhdXNlIjogdHJ1ZSwKICAgICAgICAic2xpZGVyTG9ja291dCI6IHRydWUsCiAgICAgICAgInNlY3VyZSI6IHRydWUsCiAgICAgICAgInN0ZXBzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAxLAogICAgICAgICAgICAiZHVyYXRpb24iOiAxLAogICAgICAgICAgICAic3BlZWQiOiAxLAogICAgICAgICAgICAiaW5kZXgiOiAwCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAyLAogICAgICAgICAgICAiZHVyYXRpb24iOiAyLAogICAgICAgICAgICAic3BlZWQiOiAyLAogICAgICAgICAgICAiaW5kZXgiOiAxCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaWQiOiAzLAogICAgICAgICAgICAiZHVyYXRpb24iOiA1LAogICAgICAgICAgICAic3BlZWQiOiAzLAogICAgICAgICAgICAiaW5kZXgiOiAyCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICByZWdpc3RlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogbWF0LWNvbG9yKCRhcHAtcHJpbWFyeSwgImRlZmF1bHQtY29udHJhc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICBDdXJyZW50bHkgSSBhbSB7e2lzT3BlbiA/ICdvcGVuJyA6ICdjbG9zZWQnfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhIGNsYXNzPSJicmFuZCIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL25neC1yb2NrZXQiIHRyYW5zbGF0ZT5BUFBfTkFNRTwvYT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICA8bWF0LWV4cGFuc2lvbi1wYW5lbD4KICAgIDxtYXQtZXhwYW5zaW9uLXBhbmVsLWhlYWRlcj4KICAgICAgPG1hdC1wYW5lbC10aXRsZT4KICAgICAgICBOYW1lOiB7e3Byb2ZpbGUubmFtZX19CiAgICAgIDwvbWF0LXBhbmVsLXRpdGxlPgogICAgICA8bWF0LXBhbmVsLWRlc2NyaXB0aW9uPgogICAgICAgIFR5cGUgeW91ciBuYW1lIGFuZCBhZ2UKICAgICAgPC9tYXQtcGFuZWwtZGVzY3JpcHRpb24+CiAgICA8L21hdC1leHBhbnNpb24tcGFuZWwtaGVhZGVyPgoKICAgIDxtYXQtZm9ybS1maWVsZD4KICAgICAgPGlucHV0IG1hdElucHV0IHBsYWNlaG9sZGVyPSJGaXJzdCBuYW1lIj4KICAgIDwvbWF0LWZvcm0tZmllbGQ+CgogICAgPG1hdC1mb3JtLWZpZWxkPgogICAgICA8aW5wdXQgbWF0SW5wdXQgcGxhY2Vob2xkZXI9IkFnZSI+CiAgICA8L21hdC1mb3JtLWZpZWxkPgogIDwvbWF0LWV4cGFuc2lvbi1wYW5lbD4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">ICAgIDwvbWF0LWFjY29yZGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtYXQtYWNjb3JkaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBQZXJzb25hbCBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search>panelOpenState</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
-      <last-replace>hubspot_newsletter_body</last-replace>
-      <last-substitute>homepage_newsletter_body</last-substitute>
+      <last-pattern>panelOpenState</last-pattern>
+      <last-replace>isOpen</last-replace>
+      <last-substitute>panelOpenState</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>Com</entry>
-        <entry>Sales</entry>
-        <entry>DbConf</entry>
-        <entry>TA</entry>
-        <entry>TABLES</entry>
-        <entry>_db</entry>
-        <entry>_</entry>
-        <entry>:</entry>
-        <entry>(</entry>
-        <entry>dropAndCreate</entry>
-        <entry>U</entry>
-        <entry>User</entry>
         <entry>onLog</entry>
         <entry encoding="base64">XCBcIFwgXCA=</entry>
         <entry>)</entry>
@@ -3366,10 +3483,21 @@
         <entry>;</entry>
         <entry>US</entry>
         <entry>brand</entry>
+        <entry>&quot;</entry>
+        <entry>(</entry>
+        <entry>0</entry>
+        <entry>About</entry>
+        <entry>Service</entry>
+        <entry>Pro</entry>
+        <entry>steps</entry>
+        <entry>i</entry>
+        <entry>Sm</entry>
+        <entry>Small</entry>
+        <entry>50</entry>
+        <entry>imp</entry>
+        <entry>panelOpenState</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/lineItem/${SalesConstants.lineItemTable}/gc</entry>
-        <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItemTable/salesLineTable/gc</entry>
         <entry>%s/customers/${SalesConstants.customerTable}/gc</entry>
         <entry>%s/SCAN_COMPONENTS/ScannerComponent/g</entry>
@@ -3383,11 +3511,13 @@
         <entry>%s/CREDITS_COMPONENTS/CreditComponent/g</entry>
         <entry>%s/DBCONFIG/TABLES/g</entry>
         <entry>%s/import/export/g</entry>
-        <entry>wq</entry>
         <entry>%s/TABLES/SCHEMA/gc</entry>
         <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
+        <entry>%s/panelOpenState/isOpen/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
