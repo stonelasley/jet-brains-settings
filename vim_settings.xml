@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
+      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipe-categories.ts" timestamp="1488672177398">
@@ -147,6 +147,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="35" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/translations/fr-FR.json" timestamp="1521300215076">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/directives/bt-button.component.ts" timestamp="1489882144199">
         <mark key="'" line="1" column="0" />
@@ -401,6 +406,12 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/app/core/shell/header/header.component.html" timestamp="1521300734744">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/providers/sales-order.service.ts" timestamp="1492186339283">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="135" column="40" />
@@ -616,9 +627,6 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520743222964">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
         <mark key="'" line="21" column="55" />
         <mark key="[" line="36" column="25" />
@@ -744,6 +752,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1521299018151" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1166,8 +1175,8 @@
         <mark key="'" line="1156" column="20" />
         <mark key="[" line="1532" column="17" />
         <mark key="]" line="1532" column="17" />
-        <mark key="." line="1532" column="17" />
         <mark key="^" line="1531" column="37" />
+        <mark key="." line="1532" column="17" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/fb-pricing.db.config.ts" timestamp="1492127811100">
         <mark key="[" line="0" column="13" />
@@ -1249,6 +1258,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/app/core/shell/header/header.component.scss" timestamp="1521300870039">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/models/api-entity.spec.ts" timestamp="1488666144612">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="0" column="41" />
@@ -1321,6 +1336,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="18" column="85" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1519854809773">
+        <mark key="[" line="199" column="10" />
+        <mark key="]" line="199" column="13" />
+        <mark key="." line="199" column="13" />
+        <mark key="^" line="199" column="13" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/tsconfig.json" timestamp="1519763182299">
         <mark key="'" line="8" column="34" />
@@ -1628,7 +1649,6 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" timestamp="1521058376380" />
       <file name="E:/Projects/Personal/blendtec/src/app/app.component.ts" timestamp="1489970965020">
         <mark key="'" line="102" column="33" />
         <mark key="[" line="30" column="0" />
@@ -1942,6 +1962,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/translations/en-US.json" timestamp="1521300220715">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/dto/create-expense-report.dto.ts" timestamp="1519689077828">
         <mark key="[" line="2" column="87" />
@@ -2308,6 +2334,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/theme/theme-variables.scss" timestamp="1521301318365">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/config/sales.constants.ts" timestamp="1520633872619">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="1" column="0" />
@@ -2378,6 +2410,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="26" column="39" />
+      </file>
+      <file name="P:/Projects/Blendtec/blend-wizard/src/index.html" timestamp="1521300153340">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/index.ts" timestamp="1519762410258">
         <mark key="[" line="0" column="0" />
@@ -2729,6 +2767,7 @@
         <mark key="[" line="1552" column="15" />
         <mark key="]" line="1552" column="16" />
         <mark key="." line="1552" column="16" />
+        <mark key="^" line="7820" column="0" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/events.mock.ts" timestamp="1491334659158">
         <mark key="[" line="4" column="69" />
@@ -3234,14 +3273,14 @@
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEEyMDAsIEExMDAsIEE0MDA=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">IEEyMDAsIEExMDAsIEE0MDA=</text>
       </register>
       <register name="/" type="4">
         <text>deadline</text>
@@ -3250,31 +3289,31 @@
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGVudCI6ICJHb29nbGUgVGFnIE1hbmFnZXIgSUQiCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJwYXJhZ3JhcGgiLAo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogbWF0LWNvbG9yKCRhcHAtcHJpbWFyeSwgImRlZmF1bHQtY29udHJhc3QiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoMyB7Cg==</text>
+        <text encoding="base64">LmJyYW5kIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3291,28 +3330,29 @@
     </search>
     <history>
       <history-search>
-        <entry>HEAD</entry>
-        <entry>homepage_newsletter_body</entry>
-        <entry>A</entry>
-        <entry>contact-form</entry>
-        <entry>form</entry>
-        <entry>copy</entry>
-        <entry>div</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry>&quot;</entry>
-        <entry>attribution</entry>
-        <entry>footer-container</entry>
-        <entry>header</entry>
-        <entry>footer</entry>
-        <entry>typo</entry>
-        <entry>Typography</entry>
-        <entry>font-size</entry>
-        <entry>small</entry>
-        <entry>p</entry>
-        <entry>dead</entry>
-        <entry>deadline</entry>
+        <entry>DBCONFIG</entry>
+        <entry>import</entry>
+        <entry>Com</entry>
+        <entry>Sales</entry>
+        <entry>DbConf</entry>
+        <entry>TA</entry>
+        <entry>TABLES</entry>
+        <entry>_db</entry>
+        <entry>_</entry>
+        <entry>:</entry>
+        <entry>(</entry>
+        <entry>dropAndCreate</entry>
+        <entry>U</entry>
+        <entry>User</entry>
+        <entry>onLog</entry>
+        <entry encoding="base64">XCBcIFwgXCA=</entry>
+        <entry>)</entry>
+        <entry>this</entry>
+        <entry>;</entry>
+        <entry>US</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/lineItem/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItemTable/salesLineTable/gc</entry>
         <entry>%s/customers/${SalesConstants.customerTable}/gc</entry>
@@ -3327,12 +3367,11 @@
         <entry>%s/CREDITS_COMPONENTS/CreditComponent/g</entry>
         <entry>%s/DBCONFIG/TABLES/g</entry>
         <entry>%s/import/export/g</entry>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>%s/TABLES/SCHEMA/gc</entry>
         <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
-        <entry>%s/homepage_newsletter_body/hubspot_newsletter_body/gc</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
