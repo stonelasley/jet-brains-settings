@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -615,9 +615,6 @@
         <mark key="]" line="86" column="18" />
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520743222964">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
         <mark key="'" line="21" column="55" />
@@ -2545,11 +2542,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1519752826593">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1521496184755">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/item-list/item-list.spec.ts" timestamp="1491506143960">
         <mark key="'" line="80" column="0" />
@@ -2830,6 +2827,7 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/scripts/dist.sh" timestamp="1521496165052" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/components/index.ts" timestamp="1491928534105">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="5" column="0" />
@@ -3241,13 +3239,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cG9ydCA=</text>
+        <text>$</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9ydCA=</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>deadline</text>
@@ -3256,34 +3254,34 @@
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB6aXBfZmlsZToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlY3VyZTogIkVuY3lwdGVkIDxzZWNyZXQtYWNjZXNzLWtleT49Igo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGVudCI6ICJHb29nbGUgVGFnIE1hbmFnZXIgSUQiCg==</text>
+        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJwYXJhZ3JhcGgiLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29udGVudCI6ICJHb29nbGUgVGFnIE1hbmFnZXIgSUQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoMyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJwYXJhZ3JhcGgiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3319,7 +3317,6 @@
         <entry>deadline</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/lineItems/${SalesConstants.lineItemTable}/gc</entry>
         <entry>%s/lineItemTable/salesLineTable/gc</entry>
         <entry>%s/customers/${SalesConstants.customerTable}/gc</entry>
         <entry>%s/SCAN_COMPONENTS/ScannerComponent/g</entry>
@@ -3333,12 +3330,13 @@
         <entry>%s/CREDITS_COMPONENTS/CreditComponent/g</entry>
         <entry>%s/DBCONFIG/TABLES/g</entry>
         <entry>%s/import/export/g</entry>
-        <entry>wq</entry>
         <entry>%s/TABLES/SCHEMA/gc</entry>
         <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
         <entry>%s/homepage_newsletter_body/hubspot_newsletter_body/gc</entry>
         <entry>w</entry>
+        <entry>we</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
