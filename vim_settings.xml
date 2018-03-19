@@ -1578,7 +1578,7 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1521487243722">
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1521498209259">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2542,11 +2542,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1521497241655">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="8" />
+      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1521497688436">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/item-list/item-list.spec.ts" timestamp="1491506143960">
         <mark key="'" line="80" column="0" />
@@ -2693,12 +2693,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1521239535867">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1521499078745">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/lot.ts" timestamp="1490143604358">
         <mark key="[" line="0" column="50" />
@@ -2739,11 +2739,10 @@
         <mark key="." line="4" column="82" />
         <mark key="^" line="4" column="82" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env-default" timestamp="1519418720528">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env-default" timestamp="1521498220835">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-gtin-handler.service.spec.ts" timestamp="1491931244963">
         <mark key="[" line="5" column="63" />
@@ -3136,7 +3135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="8" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="10" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
       <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
@@ -3236,16 +3234,17 @@
       <jump line="3" column="849" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/deadline-funnel.liquid" />
       <jump line="106" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
+      <jump line="31" column="23" filename="P:/Projects/Blendtec/transit-api/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.11.5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.11.5</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>deadline</text>
@@ -3254,31 +3253,31 @@
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSAnOCcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBzdGFibGUK</text>
+        <text encoding="base64">LSAnOCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LSBzdGFibGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB6aXBfZmlsZToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlY3VyZTogIkVuY3lwdGVkIDxzZWNyZXQtYWNjZXNzLWtleT49Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB6aXBfZmlsZToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlY3VyZTogIkVuY3lwdGVkIDxzZWNyZXQtYWNjZXNzLWtleT49Igo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
