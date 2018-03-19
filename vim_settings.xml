@@ -586,6 +586,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/assets/profile.json" timestamp="1521417341667">
+        <mark key="[" line="209" column="3" />
+        <mark key="]" line="209" column="3" />
+        <mark key="." line="209" column="3" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -989,11 +994,10 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" timestamp="1521314330878">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="63" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="14" column="24" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" timestamp="1521418512873">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/documents.ts" timestamp="1491517694690">
         <mark key="[" line="4" column="4" />
@@ -1163,11 +1167,11 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.html" timestamp="1521336771512">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="44" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.html" timestamp="1521418870502">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="P:/Projects/Blendtec/blendwizard/src/app/login/login.component.ts" timestamp="1521316467224">
         <mark key="'" line="35" column="3" />
@@ -1275,11 +1279,12 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-routing.module.ts" timestamp="1521339188591">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-routing.module.ts" timestamp="1521418683089">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/credits.component.ts" timestamp="1520740983497">
         <mark key="'" line="30" column="30" />
@@ -1385,6 +1390,12 @@
         <mark key="]" line="51" column="18" />
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-detail/profile-detail.component.ts" timestamp="1521418593979">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1519688992937">
         <mark key="[" line="1" column="45" />
@@ -2527,11 +2538,11 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.html" timestamp="1521338424713">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="8" column="60" />
-        <mark key="." line="8" column="60" />
-        <mark key="^" line="8" column="60" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.html" timestamp="1521418726128">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="56" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/signup/signup.ts" timestamp="1488670742016">
         <mark key="'" line="33" column="15" />
@@ -2546,6 +2557,13 @@
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/profiles/resolvers/profile-detail.resolver.ts" timestamp="1521418494525">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
@@ -3181,11 +3199,12 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
-      <file name="P:/Projects/Blendtec/blendwizard/src/app/app-routing.module.ts" timestamp="1521316147697">
-        <mark key="[" line="14" column="80" />
-        <mark key="]" line="14" column="79" />
-        <mark key="." line="14" column="79" />
-        <mark key="^" line="14" column="79" />
+      <file name="P:/Projects/Blendtec/blendwizard/src/app/app-routing.module.ts" timestamp="1521418318571">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="7" column="81" />
+        <mark key="]" line="7" column="102" />
+        <mark key="." line="7" column="102" />
+        <mark key="^" line="7" column="102" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/sales.module.ts" timestamp="1492098123001">
         <mark key="[" line="20" column="18" />
@@ -3327,13 +3346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="38" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="39" column="16" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="47" column="20" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" />
-      <jump line="6317" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="72" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="31" column="15" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/hubspot-newsletter.liquid" />
       <jump line="9269" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="9273" column="1" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="9264" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
@@ -3427,76 +3439,706 @@
       <jump line="4" column="41" filename="P:/Projects/Blendtec/blendwizard/src/app/registration/registration-routing.module.ts" />
       <jump line="17" column="14" filename="P:/Projects/Blendtec/blendwizard/src/app/core/shell/header/header.component.html" />
       <jump line="3" column="18" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.html" />
+      <jump line="14" column="2" filename="P:/Projects/Blendtec/blendwizard/src/app/app-routing.module.ts" />
+      <jump line="10" column="3" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-routing.module.ts" />
+      <jump line="11" column="3" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/profile-routing.module.ts" />
+      <jump line="8" column="0" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/resolvers/profile-detail.resolver.ts" />
+      <jump line="16" column="4" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/resolvers/profile-detail.resolver.ts" />
+      <jump line="211" column="3" filename="P:/Projects/Blendtec/blendwizard/src/assets/profile.json" />
+      <jump line="17" column="8" filename="P:/Projects/Blendtec/blendwizard/src/app/profiles/resolvers/profile-detail.resolver.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+      <register name="&quot;" type="4">
+        <text>download()</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5wcm9maWxlJCA9IA==</text>
+        <text>download()</text>
       </register>
       <register name="/" type="4">
-        <text>about</text>
+        <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICcnLCBjb21wb25lbnQ6IFByb2ZpbGVDb21wb25lbnQsIGRhdGE6IHsgdGl0bGU6IGV4dHJhY3QoJ1Byb2ZpbGUnKSB9IH0sCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHBhdGg6ICc6aWQnLAogICAgICAgIGNvbXBvbmVudDogUHJvZmlsZURldGFpbENvbXBvbmVudCwKICAgICAgICAvLyByZXNvbHZlOiB7CiAgICAgICAgLy8gICBwcm9maWxlOiBQcm9maWxlRGV0YWlsUmVzb2x2ZXIKICAgICAgICAvLyB9CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJRCcsIGlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiB0cmFuc2xhdGU+SG9tZTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvZmlsZUVkaXRDb21wb25lbnQgfSAgIGZyb20gJ0BhcHAvcHJvZmlsZXMvcHJvZmlsZS1lZGl0L3Byb2ZpbGUtZWRpdC5jb21wb25lbnQnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPG1hdC1pY29uPmhvbWU8L21hdC1pY29uPgo=</text>
+      <register name="5" type="4">
+        <text>,
+  {
+    &quot;id&quot;: 2,
+    &quot;name&quot;: &quot;Smoothie&quot;,
+    &quot;default&quot;: true,
+    &quot;cycles&quot;: [
+      {
+        &quot;id&quot;: 1,
+        &quot;name&quot;: &quot;Small Smoothie w/ Fresh Fruit&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 2,
+        &quot;name&quot;: &quot;Medium Smoothie 4&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 3,
+        &quot;name&quot;: &quot;Granita/Medium Milkshake&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 4,
+        &quot;name&quot;: &quot;Medium Smoothie 3&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 5,
+        &quot;name&quot;: &quot;Large Smoothie 4&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 6,
+        &quot;name&quot;: &quot;50 Seconds @ Speed 7&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 1,
+        &quot;name&quot;: &quot;Pulse @ Speed 7&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    &quot;id&quot;: 3,
+    &quot;name&quot;: &quot;Coffee&quot;,
+    &quot;default&quot;: true,
+    &quot;cycles&quot;: [
+      {
+        &quot;id&quot;: 1,
+        &quot;name&quot;: &quot;Sm Margarita/Ice Cappuccino&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 2,
+        &quot;name&quot;: &quot;Large Ice Cappuccino&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 3,
+        &quot;name&quot;: &quot;Small Slushy/Milkshake&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 4,
+        &quot;name&quot;: &quot;Granita/Medium Milkshake&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 5,
+        &quot;name&quot;: &quot;Large Smoothie 2&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 6,
+        &quot;name&quot;: &quot;50 Seconds @ Speed 7&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 7,
+        &quot;name&quot;: &quot;Pulse @ Speed 7&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    &quot;id&quot;: 4,
+    &quot;name&quot;: &quot;Milkshake&quot;,
+    &quot;default&quot;: true,
+    &quot;cycles&quot;: [
+      {
+        &quot;id&quot;: 1,
+        &quot;name&quot;: &quot;Small Milkshake&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 2,
+        &quot;name&quot;: &quot;Granita/Medium Milkshake&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 3,
+        &quot;name&quot;: &quot;Milkshake w/Frozen Fruit&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 4,
+        &quot;name&quot;: &quot;Large Milkshake 1&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 5,
+        &quot;name&quot;: &quot;Large Milkshake 2&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 6,
+        &quot;name&quot;: &quot;Large Milkshake 3&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: 7,
+        &quot;name&quot;: &quot;Pulse @ Speed 7&quot;,
+        &quot;enclosureSafetyMode&quot;: true,
+        &quot;screenStandby&quot;: 5,
+        &quot;cyclePause&quot;: true,
+        &quot;sliderLockout&quot;: true,
+        &quot;secure&quot;: true,
+        &quot;steps&quot;: [
+          {
+            &quot;id&quot;: 1,
+            &quot;duration&quot;: 1,
+            &quot;speed&quot;: 1,
+            &quot;index&quot;: 0
+          },
+          {
+            &quot;id&quot;: 2,
+            &quot;duration&quot;: 2,
+            &quot;speed&quot;: 2,
+            &quot;index&quot;: 1
+          },
+          {
+            &quot;id&quot;: 3,
+            &quot;duration&quot;: 5,
+            &quot;speed&quot;: 3,
+            &quot;index&quot;: 2
+          }
+        ]
+      }
+    ]
+  }
+]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPG1hdC1pY29uPmVkaXQ8L21hdC1pY29uPgo=</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L21hdC1ncmlkLWxpc3Q+Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPG1hdC1pY29uPmZpbGVfZG93bmxvYWQ8L21hdC1pY29uPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvZmlsZSwgUHJvZmlsZVNlcnZpY2UgfSAgZnJvbSAnLi9wcm9maWxlLnNlcnZpY2UnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPG1hdC1pY29uPmVkaXQ8L21hdC1pY29uPgo=</text>
+        <text encoding="base64">ICB7cGF0aDogJy9lZGl0LzppZCcsIGNvbXBvbmVudDogUHJvZmlsZUVkaXRDb21wb25lbnR9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>about</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>about</last-pattern>
-      <last-replace>Registration</last-replace>
-      <last-substitute>Login</last-substitute>
+      <last-pattern>=</last-pattern>
+      <last-replace>profileService</last-replace>
+      <last-substitute>cs</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>About</entry>
-        <entry>Service</entry>
-        <entry>steps</entry>
-        <entry>i</entry>
-        <entry>Sm</entry>
-        <entry>Small</entry>
-        <entry>50</entry>
         <entry>imp</entry>
         <entry>panelOpenState</entry>
         <entry>Pro</entry>
-        <entry>)</entry>
         <entry>loginForm</entry>
         <entry>Login</entry>
         <entry>login</entry>
@@ -3506,11 +4148,16 @@
         <entry>confir</entry>
         <entry>regi</entry>
         <entry>about</entry>
+        <entry>}</entry>
+        <entry>,</entry>
+        <entry>)</entry>
+        <entry>Crisis</entry>
+        <entry>crisis</entry>
+        <entry>cs</entry>
+        <entry>P</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/SCAN_COMPONENTS/ScannerComponent/g</entry>
-        <entry>%s/;/,/gc</entry>
-        <entry>%s/SalesConstants/config/gc</entry>
         <entry>%s/config/this.config/gc</entry>
         <entry>%s/SalesConstants/this.config/gc</entry>
         <entry>%s/SalesConstants/this._config/gc</entry>
@@ -3525,9 +4172,12 @@
         <entry>%s/panelOpenState/isOpen/g</entry>
         <entry>%s/loginForm/registrationForm/g</entry>
         <entry>%s/Login/Registration/g</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/Crisis/Profile/g</entry>
+        <entry>%s/crisis/profile/g</entry>
+        <entry>%s/cs/profileService/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
