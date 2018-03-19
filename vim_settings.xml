@@ -1003,6 +1003,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1521491768931">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/providers/index.ts" timestamp="1489883827023">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -3234,14 +3240,14 @@
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG9ydCA=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">cG9ydCA=</text>
       </register>
       <register name="/" type="4">
         <text>deadline</text>
