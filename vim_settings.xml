@@ -1165,12 +1165,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521514159485">
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521516734554">
         <mark key="'" line="24" column="15" />
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="P:/Projects/Freshbyte/fb-pricing/tsconfig.json" timestamp="1516511897194">
         <mark key="[" line="3" column="21" />
@@ -1256,12 +1256,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/utils/eb-package.sh" timestamp="1520125273938">
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/utils/eb-package.sh" timestamp="1521516608381">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.html" timestamp="1491932172194">
         <mark key="[" line="23" column="25" />
@@ -3047,13 +3047,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stage</text>
+        <text>package</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>stage</text>
+        <text>package</text>
       </register>
       <register name="/" type="4">
         <text>REG</text>
@@ -3062,34 +3062,34 @@
         <text encoding="base64">ZGVwbG95OgogIHNraXBfY2xlYW51cDogdHJ1ZQogIHByb3ZpZGVyOiBlbGFzdGljYmVhbnN0YWxrCiAgYWNjZXNzX2tleV9pZDogJEtFWQogIHNlY3JldF9hY2Nlc3Nfa2V5OiAkU0VDUkVUCiAgcmVnaW9uOiAkUkVHSU9OCiAgYXBwOiAkQVBQCiAgZW52OiAkRU5WSVJPTk1FTlQKICBidWNrZXRfbmFtZTogJEJVQ0tFVAogIHppcF9maWxlOiAuL2Rpc3QvJG5wbV9wYWNrYWdlX25hbWUuemlwCm9uOgogIGJyYW5jaDogc3RhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIC4vdXRpbHMvZWItcGFja2FnZS5zaAo=</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
+        <text encoding="base64">ICAtIC4vdXRpbHMvZWItcGFja2FnZS5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiAkQVdTX0tFWQo=</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWNyZXRfYWNjZXNzX2tleTogJEFXU19TRUNSRVQK</text>
+        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZWdpb246ICRBV1NfUkVHSU9OCg==</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHA6ICRFQl9BUFAK</text>
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiAkQVdTX0tFWQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/blender1/collection1/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3137,7 +3137,6 @@
         <entry>%s/section2_linktext/cta_text/gc</entry>
         <entry>%s/section2_link/cta_link/gc</entry>
         <entry>blender2_title</entry>
-        <entry>w</entry>
         <entry>%s/section4_headine/header/gc</entry>
         <entry>%s/section4_headline/header</entry>
         <entry>%s/section4_text/body/gc</entry>
@@ -3145,6 +3144,7 @@
         <entry>%s/section4_link/cta_url/gc</entry>
         <entry>%s/section4_link_text/cta_text/gc</entry>
         <entry>%s/blender1/collection1/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
