@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
     </globalmarks>
@@ -1165,6 +1165,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521512470136">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+      </file>
       <file name="P:/Projects/Freshbyte/fb-pricing/tsconfig.json" timestamp="1516511897194">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="24" />
@@ -1422,10 +1428,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1520125176356">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521511786514">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="16" column="82" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" timestamp="1492536912476">
         <mark key="'" line="38" column="30" />
@@ -3038,47 +3045,47 @@
       <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REJfSE9TVD1AYXhwZW5zZS1zaGFyZC0wMC0wMC1oMXVkcS5tb25nb2RiLm5ldDoyNzAxNyxheHBlbnNlLXNoYXJkLTAwLTAxLWgxdWRxLm1vbmdvZGIubmV0OjI3MDE3LGF4cGVuc2Utc2hhcmQtMDAtMDItaDF1ZHEubW9uZ29kYi5uZXQ6MjcwMTcvdGVzdD9zc2w9dHJ1ZSZyZXBsaWNhU2V0PUF4cGVuc2Utc2hhcmQtMCZhdXRoU291cmNlPQo=</text>
+      <register name="&quot;" type="4">
+        <text>dist</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+        <text>dist</text>
       </register>
       <register name="/" type="4">
         <text>blender3_link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REJfSE9TVD1AYXhwZW5zZS1zaGFyZC0wMC0wMC1oMXVkcS5tb25nb2RiLm5ldDoyNzAxNyxheHBlbnNlLXNoYXJkLTAwLTAxLWgxdWRxLm1vbmdvZGIubmV0OjI3MDE3LGF4cGVuc2Utc2hhcmQtMDAtMDItaDF1ZHEubW9uZ29kYi5uZXQ6MjcwMTcvdGVzdD9zc2w9dHJ1ZSZyZXBsaWNhU2V0PUF4cGVuc2Utc2hhcmQtMCZhdXRoU291cmNlPQo=</text>
+        <text encoding="base64">ICB6aXBfZmlsZTogLi9kaXN0LyRucG1fcGFja2FnZV9uYW1lLnppcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rm9ybWF0dGVkIEhUTUw6Cg==</text>
+        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7c2VjdGlvbi5zZXR0aW5ncy5xdWVzdGlvbnNfdGV4dCB9PGEgaHJlZj0idGVsOnt7c2VjdGlvbi5zZXR0aW5ncy5xdWVzdGlvbnNfdGV4dF9udW1iZXJ9fSI+e3tzZWN0aW9uLnNldHRpbmdzLnF1ZXN0aW9uc190ZXh0X251bWJlcn19PC9hPgo=</text>
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiAkQVdTX0tFWQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzZWNyZXRfYWNjZXNzX2tleTogJEFXU19TRUNSRVQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWdpb246ICRBV1NfUkVHSU9OCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBhcHA6ICRFQl9BUFAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyNHB4Owo=</text>
+        <text encoding="base64">ICB6aXBfZmlsZTogLi9kaXN0LyRucG1fcGFja2FnZV9uYW1lLnppcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnF1ZXN0aW9ucy1tYXJnaW4gewo=</text>
+        <text encoding="base64">ICBlbnY6ICRTVEFHRV9FQl9FTlYK</text>
       </register>
       <register name=":" type="4">
         <text>%s/blender1/collection1/gc</text>
