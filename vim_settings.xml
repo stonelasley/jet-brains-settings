@@ -1165,11 +1165,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521512470136">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521514159485">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
       </file>
       <file name="P:/Projects/Freshbyte/fb-pricing/tsconfig.json" timestamp="1516511897194">
         <mark key="[" line="3" column="21" />
@@ -1428,11 +1429,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521511786514">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="16" column="82" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521513776233">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" timestamp="1492536912476">
         <mark key="'" line="38" column="30" />
@@ -2943,8 +2944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="370" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="104" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="106" column="110" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="401" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
@@ -3043,67 +3042,67 @@
       <jump line="191" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
       <jump line="178" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
+      <jump line="35" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
+      <jump line="24" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dist</text>
+        <text>stage</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>stage</text>
       </register>
       <register name="/" type="4">
-        <text>blender3_link</text>
+        <text>REG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB6aXBfZmlsZTogLi9kaXN0LyRucG1fcGFja2FnZV9uYW1lLnppcAo=</text>
+        <text encoding="base64">ZGVwbG95OgogIHNraXBfY2xlYW51cDogdHJ1ZQogIHByb3ZpZGVyOiBlbGFzdGljYmVhbnN0YWxrCiAgYWNjZXNzX2tleV9pZDogJEtFWQogIHNlY3JldF9hY2Nlc3Nfa2V5OiAkU0VDUkVUCiAgcmVnaW9uOiAkUkVHSU9OCiAgYXBwOiAkQVBQCiAgZW52OiAkRU5WSVJPTk1FTlQKICBidWNrZXRfbmFtZTogJEJVQ0tFVAogIHppcF9maWxlOiAuL2Rpc3QvJG5wbV9wYWNrYWdlX25hbWUuemlwCm9uOgogIGJyYW5jaDogc3RhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
+        <text encoding="base64">ICAtIC4vdXRpbHMvZWItcGFja2FnZS5zaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiAkQVdTX0tFWQo=</text>
+        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZWNyZXRfYWNjZXNzX2tleTogJEFXU19TRUNSRVQK</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWdpb246ICRBV1NfUkVHSU9OCg==</text>
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5X2lkOiAkQVdTX0tFWQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHA6ICRFQl9BUFAK</text>
+        <text encoding="base64">ICBzZWNyZXRfYWNjZXNzX2tleTogJEFXU19TRUNSRVQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB6aXBfZmlsZTogLi9kaXN0LyRucG1fcGFja2FnZV9uYW1lLnppcAo=</text>
+        <text encoding="base64">ICByZWdpb246ICRBV1NfUkVHSU9OCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbnY6ICRTVEFHRV9FQl9FTlYK</text>
+        <text encoding="base64">ICBhcHA6ICRFQl9BUFAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/blender1/collection1/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>blender3_link</last-search>
+      <last-search>REG</last-search>
       <last-offset />
-      <last-pattern>blender3_link</last-pattern>
+      <last-pattern>REG</last-pattern>
       <last-replace>collection1</last-replace>
       <last-substitute>blender1</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>blender2</entry>
-        <entry>2</entry>
         <entry>titl</entry>
         <entry>blender1_text_color</entry>
         <entry encoding="base64">PA==</entry>
@@ -3122,6 +3121,8 @@
         <entry>include</entry>
         <entry>questions</entry>
         <entry>blender3_link</entry>
+        <entry>SEC</entry>
+        <entry>REG</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Req/ReqContext/gc</entry>
