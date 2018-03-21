@@ -606,7 +606,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520318163146">
+      <file name="/Dummy.txt" timestamp="1521590621370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -903,12 +903,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1521590056839">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="40" />
-        <mark key="^" line="34" column="40" />
-        <mark key="." line="34" column="40" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1521591600727">
+        <mark key="'" line="25" column="49" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/documents.ts" timestamp="1491517694690">
         <mark key="[" line="4" column="4" />
@@ -2179,11 +2179,11 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/account.controller.ts" timestamp="1519789108410">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-        <mark key="^" line="1" column="42" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/account.controller.ts" timestamp="1521591373061">
+        <mark key="[" line="94" column="31" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/index.ts" timestamp="1519790416800">
         <mark key="[" line="0" column="17" />
@@ -2957,7 +2957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="27" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="116" column="58" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="269" column="37" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="346" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
@@ -3057,58 +3056,59 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
       <jump line="33" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
       <jump line="34" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
+      <jump line="25" column="49" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QgJiYgbnBtIHJ1biBsaW50IiwK</text>
+      <register name="&quot;" type="4">
+        <text>userService</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgbnBtIHJ1biBlMmUg</text>
+        <text>userService</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95OgogIHNraXBfY2xlYW51cDogdHJ1ZQogIHByb3ZpZGVyOiBlbGFzdGljYmVhbnN0YWxrCiAgYWNjZXNzX2tleV9pZDogJEtFWQogIHNlY3JldF9hY2Nlc3Nfa2V5OiAkU0VDUkVUCiAgcmVnaW9uOiAkUkVHSU9OCiAgYXBwOiAkQVBQCiAgZW52OiAkRU5WSVJPTk1FTlQKICBidWNrZXRfbmFtZTogJEJVQ0tFVAogIHppcF9maWxlOiAuL2Rpc3QvJG5wbV9wYWNrYWdlX25hbWUuemlwCm9uOgogIGJyYW5jaDogc3RhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KFVzZXJTZXJ2aWNlKS51c2VWYWx1ZSh1c2VyU2VydmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QgJiYgbnBtIHJ1biBsaW50IiwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY291bnRTZXJ2aWNlID0ge2NyZWF0ZTogKCkgPT4gbmV3QWNjb3VudH07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ01PTkdPIEVYQ0VQVElPTicsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQUNDT1VOVCBDT05UUk9MTEVSJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
+        <text encoding="base64">ICAgICJjaSI6ICJucG0gcnVuIHRlc3QgJiYgbnBtIHJ1biBsaW50IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ01PTkdPIEVYQ0VQVElPTicsIGVycik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcm92aWRlcjogZWxhc3RpY2JlYW5zdGFsawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIC4vdXRpbHMvZWItcGFja2FnZS5zaAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBza2lwX2NsZWFudXA6IHRydWUK</text>
+        <text encoding="base64">ICAtIC4vdXRpbHMvZWItcGFja2FnZS5zaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>collection1</last-replace>
       <last-substitute>blender1</last-substitute>
       <last-dir>1</last-dir>
@@ -3116,8 +3116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>section4_text</entry>
-        <entry>section4-text</entry>
         <entry>section4_link</entry>
         <entry>section4_link_text</entry>
         <entry>blender1</entry>
@@ -3136,6 +3134,8 @@
         <entry>'</entry>
         <entry>,</entry>
         <entry>}</entry>
+        <entry>U</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Req/ReqContext/gc</entry>
