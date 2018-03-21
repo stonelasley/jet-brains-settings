@@ -1952,11 +1952,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/README.md" timestamp="1521660140077">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/README.md" timestamp="1521668192810">
+        <mark key="'" line="12" column="74" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/fb-scanning/scanning.module.ts" timestamp="1520483015664">
         <mark key="'" line="4" column="5" />
@@ -3141,7 +3142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="10" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/common/providers/index.ts" />
       <jump line="0" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/index.ts" />
       <jump line="9" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.module.ts" />
@@ -3241,67 +3241,66 @@
       <jump line="106" column="2" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="2" column="6" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
       <jump line="31" column="23" filename="P:/Projects/Blendtec/transit-api/package.json" />
+      <jump line="12" column="74" filename="P:/Projects/Blendtec/blendtec-shopify-theme/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U2F5IHdoYXQgdGhlIHN0ZXAgd2lsbCBiZQo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>I'm an inline-style link</text>
       </register>
       <register name="/" type="4">
-        <text>deadline</text>
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiaW5mbyI6ICJXaWRnZXQgSWQgaXMgZm91bmQgaGVyZTogaHR0cHM6XC9cL3BvcnRhbC5wcmljZXNwaWRlci5jb20gdW5kZXIgV2hlcmVUb0J1eSBtZW51Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlc2UgaW5zdHJ1Y3Rpb25zIHdpbGwgZ2V0IHlvdSBhIGNvcHkgb2YgdGhlIHByb2plY3QgdXAgYW5kIHJ1bm5pbmcgb24geW91ciBsb2NhbCBtYWNoaW5lIGZvciBkZXZlbG9wbWVudCBhbmQgdGVzdGluZyBwdXJwb3Nlcy4gU2VlIGRlcGxveW1lbnQgZm9yIG5vdGVzIG9uIGhvdyB0byBkZXBsb3kgdGhlIHByb2plY3Qgb24gYSBsaXZlIHN5c3RlbS4K</text>
+        <text encoding="base64">U2F5IHdoYXQgdGhlIHN0ZXAgd2lsbCBiZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAnOCcK</text>
+        <text encoding="base64">QSBzdGVwIGJ5IHN0ZXAgc2VyaWVzIG9mIGV4YW1wbGVzIHRoYXQgdGVsbCB5b3UgaGF2ZSB0byBnZXQgYSBkZXZlbG9wbWVudCBlbnYgcnVubmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBzdGFibGUK</text>
+        <text encoding="base64">aHR0cHM6Ly9zaG9waWZ5LmdpdGh1Yi5pby90aGVtZWtpdC8jaW5zdGFsbGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">VGhlc2UgaW5zdHJ1Y3Rpb25zIHdpbGwgZ2V0IHlvdSBhIGNvcHkgb2YgdGhlIHByb2plY3QgdXAgYW5kIHJ1bm5pbmcgb24geW91ciBsb2NhbCBtYWNoaW5lIGZvciBkZXZlbG9wbWVudCBhbmQgdGVzdGluZyBwdXJwb3Nlcy4gU2VlIGRlcGxveW1lbnQgZm9yIG5vdGVzIG9uIGhvdyB0byBkZXBsb3kgdGhlIHByb2plY3Qgb24gYSBsaXZlIHN5c3RlbS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB6aXBfZmlsZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY3VyZTogIkVuY3lwdGVkIDxzZWNyZXQtYWNjZXNzLWtleT49Igo=</text>
+        <text encoding="base64">LSAnOCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjYuMiIK</text>
+        <text encoding="base64">LSBzdGFibGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjei1jb252ZW50aW9uYWwtY2hhbmdlbG9nIjogIl4yLjEuMCIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deadline</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern>deadline</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>hubspot_newsletter_body</last-replace>
       <last-substitute>homepage_newsletter_body</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HEAD</entry>
-        <entry>homepage_newsletter_body</entry>
         <entry>A</entry>
         <entry>contact-form</entry>
         <entry>form</entry>
@@ -3320,6 +3319,8 @@
         <entry>p</entry>
         <entry>dead</entry>
         <entry>deadline</entry>
+        <entry>(</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lineItemTable/salesLineTable/gc</entry>
