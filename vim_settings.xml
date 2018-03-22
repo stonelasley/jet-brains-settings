@@ -173,11 +173,6 @@
         <mark key="^" line="120" column="36" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/hubspot-form.liquid" timestamp="1521049625508">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="63" />
@@ -660,6 +655,12 @@
         <mark key="." line="168" column="88" />
         <mark key="^" line="168" column="88" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/themekit_ignores" timestamp="1521756424689">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1519539268133">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="31" />
@@ -1054,12 +1055,12 @@
         <mark key="^" line="77" column="70" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" timestamp="1521754226788">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" timestamp="1521756063771">
         <mark key="'" line="9" column="17" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/tsconfig.test.json" timestamp="1491938618442">
         <mark key="[" line="11" column="19" />
@@ -1513,6 +1514,9 @@
         <mark key="." line="111" column="123" />
         <mark key="^" line="111" column="123" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/grid.liquid" timestamp="1521755454662">
+        <mark key="'" line="13" column="19" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" timestamp="1492471804586">
         <mark key="'" line="80" column="4" />
         <mark key="[" line="35" column="39" />
@@ -1693,12 +1697,12 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/gulpFile.js" timestamp="1521751946978">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/gulpFile.js" timestamp="1521755896570">
         <mark key="'" line="10" column="20" />
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order-line.model.spec.ts" timestamp="1489532633599">
         <mark key="'" line="42" column="33" />
@@ -2139,8 +2143,8 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1521672253099">
-        <mark key="'" line="124" column="10" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1521755083030">
+        <mark key="'" line="8" column="13" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="113" column="36" />
         <mark key="^" line="113" column="36" />
@@ -2309,11 +2313,6 @@
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/footer.liquid" timestamp="1521059181579">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/sales-order-line-edit/sales-order-line-edit.spec.ts" timestamp="1491950936777">
         <mark key="'" line="142" column="0" />
@@ -3050,6 +3049,12 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.gitignore" timestamp="1521756270902">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/scan-document.enum.ts" timestamp="1491519256503">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
@@ -3172,8 +3177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
-      <jump line="29" column="15" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
       <jump line="28" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
       <jump line="27" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
       <jump line="12" column="42" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/providers/index.ts" />
@@ -3272,58 +3275,60 @@
       <jump line="23" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/blog-tag.liquid" />
       <jump line="9" column="27" filename="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" />
       <jump line="10" column="17" filename="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" />
+      <jump line="8" column="13" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="13" column="19" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/grid.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ira.js.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bm9kZV9tb2R1bGVzKgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ira.js.</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>lay</text>
+        <text>ycle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsaW50OmZpbGUiOiAiaHRtbGxpbnQgLS1yYyAuL2h0bWxsaW50cmMiCg==</text>
+        <text encoding="base64">ICAgICJsaW50OmpzIjogImpzbGludCBhc3NldHMvKi5saXF1aWQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsaW50OmZpbGUiOiAiaHRtbGxpbnQgLS1yYyAuL2h0bWxsaW50cmMiCg==</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsaW50OmZpbGUiOiAiaHRtbGxpbnQgLS1yYyAuL2h0bWxsaW50cmMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsaW50OnNuaXBwZXRzIjogImh0bWxsaW50IC0tcmMgLi9odG1sbGludHJjIHNuaXBwZXRzLyogIiwK</text>
+        <text encoding="base64">ICAgICJsaW50OmhlbHAiOiAiaHRtbGxpbnQgLS1oZWxwIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsaW50Omh0bWwiOiAiaCIsCg==</text>
+        <text encoding="base64">ICAgICJsaW50OmZpbGUiOiAiaHRtbGxpbnQgLS1yYyAuL2h0bWxsaW50cmMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQknc25pcHBldHMvKi5saXF1aWQnCg==</text>
+        <text encoding="base64">ICAgICJsaW50OmZpbGUiOiAiaHRtbGxpbnQgLS1yYyAuL2h0bWxsaW50cmMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxpbWl0SXNzdWVzOiA5OTk5OTksCg==</text>
+        <text encoding="base64">ICAgICJsaW50OnNuaXBwZXRzIjogImh0bWxsaW50IC0tcmMgLi9odG1sbGludHJjIHNuaXBwZXRzLyogIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxpbWl0SXNzdWVzUGVyRmlsZTogOTk5LAo=</text>
+        <text encoding="base64">ICAgICJsaW50Omh0bWwiOiAiaCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxpbWl0RmlsZXM6IDk5OTksCg==</text>
+        <text encoding="base64">CQknc25pcHBldHMvKi5saXF1aWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzYXNzLWxpbnQiOiAiXjEuMTIuMSIK</text>
+        <text encoding="base64">CWxpbWl0SXNzdWVzOiA5OTk5OTksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lay</last-search>
+      <last-search>ycle</last-search>
       <last-offset />
-      <last-pattern>lay</last-pattern>
+      <last-pattern>ycle</last-pattern>
       <last-replace encoding="base64">XCBcIFwgXCA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -3331,8 +3336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>footer</entry>
-        <entry>typo</entry>
         <entry>Typography</entry>
         <entry>font-size</entry>
         <entry>small</entry>
@@ -3351,6 +3354,8 @@
         <entry>sn</entry>
         <entry>l</entry>
         <entry>lay</entry>
+        <entry>section</entry>
+        <entry>ycle</entry>
       </history-search>
       <history-cmd>
         <entry>%s/customers/${SalesConstants.customerTable}/gc</entry>
