@@ -1051,11 +1051,11 @@
         <mark key="^" line="77" column="70" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" timestamp="1521746021032">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/package.json" timestamp="1521747542339">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/tsconfig.test.json" timestamp="1491938618442">
         <mark key="[" line="11" column="19" />
@@ -3117,6 +3117,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.sass-lint.yml" timestamp="1521747437953">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/models/recipe.model.ts" timestamp="1488672539928">
         <mark key="'" line="330" column="0" />
         <mark key="[" line="287" column="45" />
@@ -3262,46 +3268,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dist</text>
+        <text>sass-lint</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>sass-lint</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtaHRtbGxpbnQnKTsK</text>
+        <text encoding="base64">ICAgICJsaW50LWxvY2FsZSI6ICJ0aGVtZS1saW50IC4vIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJ1bGVzOiB7fSwK</text>
+        <text encoding="base64">ICAgICJzYXNzLWxpbnQiOiAiXjEuMTIuMSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxpbWl0SXNzdWVzOiAxMDAsCg==</text>
+        <text encoding="base64">ICAgICJncnVudC1zY3NzbGludCI6ICJeMC4xLjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxpbWl0RmlsZXM6IGBOdW1iZXIuTUFoaGhoaFhfVkFMVUVgLAo=</text>
+        <text encoding="base64">ICAgICJncnVudC1odG1sbGludCI6ICJeMC4yLjciLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJb3B0aW9uczoge30sCg==</text>
+        <text encoding="base64">ICAgICJncnVudCI6ICJeMS4wLjIiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJeW91cl90YXJnZXQK</text>
+        <text encoding="base64">CXJ1bGVzOiB7fSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vICchc25pcHBldHMvcHJvZHVjdC10by1jb21wYXJlLmxpcXVpZCcK</text>
+        <text encoding="base64">CWxpbWl0SXNzdWVzOiAxMDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vICd0ZW1wbGF0ZXMvKi5saXF1aWQnCg==</text>
+        <text encoding="base64">CWxpbWl0RmlsZXM6IGBOdW1iZXIuTUFoaGhoaFhfVkFMVUVgLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vICdzbmlwcGV0cy8qKi8qLmxpcXVpZCcsCg==</text>
+        <text encoding="base64">CQkJb3B0aW9uczoge30sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vICdsYXlvdXQvKiovKi5saXF1aWQnLAo=</text>
+        <text encoding="base64">CQkJeW91cl90YXJnZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
