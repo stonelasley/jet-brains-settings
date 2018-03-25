@@ -1074,12 +1074,11 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" timestamp="1521776155102">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="142" column="48" />
-        <mark key="]" line="143" column="31" />
-        <mark key="." line="143" column="31" />
-        <mark key="^" line="143" column="31" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" timestamp="1521777200135">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/index.ts" timestamp="1521602424692">
         <mark key="[" line="1" column="31" />
@@ -1536,12 +1535,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521775854010">
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521777118378">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" timestamp="1492536912476">
         <mark key="'" line="38" column="30" />
@@ -1800,6 +1798,12 @@
         <mark key="^" line="52" column="53" />
         <mark key="." line="52" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/nodemon.json" timestamp="1521777128649">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/index.ts" timestamp="1489888543420">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="17" />
@@ -1938,11 +1942,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" timestamp="1521767468776">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" timestamp="1521777522231">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-handler.service.ts" timestamp="1491262794090">
         <mark key="[" line="16" column="89" />
@@ -2715,11 +2719,10 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/request-context.decorator.ts" timestamp="1521776280850">
-        <mark key="[" line="3" column="81" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/request-context.decorator.ts" timestamp="1521777179050">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-gtin-handler.service.spec.ts" timestamp="1491931244963">
         <mark key="[" line="5" column="63" />
@@ -3236,46 +3239,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgQXV0aENvbnRleHQocmVxLnVzZXIpOwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0ZJTkQgT05FJywgcGFyYW1zKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bGV0IHJlc3VsdCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>UserService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZSA9IG1vZHVsZS5nZXQ8VXNlclNlcnZpY2U+KFVzZXJTZXJ2aWNlKTsK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJub2RlbW9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgQXV0aENvbnRleHQocmVxLnVzZXIpOwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0ZJTkQgT05FJywgcGFyYW1zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Bhc3N3b3JkJywgcGFzc3dvcmQpOwpjb25zb2xlLmxvZygnaG9zdCcsIGhvc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0ZPVU5EJywgcmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1VTRVInLCB1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0ZJTkQgT05FJywgcGFyYW1zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SJywgZXJyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9uZ29vc2VNb2R1bGUgfSBmcm9tICdAbmVzdGpzL21vbmdvb3NlJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ1RYJywgY3R4KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnLi4vLi4vc3JjL2FwcC9tb2R1bGVzL2NvbW1vbic7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVU0VSJywgcmVxLnVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4uL2ludGVyZmFjZXMnOwo=</text>
+        <text encoding="base64">ICAgICJwcmVzZXJ2ZSI6ICJ0c2MiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlVXNlckR0bywgVXBkYXRlVXNlckR0byB9IGZyb20gJy4uLy4uL2FjY291bnQvZHRvL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgQXV0aENvbnRleHQocmVxLnVzZXIpOwogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4uLy4uL2FjY291bnQvaW50ZXJmYWNlcy9pbmRleCc7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Bhc3N3b3JkJywgcGFzc3dvcmQpOwpjb25zb2xlLmxvZygnaG9zdCcsIGhvc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
