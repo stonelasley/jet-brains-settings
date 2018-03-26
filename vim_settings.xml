@@ -633,7 +633,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521604618078">
+      <file name="/Dummy.txt" timestamp="1522030822476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -675,6 +675,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" timestamp="1522030918279">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="2" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/fb-pricing/src/services/breakdownAmount.service.spec.ts" timestamp="1516511450543">
         <mark key="[" line="0" column="0" />
@@ -761,11 +768,10 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" timestamp="1521767228954">
-        <mark key="'" line="20" column="41" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" timestamp="1522030904904">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/ormconfig.json" timestamp="1519423524766">
@@ -3065,6 +3071,11 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1522030534052">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="51" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/scan-document.enum.ts" timestamp="1491519256503">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
@@ -3168,8 +3179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
-      <jump line="18" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" />
       <jump line="183" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="2" column="22" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="245" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
@@ -3268,58 +3277,60 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="2" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJc09wdGlvbmFsKCkK</text>
+        <text encoding="base64">VXNlclNjaGVtYS52aXJ0dWFsKCgnb3JnSWQnKSkuZ2V0KGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHRoaXMub3JnYW5pemF0aW9uLl9pZDsKfSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>ExpenseCategorySchema</text>
       </register>
       <register name="/" type="4">
-        <text>any</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJc09wdGlvbmFsKCkK</text>
+        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4uLy4uL2FjY291bnQvaW50ZXJmYWNlcyc7Cg==</text>
+        <text encoding="base64">VXNlclNjaGVtYS52aXJ0dWFsKCgnb3JnSWQnKSkuZ2V0KGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHRoaXMub3JnYW5pemF0aW9uLl9pZDsKfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlclNlcnZpY2UgfSBmcm9tICcuLi8uLi9hY2NvdW50L3NlcnZpY2VzJzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZS5sYXN0ID0gdi5zdWJzdHIodi5pbmRleE9mKCcgJykgKyAxKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZS5maXJzdCA9IHYuc3Vic3RyKDAsIHYuaW5kZXhPZignICcpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2V0KGZ1bmN0aW9uKHYpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgcmVwb3J0ID0gYXdhaXQgdGhpcy5maW5kT25lKHVzZXIsIGlkKTsKICAgICAgICAgICAgLy8gcmVwb3J0LnN0YXR1cyA9IHN0YXR1czsKICAgICAgICAgICAgLy8gYXdhaXQgcmVwb3J0LnNhdmUoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1VQREFURScsIHN0YXR1cyk7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXQgb3JnSWQoKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gdGhpcy5fdXNlci5vcmdhbml6YXRpb24uaWQ7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV4dGVybmFsSWQ6IHt0eXBlOiBTdHJpbmd9LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4uLy4uL2FjY291bnQvaW50ZXJmYWNlcyc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlclNlcnZpY2UgfSBmcm9tICcuLi8uLi9hY2NvdW50L3NlcnZpY2VzJzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMubmFtZS5sYXN0ID0gdi5zdWJzdHIodi5pbmRleE9mKCcgJykgKyAxKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>any</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>any</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>collection1</last-replace>
       <last-substitute>blender1</last-substitute>
       <last-dir>1</last-dir>
@@ -3327,7 +3338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to</entry>
         <entry>C</entry>
         <entry>pass</entry>
         <entry>can</entry>
@@ -3347,6 +3357,7 @@
         <entry>arr</entry>
         <entry>p</entry>
         <entry>any</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>%s/req/ctx/gc</entry>
@@ -3366,9 +3377,9 @@
         <entry>%s/section4_link/cta_url/gc</entry>
         <entry>%s/section4_link_text/cta_text/gc</entry>
         <entry>%s/blender1/collection1/gc</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
