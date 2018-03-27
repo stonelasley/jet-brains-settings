@@ -1,5 +1,5 @@
 <templateSet group="TypeScript">
-  <template name="clog" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
