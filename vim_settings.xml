@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -764,6 +764,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1522181619535" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1482,6 +1483,13 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1522181773094">
+        <mark key="'" line="10" column="196" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -3242,7 +3250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="68" column="45" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="69" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="100" column="69" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
@@ -3342,6 +3349,7 @@
       <jump line="12" column="37" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="13" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="16" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="10" column="196" filename="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
