@@ -963,11 +963,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1522035472297">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1522035934623">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/documents.ts" timestamp="1491517694690">
         <mark key="[" line="4" column="4" />
@@ -2157,6 +2157,13 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" timestamp="1522036684306">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="102" column="35" />
+        <mark key="." line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/auth-events.ts" timestamp="1489769889857">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="46" />
@@ -3203,7 +3210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="22" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="245" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="257" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="139" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
@@ -3303,52 +3309,53 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" />
       <jump line="41" column="90" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
+      <jump line="193" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Model</text>
+        <text>instance</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KEFjY291bnRTZXJ2aWNlKS51c2VWYWx1ZShhY2NvdW50U2VydmljZSkK</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KCkudXNlVmFsdWUoYWNjb3VudFNlcnZpY2UpCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKCdFUlJPUicsIGVycikpOwo=</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnTkFNRScsIG5hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
+        <text encoding="base64">CSAgICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVFMnLCBjb21wb25lbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVFMnLCBpbnN0YW5jZVdyYXBwZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KCkudXNlVmFsdWUoYWNjb3VudFNlcnZpY2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvdXJjZVN5c3RlbUlkID0gbmV3IG1vbmdvb3NlLm1vbmdvLk9iamVjdElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKCdFUlJPUicsIGVycikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zb3VyY2VTeXN0ZW1JZCA9PT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3401,9 +3408,9 @@
         <entry>%s/section4_link/cta_url/gc</entry>
         <entry>%s/section4_link_text/cta_text/gc</entry>
         <entry>%s/blender1/collection1/gc</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
