@@ -1484,12 +1484,12 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1522181773094">
-        <mark key="'" line="10" column="196" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1522426416397">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -3250,7 +3250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="45" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="69" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="100" column="69" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
       <jump line="102" column="62" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" />
@@ -3350,58 +3349,59 @@
       <jump line="13" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="16" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
       <jump line="10" column="196" filename="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" />
+      <jump line="15" column="4" filename="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9uX3N0YXJ0OiBjaGFuZ2UK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>failure</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgZW5kY29tbWVudCAlfQo=</text>
+        <text encoding="base64">ICAgIG9uX2ZhaWx1cmU6IGFsd2F5cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uX3N0YXJ0OiBjaGFuZ2UK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YWx3YXlzCiAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1BSSUNFIFNQSURFUicpOwo=</text>
+        <text encoding="base64">ICAgICAgLSBodHRwczovL291dGxvb2sub2ZmaWNlLmNvbS93ZWJob29rLzNiNjg3OWIxLTg4MzAtNGYxZS1hNGJmLWU0ZTk3NjE0NjBjMUAwNzI2MWJmNC00YmVhLTQwMWItYWM5Yy1kZTMyMjgzOGIzODAvVHJhdmlzQ0kvMWY2N2RjZmJkNTNhNDYyYjhhODBiODRhZTkwZmQzNTgvZjRkNDliMTctNjE2Ni00NThmLTgxY2QtMmI1YWNiYzM4MDFjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FGRklSTSBIRUFERVInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgaWYgdGVtcGxhdGUgPT0gJ3BhZ2UuZmluZC1hLXN0b3JlJyAlfQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1BSSUNFIFNQSURFUicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0FGRklSTSBIRUFERVInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgZW5kaWYgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgaWYgdGVtcGxhdGUgPT0gJ3BhZ2UuZmluZC1hLXN0b3JlJyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>f</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>f</last-pattern>
       <last-replace encoding="base64">XCBcIFwgXCA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -3409,7 +3409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bold</entry>
         <entry>\t</entry>
         <entry>)</entry>
         <entry>image</entry>
@@ -3429,6 +3428,7 @@
         <entry>bv</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>f</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SCAN_COMPONENTS/ScannerComponent/g</entry>
