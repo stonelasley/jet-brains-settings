@@ -1484,12 +1484,12 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1522430534478">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.travis.yml" timestamp="1522432405047">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/aim-parser.spec.ts" timestamp="1489249788356">
         <mark key="'" line="12" column="8" />
@@ -3353,13 +3353,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>change</text>
+        <text>n</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>change</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>f</text>
