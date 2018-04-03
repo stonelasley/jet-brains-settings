@@ -1105,6 +1105,7 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Scratch/reference/package.json" timestamp="1522728311773" />
       <file name="E:/Projects/Personal/blendtec/src/products/pages/category-list/category-list.page.ts" timestamp="1488666416945">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="22" column="28" />
@@ -1202,11 +1203,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="20" column="4" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/package.json" timestamp="1522726648217">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1491925699887">
         <mark key="[" line="2" column="74" />
@@ -3318,13 +3314,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNvbnNvbGUiOiB7fSwK</text>
+        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iaW9uaWMtcGx1Z2luLWtleWJvYXJkIiBzcGVjPSIyLjIuMSIgLz4K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>instance</text>
+        <text>ionic-plugin-keyboard</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -3333,31 +3329,31 @@
         <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNvbnNvbGUiOiB7fSwK</text>
+        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iaW9uaWMtcGx1Z2luLWtleWJvYXJkIiBzcGVjPSIyLjIuMSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNyb3Nzd2Fsay13ZWJ2aWV3Ijoge30sCg==</text>
+        <text encoding="base64">ICAgICAgImlvbmljLXBsdWdpbi1rZXlib2FyZCI6IHt9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWhvY2tleWFwcCI6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWRldmljZSI6IHt9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNyb3Nzd2Fsay13ZWJ2aWV3Ijoge30sCg==</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNvbnNvbGUiOiB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWhvY2tleWFwcCI6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNyb3Nzd2Fsay13ZWJ2aWV3Ijoge30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1wbHVnaW4ta2V5Ym9hcmQiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWhvY2tleWFwcCI6IHt9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1jcm9zc3dhbGstd2VidmlldyI6ICIxLjguMCIsCg==</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWNyb3Nzd2Fsay13ZWJ2aWV3Ijoge30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1ob2NrZXlhcHAiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgImNvcmRvdmEtcGx1Z2luLWhvY2tleWFwcCI6IHt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICJpb25pYy1wbHVnaW4ta2V5Ym9hcmQiOiAiMi4yLjEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
