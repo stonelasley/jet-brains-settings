@@ -315,11 +315,6 @@
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Scratch/reference/config.xml" timestamp="1522896903956">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519761509677">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="21" />
@@ -858,6 +853,11 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/config.xml" timestamp="1522898442386">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="57" />
+        <mark key="." line="79" column="57" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/session.ts" timestamp="1489770130507">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1112,12 +1112,7 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Scratch/reference/package.json" timestamp="1522896884175">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="33" />
-      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Scratch/reference/package.json" timestamp="1522896884175" />
       <file name="E:/Projects/Personal/blendtec/src/products/pages/category-list/category-list.page.ts" timestamp="1488666416945">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="22" column="28" />
