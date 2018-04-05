@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -2577,11 +2577,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1519752826593">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1522952097958">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.providers.ts" timestamp="1521766135208">
         <mark key="'" line="3" column="17" />
@@ -2754,10 +2754,10 @@
       </file>
       <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1522769442457">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="29" column="25" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/lot.ts" timestamp="1490143604358">
         <mark key="[" line="0" column="50" />
@@ -3315,14 +3315,14 @@
       <jump line="120" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>instance</text>
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="/" type="4">
         <text>grid--products grid--ful</text>
