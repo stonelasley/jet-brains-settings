@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -30,6 +30,10 @@
         <mark key="]" line="0" column="46" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="17" column="49" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/easylockdown_password_form.liquid" timestamp="1522942723721">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/index.ts" timestamp="1521766434886">
         <mark key="[" line="1" column="32" />
@@ -82,6 +86,12 @@
         <mark key="]" line="33" column="14" />
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="14" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" timestamp="1522942289036">
+        <mark key="'" line="120" column="31" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/index.ts" timestamp="1489713690067">
         <mark key="[" line="4" column="20" />
@@ -2133,11 +2143,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520268783496">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="29" column="9" />
-        <mark key="." line="162" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1522942044709">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/faq.module.ts" timestamp="1489959137054">
         <mark key="'" line="13" column="56" />
@@ -2819,6 +2830,9 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/search.liquid" timestamp="1522942166796">
+        <mark key="[" line="54" column="44" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
         <mark key="]" line="30" column="26" />
@@ -3199,11 +3213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="139" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="166" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="105" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="99" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
       <jump line="115" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
       <jump line="107" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
       <jump line="101" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
@@ -3299,10 +3308,15 @@
       <jump line="41" column="90" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
       <jump line="193" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" />
       <jump line="18" column="0" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
+      <jump line="23" column="42" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="148" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="24" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="85" column="54" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="120" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>instance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3311,46 +3325,46 @@
         <text>instance</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>grid--products grid--ful</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gL3RlbXBsYXRlcy9wYWdlLmxpcXVpZCAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnTkFNRScsIG5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVFMnLCBjb21wb25lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGFzc2lnbiBob3Zlcl9jbGFzcyA9IHNlY3Rpb24uc2V0dGluZ3MuY29sbGVjdGlvbl9zdHlsZSAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAJCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVFMnLCBpbnN0YW5jZVdyYXBwZXIpCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnQ29tcG9uZW50JywgbmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlQ29tcG9uZW50KCkudXNlVmFsdWUoYWNjb3VudFNlcnZpY2UpCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnTkFNRScsIG5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmVycm9yKCdFUlJPUicsIGVycikpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVFMnLCBjb21wb25lbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVN5c3RlbUlkOiB7dHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>grid--products grid--ful</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>grid--products grid--ful</last-pattern>
       <last-replace>collection1</last-replace>
       <last-substitute>blender1</last-substitute>
       <last-dir>1</last-dir>
@@ -3358,9 +3372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
-        <entry>pass</entry>
-        <entry>can</entry>
         <entry>'</entry>
         <entry>A</entry>
         <entry>console</entry>
@@ -3378,6 +3389,9 @@
         <entry>p</entry>
         <entry>any</entry>
         <entry>index</entry>
+        <entry>PageContainer</entry>
+        <entry>collection.products</entry>
+        <entry>grid--products grid--ful</entry>
       </history-search>
       <history-cmd>
         <entry>%s/req/ctx/gc</entry>
