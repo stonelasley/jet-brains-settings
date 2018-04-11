@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" protocol="file" />
+      <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
     <filemarks>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/recipe-categories.ts" timestamp="1488672177398">
@@ -26,6 +26,16 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="17" column="49" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/easylockdown_password_form.liquid" timestamp="1522942723721">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/index.ts" timestamp="1521766434886">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.html" timestamp="1491934392683">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="14" />
@@ -38,6 +48,13 @@
         <mark key="]" line="4" column="38" />
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/decorators/organization.decorator.ts" timestamp="1519784909338">
+        <mark key="'" line="4" column="2" />
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="70" />
+        <mark key="^" line="2" column="70" />
+        <mark key="." line="2" column="70" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-edit-tabs.html" timestamp="1490223367476">
         <mark key="'" line="1" column="0" />
@@ -52,7 +69,6 @@
         <mark key="." line="49" column="24" />
         <mark key="^" line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/schema/user.schema.ts" timestamp="1521596856417" />
       <file name="E:/Projects/Personal/blendtec/src/assets/img/logo.svg" timestamp="1489779070581">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -66,11 +82,23 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="14" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" timestamp="1522942289036">
+        <mark key="'" line="120" column="31" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/index.ts" timestamp="1489713690067">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/index.ts" timestamp="1521766572434">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/url-builder.service.js" timestamp="1516120596364">
         <mark key="[" line="27" column="57" />
@@ -84,10 +112,12 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="63" />
       </file>
-      <file name="E:/Projects/Freshbyte/freshmobile/src/sales/providers/customer.service.ts" timestamp="1492128752712">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="59" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.providers.ts" timestamp="1521602443379">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-no-price-template.liquid" timestamp="1520039048989">
         <mark key="'" line="11" column="36" />
@@ -107,12 +137,6 @@
         <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/interfaces/index.ts" timestamp="1521766525846">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/sales-live.component.ts" timestamp="1515893447840">
         <mark key="'" line="6" column="0" />
@@ -160,11 +184,6 @@
         <mark key="." line="133" column="8" />
         <mark key="^" line="133" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/index.ts" timestamp="1521767045234">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="63" />
@@ -203,12 +222,6 @@
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" timestamp="1520318615708">
-        <mark key="'" line="101" column="44" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="37" />
-        <mark key="." line="177" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/components/main-menu.directive.ts" timestamp="1489448335655">
         <mark key="'" line="33" column="32" />
         <mark key="[" line="46" column="36" />
@@ -221,12 +234,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.module.ts" timestamp="1521767517178">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="52" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.ts" timestamp="1491505949687">
         <mark key="[" line="4" column="0" />
@@ -254,11 +261,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/shopify-api-scratch/package.json" timestamp="1516133105956">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/providers/scan-validator.service.spec.ts" timestamp="1491602586075">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="274" column="46" />
@@ -278,22 +280,6 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/dto/index.ts" timestamp="1521766396348">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/dto/update-expense-report.dto.ts" timestamp="1521948282455">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519789421321">
-        <mark key="[" line="16" column="84" />
-        <mark key="]" line="16" column="84" />
-        <mark key="." line="16" column="84" />
-        <mark key="^" line="16" column="84" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-list/faq-list.page.ts" timestamp="1489962792558">
         <mark key="'" line="17" column="21" />
@@ -372,13 +358,6 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1519791767492">
-        <mark key="'" line="124" column="40" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.ts" timestamp="1489447815190">
         <mark key="'" line="23" column="28" />
         <mark key="[" line="21" column="46" />
@@ -400,17 +379,24 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/bcrypt.service.ts" timestamp="1521602396710">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-category.controller.ts" timestamp="1519791767492">
+        <mark key="'" line="124" column="40" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/services/dealer.service.ts" timestamp="1517952382671">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="68" />
         <mark key="." line="17" column="68" />
         <mark key="^" line="17" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/crypto.service.ts" timestamp="1521601954669">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/itf-14.reader.ts" timestamp="1489249917956">
         <mark key="'" line="3" column="30" />
@@ -425,18 +411,18 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/index.ts" timestamp="1521766037321">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/providers/sales-order.service.ts" timestamp="1492186339283">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="135" column="40" />
         <mark key="]" line="8" column="47" />
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.module.ts" timestamp="1521767517178">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/admin/pages/debug-scanner/debug-scanner.html" timestamp="1491503770564">
         <mark key="[" line="10" column="56" />
@@ -497,7 +483,6 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/update/components/feedback-button.directive.ts" timestamp="1522729552579" />
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/loading-controller.ts" timestamp="1491348215259">
         <mark key="'" line="7" column="13" />
         <mark key="[" line="5" column="0" />
@@ -512,12 +497,21 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.spec.ts" timestamp="1522956470713">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/tsconfig.json" timestamp="1492119476216">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="16" column="51" />
         <mark key="]" line="16" column="55" />
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/user.service.ts" timestamp="1519789421321">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="84" />
+        <mark key="^" line="16" column="84" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/pages/purchase-order-list/purchase-order-list.spec.ts" timestamp="1489450669613">
         <mark key="'" line="27" column="8" />
@@ -532,17 +526,17 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.ts" timestamp="1521950531285">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" timestamp="1492470635258">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="80" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/index.ts" timestamp="1521766572434">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/article.recipe.liquid" timestamp="1520296267339">
         <mark key="'" line="50" column="25" />
@@ -558,11 +552,6 @@
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="67" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.html" timestamp="1516755194153">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.spec.ts" timestamp="1489981188914">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="36" />
@@ -576,17 +565,18 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" timestamp="1520314882865">
-        <mark key="'" line="18" column="23" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/common.providers.ts" timestamp="1521766900726">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/gulpfile.js" timestamp="1516513452952">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user-context.decorator.ts" timestamp="1519790326331">
+        <mark key="'" line="2" column="66" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq-category.ts" timestamp="1489884844096">
         <mark key="[" line="1" column="0" />
@@ -620,6 +610,12 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="81" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/organization.interface.ts" timestamp="1521767006285">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/purchase-order.model.ts" timestamp="1489440390563">
         <mark key="'" line="0" column="77" />
         <mark key="[" line="3" column="0" />
@@ -640,11 +636,6 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522729496957">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
         <mark key="'" line="21" column="55" />
         <mark key="[" line="36" column="25" />
@@ -657,12 +648,6 @@
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.module.ts" timestamp="1521774986699">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="60" />
-        <mark key="^" line="12" column="60" />
-        <mark key="." line="12" column="60" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/.gitignore" timestamp="1519845417253">
         <mark key="'" line="0" column="0" />
@@ -683,23 +668,17 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" timestamp="1522033577080">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="75" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="18" column="71" />
-      </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/src/services/breakdownAmount.service.spec.ts" timestamp="1516511450543">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.spec.ts" timestamp="1489980556012">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" timestamp="1519791474671">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" timestamp="1492133336233">
         <mark key="'" line="138" column="0" />
@@ -763,6 +742,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1522768422294" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -775,13 +755,6 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" timestamp="1522030904904">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/update/index.ts" timestamp="1522729539324" />
       <file name="P:/Projects/Blendtec/transit-api/ormconfig.json" timestamp="1519423524766">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
@@ -820,6 +793,12 @@
         <mark key="." line="696" column="75" />
         <mark key="^" line="696" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/nodemon.json" timestamp="1521777128649">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
         <mark key="[" line="39" column="32" />
@@ -847,13 +826,6 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth-token.service.ts" timestamp="1521604375761">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/config.xml" timestamp="1523326912534" />
       <file name="E:/Projects/Personal/blendtec/src/auth/models/session.ts" timestamp="1489770130507">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -872,16 +844,17 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/index.ts" timestamp="1521766359546">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/config/karma.conf.js" timestamp="1491939251589">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth-token.service.ts" timestamp="1521604375761">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1488827491809">
         <mark key="'" line="45" column="42" />
@@ -903,6 +876,12 @@
         <mark key="]" line="30" column="50" />
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/index.ts" timestamp="1521602424692">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/fb-loading.ts" timestamp="1491873092287">
         <mark key="[" line="9" column="20" />
@@ -929,6 +908,13 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521592490227">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/index.ts" timestamp="1488671160139">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="20" column="1" />
@@ -942,6 +928,12 @@
         <mark key="]" line="68" column="20" />
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/context.decorator.ts" timestamp="1519790409711">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/main-menu.directive.ts" timestamp="1492118968788">
         <mark key="[" line="3" column="50" />
@@ -961,28 +953,11 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/app.module.ts" timestamp="1521775904004">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1522035934623">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/documents.ts" timestamp="1491517694690">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/index.ts" timestamp="1521766434886">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="32" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/index.ts" timestamp="1491931547835">
         <mark key="'" line="10" column="12" />
@@ -991,23 +966,30 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/index.ts" timestamp="1519790553932">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/index.ts" timestamp="1492132656121">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/index.ts" timestamp="1521766072201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/models/serializable.model.ts" timestamp="1491606788378">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="39" />
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1522956065589">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/providers/index.ts" timestamp="1489883827023">
         <mark key="[" line="8" column="1" />
@@ -1054,6 +1036,12 @@
         <mark key="^" line="77" column="70" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/index.ts" timestamp="1521766037321">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/tsconfig.test.json" timestamp="1491938618442">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="24" />
@@ -1067,6 +1055,12 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" timestamp="1520318348755">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="200" />
+        <mark key="." line="142" column="102" />
+        <mark key="^" line="142" column="102" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/signup/signup.html" timestamp="1489972889394">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="0" />
@@ -1074,12 +1068,12 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="67" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1519424522364">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="3" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1522956685093">
+        <mark key="'" line="9" column="48" />
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="9" column="48" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/recipe-tabs/recipe-tabs.page.ts" timestamp="1488671253424">
         <mark key="'" line="0" column="0" />
@@ -1087,19 +1081,6 @@
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" timestamp="1522034520315">
-        <mark key="'" line="279" column="0" />
-        <mark key="[" line="102" column="11" />
-        <mark key="]" line="102" column="22" />
-        <mark key="." line="102" column="22" />
-        <mark key="^" line="102" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/index.ts" timestamp="1521602424692">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/gs-1.reader.ts" timestamp="1491501761918">
         <mark key="'" line="24" column="10" />
@@ -1188,10 +1169,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pages/pick-history-edit-tab/pick-history-edit-tab.ts" timestamp="1516755659954">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/controllers/auth.controller.ts" timestamp="1521599257182">
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="61" column="72" />
+        <mark key="]" line="62" column="81" />
+        <mark key="." line="62" column="81" />
+        <mark key="^" line="62" column="81" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519853353740">
         <mark key="[" line="90" column="0" />
@@ -1206,13 +1189,6 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/package.json" timestamp="1523326673180">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="51" column="36" />
-        <mark key="." line="54" column="32" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1491925699887">
         <mark key="[" line="2" column="74" />
         <mark key="]" line="3" column="0" />
@@ -1226,23 +1202,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/account.service.ts" timestamp="1522034881451">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/models/auth-token.model.ts" timestamp="1521604587411">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/decorators/organization.decorator.ts" timestamp="1519784909338">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="2" column="65" />
-        <mark key="]" line="2" column="70" />
-        <mark key="^" line="2" column="70" />
-        <mark key="." line="2" column="70" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" timestamp="1521774889772">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="73" />
+        <mark key="^" line="10" column="73" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/pages/purchase-order-line-list/purchase-order-line-list.spec.ts" timestamp="1489805103928">
         <mark key="'" line="28" column="27" />
@@ -1271,12 +1236,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" timestamp="1521592490227">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" timestamp="1520314882865">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/fb-pricing/tsconfig.json" timestamp="1516511897194">
         <mark key="[" line="3" column="21" />
@@ -1309,32 +1274,11 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/auth/auth.e2e.spec.ts" timestamp="1521775323945">
-        <mark key="'" line="6" column="28" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.providers.ts" timestamp="1521602443379">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="23" />
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/controllers/auth.controller.ts" timestamp="1521599257182">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="61" column="72" />
-        <mark key="]" line="62" column="81" />
-        <mark key="." line="62" column="81" />
-        <mark key="^" line="62" column="81" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.spec.ts" timestamp="1491871907415">
         <mark key="'" line="52" column="0" />
@@ -1383,13 +1327,6 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/utils/eb-package.sh" timestamp="1521516608381">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.html" timestamp="1491932172194">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="33" />
@@ -1415,12 +1352,25 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" timestamp="1522034520315">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="102" column="11" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+        <mark key="^" line="102" column="22" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/directives/category-badge.component.ts" timestamp="1489961494329">
         <mark key="'" line="5" column="24" />
         <mark key="[" line="38" column="22" />
         <mark key="]" line="38" column="32" />
         <mark key="^" line="38" column="22" />
         <mark key="." line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.module.ts" timestamp="1521774986699">
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="12" column="60" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/gulpfile.js" timestamp="1492032190706">
         <mark key="[" line="23" column="23" />
@@ -1441,6 +1391,12 @@
         <mark key="]" line="13" column="61" />
         <mark key="." line="13" column="61" />
         <mark key="^" line="13" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.spec.ts" timestamp="1521594440605">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/providers/blendtec-api.ts" timestamp="1488672101881">
         <mark key="'" line="20" column="10" />
@@ -1482,12 +1438,25 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.spec.ts" timestamp="1522030270678">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/services/sanitize.service.js" timestamp="1516123954091">
         <mark key="'" line="65" column="13" />
         <mark key="[" line="64" column="30" />
         <mark key="]" line="64" column="43" />
         <mark key="^" line="64" column="43" />
         <mark key="." line="64" column="43" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" timestamp="1522956433574">
+        <mark key="'" line="31" column="27" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-product-lrg.liquid" timestamp="1520292670736">
         <mark key="'" line="180" column="0" />
@@ -1503,26 +1472,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.providers.ts" timestamp="1521766135208">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-      </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" timestamp="1516207446850">
         <mark key="'" line="111" column="117" />
         <mark key="[" line="111" column="105" />
         <mark key="]" line="111" column="123" />
         <mark key="." line="111" column="123" />
         <mark key="^" line="111" column="123" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520316423177">
-        <mark key="'" line="255" column="7" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="251" column="20" />
-        <mark key="^" line="257" column="4" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/assets/i18n/en.json" timestamp="1492471804586">
         <mark key="'" line="80" column="4" />
@@ -1544,6 +1499,12 @@
         <mark key="." line="24" column="54" />
         <mark key="^" line="25" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/snippets/drawer-nav.liquid" timestamp="1520318388411">
+        <mark key="[" line="21" column="151" />
+        <mark key="]" line="21" column="151" />
+        <mark key="." line="21" column="151" />
+        <mark key="^" line="21" column="157" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/models/recipe-ingredient.ts" timestamp="1488672578868">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="53" column="31" />
@@ -1557,24 +1518,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" timestamp="1522030345949">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="34" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-detail/faq-detail.page.scss" timestamp="1489958063009">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521777118378">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-header-tab/sales-order-header-tab.html" timestamp="1492536912476">
         <mark key="'" line="38" column="30" />
@@ -1589,18 +1537,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/organization.interface.ts" timestamp="1521767006285">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1519750330018">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="66" column="22" />
-        <mark key="]" line="66" column="21" />
-        <mark key="^" line="66" column="21" />
-        <mark key="." line="66" column="21" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1522956724454">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="65" column="21" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/snippets/recipe-search.liquid" timestamp="1520296702225">
         <mark key="[" line="39" column="0" />
@@ -1620,17 +1562,24 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.ts" timestamp="1521950531285">
-        <mark key="'" line="44" column="35" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/logout-menu.directive.ts" timestamp="1492100939774">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="43" />
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/account.service.ts" timestamp="1522034881451">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" timestamp="1522030345949">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-validator.service.spec.ts" timestamp="1490142901383">
         <mark key="'" line="235" column="52" />
@@ -1646,6 +1595,19 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/bcrypt.service.ts" timestamp="1521602396710">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" timestamp="1522036684306">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="102" column="35" />
+        <mark key="." line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.component.ts" timestamp="1489970965020">
         <mark key="'" line="102" column="33" />
         <mark key="[" line="30" column="0" />
@@ -1660,12 +1622,6 @@
         <mark key="." line="20" column="206" />
         <mark key="^" line="20" column="206" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/jwt.service.ts" timestamp="1521767281567">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/recipe-category-list/recipe-category-list.page.ts" timestamp="1488671731486">
         <mark key="'" line="18" column="10" />
         <mark key="[" line="15" column="0" />
@@ -1678,11 +1634,6 @@
         <mark key="]" line="15" column="55" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/config.xml" timestamp="1516843237583">
-        <mark key="[" line="1" column="57" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="58" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/providers/scan-settings.service.ts" timestamp="1492118775119">
         <mark key="'" line="2" column="23" />
@@ -1730,12 +1681,6 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/context.decorator.ts" timestamp="1519790409711">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/sales-live/sales-live.component.ts" timestamp="1514676059104">
         <mark key="'" line="42" column="14" />
         <mark key="[" line="42" column="40" />
@@ -1769,18 +1714,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/dto/create-expense-report.dto.spec.ts" timestamp="1522030169104" />
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.prod.ts" timestamp="1518548524442">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/exceptions/mongo.exception.ts" timestamp="1521944766171">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/purchasing/providers/purchase-order.service.spec.ts" timestamp="1489452217595">
         <mark key="'" line="67" column="45" />
@@ -1788,6 +1726,12 @@
         <mark key="]" line="56" column="67" />
         <mark key="^" line="61" column="31" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/index.ts" timestamp="1519790416800">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/index.ts" timestamp="1489776289084">
         <mark key="[" line="3" column="0" />
@@ -1807,12 +1751,6 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/user-context.interface.ts" timestamp="1519790277514">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/index.ts" timestamp="1492183801774">
         <mark key="[" line="0" column="18" />
@@ -1840,17 +1778,18 @@
         <mark key="^" line="52" column="53" />
         <mark key="." line="52" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/nodemon.json" timestamp="1521777128649">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/index.ts" timestamp="1489888543420">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" timestamp="1522035074767">
+        <mark key="'" line="41" column="90" />
+        <mark key="[" line="62" column="93" />
+        <mark key="]" line="62" column="92" />
+        <mark key="." line="62" column="92" />
+        <mark key="^" line="62" column="92" />
       </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/rep-card/rep-card.component.ts" timestamp="1517958393542">
         <mark key="[" line="8" column="29" />
@@ -1858,10 +1797,19 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/fb-scanning/providers/scan-validator.service.ts" timestamp="1516753851763">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520316423177">
+        <mark key="'" line="255" column="7" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="251" column="20" />
+        <mark key="^" line="257" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" timestamp="1520308877573">
+        <mark key="'" line="204" column="4" />
+        <mark key="[" line="38" column="68" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="38" column="68" />
+        <mark key="^" line="37" column="56" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.spec.ts" timestamp="1491939879688">
         <mark key="[" line="7" column="0" />
@@ -1881,6 +1829,13 @@
         <mark key="^" line="10" column="57" />
         <mark key="." line="10" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" timestamp="1522029758534">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="30" />
+      </file>
       <file name="P:/Projects/Blendtec/shopify-api-scratch/index.js" timestamp="1516133303029">
         <mark key="'" line="39" column="101" />
         <mark key="[" line="18" column="16" />
@@ -1894,6 +1849,12 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/interfaces/index.ts" timestamp="1521766525846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.ts" timestamp="1518548275719">
         <mark key="[" line="4" column="46" />
@@ -1948,10 +1909,11 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/decorators/user.decorator.ts" timestamp="1519787904418">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/auth-context.model.ts" timestamp="1522030904904">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="3" column="43" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
@@ -1973,23 +1935,11 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/index.ts" timestamp="1521765818198">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/admin/admin.component.ts" timestamp="1516662355931">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" timestamp="1522035074767">
-        <mark key="'" line="41" column="90" />
-        <mark key="[" line="62" column="93" />
-        <mark key="]" line="62" column="92" />
-        <mark key="." line="62" column="92" />
-        <mark key="^" line="62" column="92" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-handler.service.ts" timestamp="1491262794090">
         <mark key="[" line="16" column="89" />
@@ -2010,19 +1960,19 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/decorators/user.decorator.spec.ts" timestamp="1519787818740">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/pick-history-edit-tab/pick-history-edit-tab.spec.ts" timestamp="1491505854403">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="124" column="22" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" timestamp="1521774889772">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="73" />
-        <mark key="." line="10" column="73" />
-        <mark key="^" line="10" column="73" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/common.db.config.ts" timestamp="1492127736374">
         <mark key="[" line="46" column="0" />
@@ -2041,6 +1991,12 @@
         <mark key="]" line="2" column="82" />
         <mark key="." line="2" column="82" />
         <mark key="^" line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.providers.ts" timestamp="1521766159505">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/providers/device.service.ts" timestamp="1489712138334">
         <mark key="[" line="33" column="5" />
@@ -2080,28 +2036,18 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="E:/Projects/Freshbyte/freshmobile/src/app/pricing-db.config.ts" timestamp="1492133234405">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/affirm-header.js" timestamp="1519854706912">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/crypto.service.ts" timestamp="1521601954669">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="62" />
-        <mark key="." line="6" column="62" />
-        <mark key="^" line="6" column="62" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1520268783496">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="29" column="9" />
-        <mark key="." line="162" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1522942044709">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/faq.module.ts" timestamp="1489959137054">
         <mark key="'" line="13" column="56" />
@@ -2136,6 +2082,20 @@
         <mark key="^" line="125" column="111" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/auth/auth.e2e.spec.ts" timestamp="1521775323945">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/utils/eb-package.sh" timestamp="1521516608381">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-headline-with-cta.liquid" timestamp="1520292890484">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="10" column="80" />
@@ -2162,12 +2122,11 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" timestamp="1522036684306">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="102" column="35" />
-        <mark key="." line="102" column="35" />
-        <mark key="^" line="102" column="35" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" timestamp="1522035934623">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/auth-events.ts" timestamp="1489769889857">
         <mark key="[" line="2" column="41" />
@@ -2188,13 +2147,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/controllers/product-registration.controller.ts" timestamp="1519763109417">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="71" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" timestamp="1520279054534">
         <mark key="'" line="27" column="94" />
         <mark key="[" line="27" column="124" />
@@ -2208,7 +2160,12 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/update/components/index.ts" timestamp="1522729545901" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520318000398">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3355" column="0" />
+        <mark key="]" line="3355" column="0" />
+        <mark key="." line="3355" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/api.service.ts" timestamp="1489537496883">
         <mark key="'" line="38" column="109" />
         <mark key="[" line="38" column="66" />
@@ -2222,11 +2179,18 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" timestamp="1519426464769">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="42" column="5" />
-        <mark key="^" line="48" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" timestamp="1522956751501">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521777118378">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.dev.ts" timestamp="1518548699799">
         <mark key="[" line="6" column="54" />
@@ -2288,19 +2252,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.spec.ts" timestamp="1521594440605">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.providers.ts" timestamp="1521766159505">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/update/updater.module.ts" timestamp="1522729533015" />
       <file name="P:/Projects/Blendtec/transit-api/.gitignore" timestamp="1519768238775">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="22" column="5" />
@@ -2312,6 +2263,12 @@
         <mark key="]" line="22" column="74" />
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/jwt.service.ts" timestamp="1521767281567">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1519855060474">
         <mark key="'" line="21" column="38" />
@@ -2332,12 +2289,6 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.spec.ts" timestamp="1522030270678">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/index.ts" timestamp="1489884914958">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="15" />
@@ -2357,7 +2308,6 @@
         <mark key="." line="79" column="54" />
         <mark key="^" line="79" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/update/providers/index.ts" timestamp="1522729662368" />
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/sales-live/allocation.service.mock.ts" timestamp="1514675267036">
         <mark key="'" line="21" column="10" />
         <mark key="[" line="21" column="23" />
@@ -2378,13 +2328,6 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" timestamp="1522029758534">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="12" column="30" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/signup/signup.ts" timestamp="1488670742016">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="29" column="4" />
@@ -2392,28 +2335,11 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/account.controller.ts" timestamp="1521592035733">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/index.ts" timestamp="1519790416800">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-      </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="29" column="176" />
         <mark key="." line="29" column="92" />
         <mark key="^" line="29" column="92" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/index.ts" timestamp="1521766072201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.ts" timestamp="1492470800724">
         <mark key="'" line="187" column="13" />
@@ -2428,11 +2354,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="P:/Projects/Freshbyte/fb-pricing/gulp/conf.js" timestamp="1516513607016">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/index.ts" timestamp="1491323624077">
         <mark key="[" line="1" column="56" />
@@ -2509,28 +2430,12 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" timestamp="1519752503202">
-        <mark key="'" line="43" column="30" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="8" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/organization.controller.ts" timestamp="1519791474671">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/controllers/expense-report.controller.ts" timestamp="1521949785496">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/dto/account.dto.ts" timestamp="1521767072522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" timestamp="1522956637199">
+        <mark key="'" line="34" column="37" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/providers/sync.service.ts" timestamp="1492131713512">
         <mark key="[" line="16" column="41" />
@@ -2563,11 +2468,18 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1519752826593">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/.travis.yml" timestamp="1522952097958">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.providers.ts" timestamp="1521766135208">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/item-list/item-list.spec.ts" timestamp="1491506143960">
         <mark key="'" line="80" column="0" />
@@ -2575,12 +2487,6 @@
         <mark key="]" line="136" column="30" />
         <mark key="^" line="136" column="30" />
         <mark key="." line="136" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/snippets/drawer-nav.liquid" timestamp="1520318388411">
-        <mark key="[" line="21" column="151" />
-        <mark key="]" line="21" column="151" />
-        <mark key="." line="21" column="151" />
-        <mark key="^" line="21" column="157" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/karma.conf.js" timestamp="1491844874996">
         <mark key="'" line="9" column="32" />
@@ -2607,6 +2513,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/interfaces/user-context.interface.ts" timestamp="1519790277514">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/providers/contact.service.ts" timestamp="1489974855180">
         <mark key="'" line="16" column="78" />
         <mark key="[" line="17" column="4" />
@@ -2614,8 +2526,8 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" timestamp="1519751512205">
-        <mark key="'" line="13" column="63" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" timestamp="1522956509378">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -2634,10 +2546,11 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/sales/providers/customer.service.ts" timestamp="1514664165038">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user.decorator.ts" timestamp="1519788972275">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519854799398">
         <mark key="'" line="146" column="36" />
@@ -2645,11 +2558,6 @@
         <mark key="]" line="188" column="82" />
         <mark key="." line="188" column="9" />
         <mark key="^" line="188" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/index.ts" timestamp="1521766963893">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.scss" timestamp="1489711578106">
         <mark key="[" line="0" column="18" />
@@ -2664,19 +2572,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-hero-section.liquid" timestamp="1520308877573">
-        <mark key="'" line="204" column="4" />
-        <mark key="[" line="38" column="68" />
-        <mark key="]" line="38" column="68" />
-        <mark key="." line="38" column="68" />
-        <mark key="^" line="37" column="56" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" timestamp="1519424726610">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" timestamp="1522956670648">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-gs-one-handler.service.ts" timestamp="1491931377849">
         <mark key="[" line="2" column="47" />
@@ -2698,19 +2599,19 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-report.schema.ts" timestamp="1522033867261">
+        <mark key="'" line="29" column="37" />
+        <mark key="[" line="29" column="90" />
+        <mark key="]" line="29" column="93" />
+        <mark key="^" line="29" column="93" />
+        <mark key="." line="29" column="93" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-featured-blog.liquid" timestamp="1520293793955">
         <mark key="'" line="37" column="34" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="^" line="38" column="55" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/decorators/user.decorator.spec.ts" timestamp="1519787818740">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.scss" timestamp="1489779208444">
         <mark key="[" line="16" column="10" />
@@ -2737,12 +2638,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1519768422881">
+      <file name="P:/Projects/Blendtec/transit-api/package.json" timestamp="1522769442457">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/models/lot.ts" timestamp="1490143604358">
         <mark key="[" line="0" column="50" />
@@ -2783,11 +2684,6 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/request-context.decorator.ts" timestamp="1521777179050">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/providers/scanning/scan-gtin-handler.service.spec.ts" timestamp="1491931244963">
         <mark key="[" line="5" column="63" />
         <mark key="]" line="5" column="62" />
@@ -2820,24 +2716,14 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" timestamp="1521593991452">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="19" />
-        <mark key="." line="277" column="43" />
-        <mark key="^" line="277" column="41" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/search.liquid" timestamp="1522942166796">
+        <mark key="[" line="54" column="44" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
         <mark key="]" line="30" column="26" />
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/auth/pages/login.ts" timestamp="1522729718913">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="31" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.module.ts" timestamp="1490375110555">
         <mark key="'" line="42" column="0" />
@@ -2906,11 +2792,12 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/common.providers.ts" timestamp="1521766900726">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/controllers/user.controller.ts" timestamp="1521593991452">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="19" />
+        <mark key="." line="277" column="43" />
+        <mark key="^" line="277" column="41" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/sales-order.spec.ts" timestamp="1492129333600">
         <mark key="'" line="33" column="70" />
@@ -2926,12 +2813,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user.decorator.ts" timestamp="1519788972275">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/assets/theme.scss.liquid" timestamp="1519848913476">
         <mark key="'" line="189" column="14" />
         <mark key="[" line="5825" column="25" />
@@ -2939,11 +2820,11 @@
         <mark key="." line="5825" column="25" />
         <mark key="^" line="5825" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" timestamp="1520318348755">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="200" />
-        <mark key="." line="142" column="102" />
-        <mark key="^" line="142" column="102" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1522033583313">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/scanning/scan-gs-one-handler.service.spec.ts" timestamp="1491931391718">
         <mark key="'" line="264" column="0" />
@@ -2976,11 +2857,6 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/core/components/binary-version.directive.ts" timestamp="1516662408093">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/tsconfig.json" timestamp="1491871236777">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="20" column="22" />
@@ -3007,11 +2883,11 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/context.model.ts" timestamp="1519790336719">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/exceptions/mongo.exception.ts" timestamp="1521944766171">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/components/sync-menu.directive.ts" timestamp="1492099292401">
         <mark key="[" line="10" column="15" />
@@ -3060,17 +2936,17 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" timestamp="1520318615708">
+        <mark key="'" line="101" column="44" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="37" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/sales.module.ts" timestamp="1492098123001">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520318000398">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3355" column="0" />
-        <mark key="]" line="3355" column="0" />
-        <mark key="." line="3355" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.config.ts" timestamp="1489964993812">
         <mark key="[" line="19" column="29" />
@@ -3090,36 +2966,11 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-report.schema.ts" timestamp="1522033867261">
-        <mark key="'" line="29" column="37" />
-        <mark key="[" line="29" column="90" />
-        <mark key="]" line="29" column="93" />
-        <mark key="^" line="29" column="93" />
-        <mark key="." line="29" column="93" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/user-context.decorator.ts" timestamp="1519790326331">
-        <mark key="'" line="2" column="66" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/services/organization.service.ts" timestamp="1522032486424">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/.gitignore" timestamp="1519954877427">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1522033583313">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-scanning/models/scan-document.enum.ts" timestamp="1491519256503">
         <mark key="[" line="7" column="24" />
@@ -3153,6 +3004,12 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="21" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/decorators/index.ts" timestamp="1519790553932">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/components/item-selector.directive.ts" timestamp="1491930875855">
         <mark key="[" line="3" column="51" />
         <mark key="]" line="3" column="61" />
@@ -3177,16 +3034,17 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/interfaces/expense-report.interface.ts" timestamp="1521947223754">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/models/context.model.ts" timestamp="1519790336719">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/models/recipe.model.ts" timestamp="1488672539928">
         <mark key="'" line="330" column="0" />
@@ -3194,6 +3052,13 @@
         <mark key="]" line="288" column="0" />
         <mark key="^" line="288" column="0" />
         <mark key="." line="288" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" timestamp="1522033577080">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="18" column="71" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/pick-history-edit-tab/pick-history-edit-tab.ts" timestamp="1491505781107">
         <mark key="'" line="52" column="8" />
@@ -3224,39 +3089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="139" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="166" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="105" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="99" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="115" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="107" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="101" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="26" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="118" column="30" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="29" column="41" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="126" column="34" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="30" column="37" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="124" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="130" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="132" column="29" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-background-image.liquid" />
-      <jump line="147" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="537" column="36" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
-      <jump line="545" column="6" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="535" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="541" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="142" column="73" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="284" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="210" column="11" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="278" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="279" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="283" column="3" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="14" column="5" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="58" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="113" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
-      <jump line="191" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-header.liquid" />
       <jump line="178" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
@@ -3323,73 +3155,99 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/schema/user.schema.ts" />
       <jump line="41" column="90" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
       <jump line="193" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/package.json" />
+      <jump line="18" column="0" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
+      <jump line="23" column="42" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
+      <jump line="148" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="24" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="85" column="54" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="120" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
+      <jump line="25" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="26" column="5" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="17" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="19" column="0" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
+      <jump line="7" column="15" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
+      <jump line="11" column="8" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
+      <jump line="4" column="13" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="50" column="4" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="28" column="24" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="24" column="29" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="8" column="10" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="30" column="27" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/validators/iscaptcha.validator.spec.ts" />
+      <jump line="16" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.ts" />
+      <jump line="46" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="48" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="29" column="6" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="39" column="17" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="23" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="10" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="34" column="37" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" />
+      <jump line="11" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.providers.ts" />
+      <jump line="9" column="48" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" />
+      <jump line="25" column="12" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" />
+      <jump line="22" column="12" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" />
+      <jump line="29" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="50" column="6" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>4.0.1</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>let</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1wbHVnaW4ta2V5Ym9hcmQiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4taW9uaWMta2V5Ym9hcmQiIHNwZWM9In4yLjAuNSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iaW9uaWMtcGx1Z2luLWtleWJvYXJkIiBzcGVjPSIyLjIuMSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImlvbmljLXBsdWdpbi1rZXlib2FyZCI6IHt9Cg==</text>
+        <text encoding="base64">CQkJLy8gZmluZDogamVzdC5mbigpLm1vY2tSZXR1cm5UaGlzKCksCgkJCS8vIGV4ZWM6IGplc3QuZm4oKSwKCQkJLy8gc2F2ZTogamVzdC5mbigpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1wbHVnaW4ta2V5Ym9hcmQiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1zcWxpdGUtc3RvcmFnZSIgc3BlYz0ifjIuMC4wIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXNxbGl0ZS1zdG9yYWdlIjogIn4yLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoe30pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iaW9uaWMtcGx1Z2luLWtleWJvYXJkIiBzcGVjPSIyLjIuMSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpb25pYy1wbHVnaW4ta2V5Ym9hcmQiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1ob2NrZXlhcHAiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgIDwhLS0gL3RlbXBsYXRlcy9wYWdlLmxpcXVpZCAtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>let</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace>collection1</last-replace>
-      <last-substitute>blender1</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>let</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
-        <entry>'</entry>
-        <entry>A</entry>
-        <entry>console</entry>
-        <entry>(</entry>
-        <entry>)</entry>
-        <entry>acc</entry>
         <entry>User</entry>
         <entry>UserService</entry>
         <entry>Obj</entry>
@@ -3401,11 +3259,17 @@
         <entry>p</entry>
         <entry>any</entry>
         <entry>index</entry>
-        <entry>~</entry>
-        <entry>1</entry>
+        <entry>PageContainer</entry>
+        <entry>collection.products</entry>
+        <entry>grid--products grid--ful</entry>
+        <entry>Is</entry>
+        <entry>IsM</entry>
+        <entry>)</entry>
+        <entry>rej</entry>
+        <entry>&quot;</entry>
+        <entry>let</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/req/ctx/gc</entry>
         <entry>%s/top_header/line_one/gc</entry>
         <entry>%s/second_header/line_two/gc</entry>
         <entry>%s/third_header/line_three/gc</entry>
@@ -3424,6 +3288,7 @@
         <entry>%s/blender1/collection1/gc</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
