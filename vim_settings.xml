@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -745,7 +745,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1522768422294" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1924,6 +1923,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/checkout.liquid" timestamp="1523641532984">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="37" column="0" />
@@ -2279,11 +2284,11 @@
         <mark key="]" line="3" column="50" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1519855060474">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1523641407105">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="114" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/binary-version.directive.ts" timestamp="1491496932898">
         <mark key="[" line="29" column="39" />
@@ -3201,7 +3206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUT1RBTCBQUklDRQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3210,46 +3215,46 @@
         <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Tax</text>
+        <text>Taxes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUT1RBTCBQUklDRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUT1RBTCBQUklDRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gZmluZDogamVzdC5mbigpLm1vY2tSZXR1cm5UaGlzKCksCgkJCS8vIGV4ZWM6IGplc3QuZm4oKSwKCQkJLy8gc2F2ZTogamVzdC5mbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUT1RBTCBQUklDRQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoe30pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJLy8gZmluZDogamVzdC5mbigpLm1vY2tSZXR1cm5UaGlzKCksCgkJCS8vIGV4ZWM6IGplc3QuZm4oKSwKCQkJLy8gc2F2ZTogamVzdC5mbigpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gL3RlbXBsYXRlcy9wYWdlLmxpcXVpZCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoe30pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tax</last-search>
+      <last-search>Taxes</last-search>
       <last-offset />
-      <last-pattern>Tax</last-pattern>
+      <last-pattern>Taxes</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3257,7 +3262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserService</entry>
         <entry>Obj</entry>
         <entry>orgI</entry>
         <entry>await</entry>
@@ -3277,6 +3281,7 @@
         <entry>&quot;</entry>
         <entry>let</entry>
         <entry>Tax</entry>
+        <entry>Taxes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/top_header/line_one/gc</entry>
