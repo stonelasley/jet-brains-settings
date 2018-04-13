@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="P" line="3" column="51" filename="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" />
     </globalmarks>
@@ -680,6 +680,9 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="2" column="42" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/themekit_ignores" timestamp="1523639562368">
+        <mark key="[" line="15" column="14" />
+      </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" timestamp="1492133336233">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="0" column="13" />
@@ -1249,6 +1252,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/notifications/README.txt" timestamp="1523639608334">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520038774900">
         <mark key="[" line="199" column="10" />
         <mark key="]" line="199" column="13" />
@@ -1286,6 +1292,9 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
+      </file>
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/notifications/order_confirmation.liquid" timestamp="1523639678038">
+        <mark key="'" line="343" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.html" timestamp="1491503212814">
         <mark key="[" line="15" column="56" />
@@ -3089,7 +3098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="16" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
@@ -3189,6 +3197,7 @@
       <jump line="29" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="50" column="6" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
+      <jump line="343" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/notifications/order_confirmation.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3201,7 +3210,7 @@
         <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>let</text>
+        <text>Tax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
@@ -3238,17 +3247,16 @@
       </register>
     </registers>
     <search>
-      <last-search>let</last-search>
+      <last-search>Tax</last-search>
       <last-offset />
-      <last-pattern>let</last-pattern>
+      <last-pattern>Tax</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>User</entry>
         <entry>UserService</entry>
         <entry>Obj</entry>
         <entry>orgI</entry>
@@ -3268,6 +3276,7 @@
         <entry>rej</entry>
         <entry>&quot;</entry>
         <entry>let</entry>
+        <entry>Tax</entry>
       </history-search>
       <history-cmd>
         <entry>%s/top_header/line_one/gc</entry>
