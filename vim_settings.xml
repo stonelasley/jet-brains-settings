@@ -1923,7 +1923,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/checkout.liquid" timestamp="1523641532984">
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/checkout.liquid" timestamp="1523643107003">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="32" column="24" />
         <mark key="^" line="32" column="24" />
@@ -2284,11 +2284,12 @@
         <mark key="]" line="3" column="50" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1523641407105">
-        <mark key="'" line="21" column="38" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" timestamp="1523643600706">
+        <mark key="'" line="167" column="8" />
+        <mark key="[" line="167" column="8" />
+        <mark key="]" line="167" column="10" />
+        <mark key="." line="167" column="10" />
+        <mark key="^" line="167" column="10" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/auth/components/binary-version.directive.ts" timestamp="1491496932898">
         <mark key="[" line="29" column="39" />
@@ -3103,7 +3104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
       <jump line="35" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
       <jump line="17" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.ts" />
@@ -3203,19 +3203,20 @@
       <jump line="50" column="6" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="343" column="34" filename="P:/Projects/Blendtec/blendtec-shopify-theme/notifications/order_confirmation.liquid" />
+      <jump line="167" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUT1RBTCBQUklDRQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>Taxes</text>
+        <text>sett</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbG9hZCBpbnN0YW5jZScpOwo=</text>
@@ -3252,9 +3253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Taxes</last-search>
+      <last-search>sett</last-search>
       <last-offset />
-      <last-pattern>Taxes</last-pattern>
+      <last-pattern>sett</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3262,7 +3263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Obj</entry>
         <entry>orgI</entry>
         <entry>await</entry>
         <entry>func</entry>
@@ -3282,6 +3282,7 @@
         <entry>let</entry>
         <entry>Tax</entry>
         <entry>Taxes</entry>
+        <entry>sett</entry>
       </history-search>
       <history-cmd>
         <entry>%s/top_header/line_one/gc</entry>
