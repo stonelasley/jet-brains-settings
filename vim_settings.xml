@@ -2191,12 +2191,12 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" timestamp="1522956751501">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" timestamp="1523657954471">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="50" column="6" />
-        <mark key="^" line="50" column="6" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" timestamp="1521777118378">
         <mark key="'" line="73" column="0" />
@@ -3204,14 +3204,14 @@
       <jump line="167" column="8" filename="P:/Projects/Blendtec/blendtec-shopify-theme/templates/cart.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IsSerialSuffix</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>IsSerialSuffix</text>
       </register>
       <register name="/" type="4">
         <text>sett</text>
