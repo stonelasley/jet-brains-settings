@@ -196,10 +196,10 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" timestamp="1523675951758">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="14" column="62" />
-        <mark key="." line="14" column="62" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.service.ts" timestamp="1523678284459">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="14" column="62" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/alert-controller.ts" timestamp="1491335217025">
@@ -1068,6 +1068,13 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.ts" timestamp="1523678199925">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="39" />
+      </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/gs-1.reader.ts" timestamp="1491501761918">
         <mark key="'" line="24" column="10" />
         <mark key="[" line="20" column="0" />
@@ -1466,6 +1473,13 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.ts" timestamp="1523677805292">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.ts" timestamp="1516207446850">
         <mark key="'" line="111" column="117" />
@@ -1953,11 +1967,10 @@
         <mark key="^" line="124" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.component.ts" timestamp="1523676500898">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="27" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.component.ts" timestamp="1523677863494">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" timestamp="1521774889772">
         <mark key="'" line="5" column="12" />
@@ -2260,11 +2273,10 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.component.html" timestamp="1523676894416">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.component.html" timestamp="1523677979290">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.spec.ts" timestamp="1522030270678">
         <mark key="[" line="17" column="36" />
@@ -3089,10 +3101,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.html" timestamp="1523676758802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.html" timestamp="1523678352810">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/models/faq.model.ts" timestamp="1489884834720">
         <mark key="'" line="41" column="4" />
@@ -3116,10 +3128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="44" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendtec-shopify-theme/sections/bt-featured-collection.liquid" />
-      <jump line="35" column="25" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
-      <jump line="24" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/.travis.yml" />
-      <jump line="17" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.ts" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/package.json" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
       <jump line="33" column="19" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/account/account.e2e.spec.ts" />
@@ -3216,58 +3224,62 @@
       <jump line="50" column="6" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="0" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="2" column="11" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile.component.html" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list-item/profile-list-item.component.ts" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Blendtec/blendwizard/src/app/profiles/profile-list/profile-list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>I</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8IS0tPGFwcC1wcm9maWxlLWxpc3QgW3Byb2ZpbGVzXT0icHJvZmlsZXMiID48L2FwcC1wcm9maWxlLWxpc3Q+LS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7e3Byb2ZpbGVzLmxlbmd0aH19Cg==</text>
+        <text encoding="base64">ICB7e3Byb2ZpbGV9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7eyBwcm9maWxlcy5sZW5ndGg7IH19Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJRCcsIGlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUkVTT0xWRUQgUFJPRklMRScsIHApOwo=</text>
+        <text encoding="base64">UFJPRklMRSBMSVNUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSh4ID0+IGNvbnNvbGUubG9nKCdQUk9GSUxFUycsIHgpKTsK</text>
+        <text encoding="base64">ICAgIFBST0ZJTEVTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UuYWxsKCkK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIHNlcnZpY2U6IFByb2ZpbGVTZXJ2aWNlKSB7CiAgICB0aGlzLnByb2ZpbGVzID0gc2VydmljZS5hbGwoKTsKICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZShjb25zb2xlLmxvZygnUFJPRklMRVMnLCB4KSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YXBwLXByb2ZpbGUtbGlzdCBbcHJvZmlsZXNdPSJwcm9maWxlcyIgPjwvYXBwLXByb2ZpbGUtbGlzdD4K</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UuYWxsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihQcikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>I</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>I</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3275,7 +3287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserService</entry>
         <entry>Obj</entry>
         <entry>orgI</entry>
         <entry>await</entry>
@@ -3295,6 +3306,7 @@
         <entry>&quot;</entry>
         <entry>let</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>I</entry>
       </history-search>
       <history-cmd>
         <entry>%s/top_header/line_one/gc</entry>
@@ -3313,10 +3325,10 @@
         <entry>%s/section4_link/cta_url/gc</entry>
         <entry>%s/section4_link_text/cta_text/gc</entry>
         <entry>%s/blender1/collection1/gc</entry>
-        <entry>wq</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
