@@ -348,11 +348,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" timestamp="1523901482441">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="7" column="40" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" timestamp="1523902846153">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
@@ -405,6 +405,12 @@
         <mark key="]" line="6" column="62" />
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
+      </file>
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" timestamp="1523902446846">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/readers/itf-14.reader.ts" timestamp="1489249917956">
         <mark key="'" line="3" column="30" />
@@ -491,11 +497,10 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523662120086">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="48" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523903634554">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/ormconfig.env" timestamp="1523899086311">
         <mark key="[" line="0" column="0" />
@@ -1005,7 +1010,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1523661039752">
+      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1523903286686">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="43" />
@@ -1291,11 +1296,11 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/app.module.ts" timestamp="1523896121977">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/app.module.ts" timestamp="1523902838293">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="62" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/index.ts" timestamp="1492466409275">
         <mark key="[" line="16" column="25" />
@@ -1437,11 +1442,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/models/serial-prefix.entity.ts" timestamp="1523896396354">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/models/serial-prefix.entity.ts" timestamp="1523903817824">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/ira.js.liquid" timestamp="1520265745780">
         <mark key="'" line="373" column="6" />
@@ -1575,16 +1581,15 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1523899840961">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1523903627339">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1522956724454">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1523903804615">
         <mark key="'" line="22" column="12" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="29" />
         <mark key="^" line="65" column="21" />
         <mark key="." line="63" column="0" />
       </file>
@@ -3183,10 +3188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="81" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="42" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="43" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="52" column="21" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="70" column="22" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="5" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.providers.ts" />
@@ -3283,68 +3284,69 @@
       <jump line="9" column="16" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.ts" />
       <jump line="124" column="55" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/footer.liquid" />
       <jump line="136" column="67" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/footer.liquid" />
+      <jump line="6" column="32" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" />
+      <jump line="4" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" />
+      <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
+      <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/models/serial-prefix.entity.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>small</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>small</text>
+        <text>Prim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcy5lYWNoKHIgPT4ge2NvbnNvbGUubG9nKCdSRVBPOiAnLCByKTt9KQo=</text>
+        <text encoding="base64">CUBQcmltYXJ5R2VuZXJhdGVkQ29sdW1uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9vdGVyLWxvd2VyIGdyaWRfX2l0ZW0iPgogICAgICAgIDxkaXYgY2xhc3M9ImxhcmdlLS1sZWZ0Ij4KICAgICAgICAgIHslIGlmIHNlY3Rpb24uc2V0dGluZ3MuZW5hYmxlX3Nob3BfbmFtZSAlfQogICAgICAgICAgICA8YSBocmVmPSIvIiBpdGVtcHJvcD0idXJsIj4KICAgICAgICAgICAgICA8aDEgY2xhc3M9J3Nob3AtbmFtZSc+e3sgc2hvcC5uYW1lIH19PC9oMT4KICAgICAgICAgICAgPC9hPgogICAgICAgICAgeyUgZWxzaWYgc2hvcC5lbmFibGVkX3BheW1lbnRfdHlwZXMuc2l6ZSA+IDAgJX0KICAgICAgICAgICAgeyUgaW5jbHVkZSAiZm9vdGVyLXBheW1lbnRzIiAlfQogICAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Q29sdW1uKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VyaWFsUHJlZml4IH0gICBmcm9tICcuL21vZGVscy9zZXJpYWwtcHJlZml4LmVudGl0eSc7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHlwZU9ybU1vZHVsZSB9ICBmcm9tICdAbmVzdGpzL3R5cGVvcm0nOwo=</text>
+        <text encoding="base64">REJfSE9TVD1MT0NBTEhPU1QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QE1vZHVsZSh7CglpbXBvcnRzOiBbZWZpeAo=</text>
+        <text encoding="base64">REJfUEFTU1dPUkQ9MTIzNAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>TypeOrmModule.forFeature([
-		SerialPr</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9EQl9QQVNTV09SRD0zangzSXJWMDRaVHVMYUFXZTI5ego=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VyaWFsUHJlZml4IH0gZnJvbSAnLi4vLi4vcHJvZHVjdC1yZWdpc3RyYXRpb24vbW9kZWxzL3Byb2R1Y3QtcmVnaXN0cmF0aW9uLmVudGl0eSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VyaWFsTnVtYmVyTW9kdWxlTW9kdWxlIH0gIGZyb20gJy4vbW9kdWxlcy9zZXJpYWwtbnVtYmVyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0UmVwb3NpdG9yeSB9ICAgIGZyb20gJ0BuZXN0anMvdHlwZW9ybSc7Cg==</text>
+        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1bc3JjLyoqLyoqLmVudGl0eXsudHMuanN9XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcy5lYWNoKHIgPT4ge2NvbnNvbGUubG9nKCdSRVBPOiAnLCByKTt9KQo=</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPW15c3FsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>small</last-search>
+      <last-search>Prim</last-search>
       <last-offset />
-      <last-pattern>small</last-pattern>
+      <last-pattern>Prim</last-pattern>
       <last-replace>SerialPrefix</last-replace>
       <last-substitute>ProductRegistration</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IsM</entry>
-        <entry>)</entry>
         <entry>rej</entry>
         <entry>let</entry>
         <entry>Tax</entry>
@@ -3359,10 +3361,12 @@
         <entry encoding="base64">Olwg</entry>
         <entry>,</entry>
         <entry>.</entry>
-        <entry>productRegistration</entry>
-        <entry>ProductRegistration</entry>
         <entry>disc</entry>
         <entry>small</entry>
+        <entry>productRegistration</entry>
+        <entry>ProductRegistration</entry>
+        <entry>3</entry>
+        <entry>Prim</entry>
       </history-search>
       <history-cmd>
         <entry>%s/section4_headine/header/gc</entry>
@@ -3374,17 +3378,17 @@
         <entry>%s/blender1/collection1/gc</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%s/ProductRegistration/SerialNumber/g</entry>
-        <entry>%s/productRegistration/serialNumber/g</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>%s/&quot;//g</entry>
         <entry>%s/:\ //g</entry>
         <entry>%s/:\ /=/g</entry>
         <entry>%s/,//g</entry>
-        <entry>wq</entry>
         <entry>%s/productRegistration/serialPrefix/g</entry>
+        <entry>%s/productRegistration/serialNumber/g</entry>
         <entry>%s/ProductRegistration/SerialPrefix/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
