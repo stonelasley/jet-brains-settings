@@ -497,10 +497,10 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523903634554">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523904330996">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/ormconfig.env" timestamp="1523899086311">
         <mark key="[" line="0" column="0" />
@@ -2414,10 +2414,12 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" timestamp="1523662001658">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" timestamp="1523904460217">
+        <mark key="'" line="34" column="35" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/.travis.yml" timestamp="1518559742891">
         <mark key="[" line="24" column="0" />
@@ -2514,7 +2516,7 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" timestamp="1522956637199">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/services/product-registration.service.spec.ts" timestamp="1523904401478">
         <mark key="'" line="34" column="37" />
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -3188,7 +3190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="22" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="5" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.providers.ts" />
       <jump line="14" column="61" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.ts" />
@@ -3288,66 +3289,66 @@
       <jump line="4" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" />
       <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
       <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/models/serial-prefix.entity.ts" />
+      <jump line="34" column="35" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Prim</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBQcmltYXJ5R2VuZXJhdGVkQ29sdW1uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Q29sdW1uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">REJfSE9TVD1MT0NBTEhPU1QK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REJfUEFTU1dPUkQ9MTIzNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChuZXdNb2RlbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9EQl9QQVNTV09SRD0zangzSXJWMDRaVHVMYUFXZTI5ego=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2VydmljZS5jcmVhdGUoZHRvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VyaWFsTnVtYmVyTW9kdWxlTW9kdWxlIH0gIGZyb20gJy4vbW9kdWxlcy9zZXJpYWwtbnVtYmVyJzsK</text>
+        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIHJldHVybiBuZXdseSBjcmVhdGVkIHJlZ2lzdHJhdGlvbicsIGFzeW5jICgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnR0VUJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1bc3JjLyoqLyoqLmVudGl0eXsudHMuanN9XQo=</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Q29sdW1uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPW15c3FsCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Prim</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>Prim</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>SerialPrefix</last-replace>
       <last-substitute>ProductRegistration</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rej</entry>
         <entry>let</entry>
         <entry>Tax</entry>
         <entry>Taxes</entry>
@@ -3367,6 +3368,7 @@
         <entry>ProductRegistration</entry>
         <entry>3</entry>
         <entry>Prim</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>%s/section4_headine/header/gc</entry>
