@@ -348,7 +348,8 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" timestamp="1523902846153">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" timestamp="1523906619986">
+        <mark key="'" line="10" column="31" />
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="31" />
         <mark key="^" line="10" column="31" />
@@ -406,8 +407,8 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" timestamp="1523902446846">
-        <mark key="'" line="4" column="0" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" timestamp="1523906656676">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -497,7 +498,8 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523904330996">
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" timestamp="1523906610844">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -769,6 +771,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
+      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1523906384765" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1010,7 +1013,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1523903286686">
+      <file name="P:/Projects/Blendtec/transit-api/src/main.ts" timestamp="1523907032773">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="43" />
@@ -2414,8 +2417,8 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" timestamp="1523904460217">
-        <mark key="'" line="34" column="35" />
+      <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" timestamp="1523906664772">
+        <mark key="'" line="38" column="2" />
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="27" />
         <mark key="^" line="15" column="27" />
@@ -3190,10 +3193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="7" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/auth.providers.ts" />
-      <jump line="14" column="61" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.ts" />
-      <jump line="57" column="71" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="34" column="24" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="23" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/jwt.service.ts" />
       <jump line="14" column="10" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/models/auth-token.model.ts" />
@@ -3290,6 +3289,10 @@
       <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/environments/.env" />
       <jump line="5" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/models/serial-prefix.entity.ts" />
       <jump line="34" column="35" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" />
+      <jump line="11" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/controllers/serial-number.controller.ts" />
+      <jump line="10" column="31" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" />
+      <jump line="3" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.providers.ts" />
+      <jump line="38" column="2" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3335,7 +3338,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3389,8 +3392,8 @@
         <entry>%s/productRegistration/serialNumber/g</entry>
         <entry>%s/ProductRegistration/SerialPrefix/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
