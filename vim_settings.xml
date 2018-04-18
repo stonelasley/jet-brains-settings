@@ -1380,11 +1380,11 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1524092537141">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1524093475623">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/utils/aim-parser.spec.ts" timestamp="1491499709965">
         <mark key="[" line="1" column="4" />
@@ -3303,13 +3303,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Thermometer</text>
+        <text>monitor</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Thermometer</text>
+        <text>monitor</text>
       </register>
       <register name="/" type="4">
         <text>sendEvent</text>
