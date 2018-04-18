@@ -1380,11 +1380,11 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1516744511143">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="20" column="40" />
-        <mark key="." line="20" column="40" />
+      <file name="P:/Projects/Blendtec/monitor-lizard/package.json" timestamp="1524092537141">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/utils/aim-parser.spec.ts" timestamp="1491499709965">
         <mark key="[" line="1" column="4" />
@@ -2164,12 +2164,12 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="51" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1524089851066">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="92" column="24" />
-        <mark key="]" line="92" column="24" />
-        <mark key="." line="92" column="24" />
-        <mark key="^" line="133" column="5" />
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1524092713019">
+        <mark key="'" line="98" column="34" />
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="34" />
+        <mark key="^" line="90" column="34" />
+        <mark key="." line="90" column="34" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520293604764">
         <mark key="'" line="48" column="15" />
@@ -3200,7 +3200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/models/auth-token.model.ts" />
       <jump line="11" column="15" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.ts" />
       <jump line="39" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.ts" />
       <jump line="36" column="53" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
@@ -3300,49 +3299,50 @@
       <jump line="38" column="2" filename="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/services/serial-prefix.service.spec.ts" />
       <jump line="86" column="0" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="134" column="0" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
+      <jump line="101" column="34" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Temperature</text>
+        <text>Thermometer</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Temperature</text>
+        <text>Thermometer</text>
       </register>
       <register name="/" type="4">
         <text>sendEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBQcmltYXJ5R2VuZXJhdGVkQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIHJlbW90ZV9tb25pdG9yaW5nLmpzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1NlbmRpbmcgZGV2aWNlIG1ldGFkYXRhOlxuJyArIEpTT04uc3RyaW5naWZ5KGRldmljZU1ldGFEYXRhKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gTGljZW5zZWQgdW5kZXIgdGhlIE1JVCBsaWNlbnNlLiBTZWUgTElDRU5TRSBmaWxlIGluIHRoZSBwcm9qZWN0IHJvb3QgZm9yIGZ1bGwgbGljZW5zZSBpbmZvcm1hdGlvbi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IChjKSBNaWNyb3NvZnQuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1NlbmRpbmcgZGV2aWNlIG1ldGFkYXRhOlxuJyArIEpTT04uc3RyaW5naWZ5KGRldmljZU1ldGFEYXRhKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChuZXdNb2RlbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2VydmljZS5jcmVhdGUoZHRvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIHJldHVybiBuZXdseSBjcmVhdGVkIHJlZ2lzdHJhdGlvbicsIGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnR0VUJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChuZXdNb2RlbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Q29sdW1uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2VydmljZS5jcmVhdGUoZHRvKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
