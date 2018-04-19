@@ -2164,12 +2164,12 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="51" />
       </file>
-      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1524092713019">
+      <file name="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" timestamp="1524162209179">
         <mark key="'" line="98" column="34" />
-        <mark key="[" line="90" column="24" />
-        <mark key="]" line="90" column="34" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="34" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="17" column="66" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-image-with-text.liquid" timestamp="1520293604764">
         <mark key="'" line="48" column="15" />
@@ -3303,13 +3303,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>monitor</text>
+        <text>'\n</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>monitor</text>
+        <text>'\n</text>
       </register>
       <register name="/" type="4">
         <text>sendEvent</text>
