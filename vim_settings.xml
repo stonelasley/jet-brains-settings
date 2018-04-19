@@ -2561,12 +2561,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" timestamp="1524177551842">
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" timestamp="1524178741090">
         <mark key="'" line="104" column="76" />
-        <mark key="[" line="106" column="62" />
-        <mark key="]" line="106" column="79" />
-        <mark key="^" line="96" column="73" />
-        <mark key="." line="106" column="62" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/index.ts" timestamp="1514668778451">
         <mark key="[" line="0" column="15" />
@@ -2853,13 +2853,6 @@
         <mark key="]" line="39" column="29" />
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" timestamp="1520016927826">
-        <mark key="'" line="1726" column="4" />
-        <mark key="[" line="4266" column="13" />
-        <mark key="]" line="4266" column="13" />
-        <mark key="." line="4266" column="13" />
-        <mark key="^" line="4266" column="13" />
       </file>
       <file name="P:/Projects/Blendtec/vendor-labels/karma.conf.js" timestamp="1524176658627">
         <mark key="[" line="24" column="31" />
@@ -3287,13 +3280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="90" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="193" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/node_modules/@nestjs/core/injector/injector.js" />
-      <jump line="18" column="0" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
-      <jump line="23" column="42" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
-      <jump line="148" column="6" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="24" column="12" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
-      <jump line="85" column="54" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="120" column="31" filename="P:/Projects/Blendtec/blendtec-shopify-theme/sections/collection-template.liquid" />
       <jump line="25" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="26" column="5" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
@@ -3387,58 +3373,65 @@
       <jump line="79" column="10" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
       <jump line="30" column="2" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.ts" />
       <jump line="104" column="76" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="8605" column="18" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="24" column="10" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="25" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="121" column="3" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="1462" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
+      <jump line="9489" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">W2JjLWhlaWdodF09IjUwIiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>A</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">W2JjLWhlaWdodF09IjUwIiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Lyo9PT09PT09PT09PT09PT09IEFGRklSTSA9PT09PT09PT09PT09PT09Ki8K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGJ1dHRvbiBuYW1lPSJidXR0b24iIGNsYXNzPSJidG4iIG9uQ2xpY2s9IndpbmRvdy5wcmludCgpIj4KICAgICAgICAgICAge3snQlVUVE9OLlBSSU5UJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICA8L2J1dHRvbj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlci1sZWZ0LWNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlci1yaWdodC1jb2xvcjogYmxhY2s7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgPHN0eWxlPgogICAgICAgIEBtZWRpYSBwcmludAogICAgICAgIHsKICAgICAgICAgIC5uby1wcmludCwgLm5vLXByaW50ICoKICAgICAgICAgIHsKICAgICAgICAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLnZlbmRvci1sYWJlbCB7CiAgICAgICAgICBib3JkZXI6IDJweCBkYXNoZWQgIzAwMDAwMDsKICAgICAgICAgIHBhZGRpbmc6IDJlbTsKICAgICAgICB9CiAgICAgIDwvc3R5bGU+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlci10b3AtY29sb3I6IGJsYWNrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8qYm9yZGVyLXdpZHRoOiAyZW07Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuYXNzZXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8qYm9yZGVyLXN0eWxlOiBkYXNoZWQ7Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVUJNSVRURUQgZm9ybScsIGZvcm0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8qYm9yZGVyLWNvbG9yOiBibGFjazsqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWFsZXJTZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb3VudHJ5U2VydmljZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZVNlcnZpY2UsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGJ1dHRvbiBuYW1lPSJidXR0b24iIGNsYXNzPSJidG4iIG9uQ2xpY2s9IndpbmRvdy5wcmludCgpIj4KICAgICAgICAgICAge3snQlVUVE9OLlBSSU5UJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICA8L2J1dHRvbj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>A</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>A</last-pattern>
       <last-replace>form</last-replace>
       <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
@@ -3446,11 +3439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FIRST_NAME</entry>
-        <entry>LAST_NAME</entry>
-        <entry>ADDRESS</entry>
-        <entry>CITY</entry>
-        <entry>ZIP</entry>
         <entry>COUNTRY</entry>
         <entry encoding="base64">IGlzIHJlcXVpcmVk</entry>
         <entry>produc</entry>
@@ -3466,6 +3454,11 @@
         <entry>label</entry>
         <entry>v</entry>
         <entry>&quot;</entry>
+        <entry>print</entry>
+        <entry>Print</entry>
+        <entry>Helper</entry>
+        <entry>Helper Classes</entry>
+        <entry>A</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ProductRegistration/SerialPrefix/g</entry>
