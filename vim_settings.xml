@@ -237,11 +237,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/models/index.ts" timestamp="1524169768474">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.ts" timestamp="1491505949687">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -296,10 +291,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/index.html" timestamp="1524171407122">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="P:/Projects/Blendtec/vendor-labels/src/index.html" timestamp="1524180167322">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/sales-live-db.config.ts" timestamp="1492130929046">
         <mark key="'" line="46" column="0" />
@@ -515,11 +511,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/ormconfig.env" timestamp="1523899086311">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/src/mocks/loading-controller.ts" timestamp="1491348215259">
         <mark key="'" line="7" column="13" />
@@ -1622,11 +1613,6 @@
         <mark key="]" line="34" column="20" />
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
-      </file>
-      <file name="P:/Projects/Blendtec/transit-api/environments/.env" timestamp="1523903627339">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/vendor-labels/src/environments/environment.ts" timestamp="1524172242913">
         <mark key="[" line="7" column="68" />
@@ -3382,14 +3368,14 @@
       <jump line="9489" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>International Dealers</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>International Dealers</text>
       </register>
       <register name="/" type="4">
         <text>A</text>
