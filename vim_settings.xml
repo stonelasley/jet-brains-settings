@@ -288,12 +288,18 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/package.json" timestamp="1524171806072" />
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/faq-list/faq-list.page.ts" timestamp="1489962792558">
         <mark key="'" line="17" column="21" />
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/index.html" timestamp="1524171407122">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/app/sales-live-db.config.ts" timestamp="1492130929046">
         <mark key="'" line="46" column="0" />
@@ -353,6 +359,7 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/registration/registration.component.html" timestamp="1524171054810" />
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/serial-number/serial-number.module.ts" timestamp="1523906619986">
         <mark key="'" line="10" column="31" />
         <mark key="[" line="10" column="31" />
@@ -664,9 +671,6 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524151121000">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
         <mark key="'" line="21" column="55" />
         <mark key="[" line="36" column="25" />
@@ -710,9 +714,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="2" column="42" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/themekit_ignores" timestamp="1523639562368">
-        <mark key="[" line="15" column="14" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/src/config/table.config.ts" timestamp="1492133336233">
         <mark key="'" line="138" column="0" />
@@ -776,7 +777,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="E:/Projects/TEMP/ediblestore/EdibleStore.Web.Client/src/app/catalog/directives/item-panel.directive.js" timestamp="1523906384765" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/full-item.ts" timestamp="1490904097010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -801,11 +801,11 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.ts" timestamp="1524170996625">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.ts" timestamp="1524173443472">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="P:/Projects/Blendtec/dealer-application/src/environments/environment.stage.ts" timestamp="1518548666012">
         <mark key="[" line="6" column="46" />
@@ -838,6 +838,13 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/assets/i18n/en.json" timestamp="1524172399343">
+        <mark key="'" line="2" column="51" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
@@ -1247,6 +1254,13 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/environments/environment.stage.ts" timestamp="1524172230585">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" timestamp="1521774889772">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="10" column="41" />
@@ -1293,9 +1307,6 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/notifications/README.txt" timestamp="1523639608334">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/product-template.liquid" timestamp="1520038774900">
         <mark key="[" line="199" column="10" />
@@ -1425,6 +1436,12 @@
         <mark key="]" line="12" column="60" />
         <mark key="^" line="12" column="60" />
         <mark key="." line="12" column="60" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/environments/environment.prod.ts" timestamp="1524172274060">
+        <mark key="'" line="2" column="65" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-pricing/gulpfile.js" timestamp="1492032190706">
         <mark key="[" line="23" column="23" />
@@ -1602,6 +1619,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/environments/environment.ts" timestamp="1524172242913">
+        <mark key="[" line="7" column="68" />
+        <mark key="]" line="7" column="68" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="7" column="68" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/product-registration.entity.ts" timestamp="1523903804615">
         <mark key="'" line="22" column="12" />
@@ -1837,11 +1860,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.module.ts" timestamp="1524169993773">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.module.ts" timestamp="1524173208521">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/recipes/pages/recipe-list/recipe-list.page.ts" timestamp="1488671822082">
         <mark key="'" line="52" column="53" />
@@ -1850,11 +1873,11 @@
         <mark key="^" line="52" column="53" />
         <mark key="." line="52" column="53" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/package.json" timestamp="1524169176034">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="P:/Projects/Blendtec/vendor-labels/package.json" timestamp="1524173520906">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/faqs/pages/index.ts" timestamp="1489888543420">
         <mark key="[" line="5" column="0" />
@@ -1993,9 +2016,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/checkout.liquid" timestamp="1523648279885">
-        <mark key="[" line="31" column="43" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/products/models/product.model.ts" timestamp="1488670368448">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="37" column="0" />
@@ -2008,6 +2028,12 @@
         <mark key="]" line="1" column="43" />
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/config/app-config.module.ts" timestamp="1524173086126">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/providers/purchase-order.service.ts" timestamp="1492118866518">
         <mark key="'" line="18" column="86" />
@@ -2190,6 +2216,12 @@
         <mark key="." line="10" column="80" />
         <mark key="^" line="10" column="80" />
       </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/environments/environment.develop.ts" timestamp="1524172293846">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/sections/bt-footer.liquid" timestamp="1523902070968">
         <mark key="'" line="120" column="92" />
         <mark key="[" line="106" column="51" />
@@ -2273,6 +2305,12 @@
         <mark key="[" line="3355" column="0" />
         <mark key="]" line="3355" column="0" />
         <mark key="." line="3355" column="0" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/config/models/app-config.interface.ts" timestamp="1524172326681">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/fb-mobile-core/providers/api.service.ts" timestamp="1489537496883">
         <mark key="'" line="38" column="109" />
@@ -2496,6 +2534,7 @@
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
       </file>
+      <file name="P:/Projects/Blendtec/registration/src/app/config/models/app-config.interface.ts" timestamp="1524171956856" />
       <file name="E:/Projects/Freshbyte/freshmobile/node_modules/fb-mobile-core/dist/providers/table-sync.service.js" timestamp="1492118182325">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="41" />
@@ -2513,6 +2552,13 @@
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" timestamp="1524174171665">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="77" column="89" />
+        <mark key="]" line="77" column="88" />
+        <mark key="^" line="77" column="88" />
+        <mark key="." line="77" column="88" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/index.ts" timestamp="1514668778451">
         <mark key="[" line="0" column="15" />
@@ -2856,9 +2902,6 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/search.liquid" timestamp="1522942166796">
-        <mark key="[" line="54" column="44" />
-      </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
         <mark key="]" line="30" column="26" />
@@ -2979,7 +3022,7 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1518547641542">
+      <file name="P:/Projects/Blendtec/registration/src/app/app.module.ts" timestamp="1524171962132">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="28" column="23" />
@@ -3235,34 +3278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.ts" />
-      <jump line="36" column="53" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="12" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" />
-      <jump line="5" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/user.module.ts" />
-      <jump line="3" column="17" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/account/account.providers.ts" />
-      <jump line="6" column="37" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="87" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="8" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/jwt.service.ts" />
-      <jump line="275" column="18" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" />
-      <jump line="279" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/controllers/user.controller.ts" />
-      <jump line="6" column="28" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/e2e/auth/auth.e2e.spec.ts" />
-      <jump line="31" column="26" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="40" column="103" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="38" column="86" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="4" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/common/exceptions/mongo.exception.ts" />
-      <jump line="17" column="8" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="37" column="14" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="64" column="12" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/services/user.service.ts" />
-      <jump line="56" column="35" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/services/expense-report.service.ts" />
-      <jump line="27" column="53" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-report.schema.ts" />
-      <jump line="28" column="20" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-report.schema.ts" />
-      <jump line="29" column="37" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/expense/schema/expense-report.schema.ts" />
-      <jump line="2" column="21" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
-      <jump line="48" column="4" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth.service.spec.ts" />
       <jump line="2" column="13" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/user/dto/create-user.dto.ts" />
@@ -3335,106 +3350,134 @@
       <jump line="134" column="0" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="101" column="34" filename="P:/Projects/Blendtec/monitor-lizard/remote_monitoring.js" />
       <jump line="0" column="1" filename="P:/Projects/Blendtec/vendor-labels/README.md" />
+      <jump line="222" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="201" column="22" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="5" column="17" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="86" column="19" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="10" column="29" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="16" column="36" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="70" column="21" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="19" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="77" column="21" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="18" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="92" column="16" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="17" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="98" column="16" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="120" column="16" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="0" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="130" column="14" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="8" column="5" filename="P:/Projects/Blendtec/vendor-labels/src/assets/i18n/en.json" />
+      <jump line="3" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/environments/environment.stage.ts" />
+      <jump line="2" column="65" filename="P:/Projects/Blendtec/vendor-labels/src/environments/environment.prod.ts" />
+      <jump line="4" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/environments/environment.develop.ts" />
+      <jump line="2" column="51" filename="P:/Projects/Blendtec/vendor-labels/src/assets/i18n/en.json" />
+      <jump line="64" column="60" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="65" column="65" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="76" column="14" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="80" column="97" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="33" column="14" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="31" column="37" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
+      <jump line="85" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uom</text>
+        <text>label</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>uom</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
-        <text>residential-dealers-intl</text>
+        <text>BUTTON</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdW9tOiBbJycsIFtWYWxpZGF0b3JzLnJlcXVpcmVkXV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5WRU5ET1JfTkFNRScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxuZ3gtYmFyY29kZSBbYmMtdmFsdWVdPSJsYWJlbC5nZXQoJ3ZlbmRvck5hbWUnKS52YWx1ZSIgW2JjLWRpc3BsYXktdmFsdWVdPSJ0cnVlIj48L25neC1iYXJjb2RlPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGFkZHJlc3M6IHRoaXMuZm9ybUJ1aWxkZXIuZ3JvdXAoewogICAgICAgIG9uZTogWycnLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dLAogICAgICAgIHR3bzogWycnLCBbXV0sCiAgICAgICAgY2l0eTogWycnLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dLAogICAgICAgIHppcDogWycnLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dLAogICAgICAgIGNvdW50cnk6IFsnVVMnLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dLAogICAgICAgIHN0YXRlUHJvdmluY2U6IFsnJywgW11dLAogICAgICAgIGVtYWlsOiBbJycsIFtWYWxpZGF0b3JzLnJlcXVpcmVkLCBWYWxpZGF0b3JzLmVtYWlsXV0sCiAgICAgICAgcGhvbmU6IFsnJywgW1ZhbGlkYXRvcnMucmVxdWlyZWRdXQogICAgICB9KSwKICAgICAgc2VyaWFsOiB0aGlzLmZvcm1CdWlsZGVyLmdyb3VwKHsKICAgICAgICBwcmVmaXg6IFsnJywgW1ZhbGlkYXRvcnMucmVxdWlyZWRdXSwKICAgICAgICBzdWZmaXg6IFsnJywgW1ZhbGlkYXRvcnMucmVxdWlyZWRdXQogICAgICB9KSwKICAgICAgcHVyY2hhc2U6IHRoaXMuZm9ybUJ1aWxkZXIuZ3JvdXAoewogICAgICAgIHBsYWNlOiBbJycsIFtdXSwKICAgICAgICBvdGhlcjogWycnLCBbXV0sCiAgICAgICAgZGF0ZTogWycnLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dCiAgICAgIH0sIHt2YWxpZGF0b3I6IE90aGVyUHVyY2hhc2VQbGFjZVZhbGlkYXRvcn0pLAogICAgICBtYXJrZXRpbmdPcHRJbjogWycnLCBbXV0sCiAgICAgIHJlY2FwdGNoYTogW2ZhbHNlLCBbUmVjYXB0Y2hhVmFsaWRhdG9yXV0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGlkPSJsYWJlbC1zdWJtaXQtLWJ0biIgbmFtZT0iYnV0dG9uIiBjbGFzcz0ic3RlcF9fZm9vdGVyX19jb250aW51ZS1idG4gYnRuIgogICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0ibGFiZWwuaW52YWxpZCIKICAgICAgICAgICAgICAgIHR5cGU9InN1Ym1pdCI+CiAgICAgICAgICB7eydCVVRUT04uUkVHSVNURVInIHwgdHJhbnNsYXRlfX0KICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlYWxlclNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaSAqbmdJZj0iIWxhYmVsRG9uZSAmJiBsYWJlbEVycm9yIj57eydFUlJPUi5SRUdJU1RSQVRJT05fRkFJTEVEJyB8IHRyYW5zbGF0ZX19PC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0YXRlU2VydmljZSwK</text>
+        <text encoding="base64">ICAgICAgIWxhYmVsRG9uZSAmJiBsYWJlbEVycm9yCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIENvdW50cnlTZXJ2aWNlLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgoKCgoKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gc21hbGwtLW9uZS1oYWxmIG1lZGl1bS0tb25lLWhhbGYgbGFyZ2UtLW9uZS1oYWxmIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCgogICAgICAgICAgPGRpdiBmb3JtR3JvdXBOYW1lPSJhZGRyZXNzIj4KCiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5JVEVNX05VTUJFUicgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLklURU1fTlVNQkVSJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IGxhYmVsLmdldCgnaXRlbU51bWJlcicpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGxhYmVsLmdldCgnaXRlbU51bWJlcicpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJvbmUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIHNtYWxsLS1vbmUtaGFsZiBtZWRpdW0tLW9uZS1oYWxmIGxhcmdlLS1vbmUtaGFsZiI+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuSVRFTV9OVU1CRVJfVFdPJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLklURU1fTlVNQkVSX1RXTycgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogbGFiZWwuZ2V0KCdhZGRyZXNzLnR3bycpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGxhYmVsLmdldCgnYWRkcmVzcy50d28nKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InR3byI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JpZF9faXRlbSBzbWFsbC0tb25lLWhhbGYgbWVkaXVtLS1vbmUtaGFsZiBsYXJnZS0tb25lLWhhbGYiPgogICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPiB7eydMQUJFTC5RVUFOVElUWScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LWZ1bGwiIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5RVUFOVElUWScgfCB0cmFuc2xhdGV9fSIKICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogbGFiZWwuZ2V0KCdxdWFudGl0eScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGxhYmVsLmdldCgncXVhbnRpdHknKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9ImNpdHkiPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWQiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gc21hbGwtLW9uZS1oYWxmIG1lZGl1bS0tb25lLWhhbGYgbGFyZ2UtLW9uZS1oYWxmIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5TVEFURScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogbGFiZWwuZ2V0KCdhZGRyZXNzLnN0YXRlUHJvdmluY2UnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBsYWJlbC5nZXQoJ2FkZHJlc3Muc3RhdGVQcm92aW5jZScpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InN0YXRlUHJvdmluY2UiPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPnt7J09QVElPTi5TVEFURScgfCB0cmFuc2xhdGV9fTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uCiAgICAgICAgICAgICAgICAgICAgKm5nRm9yPSJsZXQgc3RhdGUgb2Ygc3RhdGVzJCB8IGFzeW5jIHwgZmlsdGVyQnk6IFsnY291bnRyeSddOiB0aGlzLmxhYmVsLmdldCgnYWRkcmVzcy5jb3VudHJ5JykudmFsdWUiCiAgICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0ic3RhdGVzJD8ubGVuZ3RoID4gMCIgW25nVmFsdWVdPSJzdGF0ZS5uYW1lIj4KICAgICAgICAgICAgICAgICAgICB7e3N0YXRlLm5hbWV9fQogICAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfX2l0ZW0gc21hbGwtLW9uZS1oYWxmIG1lZGl1bS0tb25lLWhhbGYgbGFyZ2UtLW9uZS1oYWxmIj4KCiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLkNPTkZJR1VSQVRJT04nIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBsYWJlbC5nZXQoJ2FkZHJlc3MuY291bnRyeScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGxhYmVsLmdldCgnYWRkcmVzcy5jb3VudHJ5JykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJjb3VudHJ5Ij4KICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPnt7J09QVElPTi5DT05GSUdVUkFUSU9OJyB8IHRyYW5zbGF0ZX19PC9vcHRpb24+CiAgICAgICAgICAgICAgPG9wdGlvbiAqbmdGb3I9ImxldCBjb3VudHJ5IG9mIGNvdW50cmllcyQgfCBhc3luYyIgW25nVmFsdWVdPSJjb3VudHJ5LmNvZGUiPgogICAgICAgICAgICAgICAge3tjb3VudHJ5Lm5hbWV9fQogICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZm9ybT4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ291bnRyeVNlcnZpY2UsIFN0YXRlU2VydmljZSwgRGVhbGVyU2VydmljZSB9IGZyb20gJy4vc2VydmljZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuUE9fTlVNQkVSJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0LWZ1bGwiCiAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBsYWJlbC5nZXQoJ3BvTnVtYmVyJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgbGFiZWwuZ2V0KCdwb051bWJlcicpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0ie3snTEFCRUwuUE9fTlVNQkVSJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InBvTnVtYmVyIj4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9kZWFsZXIuaW50ZXJmYWNlJzsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuVkVORE9SX05BTUUnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IGxhYmVsLmdldCgndmVuZG9yTmFtZScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGxhYmVsLmdldCgndmVuZG9yTmFtZScpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0ie3snTEFCRUwuVkVORE9SX05BTUUnIHwgdHJhbnNsYXRlfX0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0idmVuZG9yTmFtZSI+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9zdGF0ZS5pbnRlcmZhY2UnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtPYnNlcnZhYmxlfSBmcm9tICdyeGpzL09ic2VydmFibGUnOwppbXBvcnQge0lDb3VudHJ5LCBJRGVhbGVyfSBmcm9tICcuL21vZGVscyc7CmltcG9ydCB7Q291bnRyeVNlcnZpY2UsIERlYWxlclNlcnZpY2V9IGZyb20gJy4vc2VydmljZXMnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLlBIT05FJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIiBwbGFjZWhvbGRlcj0ie3snTEFCRUwuUEhPTkUnIHwgdHJhbnNsYXRlfX0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogbGFiZWwuZ2V0KCdhZGRyZXNzLnBob25lJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgbGFiZWwuZ2V0KCdhZGRyZXNzLnBob25lJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InBob25lIj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>residential-dealers-intl</last-search>
+      <last-search>BUTTON</last-search>
       <last-offset />
-      <last-pattern>residential-dealers-intl</last-pattern>
-      <last-replace>vendor-labels</last-replace>
-      <last-substitute>residential-dealers-intl</last-substitute>
+      <last-pattern>BUTTON</last-pattern>
+      <last-replace>vendor-label</last-replace>
+      <last-substitute>product-registration</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Prod</entry>
-        <entry>console</entry>
-        <entry>getEnv</entry>
-        <entry encoding="base64">Olwg</entry>
-        <entry>,</entry>
-        <entry>.</entry>
-        <entry>disc</entry>
-        <entry>small</entry>
-        <entry>productRegistration</entry>
-        <entry>ProductRegistration</entry>
-        <entry>3</entry>
-        <entry>Prim</entry>
-        <entry>save</entry>
-        <entry>deviceMetaData</entry>
-        <entry>sendEvent</entry>
-        <entry>comm</entry>
-        <entry>commer</entry>
-        <entry>deal</entry>
-        <entry>residential</entry>
-        <entry>residential-dealers-intl</entry>
+        <entry>address.one</entry>
+        <entry>address.city</entry>
+        <entry>address.zip</entry>
+        <entry>uom</entry>
+        <entry>FIRST_NAME</entry>
+        <entry>LAST_NAME</entry>
+        <entry>ADDRESS</entry>
+        <entry>CITY</entry>
+        <entry>ZIP</entry>
+        <entry>COUNTRY</entry>
+        <entry encoding="base64">IGlzIHJlcXVpcmVk</entry>
+        <entry>produc</entry>
+        <entry>product-registration</entry>
+        <entry>PO</entry>
+        <entry>z</entry>
+        <entry>po</entry>
+        <entry>g</entry>
+        <entry>address</entry>
+        <entry>add</entry>
+        <entry>BUTTON</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/section4_headline/header</entry>
-        <entry>%s/section4_text/body/gc</entry>
-        <entry>%s/section4_link/cta/gc</entry>
-        <entry>%s/section4_link/cta_url/gc</entry>
-        <entry>%s/section4_link_text/cta_text/gc</entry>
-        <entry>%s/blender1/collection1/gc</entry>
-        <entry>%s/&quot;/'/g</entry>
-        <entry>%s/ProductRegistration/SerialNumber/g</entry>
-        <entry>qa</entry>
-        <entry>%s/&quot;//g</entry>
-        <entry>%s/:\ //g</entry>
-        <entry>%s/:\ /=/g</entry>
-        <entry>%s/,//g</entry>
-        <entry>%s/productRegistration/serialPrefix/g</entry>
         <entry>%s/productRegistration/serialNumber/g</entry>
         <entry>%s/ProductRegistration/SerialPrefix/g</entry>
+        <entry>%s/residential-dealers-intl/vendor-labels/g</entry>
+        <entry>%s/registration/label/g</entry>
+        <entry>%s/firstName/vendorName/g</entry>
+        <entry>%s/lastName/poNumber/g</entry>
+        <entry>%s/address.one/itemNumber/g</entry>
+        <entry>%s/address.city/quantity/g</entry>
+        <entry>%s/address.zip/uom/g</entry>
+        <entry>%s/FIRST_NAME/VENDOR_NAME/g</entry>
+        <entry>%s/LAST_NAME/PO_NUMBER/g</entry>
+        <entry>%s/ADDRESS/ITEM_NUMBER/g</entry>
+        <entry>%s/CITY/QUANTITY/g</entry>
+        <entry>%s/ZIP/UOM/g</entry>
+        <entry>%s/COUNTRY/CONFIGURATION/g</entry>
+        <entry>%s/ is required//gc</entry>
+        <entry>%s/product-registration/vendor-label/g</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>%s/residential-dealers-intl/vendor-labels/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
