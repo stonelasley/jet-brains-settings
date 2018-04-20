@@ -568,11 +568,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/print-modal.component.html" timestamp="1524241997672">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="62" column="9" />
-        <mark key="." line="0" column="0" />
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/print-modal.component.html" timestamp="1524244143896">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/providers/sales-order.service.ts" timestamp="1492470635258">
         <mark key="[" line="77" column="0" />
@@ -848,12 +849,12 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/assets/i18n/en.json" timestamp="1524176394622">
+      <file name="P:/Projects/Blendtec/vendor-labels/src/assets/i18n/en.json" timestamp="1524244221355">
         <mark key="'" line="2" column="51" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/assets/i18n/en.json" timestamp="1489978151339">
         <mark key="'" line="43" column="31" />
@@ -912,7 +913,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.ts" timestamp="1524241492369" />
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.ts" timestamp="1524242952940" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1488827491809">
         <mark key="'" line="45" column="42" />
         <mark key="[" line="5" column="16" />
@@ -1362,11 +1363,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.spec.ts" timestamp="1524176908469">
-        <mark key="[" line="18" column="78" />
-        <mark key="]" line="18" column="83" />
-        <mark key="^" line="18" column="83" />
-        <mark key="." line="18" column="83" />
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.spec.ts" timestamp="1524244313177">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/pick/pages/sales-order-line-list/sales-order-line-list.html" timestamp="1491503212814">
         <mark key="[" line="15" column="56" />
@@ -2574,12 +2575,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" timestamp="1524241893407">
+      <file name="P:/Projects/Blendtec/vendor-labels/src/app/app.component.html" timestamp="1524243637285">
         <mark key="'" line="104" column="76" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="42" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="36" column="42" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="73" column="41" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/mocks/auth/index.ts" timestamp="1514668778451">
         <mark key="[" line="0" column="15" />
@@ -2728,7 +2729,7 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1524241966891" />
+      <file name="P:/Projects/Blendtec/registration/src/app/directives/serial-modal.component/serial-modal.component.html" timestamp="1524242949900" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order-short.model.ts" timestamp="1492118881340">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="30" />
@@ -3301,8 +3302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="5" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
-      <jump line="17" column="0" filename="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/models/create-product-registration.dto.ts" />
       <jump line="19" column="0" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
       <jump line="7" column="15" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
       <jump line="11" column="8" filename="P:/Projects/Blendtec/transit-api/src/main.ts" />
@@ -3401,66 +3400,67 @@
       <jump line="9489" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/assets/style.scss.liquid" />
       <jump line="31" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/app.component.ts" />
       <jump line="3" column="27" filename="P:/Projects/Blendtec/vendor-labels/src/app/print-modal.component.ts" />
+      <jump line="3" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/print-modal.component.html" />
+      <jump line="25" column="0" filename="P:/Projects/Blendtec/vendor-labels/src/app/print-modal.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLXF1ZXN0aW9uLWNpcmNsZSIgYXJpYS1oaWRkZW49InRydWUiIChjbGljayk9InNob3coKSI+PC9pPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>serial-modal</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>serial</text>
+        <text>vendorLabel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Lyo9PT09PT09PT09PT09PT09IEFGRklSTSA9PT09PT09PT09PT09PT09Ki8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLXF1ZXN0aW9uLWNpcmNsZSIgYXJpYS1oaWRkZW49InRydWUiIChjbGljayk9InNob3coKSI+PC9pPgo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgPCEtLTxkaXYgKm5nSWY9ImZvcm1TdWJtaXR0ZWQiIGNsYXNzPSJncmlkX19pdGVtIGxhcmdlJiM0NTsmIzQ1O29uZS1oYWxmIHZlbmRvci1sYWJlbCI+LS0+CiAgICAgICAgICA8IS0tPGgxPnt7J0xBQkVMLlZFTkRPUl9OQU1FJyB8IHRyYW5zbGF0ZX19OiB7e3ZlbmRvckxhYmVsLnZlbmRvck5hbWV9fTwvaDE+LS0+CiAgICAgICAgICA8IS0tPG5neC1iYXJjb2RlIFtiYy12YWx1ZV09InZlbmRvckxhYmVsLnZlbmRvck5hbWUiIFtiYy1oZWlnaHRdPSI1MCIgW2JjLWRpc3BsYXktdmFsdWVdPSJ0cnVlIj48L25neC1iYXJjb2RlPi0tPgogICAgICAgICAgPCEtLTxsYWJlbD5QbyBOdW1iZXI8L2xhYmVsPi0tPgogICAgICAgICAgPCEtLTxuZ3gtYmFyY29kZSBbYmMtdmFsdWVdPSJ2ZW5kb3JMYWJlbC5wb051bWJlciIgW2JjLWhlaWdodF09IjUwIiBbYmMtZGlzcGxheS12YWx1ZV09InRydWUiPjwvbmd4LWJhcmNvZGU+LS0+CiAgICAgICAgICA8IS0tPGxhYmVsPkJsZW5kdGVjIEl0ZW0gTnVtYmVyPC9sYWJlbD4tLT4KICAgICAgICAgIDwhLS08bmd4LWJhcmNvZGUgW2JjLXZhbHVlXT0idmVuZG9yTGFiZWwuaXRlbU51bWJlciIgW2JjLWhlaWdodF09IjUwIiBbYmMtZGlzcGxheS12YWx1ZV09InRydWUiPjwvbmd4LWJhcmNvZGU+LS0+CiAgICAgICAgICA8IS0tPGxhYmVsPlF1YW50aXR5PC9sYWJlbD4tLT4KICAgICAgICAgIDwhLS08bmd4LWJhcmNvZGUgW2JjLXZhbHVlXT0idmVuZG9yTGFiZWwucXVhbnRpdHkiIFtiYy1oZWlnaHRdPSI1MCIgW2JjLWRpc3BsYXktdmFsdWVdPSJ0cnVlIj48L25neC1iYXJjb2RlPi0tPgogICAgICAgICAgPCEtLTxsYWJlbD5VT008L2xhYmVsPi0tPgogICAgICAgICAgPCEtLTxuZ3gtYmFyY29kZSBbYmMtdmFsdWVdPSJ2ZW5kb3JMYWJlbC51b20iIFtiYy1oZWlnaHRdPSI1MCIgW2JjLWRpc3BsYXktdmFsdWVdPSJ0cnVlIj48L25neC1iYXJjb2RlPi0tPgogICAgICAgICAgPCEtLTxsYWJlbD5Db25maWd1cmF0aW9uPC9sYWJlbD4tLT4KICAgICAgICAgIDwhLS08bmd4LWJhcmNvZGUgW2JjLXZhbHVlXT0idmVuZG9yTGFiZWwuY29uZmlndXJhdGlvbiIgW2JjLWhlaWdodF09IjUwIiBbYmMtZGlzcGxheS12YWx1ZV09InRydWUiPjwvbmd4LWJhcmNvZGU+LS0+CiAgICAgICAgICA8IS0tPGJ1dHRvbiBuYW1lPSJidXR0b24iIGNsYXNzPSJidG4gbm8tcHJpbnQiIG9uQ2xpY2s9IndpbmRvdy5wcmludCgpIj4tLT4KICAgICAgICAgICAgPCEtLXt7J0JVVFRPTi5QUklOVCcgfCB0cmFuc2xhdGV9fS0tPgogICAgICAgICAgPCEtLTwvYnV0dG9uPi0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdmVuZG9yTGFiZWw6IGFueTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIGxhcmdlLS1vbmUtaGFsZiBuby1wcmludCI+CiAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuVkVORE9SX05BTUUnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBmb3JtLmdldCgndmVuZG9yTmFtZScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGZvcm0uZ2V0KCd2ZW5kb3JOYW1lJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlZFTkRPUl9OQU1FJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0idmVuZG9yTmFtZSI+CgoKICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5QT19OVU1CRVInIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBmb3JtLmdldCgncG9OdW1iZXInKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgncG9OdW1iZXInKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0ie3snTEFCRUwuUE9fTlVNQkVSJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0icG9OdW1iZXIiPgoKCiAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuSVRFTV9OVU1CRVInIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBmb3JtLmdldCgnaXRlbU51bWJlcicpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGZvcm0uZ2V0KCdpdGVtTnVtYmVyJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Int7J0xBQkVMLklURU1fTlVNQkVSJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iaXRlbU51bWJlciI+CgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPiB7eydMQUJFTC5RVUFOVElUWScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0ibnVtYmVyIiBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlFVQU5USVRZJyB8IHRyYW5zbGF0ZX19IgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBmb3JtLmdldCgncXVhbnRpdHknKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgncXVhbnRpdHknKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InF1YW50aXR5Ij4KCiAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuVU9NJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iaW5wdXQtZnVsbCIgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlVPTScgfCB0cmFuc2xhdGV9fSIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ3VvbScpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGZvcm0uZ2V0KCd1b20nKS50b3VjaGVkfSIKICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InVvbSI+CgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLkNPTkZJR1VSQVRJT04nIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dC1mdWxsIgogICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ie2Vycm9yOiBmb3JtLmdldCgnY29uZmlndXJhdGlvbicpLmhhc0Vycm9yKCdyZXF1aXJlZCcpICYmIGZvcm0uZ2V0KCdjb25maWd1cmF0aW9uJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Int7J0xBQkVMLkNPTkZJR1VSQVRJT04nIHwgdHJhbnNsYXRlfX0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJjb25maWd1cmF0aW9uIj4KICAgICAgICAgIDxidXR0b24gbmFtZT0iYnV0dG9uIiBjbGFzcz0iYnRuIiB0eXBlPSJzdWJtaXQiPgogICAgICAgICAgICB7eydCVVRUT04uR0VORVJBVEUnIHwgdHJhbnNsYXRlfX0KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coJ0xBQkVMJywgZm9ybS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coJ1NVQk1JVFRFRCBmb3JtJywgZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJncmlkX19pdGVtIGxhcmdlLS1vbmUtaGFsZiBuby1wcmludCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0FSR1MnLCBhcmdzKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLlZFTkRPUl9OQU1FJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ3ZlbmRvck5hbWUnKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgndmVuZG9yTmFtZScpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5WRU5ET1JfTkFNRScgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InZlbmRvck5hbWUiPgoKCiAgICAgICAgICA8bGFiZWwgY2xhc3M9ImhpZGRlbi1sYWJlbCI+e3snTEFCRUwuUE9fTlVNQkVSJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ3BvTnVtYmVyJykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgZm9ybS5nZXQoJ3BvTnVtYmVyJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Int7J0xBQkVMLlBPX05VTUJFUicgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9InBvTnVtYmVyIj4KCgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLklURU1fTlVNQkVSJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ2l0ZW1OdW1iZXInKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgnaXRlbU51bWJlcicpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5JVEVNX05VTUJFUicgfCB0cmFuc2xhdGV9fSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICBmb3JtQ29udHJvbE5hbWU9Iml0ZW1OdW1iZXIiPgoKICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj4ge3snTEFCRUwuUVVBTlRJVFknIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9Im51bWJlciIgY2xhc3M9ImlucHV0LWZ1bGwiIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5RVUFOVElUWScgfCB0cmFuc2xhdGV9fSIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ3F1YW50aXR5JykuaGFzRXJyb3IoJ3JlcXVpcmVkJykgJiYgZm9ybS5nZXQoJ3F1YW50aXR5JykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJxdWFudGl0eSI+CgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJoaWRkZW4tbGFiZWwiPnt7J0xBQkVMLlVPTScgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LWZ1bGwiIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5VT00nIHwgdHJhbnNsYXRlfX0iCiAgICAgICAgICAgICAgICAgW25nQ2xhc3NdPSJ7ZXJyb3I6IGZvcm0uZ2V0KCd1b20nKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgndW9tJykudG91Y2hlZH0iCiAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJ1b20iPgoKICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaGlkZGVuLWxhYmVsIj57eydMQUJFTC5DT05GSUdVUkFUSU9OJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iaW5wdXQtZnVsbCIKICAgICAgICAgICAgICAgICBbbmdDbGFzc109IntlcnJvcjogZm9ybS5nZXQoJ2NvbmZpZ3VyYXRpb24nKS5oYXNFcnJvcigncmVxdWlyZWQnKSAmJiBmb3JtLmdldCgnY29uZmlndXJhdGlvbicpLnRvdWNoZWR9IgogICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJ7eydMQUJFTC5DT05GSUdVUkFUSU9OJyB8IHRyYW5zbGF0ZX19IiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iY29uZmlndXJhdGlvbiI+CiAgICAgICAgICA8YnV0dG9uIG5hbWU9ImJ1dHRvbiIgY2xhc3M9ImJ0biIgdHlwZT0ic3VibWl0Ij4KICAgICAgICAgICAge3snQlVUVE9OLkdFTkVSQVRFJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLXF1ZXN0aW9uLWNpcmNsZSIgYXJpYS1oaWRkZW49InRydWUiIChjbGljayk9InNob3coKSI+PC9pPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>serial</last-search>
+      <last-search>vendorLabel</last-search>
       <last-offset />
-      <last-pattern>serial</last-pattern>
-      <last-replace>print</last-replace>
-      <last-substitute>serial</last-substitute>
+      <last-pattern>vendorLabel</last-pattern>
+      <last-replace>label</last-replace>
+      <last-substitute>vendorLabel</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IGlzIHJlcXVpcmVk</entry>
         <entry>produc</entry>
         <entry>product-registration</entry>
         <entry>PO</entry>
@@ -3480,9 +3480,9 @@
         <entry>Helper Classes</entry>
         <entry>A</entry>
         <entry>serial</entry>
+        <entry>vendorLabel</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/residential-dealers-intl/vendor-labels/g</entry>
         <entry>%s/registration/label/g</entry>
         <entry>%s/firstName/vendorName/g</entry>
         <entry>%s/lastName/poNumber/g</entry>
@@ -3501,6 +3501,7 @@
         <entry>%s/label/form/gc</entry>
         <entry>%s/serial/print</entry>
         <entry>wq</entry>
+        <entry>%s/vendorLabel/label/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
