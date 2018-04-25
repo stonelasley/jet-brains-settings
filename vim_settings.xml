@@ -10,12 +10,11 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524287487953">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
+      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524367323106">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -26,54 +25,69 @@
       <jump line="5" column="23" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
       <jump line="42" column="4" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="19" column="27" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="24" column="62" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="41" column="8" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>jasmine</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnaXRAZ2l0aHViLmNvbTpzdG9uZWxhc2xleS9qZXQtYnJhaW5zLXNldHRpbmdzLmdpdAogICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgogICAgICAgIGluc3RhbmNlLmdldEFjdGl2ZU5hdi5hbmQucmV0dXJuVmFsdWUobmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsKICAgICAgICBpbnN0YW5jZS5nZXRBY3RpdmVOYXZzLmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IFtOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpXSk7CiAgICAgICAgaW5zdGFuY2UuZ2V0TmF2QnlJZE9yTmFtZS5hbmQucmV0dXJuVmFsdWUobmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsKICAgICAgICBpbnN0YW5jZS5nZXRSb290TmF2LmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IE5hdkNvbnRyb2xsZXJNb2NrLmluc3RhbmNlKCkpOwogICAgICAgIGluc3RhbmNlLmdldFJvb3ROYXZzLmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IFtOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpXSk7CiAgICAgICAgaW5zdGFuY2UuZ2V0Um9vdE5hdkJ5SWQuYW5kLnJldHVyblZhbHVlKG5hdkN0cmwgfHwgTmF2Q29udHJvbGxlck1vY2suaW5zdGFuY2UoKSk7CiAgICAgICAgaW5zdGFuY2UuaXNTY3JvbGxpbmcuYW5kLnJldHVyblZhbHVlKGZhbHNlKTsKICAgICAgICBpbnN0YW5jZS52aWV3RGlkRW50ZXIuYW5kLnJldHVyblZhbHVlKHZpZXdPYnNlcnZhYmxlIHx8IEFycmF5T2JzZXJ2YWJsZS5vZih1bmRlZmluZWQpKTsKICAgICAgICBpbnN0YW5jZS52aWV3RGlkTG9hZC5hbmQucmV0dXJuVmFsdWUodmlld09ic2VydmFibGUgfHwgQXJyYXlPYnNlcnZhYmxlLm9mKHVuZGVmaW5lZCkpOwogICAgICAgIGluc3RhbmNlLnZpZXdEaWRMZWF2ZS5hbmQucmV0dXJuVmFsdWUodmlld09ic2VydmFibGUgfHwgQXJyYXlPYnNlcnZhYmxlLm9mKHVuZGVmaW5lZCkpOwogICAgICAgIGluc3RhbmNlLnZpZXdXaWxsRW50ZXIuYW5kLnJldHVyblZhbHVlKHZpZXdPYnNlcnZhYmxlIHx8IEFycmF5T2JzZXJ2YWJsZS5vZih1bmRlZmluZWQpKTsKICAgICAgICBpbnN0YW5jZS52aWV3V2lsbExlYXZlLmFuZC5yZXR1cm5WYWx1ZSh2aWV3T2JzZXJ2YWJsZSB8fCBBcnJheU9ic2VydmFibGUub2YodW5kZWZpbmVkKSk7CiAgICAgICAgaW5zdGFuY2Uudmlld1dpbGxVbmxvYWQuYW5kLnJldHVyblZhbHVlKHZpZXdPYnNlcnZhYmxlIHx8IEFycmF5T2JzZXJ2YWJsZS5vZih1bmRlZmluZWQpKTs=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>viewObservable</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShfbmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW5zdGFuY2UgPSBqYXNtaW5lLmNyZWF0ZVNweU9iaignQXBwJywgWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmVqCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IE5hdkNvbnRyb2xsZXJNb2NrLmluc3RhbmNlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9qYXMgPSBqYXNtaW5lLmNyZWF0ZVNweU9iaignQXBwJywgKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+      <register name="9" type="8">
+        <text>_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_</text>
       </register>
       <register name=":" type="4">
-        <text>%s/jasmine/this.jasmine/g</text>
+        <text>%s/viewObservable/_viewObservable/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>jasmine</last-search>
+      <last-search>viewObservable</last-search>
       <last-offset />
-      <last-pattern>jasmine</last-pattern>
-      <last-replace>this.jasmine</last-replace>
-      <last-substitute>jasmine</last-substitute>
+      <last-pattern>viewObservable</last-pattern>
+      <last-replace>_viewObservable</last-replace>
+      <last-substitute>viewObservable</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -87,18 +101,28 @@
         <entry>funcs</entry>
         <entry>instance</entry>
         <entry>jasmine</entry>
+        <entry>_</entry>
+        <entry>view</entry>
+        <entry>navCtrl</entry>
+        <entry>viewObservable</entry>
       </history-search>
       <history-cmd>
         <entry>%s/jasemine/jasmine/g</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>%s/instance/jasmine/g</entry>
         <entry>%s/jasmine/this.jasmine/g</entry>
+        <entry>w</entry>
+        <entry>%s/navCtrl/_navCtrl/gc</entry>
+        <entry>%s/viewObservable/_viewObservable/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
