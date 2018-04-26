@@ -889,6 +889,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" timestamp="1524705408619">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/WebstormProjects/Personal/axpense-api/src/app/modules/auth/services/auth-token.service.ts" timestamp="1521604375761">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="41" />
@@ -1257,6 +1263,13 @@
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-signature-tab/sales-order-signature-tab.ts" timestamp="1524705470674">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
       </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/layout/theme.liquid" timestamp="1519853353740">
         <mark key="[" line="90" column="0" />
@@ -2696,9 +2709,6 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/delivery/pages/sales-order-list/sales-order-list.ts" timestamp="1524543490397">
-        <mark key="[" line="14" column="0" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/models/warehouse.ts" timestamp="1488827909149">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
@@ -3043,9 +3053,6 @@
         <mark key="]" line="275" column="19" />
         <mark key="." line="277" column="43" />
         <mark key="^" line="277" column="41" />
-      </file>
-      <file name="P:/Projects/Blendtec/blendtec-shopify-theme/templates/search.liquid" timestamp="1522942166796">
-        <mark key="[" line="54" column="44" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
@@ -3495,71 +3502,59 @@
       <jump line="3" column="39" filename="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-tabs.module.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.ts" />
       <jump line="13" column="23" filename="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/item-list/item-list.module.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/WebstormProjects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-signature-tab/sales-order-signature-tab.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>/index</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>../</text>
+        <text>/index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XCBcIFwgXCA=</text>
+        <text>in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Lyo9PT09PT09PT09PT09PT09IEFGRklSTSA9PT09PT09PT09PT09PT09Ki8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2FsZXNPcmRlclNlcnZpY2UgfSBmcm9tICcuLi8uLi9wcm92aWRlcnMvc2FsZXMtb3JkZXIuc2VydmljZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2FsZXNPcmRlcn0gICAgICAgICAgICBmcm9tICcuLi8uLi9tb2RlbHMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtTYWxlc09yZGVyTGluZUVkaXRUYWJzfSAgIGZyb20gJy4vc2FsJzsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU0FMRVNfTElWRV9QQUdFU30gICAgICBmcm9tICcuL3BhZ2VzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHtTYWxlc09yZGVyTGluZUVkaXRUYWJzfSAgIGZyb20gJy4vc2FsJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHsKCUN1c3RvbWVyTGlzdCwKCUl0ZW1MaXN0LAoJTG90TGlzdCwKCVNhbGVzT3JkZXJMaXN0LAoJU2FsZXNPcmRlckxpbmVFZGl0VGFiLAoJU2FsZXNPcmRlckxpbmVFZGl0VGFicywKCVNhbGVzT3JkZXJIZWFkZXJUYWIsCglTYWxlc09yZGVyTGluZXNUYWIsCglTYWxlc09yZGVyVG90YWxUYWIsCglTYWxlc09yZGVyVGFicywKCVNhbGVzT3JkZXJTaWduYXR1cmVUYWIKfTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU0FMRVNfTElWRV9QQUdFU30gICAgICBmcm9tICcuL3BhZ2VzJzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>export const SALES_LIVE_PAGES = [
-	CustomerList,
-	ItemList,
-	LotList,
-	SalesOrderList,
-	SalesOrderLineEditTab,
-	SalesOrderLineEditTabs,
-	SalesOrderLineAllocationsTab,
-	SalesOrderHeaderTab,
-	SalesOrderLinesTab,
-	SalesOrderTotalTab,
-	SalesOrderTabs,
-	SalesOrderSignatureTab
-];</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGlhbG9nUmVzdWx0IH0gZnJvbSAnLi4vLi4vLi4vLi4vY29yZS9tb2RlbHMnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IHsKCUN1c3RvbWVyTGlzdCwKCUl0ZW1MaXN0LAoJTG90TGlzdCwKCVNhbGVzT3JkZXJMaXN0LAoJU2FsZXNPcmRlckxpbmVFZGl0VGFiLAoJU2FsZXNPcmRlckxpbmVFZGl0VGFicywKCVNhbGVzT3JkZXJIZWFkZXJUYWIsCglTYWxlc09yZGVyTGluZXNUYWIsCglTYWxlc09yZGVyVG90YWxUYWIsCglTYWxlc09yZGVyVGFicywKCVNhbGVzT3JkZXJTaWduYXR1cmVUYWIKfTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XCBcIFwgXCA=</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XCBcIFwgXCA=</last-pattern>
+      <last-pattern>in</last-pattern>
       <last-replace>\t</last-replace>
       <last-substitute encoding="base64">XCBcIFwgXCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3583,10 +3578,10 @@
         <entry>from</entry>
         <entry>Log</entry>
         <entry>f</entry>
-        <entry>in</entry>
         <entry>DEL</entry>
         <entry>common</entry>
         <entry encoding="base64">XCBcIFwgXCA=</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
         <entry>%s/second_header/line_two/gc</entry>
@@ -3605,10 +3600,10 @@
         <entry>%s/section4_link_text/cta_text/gc</entry>
         <entry>%s/blender1/collection1/gc</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>q</entry>
         <entry>%s/\ \ \ \ /\t/g</entry>
-        <entry>w</entry>
+        <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
