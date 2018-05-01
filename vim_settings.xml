@@ -11,6 +11,7 @@
         <mark key="^" line="4" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524367323106">
+        <mark key="'" line="4" column="20" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="24" column="62" />
@@ -28,55 +29,47 @@
       <jump line="19" column="27" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
       <jump line="24" column="62" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
       <jump line="41" column="8" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="22" column="0" filename="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>ajax-cart</text>
       </register>
       <register name="/" type="4">
         <text>viewObservable</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHt7ICdhamF4LWNhcnQuanMnIHwgYXNzZXRfdXJsIHwgc2NyaXB0X3RhZyB9fQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShfbmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgXwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShfbmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IE5hdkNvbnRyb2xsZXJNb2NrLmluc3RhbmNlKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_
-_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IE5hdkNvbnRyb2xsZXJNb2NrLmluc3RhbmNlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/viewObservable/_viewObservable/gc</text>
@@ -95,25 +88,10 @@ _</text>
       <history-search>
         <entry>jasemine</entry>
         <entry>[</entry>
-        <entry>mock</entry>
-        <entry>name</entry>
-        <entry>&quot;</entry>
-        <entry>funcs</entry>
-        <entry>instance</entry>
-        <entry>jasmine</entry>
-        <entry>_</entry>
-        <entry>view</entry>
-        <entry>navCtrl</entry>
-        <entry>viewObservable</entry>
       </history-search>
       <history-cmd>
         <entry>%s/jasemine/jasmine/g</entry>
         <entry>wq</entry>
-        <entry>%s/instance/jasmine/g</entry>
-        <entry>%s/jasmine/this.jasmine/g</entry>
-        <entry>w</entry>
-        <entry>%s/navCtrl/_navCtrl/gc</entry>
-        <entry>%s/viewObservable/_viewObservable/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
