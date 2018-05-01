@@ -3,89 +3,91 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/base.mock.ts" timestamp="1524286381422">
-        <mark key="'" line="5" column="57" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/base.mock.ts" timestamp="1524287030378">
+        <mark key="'" line="5" column="51" />
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524286457619">
-        <mark key="'" line="4" column="20" />
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524367323106">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="57" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/base.mock.ts" />
       <jump line="4" column="20" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="4" column="60" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/base.mock.ts" />
+      <jump line="5" column="51" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/base.mock.ts" />
+      <jump line="3" column="35" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="5" column="23" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="42" column="4" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="19" column="27" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="24" column="62" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
+      <jump line="41" column="8" filename="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>[
-            'getActiveNav',
-            'getActiveNavs',
-            'getNavByIdOrName',
-            'getRootNav',
-            'getRootNavs',
-            'getRootNavById',
-            'isScrolling',
-            'setTitle',
-            'viewDidEnter',
-            'viewDidLeave',
-            'viewDidLoad',
-            'viewWillEnter',
-            'viewWillLeave',
-            'viewWillUnload'
-        ]</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>[
-            'getActiveNav',
-            'getActiveNavs',
-            'getNavByIdOrName',
-            'getRootNav',
-            'getRootNavs',
-            'getRootNavById',
-            'isScrolling',
-            'setTitle',
-            'viewDidEnter',
-            'viewDidLeave',
-            'viewDidLoad',
-            'viewWillEnter',
-            'viewWillLeave',
-            'viewWillUnload'
-        ]</text>
-      </register>
-      <register name="2" type="4">
-        <text>export class ActionSheetMock {
-    public static instance(): any {
-        let instance = jasmine.createSpyObj('ActionSheet', ['present', 'dismiss']);
-        instance.present.and.returnValue(Promise.resolve());
-        instance.dismiss.and.returnValue(Promise.resolve());
-
-        return instance;
-    }
-}</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>[</text>
+        <text>viewObservable</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShfbmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgXwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShuYXZDdHJsIHx8IE5hdkNvbnRyb2xsZXJNb2NrLmluc3RhbmNlKCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXQK</text>
+      </register>
+      <register name="9" type="8">
+        <text>_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/viewObservable/_viewObservable/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>[</last-search>
+      <last-search>viewObservable</last-search>
       <last-offset />
-      <last-pattern>[</last-pattern>
-      <last-replace>jasmine</last-replace>
-      <last-substitute>jasemine</last-substitute>
+      <last-pattern>viewObservable</last-pattern>
+      <last-replace>_viewObservable</last-replace>
+      <last-substitute>viewObservable</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -93,13 +95,34 @@
       <history-search>
         <entry>jasemine</entry>
         <entry>[</entry>
+        <entry>mock</entry>
+        <entry>name</entry>
+        <entry>&quot;</entry>
+        <entry>funcs</entry>
+        <entry>instance</entry>
+        <entry>jasmine</entry>
+        <entry>_</entry>
+        <entry>view</entry>
+        <entry>navCtrl</entry>
+        <entry>viewObservable</entry>
       </history-search>
       <history-cmd>
         <entry>%s/jasemine/jasmine/g</entry>
         <entry>wq</entry>
+        <entry>%s/instance/jasmine/g</entry>
+        <entry>%s/jasmine/this.jasmine/g</entry>
+        <entry>w</entry>
+        <entry>%s/navCtrl/_navCtrl/gc</entry>
+        <entry>%s/viewObservable/_viewObservable/gc</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
