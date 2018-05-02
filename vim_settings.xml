@@ -10,7 +10,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="P:/Projects/Blendtec/theme/assets/avmws.js" timestamp="1525210345579" />
+      <file name="P:/Projects/Blendtec/theme/assets/avmws.js" timestamp="1525287469223" />
       <file name="$USER_HOME$/Projects/Personal/ionic-mocks/src/angular/app.ts" timestamp="1524367323106">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="41" column="0" />
@@ -46,52 +46,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ajax-cart</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>viewObservable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHt7ICdhamF4LWNhcnQuanMnIHwgYXNzZXRfdXJsIHwgc2NyaXB0X3RhZyB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
+        <text encoding="base64">KGZ1bmN0aW9uKCkgewogICAgdmFyIGF2bSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBhdm0udHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBhdm0uYXN5bmMgPSB0cnVlOwogICAgYXZtLnNyYyA9ICgnaHR0cHM6JyA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCA/ICdodHRwczovLycgOiAnaHR0cDovLycpICsgJ2Nkbi5hdm13cy5jb20vMTAxMjA1Ny8nOwogICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYXZtLCBzKTsKfSkoKTt7dmFyIHE9bygiYXZtd3MiKTtpZihxLmluZGV4T2YoIi1oZ2NvLjEiKT4tMSl7dHJ5e3ZhciBzPWIuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImlucHV0Iik7dmFyIHU9cy5sZW5ndGg7Zm9yKHZhciByPTA7cjx1O3IrKyl7aWYoc1tyXS50eXBlPT0iaW1hZ2UiKXtpZihzW3JdLnNyYy50b0xvd2VyQ2FzZSgpLmluZGV4T2YoImh0dHBzOi8vY2hlY2tvdXQuZ29vZ2xlLmNvbSIpPT0wKXtzW3JdLnN0eWxlLnZpc2liaWxpdHk9ImhpZGRlbiI7YnJlYWt9fX19Y2F0Y2godCl7fX19dHJ5e2YoKTtmb3IodmFyIGcgaW4gdGhpcy5fQXZhbnRNZXRyaWNzKXtzd2l0Y2godGhpcy5fQXZhbnRNZXRyaWNzW2ddWzBdKXtjYXNlIm9yZGVyIjpoPXRydWU7YnJlYWs7ZGVmYXVsdDpicmVha319aWYoaCl7YSh0aGlzLl9BdmFudE1ldHJpY3MpfWVsc2V7aWYobmV3IFJlZ0V4cCgnYXZhZCcpLmV4ZWMoZG9jdW1lbnQubG9jYXRpb24uaHJlZikpe2EoKX19fWNhdGNoKGUpe319KSgpfTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ciByPTA7cjx1O3IrKyl7aWYoc1tyXS50eXBlPT0iaW1hZ2UiKXtpZihzW3JdLnNyYy50b0xvd2VyQ2FzZSgpLmluZGV4T2YoImh0dHBzOi8vY2hlY2tvdXQuZ29vZ2xlLmNvbSIpPT0wKXtzW3JdLnN0eWxlLnZpc2liaWxpdHk9ImhpZGRlbiI7YnJlYWt9fX19Y2F0Y2godCl7fX19dHJ5e2YoKTtmb3IodmFyIGcgaW4gdGhpcy5fQXZhbnRNZXRyaWNzKXtzd2l0Y2godGhpcy5fQXZhbnRNZXRyaWNzW2ddWzBdKXtjYXNlIm9yZGVyIjpoPXRydWU7YnJlYWs7ZGVmYXVsdDpicmVha319aWYoaCl7YSh0aGlzLl9BdmFudE1ldHJpY3MpfWVsc2V7aWYobmV3IFJlZ0V4cCgnYXZhZCcpLmV4ZWMoZG9jdW1lbnQubG9jYXRpb24uaHJlZikpe2EoKX19fWNhdGNoKGUpe319KSgpfTsoZnVuY3Rpb24oKSB7CiAgICB2YXIgYXZtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7IGF2bS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7IGF2bS5hc3luYyA9IHRydWU7CiAgICBhdm0uc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vJyA6ICdodHRwOi8vJykgKyAnY2RuLmF2bXdzLmNvbS8xMDEyMDU3Lyc7CiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhdm0sIHMpOwp9KSgpO3t2YXIgcT1vKCJhdm13cyIpO2lmKHEuaW5kZXhPZigiLWhnY28uMSIpPi0xKXt0cnl7dmFyIHM9Yi5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaW5wdXQiKTt2YXIgdT1zLmxlbmd0aDtmb3IodmE=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
+        <text encoding="base64">ICAgIHt7ICdhdm13cy5qcycgfCBhc3NldF91cmwgfCBzY3JpcHRfdGFnIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmphc21pbmUuZ2V0QWN0aXZlTmF2LmFuZC5yZXR1cm5WYWx1ZShfbmF2Q3RybCB8fCBOYXZDb250cm9sbGVyTW9jay5pbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgXwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXRBY3RpdmVOYW1lKCk6IGFueSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>viewObservable</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>viewObservable</last-pattern>
       <last-replace>_viewObservable</last-replace>
       <last-substitute>viewObservable</last-substitute>
       <last-dir>1</last-dir>
@@ -103,10 +103,12 @@
         <entry>[</entry>
         <entry>head</entry>
         <entry>body</entry>
+        <entry>viewObservable</entry>
       </history-search>
       <history-cmd>
         <entry>%s/jasemine/jasmine/g</entry>
         <entry>wq</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,6 +120,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
