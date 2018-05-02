@@ -384,6 +384,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-edit-tab/sales-order-line-edit-tab.ts" timestamp="1525228203835">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="58" column="4" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/connections/pages/device-list/device-list.page.html" timestamp="1489715925763">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="21" />
@@ -2367,11 +2373,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/customer-list/customer-list.ts" timestamp="1525223502483">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="52" column="26" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/customer-list/customer-list.ts" timestamp="1525228064660">
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="52" column="75" />
+        <mark key="." line="52" column="75" />
+        <mark key="^" line="52" column="75" />
       </file>
       <file name="P:/Projects/Blendtec/blendtec-shopify-theme/layout/theme.liquid" timestamp="1521130577421">
         <mark key="'" line="106" column="2" />
@@ -2994,6 +3000,12 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/item-list/item-list.ts" timestamp="1525228044971">
+        <mark key="[" line="109" column="25" />
+        <mark key="]" line="109" column="25" />
+        <mark key="." line="109" column="25" />
+        <mark key="^" line="109" column="25" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.scss" timestamp="1489779208444">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="17" column="11" />
@@ -3231,6 +3243,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-edit-tabs.ts" timestamp="1525228128894">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+      </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/auth/controllers/auth.controller.ts" timestamp="1519533963678">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="53" />
@@ -3462,6 +3480,12 @@
         <mark key="." line="47" column="63" />
         <mark key="^" line="47" column="26" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.ts" timestamp="1525228365805">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="27" />
@@ -3551,13 +3575,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1kZXRhaWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -3566,31 +3590,31 @@
         <text>delivery-sales-order-header-tab</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1kZXRhaWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1kZXRhaWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1zaWduYXR1cmUnCg==</text>
+        <text encoding="base64">CQl0aGlzLm9yZGVyID0gdGhpcy5fbmF2UGFyYW1zLmRhdGEub3JkZXI7CgkJdGhpcy5saW5lSXRlbSA9IHRoaXMuX25hdlBhcmFtcy5kYXRhLmxpbmVJdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1saW5lcycK</text>
+        <text encoding="base64">CQl0aGlzLm9yZGVyID0gdGhpcy5fbmF2UGFyYW1zLmRhdGEub3JkZXI7CgkJdGhpcy5saW5lSXRlbSA9IHRoaXMuX25hdlBhcmFtcy5kYXRhLmxpbmVJdGVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1kZXRhaWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeScsCg==</text>
+        <text encoding="base64">CQl0aGlzLm9yZGVyID0gdGhpcy50YWJEYXRhLm9yZGVyOwoJCXRoaXMubGluZUl0ZW0gPSB0aGlzLnRhYkRhdGEubGluZUl0ZW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtTYWxlc09yZGVyTGluZXNUYWJ9IGZyb20gJy4vc2FsZXMtb3JkZXItbGluZXMtdGFiL3NhbGVzLW9yZGVyLWxpbmVzLXRhYic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtTYWxlc09yZGVySGVhZGVyVGFiLCBTYWxlc09yZGVyU2lnbmF0dXJlVGFifQlmcm9tICcuLi8uLi9wYWdlcyc7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnRhYkRhdGEgPSB0aGlzLl9uYXZQYXJhbXMuZGF0YTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnLi4vLi4vLi4vLi4vY29tbW9uJzsK</text>
+        <text encoding="base64">CXNlZ21lbnQ6ICdkZWxpdmVyeS1kZXRhaWwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
