@@ -5,8 +5,8 @@
       <mapping pattern=".env-default" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="themekit_ignores" type="PLAIN_TEXT" />
+      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
