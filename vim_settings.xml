@@ -1870,7 +1870,7 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/build-tools/android-release.sh" timestamp="1526249655693">
+      <file name="P:/Projects/Freshbyte/freshmobile/build-tools/android-release.sh" timestamp="1526250362733">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="43" />
         <mark key="^" line="19" column="43" />
@@ -4014,8 +4014,8 @@
       <jump line="9" column="5" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-lines-tab/delivery-order-lines-tab.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pick-order-list</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4taG9ja2V5YXBwIiBzcGVjPSIyLjIuMSIgLz4K</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4030,34 +4030,34 @@
         <text encoding="base64">CQljb25zb2xlLmxvZygnc2FsZXMtb3JkZXItbGluZS1lZGl0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlckhlYWRlclRhYicK</text>
+        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4taG9ja2V5YXBwIiBzcGVjPSIyLjIuMSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNlbGVjdG9yOiAnTGl2ZVNhbGVzT3JkZXJTaWduYXR1cmVUYWInLAo=</text>
+        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1ob2NrZXlhcHAiOiAiMi4yLjEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlclNpZ25hdHVyZVRhYicsCg==</text>
+        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1jcm9zc3dhbGstd2VidmlldyI6ICIxLjguMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlclRvdGFsVGFiJywK</text>
+        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrVmVyc2lvbiIgdmFsdWU9IjE5KyIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlclRhYnMnCg==</text>
+        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrTXVsdGlwbGVBcGsiIHZhbHVlPSJmYWxzZSIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrTW9kZSIgdmFsdWU9ImVtYmVkZGVkIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnTGl2ZVNhbGVzT3JkZXJMaW5lRWRpdFRhYnMnKTsK</text>
+        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4tY3Jvc3N3YWxrLXdlYnZpZXciIHNwZWM9IjEuOC4wIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBpb25WaWV3RGlkRW50ZXIoKTogYW55IHsK</text>
+        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlckhlYWRlclRhYicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlckxpbmVFZGl0VGFicycK</text>
+        <text encoding="base64">CXNlbGVjdG9yOiAnTGl2ZVNhbGVzT3JkZXJTaWduYXR1cmVUYWInLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4111,8 +4111,8 @@
         <entry>%s/SalesOrderSearch/DeliveryOrderSearch/g</entry>
         <entry>%s/SalesOrder/DeliveryOrder/g</entry>
         <entry>%s/Sales/Delivery/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
