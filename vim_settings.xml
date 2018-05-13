@@ -200,6 +200,13 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" timestamp="1526252194230">
+        <mark key="'" line="144" column="12" />
+        <mark key="[" line="143" column="37" />
+        <mark key="]" line="143" column="50" />
+        <mark key="." line="143" column="50" />
+        <mark key="^" line="143" column="50" />
+      </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/pages/login/login.ts" timestamp="1489778395813">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="63" />
@@ -342,9 +349,6 @@
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="76" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/live-sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.module.ts" timestamp="1525539409898">
-        <mark key="'" line="14" column="0" />
       </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/database/database.providers.ts" timestamp="1519761509677">
         <mark key="[" line="8" column="18" />
@@ -526,9 +530,6 @@
         <mark key="]" line="43" column="73" />
         <mark key="^" line="43" column="73" />
         <mark key="." line="43" column="73" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-signature-tab/delivery-order-signature-tab.module.ts" timestamp="1526169986474">
-        <mark key="'" line="4" column="9" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/sales-order-tabs/sales-order-header-tab/sales-order-header-tab.module.ts" timestamp="1525226267512">
         <mark key="[" line="2" column="0" />
@@ -732,7 +733,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526171371555">
+      <file name="/Dummy.txt" timestamp="1526252292265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/angular-cli.json" timestamp="1491939303654">
@@ -762,9 +763,6 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="50" column="8" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/credit-item-list/credit-item-list.module.ts" timestamp="1526168943461">
-        <mark key="'" line="4" column="9" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/pages/sales-order-line-edit-tabs/sales-order-line-detail-tab/sales-order-line-detail-tab.spec.ts" timestamp="1492035063063">
         <mark key="[" line="4" column="73" />
         <mark key="]" line="5" column="0" />
@@ -788,9 +786,6 @@
         <mark key="]" line="168" column="88" />
         <mark key="." line="168" column="88" />
         <mark key="^" line="168" column="88" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/live-sales-order-tabs.module.ts" timestamp="1525539781964">
-        <mark key="'" line="22" column="0" />
       </file>
       <file name="P:/Projects/Uinta/axpense-api/src/app/modules/expense/schema/expense-category.schema.ts" timestamp="1519539268133">
         <mark key="[" line="11" column="12" />
@@ -824,9 +819,6 @@
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/lot-list/lot-list.ts" timestamp="1525538584874">
-        <mark key="'" line="11" column="4" />
       </file>
       <file name="E:/Projects/Freshbyte/barcode-parser/src/test/readers/gtin13.reader.spec.ts" timestamp="1488238590768">
         <mark key="'" line="18" column="16" />
@@ -903,9 +895,6 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/item-list/live-item-list.spec.ts" timestamp="1525538491519">
-        <mark key="'" line="92" column="8" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/index.ts" timestamp="1491322852056">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -943,11 +932,11 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-lines-tab/sales-order-lines-tab.ts" timestamp="1526165685863">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-lines-tab/sales-order-lines-tab.ts" timestamp="1526252265633">
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+        <mark key="^" line="46" column="43" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/live-item-list/live-item-list.ts" timestamp="1526170951152">
         <mark key="[" line="17" column="0" />
@@ -1307,9 +1296,6 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="67" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-tabs.module.ts" timestamp="1526170174015">
-        <mark key="'" line="21" column="1" />
-      </file>
       <file name="P:/Projects/Blendtec/transit-api/src/app/modules/product-registration/product-registration.module.ts" timestamp="1519424522364">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="3" column="0" />
@@ -1557,9 +1543,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-header-tab/delivery-order-header-tab.module.ts" timestamp="1526169878968">
-        <mark key="'" line="4" column="9" />
-      </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/inventory/models/index.ts" timestamp="1520048444036">
         <mark key="[" line="3" column="69" />
         <mark key="]" line="3" column="70" />
@@ -1793,11 +1776,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-line-edit/sales-order-line-edit.ts" timestamp="1526165696160">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-line-edit/sales-order-line-edit.ts" timestamp="1526251869006">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="60" />
+        <mark key="." line="37" column="60" />
+        <mark key="^" line="37" column="60" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/receiving/models/purchase-order.model.ts" timestamp="1492118888046">
         <mark key="'" line="0" column="0" />
@@ -2011,9 +1994,6 @@
         <mark key="^" line="66" column="21" />
         <mark key="." line="66" column="21" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/live-sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.ts" timestamp="1525539339204">
-        <mark key="'" line="13" column="8" />
-      </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/index.ts" timestamp="1492132958413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -2046,12 +2026,6 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-line-edit-tabs/live-sales-order-line-edit-tabs.module.ts" timestamp="1525539120725">
-        <mark key="'" line="18" column="0" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pages/pick-order-list/pick-order-list.module.ts" timestamp="1526167876384">
-        <mark key="'" line="8" column="12" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/app/app.component.ts" timestamp="1489970965020">
         <mark key="'" line="102" column="33" />
@@ -2276,6 +2250,12 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.module.ts" timestamp="1526252360295">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+      </file>
       <file name="P:/Projects/Blendtec/commercial-dealers/src/app/rep-card/rep-card.component.ts" timestamp="1517958393542">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="29" />
@@ -2288,12 +2268,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="92" column="87" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" timestamp="1526165714311">
-        <mark key="'" line="2" column="2" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" timestamp="1526251967740">
+        <mark key="'" line="1" column="35" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/src/providers/table-sync.service.ts" timestamp="1492202468954">
         <mark key="[" line="10" column="4" />
@@ -2313,9 +2292,6 @@
         <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-search/delivery-order-search.module.ts" timestamp="1526169525269">
-        <mark key="'" line="14" column="13" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/live-sales-order-tabs/live-sales-order-header-tab/live-sales-order-header-tab.ts" timestamp="1526171389618">
         <mark key="[" line="8" column="0" />
@@ -2592,12 +2568,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1520744980476">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="39" />
-        <mark key="^" line="47" column="51" />
-        <mark key="." line="47" column="39" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/sales.component.ts" timestamp="1526252211551">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="39" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pages/pick-order-line-list/pick-order-line-list.ts" timestamp="1526168067534">
         <mark key="[" line="14" column="17" />
@@ -2717,17 +2693,11 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/pick/pages/sales-order-list/sales-order-list.module.ts" timestamp="1526166529632">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="E:/Projects/Personal/blendtec/src/common/pages/contact/contact.ts" timestamp="1490892990574">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/credits/pages/customer-list/customer-list.module.ts" timestamp="1526168270921">
-        <mark key="'" line="4" column="9" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/auth-events.ts" timestamp="1489769889857">
         <mark key="[" line="2" column="41" />
@@ -3040,12 +3010,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1526165722298">
-        <mark key="'" line="69" column="34" />
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-tabs.ts" timestamp="1526251983056">
+        <mark key="'" line="64" column="34" />
+        <mark key="[" line="1" column="69" />
+        <mark key="]" line="1" column="69" />
+        <mark key="." line="1" column="69" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/test/mocks/index.ts" timestamp="1491323624077">
         <mark key="[" line="1" column="56" />
@@ -3148,9 +3117,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/item-list/live-item-list.module.ts" timestamp="1525538508814">
-        <mark key="'" line="2" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/providers/sync.service.ts" timestamp="1492131713512">
         <mark key="[" line="16" column="41" />
@@ -3268,9 +3234,6 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/live-sales-order-line-edit-tabs/sales-order-line-allocations-tab/sales-order-line-allocations-tab.spec.ts" timestamp="1525539373537">
-        <mark key="'" line="11" column="0" />
-      </file>
       <file name="P:/Projects/Blendtec/shopify-go-theme/sections/product-template.liquid" timestamp="1519854799398">
         <mark key="'" line="146" column="36" />
         <mark key="[" line="188" column="0" />
@@ -3310,9 +3273,6 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
         <mark key="^" line="50" column="4" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/lot-list/lot-list.module.ts" timestamp="1525538594421">
-        <mark key="'" line="16" column="0" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/common/models/fb-barcode-value.ts" timestamp="1488497418140">
         <mark key="'" line="32" column="8" />
@@ -3476,12 +3436,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-list/sales-order-list.ts" timestamp="1526165730418">
-        <mark key="'" line="47" column="13" />
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-list/sales-order-list.ts" timestamp="1526252289837">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="34" />
+        <mark key="." line="65" column="34" />
+        <mark key="^" line="65" column="34" />
       </file>
       <file name="E:/Projects/Freshbyte/fb-mobile-core/config/karma.conf.js" timestamp="1491871420489">
         <mark key="[" line="30" column="27" />
@@ -3539,12 +3499,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1526165704497">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-header-tab/sales-order-header-tab.ts" timestamp="1526251931236">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales-live/components/main-menu.directive.ts" timestamp="1492201391536">
         <mark key="[" line="86" column="41" />
@@ -3635,9 +3594,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="28" column="23" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-lines-tab/delivery-order-lines-tab.module.ts" timestamp="1526170195351">
-        <mark key="'" line="9" column="5" />
       </file>
       <file name="E:/Projects/Personal/ionic-mocks/tsconfig.json" timestamp="1491328737661">
         <mark key="[" line="2" column="17" />
@@ -3845,12 +3801,12 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" timestamp="1526165753283">
-        <mark key="'" line="46" column="26" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="29" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" timestamp="1526252316263">
+        <mark key="'" line="44" column="60" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="E:/Projects/Personal/blendtec/src/auth/models/account.ts" timestamp="1489776990308">
         <mark key="[" line="3" column="21" />
@@ -3898,11 +3854,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" timestamp="1526165738044">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/item-list/item-list.ts" timestamp="1526251829336">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="3" column="50" />
       </file>
       <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/providers/db.config.ts" timestamp="1520745159779">
         <mark key="[" line="5" column="7" />
@@ -3912,9 +3868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-list/sales-order-list.ts" />
-      <jump line="41" column="50" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" />
-      <jump line="72" column="21" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales-live/pages/sales-order-tabs/sales-order-tabs.ts" />
       <jump line="48" column="24" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" />
       <jump line="49" column="41" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" />
       <jump line="71" column="34" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-tabs.ts" />
@@ -4012,66 +3965,68 @@
       <jump line="4" column="9" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-signature-tab/delivery-order-signature-tab.module.ts" />
       <jump line="21" column="1" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-tabs.module.ts" />
       <jump line="9" column="5" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/delivery/pages/delivery-order-tabs/delivery-order-lines-tab/delivery-order-lines-tab.module.ts" />
+      <jump line="1" column="35" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-tabs/sales-order-total-tab/sales-order-total-tab.ts" />
+      <jump line="144" column="12" filename="P:/Projects/Freshbyte/freshmobile/src/app/app.component.ts" />
+      <jump line="44" column="60" filename="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/customer-list/customer-list.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4taG9ja2V5YXBwIiBzcGVjPSIyLjIuMSIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>'sales-order-tabs'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>pick-order-list</text>
+        <text>'sales-order-tabs'</text>
       </register>
       <register name="/" type="4">
-        <text>Sales</text>
+        <text>I</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQljb25zb2xlLmxvZygnc2FsZXMtb3JkZXItbGluZS1lZGl0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4taG9ja2V5YXBwIiBzcGVjPSIyLjIuMSIgLz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgU2FsZXNPcmRlckxpc3RQYWdlTW9kdWxlIH0gZnJvbSAnLi9wYWdlcy9zYWxlcy1vcmRlci1saXN0L3NhbGVzLW9yZGVyLWxpc3QubW9kdWxlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1ob2NrZXlhcHAiOiAiMi4yLjEiLAo=</text>
+        <text encoding="base64">CQlTYWxlc09yZGVyTGlzdCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLXBsdWdpbi1jcm9zc3dhbGstd2VidmlldyI6ICIxLjguMCIsCg==</text>
+        <text encoding="base64">CQlDdXN0b21lckxpc3RQYWdlTW9kdWxlLAoJCUl0ZW1MaXN0UGFnZU1vZHVsZSwKCQlTYWxlc09yZGVyVGFic1BhZ2VNb2R1bGUsCgkJU2FsZXNPcmRlckxpbmVFZGl0UGFnZU1vZHVsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrVmVyc2lvbiIgdmFsdWU9IjE5KyIgLz4K</text>
+        <text encoding="base64">CQlTYWxlc09yZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrTXVsdGlwbGVBcGsiIHZhbHVlPSJmYWxzZSIgLz4K</text>
+        <text encoding="base64">CQlTYWxlc09yZGVyTGlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcmVmZXJlbmNlIG5hbWU9Inh3YWxrTW9kZSIgdmFsdWU9ImVtYmVkZGVkIiAvPgo=</text>
+        <text encoding="base64">CQlTYWxlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwbHVnaW4gbmFtZT0iY29yZG92YS1wbHVnaW4tY3Jvc3N3YWxrLXdlYnZpZXciIHNwZWM9IjEuOC4wIiAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2FsZXNPcmRlckxpbmVFZGl0UGFnZU1vZHVsZSB9IGZyb20gJy4vcGFnZXMvc2FsZXMtb3JkZXItbGluZS1lZGl0L3NhbGVzLW9yZGVyLWxpbmUtZWRpdC5tb2R1bGUnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW5hbWU6ICdMaXZlU2FsZXNPcmRlckhlYWRlclRhYicK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ3VzdG9tZXJMaXN0UGFnZU1vZHVsZSB9IGZyb20gJy4vcGFnZXMvY3VzdG9tZXItbGlzdC9jdXN0b21lci1saXN0Lm1vZHVsZSc7CmltcG9ydCB7IEl0ZW1MaXN0UGFnZU1vZHVsZSB9IGZyb20gJy4vcGFnZXMvaXRlbS1saXN0L2l0ZW0tbGlzdC5tb2R1bGUnOwppbXBvcnQgeyBTYWxlc09yZGVyVGFic1BhZ2VNb2R1bGUgfSBmcm9tICcuL3BhZ2VzL3NhbGVzLW9yZGVyLXRhYnMvc2FsZXMtb3JkZXItdGFicy5tb2R1bGUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXNlbGVjdG9yOiAnTGl2ZVNhbGVzT3JkZXJTaWduYXR1cmVUYWInLAo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Sales</last-search>
+      <last-search>I</last-search>
       <last-offset />
-      <last-pattern>Sales</last-pattern>
+      <last-pattern>I</last-pattern>
       <last-replace>Delivery</last-replace>
       <last-substitute>Sales</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sales-order</entry>
         <entry>Sa</entry>
         <entry>sales</entry>
         <entry>SalesOrderLine</entry>
@@ -4091,6 +4046,7 @@
         <entry>SalesOrderSearch</entry>
         <entry>SalesOrder</entry>
         <entry>Sales</entry>
+        <entry>I</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\ \ \ \ /\t/g</entry>
