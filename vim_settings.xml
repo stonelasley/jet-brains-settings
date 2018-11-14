@@ -1776,7 +1776,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-line-edit/sales-order-line-edit.ts" timestamp="1526251869006">
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/sales/pages/sales-order-line-edit/sales-order-line-edit.ts" timestamp="1542207375181">
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="60" />
         <mark key="." line="37" column="60" />
@@ -2263,6 +2263,7 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="P:/Projects/Freshbyte/freshmobile/src/app/modules/fb-scanning/providers/scan-validator.service.ts" timestamp="1542207226254" />
       <file name="E:/Projects/Freshbyte/freshmobile/src/sales/pages/item-list/item-list.spec.ts" timestamp="1491939879688">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
